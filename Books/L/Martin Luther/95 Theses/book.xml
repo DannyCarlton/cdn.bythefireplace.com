@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="6" title="95 Theses" author="Luther, Martin" location="L/Martin Luther/95 Theses">
+			<chapter num="1" title="English version" location="L/Martin Luther/95 Theses/1.xml" />
+			<chapter num="2" title="Latin version" location="L/Martin Luther/95 Theses/2.xml" />
+</book>

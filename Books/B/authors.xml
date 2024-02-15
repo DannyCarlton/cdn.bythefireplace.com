@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="1" name="Burroughs, Edgar Rice" location="B/Edgar Rice Burroughs" />
+	<author aid="113" name="Balzac, Honore de" location="B/Honore de Balzac" />
+	<author aid="12" name="Bronte, Charlotte" location="B/Charlotte Bronte" />
+	<author aid="13" name="Bronte, Emily" location="B/Emily Bronte" />
+	<author aid="131" name="Bierce, Ambrose" location="B/Ambrose Bierce" />
+	<author aid="14" name="Burnett, Frances Hodgson" location="B/Frances Hodgson Burnett" />
+	<author aid="158" name="Buchan, John" location="B/John Buchan" />
+	<author aid="162" name="Browning, Elizabeth Barrett" location="B/Elizabeth Barrett Browning" />
+	<author aid="167" name="Bangs, John Kendrick" location="B/John Kendrick Bangs" />
+	<author aid="185" name="Black, William" location="B/William Black" />
+	<author aid="217" name="Bacheller, Irving" location="B/Irving Bacheller" />
+	<author aid="221" name="Bailey, Arthur Scott" location="B/Arthur Scott Bailey" />
+	<author aid="45" name="Burgess, Thornton W." location="B/Thornton W. Burgess" />
+	<author aid="6" name="Baum, L. Frank" location="B/L. Frank Baum" />
+	<author aid="63" name="Blake, William" location="B/William Blake" />
+	<author aid="66" name="Butler, Samuel" location="B/Samuel Butler" />
+	<author aid="71" name="Bronte, Anne" location="B/Anne Bronte" />
+	<author aid="72" name="Barbour, Maynard" location="B/Maynard Barbour" />
+	<author aid="74" name="Blackmore, R. D." location="B/R. D. Blackmore" />
+	<author aid="96" name="Bower, B.M." location="B/B.M. Bower" />
+	<author aid="5000" name="Bates, William Horatio" location="B/William Horatio Bates" />
+	<author aid="549" name="Boldrewood, Rolf" location="B/Rolf Boldrewood" />
+	<author aid="743" name="Brand, Max" location="B/Max Brand" />
+	<author aid="260" name="Barr, Robert" location="B/Robert Barr" />
+	<author aid="261" name="Beach, Rex Ellingwood" location="B/Rex Ellingwood Beach" />
+	<author aid="263" name="Barr, Amelia E." location="B/Amelia E. Barr" />
+	<author aid="267" name="Barbour, Ralph Henry" location="B/Ralph Henry Barbour" />
+	<author aid="269" name="Barrie, James M." location="B/James M. Barrie" />
+	<author aid="272" name="Bulfinch, Thomas" location="B/Thomas Bulfinch" />
+	<author aid="5012" name="Bunyan, John" location="B/John Bunyan" />
+	<author aid="293" name="Bjoernson, Bjoernstjerne" location="B/Bjoernstjerne Bjoernson" />
+	<author aid="323" name="Blackwood, Algernon" location="B/Algernon Blackwood" />
+	<author aid="5015" name="Bulwer-Lytton, Edward" location="B/Edward Bulwer-Lytton" />
+</authors>

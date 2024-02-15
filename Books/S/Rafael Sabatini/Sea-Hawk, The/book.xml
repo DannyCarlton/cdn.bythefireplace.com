@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40186" title="Sea-Hawk, The" author="Sabatini, Rafael" location="S/Rafael Sabatini/Sea-Hawk, The">
+			<chapter num="1" title="Note" location="S/Rafael Sabatini/Sea-Hawk, The/1.xml" />
+
+	<section type="2" name="Part I. Sir Oliver Tressilian">
+			<chapter num="2" title="Chapter I. The Huckster" location="S/Rafael Sabatini/Sea-Hawk, The/2.xml" />
+			<chapter num="3" title="Chapter II. Rosamund" location="S/Rafael Sabatini/Sea-Hawk, The/3.xml" />
+			<chapter num="4" title="Chapter III. The Forge" location="S/Rafael Sabatini/Sea-Hawk, The/4.xml" />
+			<chapter num="5" title="Chapter IV. The Intervener" location="S/Rafael Sabatini/Sea-Hawk, The/5.xml" />
+			<chapter num="6" title="Chapter V. The Buckler" location="S/Rafael Sabatini/Sea-Hawk, The/6.xml" />
+			<chapter num="7" title="Chapter VI. Jasper Leigh" location="S/Rafael Sabatini/Sea-Hawk, The/7.xml" />
+			<chapter num="8" title="Chapter VII. Trepanned" location="S/Rafael Sabatini/Sea-Hawk, The/8.xml" />
+			<chapter num="9" title="Chapter VIII. The Spaniard" location="S/Rafael Sabatini/Sea-Hawk, The/9.xml" />
+
+	</section>
+	<section type="2" name="Part II. Sakr-el-bahr">
+			<chapter num="10" title="Chapter I. The Captive" location="S/Rafael Sabatini/Sea-Hawk, The/10.xml" />
+			<chapter num="11" title="Chapter II. The Renegade" location="S/Rafael Sabatini/Sea-Hawk, The/11.xml" />
+			<chapter num="12" title="Chapter III. Homeward Bound" location="S/Rafael Sabatini/Sea-Hawk, The/12.xml" />
+			<chapter num="13" title="Chapter IV. The Raid" location="S/Rafael Sabatini/Sea-Hawk, The/13.xml" />
+			<chapter num="14" title="Chapter V. The Lion of the Faith" location="S/Rafael Sabatini/Sea-Hawk, The/14.xml" />
+			<chapter num="15" title="Chapter VI. The Convert" location="S/Rafael Sabatini/Sea-Hawk, The/15.xml" />
+			<chapter num="16" title="Chapter VII. Marzak-ben-asad" location="S/Rafael Sabatini/Sea-Hawk, The/16.xml" />
+			<chapter num="17" title="Chapter VIII. Mother and Son" location="S/Rafael Sabatini/Sea-Hawk, The/17.xml" />
+			<chapter num="18" title="Chapter IX. Competitors" location="S/Rafael Sabatini/Sea-Hawk, The/18.xml" />
+			<chapter num="19" title="Chapter X. The Slave-market" location="S/Rafael Sabatini/Sea-Hawk, The/19.xml" />
+			<chapter num="20" title="Chapter XI. The Truth" location="S/Rafael Sabatini/Sea-Hawk, The/20.xml" />
+			<chapter num="21" title="Chapter XII. The Subtlety of Fenzileh" location="S/Rafael Sabatini/Sea-Hawk, The/21.xml" />
+			<chapter num="22" title="Chapter XIII. In the Sight of Allah" location="S/Rafael Sabatini/Sea-Hawk, The/22.xml" />
+			<chapter num="23" title="Chapter XIV. The Sign" location="S/Rafael Sabatini/Sea-Hawk, The/23.xml" />
+			<chapter num="24" title="Chapter XV. The Voyage" location="S/Rafael Sabatini/Sea-Hawk, The/24.xml" />
+			<chapter num="25" title="Chapter XVI. The Pannier" location="S/Rafael Sabatini/Sea-Hawk, The/25.xml" />
+			<chapter num="26" title="Chapter XVII. The Dupe" location="S/Rafael Sabatini/Sea-Hawk, The/26.xml" />
+			<chapter num="27" title="Chapter XVIII. Sheik Mat" location="S/Rafael Sabatini/Sea-Hawk, The/27.xml" />
+			<chapter num="28" title="Chapter XIX. The Mutineers" location="S/Rafael Sabatini/Sea-Hawk, The/28.xml" />
+			<chapter num="29" title="Chapter XX. The Messenger" location="S/Rafael Sabatini/Sea-Hawk, The/29.xml" />
+			<chapter num="30" title="Chapter XXI. Moriturus" location="S/Rafael Sabatini/Sea-Hawk, The/30.xml" />
+			<chapter num="31" title="Chapter XXII. The Surrender" location="S/Rafael Sabatini/Sea-Hawk, The/31.xml" />
+			<chapter num="32" title="Chapter XXIII. The Heathen Creed" location="S/Rafael Sabatini/Sea-Hawk, The/32.xml" />
+			<chapter num="33" title="Chapter XXIV. The Judges" location="S/Rafael Sabatini/Sea-Hawk, The/33.xml" />
+			<chapter num="34" title="Chapter XXV. The Advocate" location="S/Rafael Sabatini/Sea-Hawk, The/34.xml" />
+			<chapter num="35" title="Chapter XXVI. The Judgment" location="S/Rafael Sabatini/Sea-Hawk, The/35.xml" />
+	</section>
+</book>

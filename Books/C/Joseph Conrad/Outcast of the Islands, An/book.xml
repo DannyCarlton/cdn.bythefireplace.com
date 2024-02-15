@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1584" title="Outcast of the Islands, An" author="Conrad, Joseph" location="C/Joseph Conrad/Outcast of the Islands, An">
+			<chapter num="1" title="Author's Note" location="C/Joseph Conrad/Outcast of the Islands, An/1.xml" />
+		<section type="1" name="Part I">
+			<chapter num="2" title="Chapter One" location="C/Joseph Conrad/Outcast of the Islands, An/2.xml" />
+			<chapter num="3" title="Chapter Two" location="C/Joseph Conrad/Outcast of the Islands, An/3.xml" />
+			<chapter num="4" title="Chapter Three" location="C/Joseph Conrad/Outcast of the Islands, An/4.xml" />
+			<chapter num="5" title="Chapter Four" location="C/Joseph Conrad/Outcast of the Islands, An/5.xml" />
+			<chapter num="6" title="Chapter Five" location="C/Joseph Conrad/Outcast of the Islands, An/6.xml" />
+			<chapter num="7" title="Chapter Six" location="C/Joseph Conrad/Outcast of the Islands, An/7.xml" />
+			<chapter num="8" title="Chapter Seven" location="C/Joseph Conrad/Outcast of the Islands, An/8.xml" />
+		</section>
+		<section type="1" name="Part II">
+			<chapter num="9" title="Chapter One" location="C/Joseph Conrad/Outcast of the Islands, An/9.xml" />
+			<chapter num="10" title="Chapter Two" location="C/Joseph Conrad/Outcast of the Islands, An/10.xml" />
+			<chapter num="11" title="Chapter Three" location="C/Joseph Conrad/Outcast of the Islands, An/11.xml" />
+			<chapter num="12" title="Chapter Four" location="C/Joseph Conrad/Outcast of the Islands, An/12.xml" />
+			<chapter num="13" title="Chapter Five" location="C/Joseph Conrad/Outcast of the Islands, An/13.xml" />
+			<chapter num="14" title="Chapter Six" location="C/Joseph Conrad/Outcast of the Islands, An/14.xml" />
+		</section>
+		<section type="1" name="Part III">
+			<chapter num="15" title="Chapter One" location="C/Joseph Conrad/Outcast of the Islands, An/15.xml" />
+			<chapter num="16" title="Chapter Two" location="C/Joseph Conrad/Outcast of the Islands, An/16.xml" />
+			<chapter num="17" title="Chapter Three" location="C/Joseph Conrad/Outcast of the Islands, An/17.xml" />
+			<chapter num="18" title="Chapter Four" location="C/Joseph Conrad/Outcast of the Islands, An/18.xml" />
+		</section>
+		<section type="1" name="Part IV">
+			<chapter num="19" title="Chapter One" location="C/Joseph Conrad/Outcast of the Islands, An/19.xml" />
+			<chapter num="20" title="Chapter Two" location="C/Joseph Conrad/Outcast of the Islands, An/20.xml" />
+			<chapter num="21" title="Chapter Three" location="C/Joseph Conrad/Outcast of the Islands, An/21.xml" />
+			<chapter num="22" title="Chapter Four" location="C/Joseph Conrad/Outcast of the Islands, An/22.xml" />
+			<chapter num="23" title="Chapter Five" location="C/Joseph Conrad/Outcast of the Islands, An/23.xml" />
+		</section>
+		<section type="1" name="Part V">
+			<chapter num="24" title="Chapter One" location="C/Joseph Conrad/Outcast of the Islands, An/24.xml" />
+			<chapter num="25" title="Chapter Two" location="C/Joseph Conrad/Outcast of the Islands, An/25.xml" />
+			<chapter num="26" title="Chapter Three" location="C/Joseph Conrad/Outcast of the Islands, An/26.xml" />
+			<chapter num="27" title="Chapter Four" location="C/Joseph Conrad/Outcast of the Islands, An/27.xml" />
+		</section>
+</book>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="26" title="Mansfield Park" author="Austen, Jane" location="A/Jane Austen/Mansfield Park">
+
+	<section type="2" name="Volume I">
+			<chapter num="1" title="Chapter I" location="A/Jane Austen/Mansfield Park/1.xml" />
+			<chapter num="2" title="Chapter II" location="A/Jane Austen/Mansfield Park/2.xml" />
+			<chapter num="3" title="Chapter III" location="A/Jane Austen/Mansfield Park/3.xml" />
+			<chapter num="4" title="Chapter IV" location="A/Jane Austen/Mansfield Park/4.xml" />
+			<chapter num="5" title="Chapter V" location="A/Jane Austen/Mansfield Park/5.xml" />
+			<chapter num="6" title="Chapter VI" location="A/Jane Austen/Mansfield Park/6.xml" />
+			<chapter num="7" title="Chapter VII" location="A/Jane Austen/Mansfield Park/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="A/Jane Austen/Mansfield Park/8.xml" />
+			<chapter num="9" title="Chapter IX" location="A/Jane Austen/Mansfield Park/9.xml" />
+			<chapter num="10" title="Chapter X" location="A/Jane Austen/Mansfield Park/10.xml" />
+			<chapter num="11" title="Chapter XI" location="A/Jane Austen/Mansfield Park/11.xml" />
+			<chapter num="12" title="Chapter XII" location="A/Jane Austen/Mansfield Park/12.xml" />
+			<chapter num="13" title="Chapter XIII" location="A/Jane Austen/Mansfield Park/13.xml" />
+			<chapter num="14" title="Chapter XIV" location="A/Jane Austen/Mansfield Park/14.xml" />
+			<chapter num="15" title="Chapter XV" location="A/Jane Austen/Mansfield Park/15.xml" />
+			<chapter num="16" title="Chapter XVI" location="A/Jane Austen/Mansfield Park/16.xml" />
+			<chapter num="17" title="Chapter XVII" location="A/Jane Austen/Mansfield Park/17.xml" />
+			<chapter num="18" title="Chapter XVIII" location="A/Jane Austen/Mansfield Park/18.xml" />
+
+	</section>
+	<section type="2" name="Volume II">
+			<chapter num="19" title="Chapter I" location="A/Jane Austen/Mansfield Park/19.xml" />
+			<chapter num="20" title="Chapter II" location="A/Jane Austen/Mansfield Park/20.xml" />
+			<chapter num="21" title="Chapter III" location="A/Jane Austen/Mansfield Park/21.xml" />
+			<chapter num="22" title="Chapter IV" location="A/Jane Austen/Mansfield Park/22.xml" />
+			<chapter num="23" title="Chapter V" location="A/Jane Austen/Mansfield Park/23.xml" />
+			<chapter num="24" title="Chapter VI" location="A/Jane Austen/Mansfield Park/24.xml" />
+			<chapter num="25" title="Chapter VII" location="A/Jane Austen/Mansfield Park/25.xml" />
+			<chapter num="26" title="Chapter VIII" location="A/Jane Austen/Mansfield Park/26.xml" />
+			<chapter num="27" title="Chapter IX" location="A/Jane Austen/Mansfield Park/27.xml" />
+			<chapter num="28" title="Chapter X" location="A/Jane Austen/Mansfield Park/28.xml" />
+			<chapter num="29" title="Chapter XI" location="A/Jane Austen/Mansfield Park/29.xml" />
+			<chapter num="30" title="Chapter XII" location="A/Jane Austen/Mansfield Park/30.xml" />
+			<chapter num="31" title="Chapter XIII" location="A/Jane Austen/Mansfield Park/31.xml" />
+
+	</section>
+	<section type="2" name="Volume III">
+			<chapter num="32" title="Chapter I" location="A/Jane Austen/Mansfield Park/32.xml" />
+			<chapter num="33" title="Chapter II" location="A/Jane Austen/Mansfield Park/33.xml" />
+			<chapter num="34" title="Chapter III" location="A/Jane Austen/Mansfield Park/34.xml" />
+			<chapter num="35" title="Chapter IV" location="A/Jane Austen/Mansfield Park/35.xml" />
+			<chapter num="36" title="Chapter V" location="A/Jane Austen/Mansfield Park/36.xml" />
+			<chapter num="37" title="Chapter VI" location="A/Jane Austen/Mansfield Park/37.xml" />
+			<chapter num="38" title="Chapter VII" location="A/Jane Austen/Mansfield Park/38.xml" />
+			<chapter num="39" title="Chapter VIII" location="A/Jane Austen/Mansfield Park/39.xml" />
+			<chapter num="40" title="Chapter IX" location="A/Jane Austen/Mansfield Park/40.xml" />
+			<chapter num="41" title="Chapter X" location="A/Jane Austen/Mansfield Park/41.xml" />
+			<chapter num="42" title="Chapter XI" location="A/Jane Austen/Mansfield Park/42.xml" />
+			<chapter num="43" title="Chapter XII" location="A/Jane Austen/Mansfield Park/43.xml" />
+			<chapter num="44" title="Chapter XIII" location="A/Jane Austen/Mansfield Park/44.xml" />
+			<chapter num="45" title="Chapter XIV" location="A/Jane Austen/Mansfield Park/45.xml" />
+			<chapter num="46" title="Chapter XV" location="A/Jane Austen/Mansfield Park/46.xml" />
+			<chapter num="47" title="Chapter XVI" location="A/Jane Austen/Mansfield Park/47.xml" />
+			<chapter num="48" title="Chapter XVII" location="A/Jane Austen/Mansfield Park/48.xml" />
+	</section>
+</book>

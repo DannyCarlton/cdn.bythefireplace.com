@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="903" title="Sons and Lovers" author="Lawrence, D. H." location="L/D. H. Lawrence/Sons and Lovers">
+		<section type="1" name="Part One">
+			<chapter num="1" title="Chapter I. The Early Married Life of the Morels" location="L/D. H. Lawrence/Sons and Lovers/1.xml" />
+			<chapter num="2" title="Chapter II. The Birth of Paul, and Another Battle" location="L/D. H. Lawrence/Sons and Lovers/2.xml" />
+			<chapter num="3" title="Chapter III. The Casting Off of Morel--the Taking on of William" location="L/D. H. Lawrence/Sons and Lovers/3.xml" />
+			<chapter num="4" title="Chapter IV. The Young Life of Paul" location="L/D. H. Lawrence/Sons and Lovers/4.xml" />
+			<chapter num="5" title="Chapter V. Paul Launches into Life" location="L/D. H. Lawrence/Sons and Lovers/5.xml" />
+			<chapter num="6" title="Chapter VI. Death in the Family" location="L/D. H. Lawrence/Sons and Lovers/6.xml" />
+		</section>
+		<section type="1" name="Part Two">
+			<chapter num="7" title="Chapter VII. Lad-and-Girl Love" location="L/D. H. Lawrence/Sons and Lovers/7.xml" />
+			<chapter num="8" title="Chapter VIII. Strife in Love" location="L/D. H. Lawrence/Sons and Lovers/8.xml" />
+			<chapter num="9" title="Chapter IX. Defeat of Miriam" location="L/D. H. Lawrence/Sons and Lovers/9.xml" />
+			<chapter num="10" title="Chapter X. Clara" location="L/D. H. Lawrence/Sons and Lovers/10.xml" />
+			<chapter num="11" title="Chapter XI. The Test on Miriam" location="L/D. H. Lawrence/Sons and Lovers/11.xml" />
+			<chapter num="12" title="Chapter XII. Passion" location="L/D. H. Lawrence/Sons and Lovers/12.xml" />
+			<chapter num="13" title="Chapter XIII. Baxter Dawes" location="L/D. H. Lawrence/Sons and Lovers/13.xml" />
+			<chapter num="14" title="Chapter XIV. The Release" location="L/D. H. Lawrence/Sons and Lovers/14.xml" />
+			<chapter num="15" title="Chapter XV. Derelict" location="L/D. H. Lawrence/Sons and Lovers/15.xml" />
+		</section>
+</book>

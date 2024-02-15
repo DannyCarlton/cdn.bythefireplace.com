@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40268" title="Quentin Durward" author="Scott, Walter" location="S/Walter Scott/Quentin Durward">
+
+	<section type="2" name="Vol. I.">
+			<chapter num="1" title="Chapter I. The Contrast. " location="S/Walter Scott/Quentin Durward/1.xml" />
+			<chapter num="2" title="Chapter II. The Wanderer. " location="S/Walter Scott/Quentin Durward/2.xml" />
+			<chapter num="3" title="Chapter III. The Castle. " location="S/Walter Scott/Quentin Durward/3.xml" />
+			<chapter num="4" title="Chapter IV. The Dejeuner. " location="S/Walter Scott/Quentin Durward/4.xml" />
+			<chapter num="5" title="Chapter V. The Man-at-arms. " location="S/Walter Scott/Quentin Durward/5.xml" />
+			<chapter num="6" title="Chapter VI. The Bohemians. " location="S/Walter Scott/Quentin Durward/6.xml" />
+			<chapter num="7" title="Chapter VII. The Enrolment. " location="S/Walter Scott/Quentin Durward/7.xml" />
+			<chapter num="8" title="Chapter VIII. The Envoy. " location="S/Walter Scott/Quentin Durward/8.xml" />
+			<chapter num="9" title="Chapter IX. The Boar-hunt. " location="S/Walter Scott/Quentin Durward/9.xml" />
+			<chapter num="10" title="Chapter X. The Sentinel. " location="S/Walter Scott/Quentin Durward/10.xml" />
+			<chapter num="11" title="Chapter XI. The Hall of Roland. " location="S/Walter Scott/Quentin Durward/11.xml" />
+			<chapter num="12" title="Chapter XII. The Politician. " location="S/Walter Scott/Quentin Durward/12.xml" />
+			<chapter num="13" title="Chapter XIII. The Journey. " location="S/Walter Scott/Quentin Durward/13.xml" />
+			<chapter num="14" title="Chapter XIV. The Journey. " location="S/Walter Scott/Quentin Durward/14.xml" />
+			<chapter num="15" title="Chapter XV. The Guide. " location="S/Walter Scott/Quentin Durward/15.xml" />
+			<chapter num="16" title="Chapter XVI. The Vagrant. " location="S/Walter Scott/Quentin Durward/16.xml" />
+			<chapter num="17" title="Chapter XVII. The Espied Spy. " location="S/Walter Scott/Quentin Durward/17.xml" />
+
+	</section>
+	<section type="2" name="Vol. II. ">
+			<chapter num="18" title="Chapter I. Palmistry. " location="S/Walter Scott/Quentin Durward/18.xml" />
+			<chapter num="19" title="Chapter II. The City. " location="S/Walter Scott/Quentin Durward/19.xml" />
+			<chapter num="20" title="Chapter III. The Billet. " location="S/Walter Scott/Quentin Durward/20.xml" />
+			<chapter num="21" title="Chapter IV. The Sack. " location="S/Walter Scott/Quentin Durward/21.xml" />
+			<chapter num="22" title="Chapter V. The Revellers. " location="S/Walter Scott/Quentin Durward/22.xml" />
+			<chapter num="23" title="Chapter VI. The Flight. " location="S/Walter Scott/Quentin Durward/23.xml" />
+			<chapter num="24" title="Chapter VII. The Surrender. " location="S/Walter Scott/Quentin Durward/24.xml" />
+			<chapter num="25" title="Chapter VIII. The Unbidden Guest. " location="S/Walter Scott/Quentin Durward/25.xml" />
+			<chapter num="26" title="Chapter IX. The Interview. " location="S/Walter Scott/Quentin Durward/26.xml" />
+			<chapter num="27" title="Chapter X. The Explosion. " location="S/Walter Scott/Quentin Durward/27.xml" />
+			<chapter num="28" title="Chapter XI. Uncertainty. " location="S/Walter Scott/Quentin Durward/28.xml" />
+			<chapter num="29" title="Chapter XII. Recrimination. " location="S/Walter Scott/Quentin Durward/29.xml" />
+			<chapter num="30" title="Chapter XIII. Uncertainty. " location="S/Walter Scott/Quentin Durward/30.xml" />
+			<chapter num="31" title="Chapter XIV. The Interview. " location="S/Walter Scott/Quentin Durward/31.xml" />
+			<chapter num="32" title="Chapter XV. The Investigation. " location="S/Walter Scott/Quentin Durward/32.xml" />
+			<chapter num="33" title="Chapter XVI. The Herald. " location="S/Walter Scott/Quentin Durward/33.xml" />
+			<chapter num="34" title="Chapter XVII. The Execution. " location="S/Walter Scott/Quentin Durward/34.xml" />
+			<chapter num="35" title="Chapter XVIII. A Prize for Honour. " location="S/Walter Scott/Quentin Durward/35.xml" />
+			<chapter num="36" title="Chapter XIX. The Sally. " location="S/Walter Scott/Quentin Durward/36.xml" />
+			<chapter num="37" title="Chapter XX. The Sally. " location="S/Walter Scott/Quentin Durward/37.xml" />
+	</section>
+</book>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2602" title="Categories, The" author="Aristotle, " location="A/ Aristotle/Categories, The">
+		<section type="1" name="Section 1">
+			<chapter num="1" title="Part 1" location="A/ Aristotle/Categories, The/1.xml" />
+			<chapter num="2" title="Part 2" location="A/ Aristotle/Categories, The/2.xml" />
+			<chapter num="3" title="Part 3" location="A/ Aristotle/Categories, The/3.xml" />
+			<chapter num="4" title="Part 4" location="A/ Aristotle/Categories, The/4.xml" />
+			<chapter num="5" title="Part 5" location="A/ Aristotle/Categories, The/5.xml" />
+			<chapter num="6" title="Part 6" location="A/ Aristotle/Categories, The/6.xml" />
+		</section>
+		<section type="1" name="Section 2">
+			<chapter num="7" title="Part 7" location="A/ Aristotle/Categories, The/7.xml" />
+			<chapter num="8" title="Part 8" location="A/ Aristotle/Categories, The/8.xml" />
+		</section>
+		<section type="1" name="Section 3">
+			<chapter num="9" title="Part 9" location="A/ Aristotle/Categories, The/9.xml" />
+			<chapter num="10" title="Part 10" location="A/ Aristotle/Categories, The/10.xml" />
+			<chapter num="11" title="Part 11" location="A/ Aristotle/Categories, The/11.xml" />
+			<chapter num="12" title="Part 12" location="A/ Aristotle/Categories, The/12.xml" />
+			<chapter num="13" title="Part 13" location="A/ Aristotle/Categories, The/13.xml" />
+			<chapter num="14" title="Part 14" location="A/ Aristotle/Categories, The/14.xml" />
+			<chapter num="15" title="Part 15" location="A/ Aristotle/Categories, The/15.xml" />
+		</section>
+</book>

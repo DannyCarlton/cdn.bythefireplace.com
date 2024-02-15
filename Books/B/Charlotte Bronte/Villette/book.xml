@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1734" title="Villette" author="Bronte, Charlotte" location="B/Charlotte Bronte/Villette">
+		<section type="1" name="Volume One">
+			<chapter num="1" title="Chapter I. Bretton" location="B/Charlotte Bronte/Villette/1.xml" />
+			<chapter num="2" title="Chapter II. Paulina" location="B/Charlotte Bronte/Villette/2.xml" />
+			<chapter num="3" title="Chapter III. The Playmates" location="B/Charlotte Bronte/Villette/3.xml" />
+			<chapter num="4" title="Chapter IV. Miss Marchmont" location="B/Charlotte Bronte/Villette/4.xml" />
+			<chapter num="5" title="Chapter V. Turning a New Leaf" location="B/Charlotte Bronte/Villette/5.xml" />
+			<chapter num="6" title="Chapter VI. London" location="B/Charlotte Bronte/Villette/6.xml" />
+			<chapter num="7" title="Chapter VII. Villette" location="B/Charlotte Bronte/Villette/7.xml" />
+			<chapter num="8" title="Chapter VIII. Madame Beck" location="B/Charlotte Bronte/Villette/8.xml" />
+			<chapter num="9" title="Chapter IX. Isidore" location="B/Charlotte Bronte/Villette/9.xml" />
+			<chapter num="10" title="Chapter X. Dr. John" location="B/Charlotte Bronte/Villette/10.xml" />
+			<chapter num="11" title="Chapter XI. The Portresse's Cabinet" location="B/Charlotte Bronte/Villette/11.xml" />
+			<chapter num="12" title="Chapter XII. The Casket" location="B/Charlotte Bronte/Villette/12.xml" />
+			<chapter num="13" title="Chapter XIII. A Sneeze Out of Season" location="B/Charlotte Bronte/Villette/13.xml" />
+			<chapter num="14" title="Chapter XIV. The F&ecirc;te" location="B/Charlotte Bronte/Villette/14.xml" />
+			<chapter num="15" title="Chapter XV. The Long Vacation" location="B/Charlotte Bronte/Villette/15.xml" />
+		</section>
+		<section type="1" name="Volume Two">
+			<chapter num="16" title="Chapter XVI. Auld Lang Syne" location="B/Charlotte Bronte/Villette/16.xml" />
+			<chapter num="17" title="Chapter XVII. La Terrasse" location="B/Charlotte Bronte/Villette/17.xml" />
+			<chapter num="18" title="Chapter XVIII. We Quarrel" location="B/Charlotte Bronte/Villette/18.xml" />
+			<chapter num="19" title="Chapter XIX. The Cleopatra" location="B/Charlotte Bronte/Villette/19.xml" />
+			<chapter num="20" title="Chapter XX. The Concert" location="B/Charlotte Bronte/Villette/20.xml" />
+			<chapter num="21" title="Chapter XXI. Reaction" location="B/Charlotte Bronte/Villette/21.xml" />
+			<chapter num="22" title="Chapter XXII. The Letter" location="B/Charlotte Bronte/Villette/22.xml" />
+			<chapter num="23" title="Chapter XXIII. Vashti" location="B/Charlotte Bronte/Villette/23.xml" />
+			<chapter num="24" title="Chapter XXIV. M. De Bassompierre" location="B/Charlotte Bronte/Villette/24.xml" />
+			<chapter num="25" title="Chapter XXV. The Little Countess" location="B/Charlotte Bronte/Villette/25.xml" />
+			<chapter num="26" title="Chapter XXVI. A Burial" location="B/Charlotte Bronte/Villette/26.xml" />
+			<chapter num="27" title="Chapter XXVII. The H&ocirc;tel Cr&eacute;cy" location="B/Charlotte Bronte/Villette/27.xml" />
+		</section>
+		<section type="1" name="Volume Three">
+			<chapter num="28" title="Chapter XXVIII. The Watchguard" location="B/Charlotte Bronte/Villette/28.xml" />
+			<chapter num="29" title="Chapter XXIX. Monsieur's F&ecirc;te" location="B/Charlotte Bronte/Villette/29.xml" />
+			<chapter num="30" title="Chapter XXX. M. Paul" location="B/Charlotte Bronte/Villette/30.xml" />
+			<chapter num="31" title="Chapter XXXI. The Dryad" location="B/Charlotte Bronte/Villette/31.xml" />
+			<chapter num="32" title="Chapter XXXII. The First Letter" location="B/Charlotte Bronte/Villette/32.xml" />
+			<chapter num="33" title="Chapter XXXIII. M. Paul Keeps His Promise" location="B/Charlotte Bronte/Villette/33.xml" />
+			<chapter num="34" title="Chapter XXXIV. Malevola" location="B/Charlotte Bronte/Villette/34.xml" />
+			<chapter num="35" title="Chapter XXXV. Fraternity" location="B/Charlotte Bronte/Villette/35.xml" />
+			<chapter num="36" title="Chapter XXXVI. The Apple of Discord" location="B/Charlotte Bronte/Villette/36.xml" />
+			<chapter num="37" title="Chapter XXXVII. Sunshine" location="B/Charlotte Bronte/Villette/37.xml" />
+			<chapter num="38" title="Chapter XXXVIII. Cloud" location="B/Charlotte Bronte/Villette/38.xml" />
+			<chapter num="39" title="Chapter XXXIX. Old and New Acquaintance" location="B/Charlotte Bronte/Villette/39.xml" />
+			<chapter num="40" title="Chapter XL. The Happy Pair" location="B/Charlotte Bronte/Villette/40.xml" />
+			<chapter num="41" title="Chapter XLI. Faubourg Clotilde" location="B/Charlotte Bronte/Villette/41.xml" />
+			<chapter num="42" title="Chapter XLII. Finis" location="B/Charlotte Bronte/Villette/42.xml" />
+		</section>
+</book>

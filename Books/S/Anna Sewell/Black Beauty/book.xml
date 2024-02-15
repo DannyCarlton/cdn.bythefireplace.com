@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="84" title="Black Beauty" author="Sewell, Anna" location="S/Anna Sewell/Black Beauty">
+		<section type="1" name="Part I.">
+			<chapter num="1" title="Chapter 1. My Early Home" location="S/Anna Sewell/Black Beauty/1.xml" />
+			<chapter num="2" title="Chapter 2. The Hunt" location="S/Anna Sewell/Black Beauty/2.xml" />
+			<chapter num="3" title="Chapter 3. My Breaking In" location="S/Anna Sewell/Black Beauty/3.xml" />
+			<chapter num="4" title="Chapter 4. Birtwick Park" location="S/Anna Sewell/Black Beauty/4.xml" />
+			<chapter num="5" title="Chapter 5. A Fair Start" location="S/Anna Sewell/Black Beauty/5.xml" />
+			<chapter num="6" title="Chapter 6. Liberty" location="S/Anna Sewell/Black Beauty/6.xml" />
+			<chapter num="7" title="Chapter 7. Ginger" location="S/Anna Sewell/Black Beauty/7.xml" />
+			<chapter num="8" title="Chapter 8. Ginger's Story Continued" location="S/Anna Sewell/Black Beauty/8.xml" />
+			<chapter num="9" title="Chapter 9. Merrylegs" location="S/Anna Sewell/Black Beauty/9.xml" />
+			<chapter num="10" title="Chapter 10. A Talk in the Orchard" location="S/Anna Sewell/Black Beauty/10.xml" />
+			<chapter num="11" title="Chapter 11. Plain Speaking" location="S/Anna Sewell/Black Beauty/11.xml" />
+			<chapter num="12" title="Chapter 12. A Stormy Day" location="S/Anna Sewell/Black Beauty/12.xml" />
+			<chapter num="13" title="Chapter 13. The Devil's Trade Mark" location="S/Anna Sewell/Black Beauty/13.xml" />
+			<chapter num="14" title="Chapter 14. James Howard" location="S/Anna Sewell/Black Beauty/14.xml" />
+			<chapter num="15" title="Chapter 15. The Old Hostler" location="S/Anna Sewell/Black Beauty/15.xml" />
+			<chapter num="16" title="Chapter 16. The Fire" location="S/Anna Sewell/Black Beauty/16.xml" />
+			<chapter num="17" title="Chapter 17. John Manly's Talk" location="S/Anna Sewell/Black Beauty/17.xml" />
+			<chapter num="18" title="Chapter 18. Going for the Doctor" location="S/Anna Sewell/Black Beauty/18.xml" />
+			<chapter num="19" title="Chapter 19. Only Ignorance" location="S/Anna Sewell/Black Beauty/19.xml" />
+			<chapter num="20" title="Chapter 20. Joe Green" location="S/Anna Sewell/Black Beauty/20.xml" />
+			<chapter num="21" title="Chapter 21. The Parting" location="S/Anna Sewell/Black Beauty/21.xml" />
+		</section>
+		<section type="1" name="Part II.">
+			<chapter num="22" title="Chapter 22. Earlshall" location="S/Anna Sewell/Black Beauty/22.xml" />
+			<chapter num="23" title="Chapter 23. A Strike for Liberty" location="S/Anna Sewell/Black Beauty/23.xml" />
+			<chapter num="24" title="Chapter 24. The Lady Anne, or a Runaway Horse" location="S/Anna Sewell/Black Beauty/24.xml" />
+			<chapter num="25" title="Chapter 25. Reuben Smith" location="S/Anna Sewell/Black Beauty/25.xml" />
+			<chapter num="26" title="Chapter 26. How it Ended" location="S/Anna Sewell/Black Beauty/26.xml" />
+			<chapter num="27" title="Chapter 27. Ruined and Going Downhill" location="S/Anna Sewell/Black Beauty/27.xml" />
+			<chapter num="28" title="Chapter 28. A Job Horse and His Drivers" location="S/Anna Sewell/Black Beauty/28.xml" />
+			<chapter num="29" title="Chapter 29. Cockneys" location="S/Anna Sewell/Black Beauty/29.xml" />
+			<chapter num="30" title="Chapter 30. A Thief" location="S/Anna Sewell/Black Beauty/30.xml" />
+			<chapter num="31" title="Chapter 31. A Humbug" location="S/Anna Sewell/Black Beauty/31.xml" />
+		</section>
+		<section type="1" name="Part III.">
+			<chapter num="32" title="Chapter 32. A Horse Fair" location="S/Anna Sewell/Black Beauty/32.xml" />
+			<chapter num="33" title="Chapter 33. A London Cab Horse" location="S/Anna Sewell/Black Beauty/33.xml" />
+			<chapter num="34" title="Chapter 34. An Old War Horse" location="S/Anna Sewell/Black Beauty/34.xml" />
+			<chapter num="35" title="Chapter 35. Jerry Barker" location="S/Anna Sewell/Black Beauty/35.xml" />
+			<chapter num="36" title="Chapter 36. The Sunday Cab" location="S/Anna Sewell/Black Beauty/36.xml" />
+			<chapter num="37" title="Chapter 37. The Golden Rule" location="S/Anna Sewell/Black Beauty/37.xml" />
+			<chapter num="38" title="Chapter 38. Dolly and a Real Gentleman" location="S/Anna Sewell/Black Beauty/38.xml" />
+			<chapter num="39" title="Chapter 39. Seedy Sam" location="S/Anna Sewell/Black Beauty/39.xml" />
+			<chapter num="40" title="Chapter 40. Poor Ginger" location="S/Anna Sewell/Black Beauty/40.xml" />
+			<chapter num="41" title="Chapter 41. The Butcher" location="S/Anna Sewell/Black Beauty/41.xml" />
+			<chapter num="42" title="Chapter 42. The Election" location="S/Anna Sewell/Black Beauty/42.xml" />
+			<chapter num="43" title="Chapter 43. A Friend in Need" location="S/Anna Sewell/Black Beauty/43.xml" />
+			<chapter num="44" title="Chapter 44. Old Captain and His Successor" location="S/Anna Sewell/Black Beauty/44.xml" />
+			<chapter num="45" title="Chapter 45. Jerry's New Year" location="S/Anna Sewell/Black Beauty/45.xml" />
+		</section>
+		<section type="1" name="Part IV.">
+			<chapter num="46" title="Chapter 46. Jakes and the Lady" location="S/Anna Sewell/Black Beauty/46.xml" />
+			<chapter num="47" title="Chapter 47. Hard Times" location="S/Anna Sewell/Black Beauty/47.xml" />
+			<chapter num="48" title="Chapter 48. Farmer Thoroughgood and His Grandson Willie" location="S/Anna Sewell/Black Beauty/48.xml" />
+			<chapter num="49" title="Chapter 49. My Last Home" location="S/Anna Sewell/Black Beauty/49.xml" />
+		</section>
+</book>

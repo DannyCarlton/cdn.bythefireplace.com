@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1800" title="Cavalry General, The" author="Xenophon, " location="X/ Xenophon/Cavalry General, The">
+			<chapter num="1" title="I" location="X/ Xenophon/Cavalry General, The/1.xml" />
+			<chapter num="2" title="II" location="X/ Xenophon/Cavalry General, The/2.xml" />
+			<chapter num="3" title="III" location="X/ Xenophon/Cavalry General, The/3.xml" />
+			<chapter num="4" title="IV" location="X/ Xenophon/Cavalry General, The/4.xml" />
+			<chapter num="5" title="V" location="X/ Xenophon/Cavalry General, The/5.xml" />
+			<chapter num="6" title="VI" location="X/ Xenophon/Cavalry General, The/6.xml" />
+			<chapter num="7" title="VII" location="X/ Xenophon/Cavalry General, The/7.xml" />
+			<chapter num="8" title="VIII" location="X/ Xenophon/Cavalry General, The/8.xml" />
+			<chapter num="9" title="IX" location="X/ Xenophon/Cavalry General, The/9.xml" />
+</book>

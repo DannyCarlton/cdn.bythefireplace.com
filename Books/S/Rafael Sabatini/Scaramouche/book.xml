@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40181" title="Scaramouche" author="Sabatini, Rafael" location="S/Rafael Sabatini/Scaramouche">
+
+	<section type="2" name="Book I: The Robe">
+			<chapter num="1" title="Chapter I. The Republican" location="S/Rafael Sabatini/Scaramouche/1.xml" />
+			<chapter num="2" title="Chapter II. The Aristocrat" location="S/Rafael Sabatini/Scaramouche/2.xml" />
+			<chapter num="3" title="Chapter III. The Eloquence of M. De Vilmorin" location="S/Rafael Sabatini/Scaramouche/3.xml" />
+			<chapter num="4" title="Chapter IV. The Heritage" location="S/Rafael Sabatini/Scaramouche/4.xml" />
+			<chapter num="5" title="Chapter V. The Lord of Gavrillac" location="S/Rafael Sabatini/Scaramouche/5.xml" />
+			<chapter num="6" title="Chapter VI. The Windmill" location="S/Rafael Sabatini/Scaramouche/6.xml" />
+			<chapter num="7" title="Chapter VII. The Wind" location="S/Rafael Sabatini/Scaramouche/7.xml" />
+			<chapter num="8" title="Chapter VIII. Omnes Omnibus" location="S/Rafael Sabatini/Scaramouche/8.xml" />
+			<chapter num="9" title="Chapter IX. The Aftermath" location="S/Rafael Sabatini/Scaramouche/9.xml" />
+
+	</section>
+	<section type="2" name="Book II:">
+			<chapter num="10" title="Chapter I. The Trespassers" location="S/Rafael Sabatini/Scaramouche/10.xml" />
+			<chapter num="11" title="Chapter II. The Service of Thespis" location="S/Rafael Sabatini/Scaramouche/11.xml" />
+			<chapter num="12" title="Chapter III. The Comic Muse" location="S/Rafael Sabatini/Scaramouche/12.xml" />
+			<chapter num="13" title="Chapter IV. Exit Monsieur Parvissimus" location="S/Rafael Sabatini/Scaramouche/13.xml" />
+			<chapter num="14" title="Chapter V. Enter Scaramouche" location="S/Rafael Sabatini/Scaramouche/14.xml" />
+			<chapter num="15" title="Chapter VI. Climene" location="S/Rafael Sabatini/Scaramouche/15.xml" />
+			<chapter num="16" title="Chapter VII. The Conquest of Nantes" location="S/Rafael Sabatini/Scaramouche/16.xml" />
+			<chapter num="17" title="Chapter VIII. The Dream" location="S/Rafael Sabatini/Scaramouche/17.xml" />
+			<chapter num="18" title="Chapter IX. The Awakening" location="S/Rafael Sabatini/Scaramouche/18.xml" />
+			<chapter num="19" title="Chapter X. Contrition" location="S/Rafael Sabatini/Scaramouche/19.xml" />
+			<chapter num="20" title="Chapter XI. The Fracas At the Theatre Feydau" location="S/Rafael Sabatini/Scaramouche/20.xml" />
+
+	</section>
+	<section type="2" name="Chapter I. Transition">
+			<chapter num="21" title="Chapter II. Quos Deus Vult Perdere" location="S/Rafael Sabatini/Scaramouche/21.xml" />
+			<chapter num="22" title="Chapter III. President Le Chapelier" location="S/Rafael Sabatini/Scaramouche/22.xml" />
+			<chapter num="23" title="Chapter IV. At Meudon" location="S/Rafael Sabatini/Scaramouche/23.xml" />
+			<chapter num="24" title="Chapter V. Madame De Plougastel" location="S/Rafael Sabatini/Scaramouche/24.xml" />
+			<chapter num="25" title="Chapter VI. Politicians" location="S/Rafael Sabatini/Scaramouche/25.xml" />
+			<chapter num="26" title="Chapter VII. The Spadassinicides" location="S/Rafael Sabatini/Scaramouche/26.xml" />
+			<chapter num="27" title="Chapter VIII. The Paladin of the Third" location="S/Rafael Sabatini/Scaramouche/27.xml" />
+			<chapter num="28" title="Chapter IX. Torn Pride" location="S/Rafael Sabatini/Scaramouche/28.xml" />
+			<chapter num="29" title="Chapter X. The Returning Carriage" location="S/Rafael Sabatini/Scaramouche/29.xml" />
+			<chapter num="30" title="Chapter XI. Inferences" location="S/Rafael Sabatini/Scaramouche/30.xml" />
+			<chapter num="31" title="Chapter XII. The Overwhelming Reason" location="S/Rafael Sabatini/Scaramouche/31.xml" />
+			<chapter num="32" title="Chapter XIII. Sanctuary" location="S/Rafael Sabatini/Scaramouche/32.xml" />
+			<chapter num="33" title="Chapter XIV. The Barrier" location="S/Rafael Sabatini/Scaramouche/33.xml" />
+			<chapter num="34" title="Chapter XV. Safe-conduct" location="S/Rafael Sabatini/Scaramouche/34.xml" />
+			<chapter num="35" title="Chapter XVI. Sunrise" location="S/Rafael Sabatini/Scaramouche/35.xml" />
+	</section>
+</book>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1576" title="Saturday's Child" author="Norris, Kathleen Thompson" location="N/Kathleen Thompson Norris/Saturday's Child">
+		<section type="1" name="Part One. Poverty">
+			<chapter num="1" title="Chapter I" location="N/Kathleen Thompson Norris/Saturday's Child/1.xml" />
+			<chapter num="2" title="Chapter II" location="N/Kathleen Thompson Norris/Saturday's Child/2.xml" />
+			<chapter num="3" title="Chapter III" location="N/Kathleen Thompson Norris/Saturday's Child/3.xml" />
+			<chapter num="4" title="Chapter IV" location="N/Kathleen Thompson Norris/Saturday's Child/4.xml" />
+			<chapter num="5" title="Chapter V" location="N/Kathleen Thompson Norris/Saturday's Child/5.xml" />
+			<chapter num="6" title="Chapter VI" location="N/Kathleen Thompson Norris/Saturday's Child/6.xml" />
+			<chapter num="7" title="Chapter VII" location="N/Kathleen Thompson Norris/Saturday's Child/7.xml" />
+		</section>
+		<section type="1" name="Part Two. Wealth">
+			<chapter num="8" title="Chapter I" location="N/Kathleen Thompson Norris/Saturday's Child/8.xml" />
+			<chapter num="9" title="Chapter II" location="N/Kathleen Thompson Norris/Saturday's Child/9.xml" />
+			<chapter num="10" title="Chapter III" location="N/Kathleen Thompson Norris/Saturday's Child/10.xml" />
+			<chapter num="11" title="Chapter IV" location="N/Kathleen Thompson Norris/Saturday's Child/11.xml" />
+			<chapter num="12" title="Chapter V" location="N/Kathleen Thompson Norris/Saturday's Child/12.xml" />
+			<chapter num="13" title="Chapter VI" location="N/Kathleen Thompson Norris/Saturday's Child/13.xml" />
+		</section>
+		<section type="1" name="Part Three. Service">
+			<chapter num="14" title="Chapter I" location="N/Kathleen Thompson Norris/Saturday's Child/14.xml" />
+			<chapter num="15" title="Chapter II" location="N/Kathleen Thompson Norris/Saturday's Child/15.xml" />
+			<chapter num="16" title="Chapter III" location="N/Kathleen Thompson Norris/Saturday's Child/16.xml" />
+			<chapter num="17" title="Chapter IV" location="N/Kathleen Thompson Norris/Saturday's Child/17.xml" />
+			<chapter num="18" title="Chapter V" location="N/Kathleen Thompson Norris/Saturday's Child/18.xml" />
+			<chapter num="19" title="Chapter VI" location="N/Kathleen Thompson Norris/Saturday's Child/19.xml" />
+			<chapter num="20" title="Chapter VII" location="N/Kathleen Thompson Norris/Saturday's Child/20.xml" />
+			<chapter num="21" title="Chapter VIII" location="N/Kathleen Thompson Norris/Saturday's Child/21.xml" />
+		</section>
+</book>

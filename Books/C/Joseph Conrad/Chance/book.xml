@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1558" title="Chance" author="Conrad, Joseph" location="C/Joseph Conrad/Chance">
+		<section type="1" name="Part I--The Damsel">
+			<chapter num="1" title="Chapter One--Young Powell and His Chance" location="C/Joseph Conrad/Chance/1.xml" />
+			<chapter num="2" title="Chapter Two--The Fynes and the Girl-Friend" location="C/Joseph Conrad/Chance/2.xml" />
+			<chapter num="3" title="Chapter Three--Thrift--And the Child" location="C/Joseph Conrad/Chance/3.xml" />
+			<chapter num="4" title="Chapter Four--The Governess" location="C/Joseph Conrad/Chance/4.xml" />
+			<chapter num="5" title="Chapter Five--The Tea-Party" location="C/Joseph Conrad/Chance/5.xml" />
+			<chapter num="6" title="Chapter Six--Flora" location="C/Joseph Conrad/Chance/6.xml" />
+			<chapter num="7" title="Chapter Seven--On the Pavement" location="C/Joseph Conrad/Chance/7.xml" />
+		</section>
+		<section type="1" name="Part II--The Knight">
+			<chapter num="8" title="Chapter One--The Ferndale" location="C/Joseph Conrad/Chance/8.xml" />
+			<chapter num="9" title="Chapter Two--Young Powell Sees and Hears" location="C/Joseph Conrad/Chance/9.xml" />
+			<chapter num="10" title="Chapter Three--Devoted Servants--And the Light of a Flare" location="C/Joseph Conrad/Chance/10.xml" />
+			<chapter num="11" title="Chapter Four--Anthony and Flora" location="C/Joseph Conrad/Chance/11.xml" />
+			<chapter num="12" title="Chapter Five--The Great de Barral" location="C/Joseph Conrad/Chance/12.xml" />
+			<chapter num="13" title="Chapter Six--. . . A Moonless Night, Thick With Stars Above, Very Dark on the Water" location="C/Joseph Conrad/Chance/13.xml" />
+		</section>
+</book>

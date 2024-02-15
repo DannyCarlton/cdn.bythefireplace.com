@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40429" title="Little Nugget, The" author="Wodehouse, Pelham Grenville" location="W/Pelham Grenville Wodehouse/Little Nugget, The">
+
+	<section type="2" name="Part One">
+			<chapter num="1" title="In Which..." location="W/Pelham Grenville Wodehouse/Little Nugget, The/1.xml" />
+			<chapter num="2" title="Chapter I" location="W/Pelham Grenville Wodehouse/Little Nugget, The/2.xml" />
+			<chapter num="3" title="Chapter Ii" location="W/Pelham Grenville Wodehouse/Little Nugget, The/3.xml" />
+
+	</section>
+	<section type="2" name="Part Two">
+			<chapter num="4" title="In Which..." location="W/Pelham Grenville Wodehouse/Little Nugget, The/4.xml" />
+			<chapter num="5" title="Chapter 1" location="W/Pelham Grenville Wodehouse/Little Nugget, The/5.xml" />
+			<chapter num="6" title="Chapter 2" location="W/Pelham Grenville Wodehouse/Little Nugget, The/6.xml" />
+			<chapter num="7" title="Chapter 3" location="W/Pelham Grenville Wodehouse/Little Nugget, The/7.xml" />
+			<chapter num="8" title="Chapter 4" location="W/Pelham Grenville Wodehouse/Little Nugget, The/8.xml" />
+			<chapter num="9" title="Chapter 5" location="W/Pelham Grenville Wodehouse/Little Nugget, The/9.xml" />
+			<chapter num="10" title="Chapter 6" location="W/Pelham Grenville Wodehouse/Little Nugget, The/10.xml" />
+			<chapter num="11" title="Chapter 7" location="W/Pelham Grenville Wodehouse/Little Nugget, The/11.xml" />
+			<chapter num="12" title="Chapter 8" location="W/Pelham Grenville Wodehouse/Little Nugget, The/12.xml" />
+			<chapter num="13" title="Chapter 9" location="W/Pelham Grenville Wodehouse/Little Nugget, The/13.xml" />
+			<chapter num="14" title="Chapter 10" location="W/Pelham Grenville Wodehouse/Little Nugget, The/14.xml" />
+			<chapter num="15" title="Chapter 11" location="W/Pelham Grenville Wodehouse/Little Nugget, The/15.xml" />
+			<chapter num="16" title="Chapter 12" location="W/Pelham Grenville Wodehouse/Little Nugget, The/16.xml" />
+			<chapter num="17" title="Chapter 13" location="W/Pelham Grenville Wodehouse/Little Nugget, The/17.xml" />
+			<chapter num="18" title="Chapter 14" location="W/Pelham Grenville Wodehouse/Little Nugget, The/18.xml" />
+			<chapter num="19" title="Chapter 15" location="W/Pelham Grenville Wodehouse/Little Nugget, The/19.xml" />
+			<chapter num="20" title="Chapter 16" location="W/Pelham Grenville Wodehouse/Little Nugget, The/20.xml" />
+			<chapter num="21" title="Chapter 17" location="W/Pelham Grenville Wodehouse/Little Nugget, The/21.xml" />
+			<chapter num="22" title="Chapter 18" location="W/Pelham Grenville Wodehouse/Little Nugget, The/22.xml" />
+	</section>
+</book>

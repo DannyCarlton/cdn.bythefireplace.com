@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="9345" title="Nostromo" author="Conrad, Joseph" location="C/Joseph Conrad/Nostromo">
+			<chapter num="1" title="Author's Note" location="C/Joseph Conrad/Nostromo/1.xml" />
+		<section type="1" name="Part First: The Silver of the Mine">
+			<chapter num="2" title="Chapter One" location="C/Joseph Conrad/Nostromo/2.xml" />
+			<chapter num="3" title="Chapter Two" location="C/Joseph Conrad/Nostromo/3.xml" />
+			<chapter num="4" title="Chapter Three" location="C/Joseph Conrad/Nostromo/4.xml" />
+			<chapter num="5" title="Chapter Four" location="C/Joseph Conrad/Nostromo/5.xml" />
+			<chapter num="6" title="Chapter Five" location="C/Joseph Conrad/Nostromo/6.xml" />
+			<chapter num="7" title="Chapter Six" location="C/Joseph Conrad/Nostromo/7.xml" />
+			<chapter num="8" title="Chapter Seven" location="C/Joseph Conrad/Nostromo/8.xml" />
+			<chapter num="9" title="Chapter Eight" location="C/Joseph Conrad/Nostromo/9.xml" />
+		</section>
+		<section type="1" name="Part Second: The Isabels">
+			<chapter num="10" title="Chapter One" location="C/Joseph Conrad/Nostromo/10.xml" />
+			<chapter num="11" title="Chapter Two" location="C/Joseph Conrad/Nostromo/11.xml" />
+			<chapter num="12" title="Chapter Three" location="C/Joseph Conrad/Nostromo/12.xml" />
+			<chapter num="13" title="Chapter Four" location="C/Joseph Conrad/Nostromo/13.xml" />
+			<chapter num="14" title="Chapter Five" location="C/Joseph Conrad/Nostromo/14.xml" />
+			<chapter num="15" title="Chapter Six" location="C/Joseph Conrad/Nostromo/15.xml" />
+			<chapter num="16" title="Chapter Seven" location="C/Joseph Conrad/Nostromo/16.xml" />
+			<chapter num="17" title="Chapter Eight" location="C/Joseph Conrad/Nostromo/17.xml" />
+		</section>
+		<section type="1" name="Part Third: The Lighthouse">
+			<chapter num="18" title="Chapter One" location="C/Joseph Conrad/Nostromo/18.xml" />
+			<chapter num="19" title="Chapter Two" location="C/Joseph Conrad/Nostromo/19.xml" />
+			<chapter num="20" title="Chapter Three" location="C/Joseph Conrad/Nostromo/20.xml" />
+			<chapter num="21" title="Chapter Four" location="C/Joseph Conrad/Nostromo/21.xml" />
+			<chapter num="22" title="Chapter Five" location="C/Joseph Conrad/Nostromo/22.xml" />
+			<chapter num="23" title="Chapter Six" location="C/Joseph Conrad/Nostromo/23.xml" />
+			<chapter num="24" title="Chapter Seven" location="C/Joseph Conrad/Nostromo/24.xml" />
+			<chapter num="25" title="Chapter Eight" location="C/Joseph Conrad/Nostromo/25.xml" />
+			<chapter num="26" title="Chapter Nine" location="C/Joseph Conrad/Nostromo/26.xml" />
+			<chapter num="27" title="Chapter Ten" location="C/Joseph Conrad/Nostromo/27.xml" />
+			<chapter num="28" title="Chapter Eleven" location="C/Joseph Conrad/Nostromo/28.xml" />
+			<chapter num="29" title="Chapter Twelve" location="C/Joseph Conrad/Nostromo/29.xml" />
+			<chapter num="30" title="Chapter Thirteen" location="C/Joseph Conrad/Nostromo/30.xml" />
+		</section>
+</book>

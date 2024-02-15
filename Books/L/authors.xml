@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="130" name="Lardner, Ring" location="L/Ring Lardner" />
+	<author aid="132" name="Lawson, Henry" location="L/Henry Lawson" />
+	<author aid="134" name="Lowell, Amy" location="L/Amy Lowell" />
+	<author aid="150" name="Lawrence, D. H." location="L/D. H. Lawrence" />
+	<author aid="151" name="Lang, Andrew" location="L/Andrew Lang" />
+	<author aid="166" name="Lamb, Charles and Mary" location="L/Charles and Mary Lamb" />
+	<author aid="192" name="Leacock, Stephen" location="L/Stephen Leacock" />
+	<author aid="194" name="Lofting, Hugh" location="L/Hugh Lofting" />
+	<author aid="26" name="Leroux, Gaston" location="L/Gaston Leroux" />
+	<author aid="27" name="London, Jack" location="L/Jack London" />
+	<author aid="5" name="Luther, Martin" location="L/Martin Luther" />
+	<author aid="58" name="Longfellow, Henry Wadsworth" location="L/Henry Wadsworth Longfellow" />
+	<author aid="259" name="LeFanu, Joseph Sheridan" location="L/Joseph Sheridan LeFanu" />
+	<author aid="270" name="Lie, Jonas" location="L/Jonas Lie" />
+	<author aid="5008" name="Lawrence, Brother" location="L/Brother Lawrence" />
+	<author aid="333" name="Lincoln, Joseph Crosby" location="L/Joseph Crosby Lincoln" />
+	<author aid="332" name="Lincoln, Abraham" location="L/Abraham Lincoln" />
+</authors>

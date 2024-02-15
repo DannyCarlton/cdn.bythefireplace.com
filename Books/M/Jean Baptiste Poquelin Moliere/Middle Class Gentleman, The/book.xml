@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="851" title="Middle Class Gentleman, The" author="Moliere, Jean Baptiste Poquelin" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The">
+			<chapter num="1" title="The Cast" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/1.xml" />
+		<section type="1" name="ACT ONE">
+			<chapter num="2" title="Scene I" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/2.xml" />
+			<chapter num="3" title="Scene II" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/3.xml" />
+		</section>
+		<section type="1" name="ACT TWO">
+			<chapter num="4" title="Scene I" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/4.xml" />
+			<chapter num="5" title="Scene II" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/5.xml" />
+			<chapter num="6" title="Scene III" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/6.xml" />
+			<chapter num="7" title="Scene IV" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/7.xml" />
+			<chapter num="8" title="Scene V" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/8.xml" />
+		</section>
+		<section type="1" name="ACT THREE">
+			<chapter num="9" title="Scene I" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/9.xml" />
+			<chapter num="10" title="Scene II" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/10.xml" />
+			<chapter num="11" title="Scene III" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/11.xml" />
+			<chapter num="12" title="Scene IV" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/12.xml" />
+			<chapter num="13" title="Scene V" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/13.xml" />
+			<chapter num="14" title="Scene VI" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/14.xml" />
+			<chapter num="15" title="Scene VII" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/15.xml" />
+			<chapter num="16" title="Scene VIII" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/16.xml" />
+			<chapter num="17" title="Scene IX" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/17.xml" />
+			<chapter num="18" title="Scene X" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/18.xml" />
+			<chapter num="19" title="Scene XI" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/19.xml" />
+			<chapter num="20" title="Scene XII" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/20.xml" />
+			<chapter num="21" title="Scene XIII" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/21.xml" />
+			<chapter num="22" title="Scene XIV" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/22.xml" />
+			<chapter num="23" title="Scene XV" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/23.xml" />
+			<chapter num="24" title="Scene XVI" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/24.xml" />
+		</section>
+		<section type="1" name="ACT FOUR">
+			<chapter num="25" title="Scene I" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/25.xml" />
+			<chapter num="26" title="Scene II" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/26.xml" />
+			<chapter num="27" title="Scene III" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/27.xml" />
+			<chapter num="28" title="Scene IV" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/28.xml" />
+			<chapter num="29" title="Scene V" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/29.xml" />
+		</section>
+		<section type="1" name="ACT FIVE">
+			<chapter num="30" title="Scene I" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/30.xml" />
+			<chapter num="31" title="Scene II" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/31.xml" />
+			<chapter num="32" title="Scene III" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/32.xml" />
+			<chapter num="33" title="Scene IV" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/33.xml" />
+			<chapter num="34" title="Scene V" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/34.xml" />
+			<chapter num="35" title="Scene VI" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/35.xml" />
+		</section>
+</book>

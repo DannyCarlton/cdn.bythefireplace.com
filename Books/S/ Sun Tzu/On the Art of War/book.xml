@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="5" title="On the Art of War" author="Sun Tzu, " location="S/ Sun Tzu/On the Art of War">
+			<chapter num="1" title="I. Laying Plans" location="S/ Sun Tzu/On the Art of War/1.xml" />
+			<chapter num="2" title="II. Waging War" location="S/ Sun Tzu/On the Art of War/2.xml" />
+			<chapter num="3" title="III. Attack by Stratagem" location="S/ Sun Tzu/On the Art of War/3.xml" />
+			<chapter num="4" title="IV. Tactical Dispositions" location="S/ Sun Tzu/On the Art of War/4.xml" />
+			<chapter num="5" title="V. Energy" location="S/ Sun Tzu/On the Art of War/5.xml" />
+			<chapter num="6" title="VI. Weak Points and Strong" location="S/ Sun Tzu/On the Art of War/6.xml" />
+			<chapter num="7" title="VII. Maneuvering" location="S/ Sun Tzu/On the Art of War/7.xml" />
+			<chapter num="8" title="VIII. Variation in Tactics" location="S/ Sun Tzu/On the Art of War/8.xml" />
+			<chapter num="9" title="IX. The Army on the March" location="S/ Sun Tzu/On the Art of War/9.xml" />
+			<chapter num="10" title="X. Terrain" location="S/ Sun Tzu/On the Art of War/10.xml" />
+			<chapter num="11" title="XI. The Nine Situations" location="S/ Sun Tzu/On the Art of War/11.xml" />
+			<chapter num="12" title="XII. The Attack by Fire" location="S/ Sun Tzu/On the Art of War/12.xml" />
+			<chapter num="13" title="XIII. The Use of Spies" location="S/ Sun Tzu/On the Art of War/13.xml" />
+</book>

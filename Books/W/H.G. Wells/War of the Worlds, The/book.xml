@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="101" title="War of the Worlds, The" author="Wells, H.G." location="W/H.G. Wells/War of the Worlds, The">
+		<section type="1" name="Book One">
+			<chapter num="1" title="Chapter 1: The Eve of the War" location="W/H.G. Wells/War of the Worlds, The/1.xml" />
+			<chapter num="2" title="Chapter 2: The Falling Star" location="W/H.G. Wells/War of the Worlds, The/2.xml" />
+			<chapter num="3" title="Chapter 3: On Horsell Common" location="W/H.G. Wells/War of the Worlds, The/3.xml" />
+			<chapter num="4" title="Chapter 4: The Cylinder Opens" location="W/H.G. Wells/War of the Worlds, The/4.xml" />
+			<chapter num="5" title="Chapter 5: The Heat-Ray" location="W/H.G. Wells/War of the Worlds, The/5.xml" />
+			<chapter num="6" title="Chapter 6: The Heat-Ray in the Chobham Road" location="W/H.G. Wells/War of the Worlds, The/6.xml" />
+			<chapter num="7" title="Chapter 7: How I Reached Home" location="W/H.G. Wells/War of the Worlds, The/7.xml" />
+			<chapter num="8" title="Chapter 8: Friday Night" location="W/H.G. Wells/War of the Worlds, The/8.xml" />
+			<chapter num="9" title="Chapter 9: The Fighting Begins" location="W/H.G. Wells/War of the Worlds, The/9.xml" />
+			<chapter num="10" title="Chapter 10: In the Storm" location="W/H.G. Wells/War of the Worlds, The/10.xml" />
+			<chapter num="11" title="Chapter 11: At the Window" location="W/H.G. Wells/War of the Worlds, The/11.xml" />
+			<chapter num="12" title="Chapter 12: What I Saw of the Destruction of Weybridge and Shepperton" location="W/H.G. Wells/War of the Worlds, The/12.xml" />
+			<chapter num="13" title="Chapter 13: How I Fell In With the Curate" location="W/H.G. Wells/War of the Worlds, The/13.xml" />
+			<chapter num="14" title="Chapter 14: In London" location="W/H.G. Wells/War of the Worlds, The/14.xml" />
+			<chapter num="15" title="Chapter 15: What Had Happened in Surrey" location="W/H.G. Wells/War of the Worlds, The/15.xml" />
+			<chapter num="16" title="Chapter 16: The Exodus From London" location="W/H.G. Wells/War of the Worlds, The/16.xml" />
+			<chapter num="17" title="Chapter 17: The &quot;Thunder Child&quot;" location="W/H.G. Wells/War of the Worlds, The/17.xml" />
+		</section>
+		<section type="1" name="Book Two">
+			<chapter num="18" title="Chapter 1: Under Foot" location="W/H.G. Wells/War of the Worlds, The/18.xml" />
+			<chapter num="19" title="Chapter 2: What We Saw From the Ruined House" location="W/H.G. Wells/War of the Worlds, The/19.xml" />
+			<chapter num="20" title="Chapter 3: The Days of Imprisonment" location="W/H.G. Wells/War of the Worlds, The/20.xml" />
+			<chapter num="21" title="Chapter 4: The Death of the Curate" location="W/H.G. Wells/War of the Worlds, The/21.xml" />
+			<chapter num="22" title="Chapter 5: The Stillness" location="W/H.G. Wells/War of the Worlds, The/22.xml" />
+			<chapter num="23" title="Chapter 6: The Work of Fifteen Days" location="W/H.G. Wells/War of the Worlds, The/23.xml" />
+			<chapter num="24" title="Chapter 7: The Man on Putney Hill" location="W/H.G. Wells/War of the Worlds, The/24.xml" />
+			<chapter num="25" title="Chapter 8: Dead London" location="W/H.G. Wells/War of the Worlds, The/25.xml" />
+			<chapter num="26" title="Chapter 9: Wreckage" location="W/H.G. Wells/War of the Worlds, The/26.xml" />
+			<chapter num="27" title="Chapter 10: The Epilogue" location="W/H.G. Wells/War of the Worlds, The/27.xml" />
+		</section>
+</book>

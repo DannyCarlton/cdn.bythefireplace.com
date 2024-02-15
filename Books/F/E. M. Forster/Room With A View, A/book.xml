@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="538" title="Room With A View, A" author="Forster, E. M." location="F/E. M. Forster/Room With A View, A">
+		<section type="1" name="Part One.">
+			<chapter num="1" title="Chapter I: The Bertolini" location="F/E. M. Forster/Room With A View, A/1.xml" />
+			<chapter num="2" title="Chapter II: In Santa Croce with No Baedeker" location="F/E. M. Forster/Room With A View, A/2.xml" />
+			<chapter num="3" title="Chapter III: Music, Violets, and the Letter &quot;S&quot;" location="F/E. M. Forster/Room With A View, A/3.xml" />
+			<chapter num="4" title="Chapter IV: Fourth Chapter" location="F/E. M. Forster/Room With A View, A/4.xml" />
+			<chapter num="5" title="Chapter V: Possibilities of a Pleasant Outing" location="F/E. M. Forster/Room With A View, A/5.xml" />
+			<chapter num="6" title="Chapter VI" location="F/E. M. Forster/Room With A View, A/6.xml" />
+			<chapter num="7" title="Chapter VII: They Return" location="F/E. M. Forster/Room With A View, A/7.xml" />
+		</section>
+		<section type="1" name="Part Two.">
+			<chapter num="8" title="Chapter VIII: Medieval" location="F/E. M. Forster/Room With A View, A/8.xml" />
+			<chapter num="9" title="Chapter IX: Lucy As a Work of Art" location="F/E. M. Forster/Room With A View, A/9.xml" />
+			<chapter num="10" title="Chapter X: Cecil as a Humourist" location="F/E. M. Forster/Room With A View, A/10.xml" />
+			<chapter num="11" title="Chapter XI: In Mrs. Vyse's Well-Appointed Flat" location="F/E. M. Forster/Room With A View, A/11.xml" />
+			<chapter num="12" title="Chapter XII: Twelfth Chapter" location="F/E. M. Forster/Room With A View, A/12.xml" />
+			<chapter num="13" title="Chapter XIII: How Miss Bartlett's Boiler Was So Tiresome" location="F/E. M. Forster/Room With A View, A/13.xml" />
+			<chapter num="14" title="Chapter XIV : How Lucy Faced the External Situation Bravely" location="F/E. M. Forster/Room With A View, A/14.xml" />
+			<chapter num="15" title="Chapter XV: The Disaster Within" location="F/E. M. Forster/Room With A View, A/15.xml" />
+			<chapter num="16" title="Chapter XVI: Lying to George" location="F/E. M. Forster/Room With A View, A/16.xml" />
+			<chapter num="17" title="Chapter XVII:  Lying to Cecil" location="F/E. M. Forster/Room With A View, A/17.xml" />
+			<chapter num="18" title="Chapter XVIII: Lying to Mr. Beebe, Mrs. Honeychurch, Freddy, and The Servants" location="F/E. M. Forster/Room With A View, A/18.xml" />
+			<chapter num="19" title="Chapter XIX: Lying to Mr. Emerson" location="F/E. M. Forster/Room With A View, A/19.xml" />
+			<chapter num="20" title="Chapter XX: The End of the Middle Ages" location="F/E. M. Forster/Room With A View, A/20.xml" />
+		</section>
+</book>

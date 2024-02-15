@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40469" title="Alice" author="Bulwer-Lytton, Edward" location="B/Edward Bulwer-Lytton/Alice">
+
+	<section type="2" name="Book I.">
+			<chapter num="1" title="Chapter I." location="B/Edward Bulwer-Lytton/Alice/1.xml" />
+			<chapter num="2" title="Chapter II." location="B/Edward Bulwer-Lytton/Alice/2.xml" />
+			<chapter num="3" title="Chapter III." location="B/Edward Bulwer-Lytton/Alice/3.xml" />
+			<chapter num="4" title="Chapter IV." location="B/Edward Bulwer-Lytton/Alice/4.xml" />
+			<chapter num="5" title="Chapter V." location="B/Edward Bulwer-Lytton/Alice/5.xml" />
+			<chapter num="6" title="Chapter VI." location="B/Edward Bulwer-Lytton/Alice/6.xml" />
+			<chapter num="7" title="Chapter VII." location="B/Edward Bulwer-Lytton/Alice/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="B/Edward Bulwer-Lytton/Alice/8.xml" />
+			<chapter num="9" title="Chapter IX." location="B/Edward Bulwer-Lytton/Alice/9.xml" />
+			<chapter num="10" title="Chapter X." location="B/Edward Bulwer-Lytton/Alice/10.xml" />
+			<chapter num="11" title="Chapter XI." location="B/Edward Bulwer-Lytton/Alice/11.xml" />
+			<chapter num="12" title="Chapter XII." location="B/Edward Bulwer-Lytton/Alice/12.xml" />
+			<chapter num="13" title="Chapter XIII." location="B/Edward Bulwer-Lytton/Alice/13.xml" />
+
+	</section>
+	<section type="2" name="Book II.">
+			<chapter num="14" title="Chapter I." location="B/Edward Bulwer-Lytton/Alice/14.xml" />
+			<chapter num="15" title="Chapter II." location="B/Edward Bulwer-Lytton/Alice/15.xml" />
+			<chapter num="16" title="Chapter III." location="B/Edward Bulwer-Lytton/Alice/16.xml" />
+			<chapter num="17" title="Chapter IV." location="B/Edward Bulwer-Lytton/Alice/17.xml" />
+			<chapter num="18" title="Chapter V." location="B/Edward Bulwer-Lytton/Alice/18.xml" />
+			<chapter num="19" title="Chapter VI." location="B/Edward Bulwer-Lytton/Alice/19.xml" />
+			<chapter num="20" title="Chapter VII." location="B/Edward Bulwer-Lytton/Alice/20.xml" />
+
+	</section>
+	<section type="2" name="Book III.">
+			<chapter num="21" title="Chapter I." location="B/Edward Bulwer-Lytton/Alice/21.xml" />
+			<chapter num="22" title="Chapter II." location="B/Edward Bulwer-Lytton/Alice/22.xml" />
+			<chapter num="23" title="Chapter III." location="B/Edward Bulwer-Lytton/Alice/23.xml" />
+			<chapter num="24" title="Chapter IV." location="B/Edward Bulwer-Lytton/Alice/24.xml" />
+			<chapter num="25" title="Chapter V." location="B/Edward Bulwer-Lytton/Alice/25.xml" />
+			<chapter num="26" title="Chapter VI." location="B/Edward Bulwer-Lytton/Alice/26.xml" />
+			<chapter num="27" title="Chapter VII." location="B/Edward Bulwer-Lytton/Alice/27.xml" />
+			<chapter num="28" title="Chapter VIII." location="B/Edward Bulwer-Lytton/Alice/28.xml" />
+			<chapter num="29" title="Chapter IX." location="B/Edward Bulwer-Lytton/Alice/29.xml" />
+
+	</section>
+	<section type="2" name="Book IV.">
+			<chapter num="30" title="Chapter I." location="B/Edward Bulwer-Lytton/Alice/30.xml" />
+			<chapter num="31" title="Chapter II." location="B/Edward Bulwer-Lytton/Alice/31.xml" />
+			<chapter num="32" title="Chapter III." location="B/Edward Bulwer-Lytton/Alice/32.xml" />
+			<chapter num="33" title="Chapter IV." location="B/Edward Bulwer-Lytton/Alice/33.xml" />
+			<chapter num="34" title="Chapter V." location="B/Edward Bulwer-Lytton/Alice/34.xml" />
+			<chapter num="35" title="Chapter VI." location="B/Edward Bulwer-Lytton/Alice/35.xml" />
+			<chapter num="36" title="Chapter VII." location="B/Edward Bulwer-Lytton/Alice/36.xml" />
+			<chapter num="37" title="Chapter VIII." location="B/Edward Bulwer-Lytton/Alice/37.xml" />
+			<chapter num="38" title="Chapter IX." location="B/Edward Bulwer-Lytton/Alice/38.xml" />
+			<chapter num="39" title="Chapter X." location="B/Edward Bulwer-Lytton/Alice/39.xml" />
+
+	</section>
+	<section type="2" name="Book V.">
+			<chapter num="40" title="Chapter I." location="B/Edward Bulwer-Lytton/Alice/40.xml" />
+			<chapter num="41" title="Chapter II." location="B/Edward Bulwer-Lytton/Alice/41.xml" />
+			<chapter num="42" title="Chapter III." location="B/Edward Bulwer-Lytton/Alice/42.xml" />
+			<chapter num="43" title="Chapter IV." location="B/Edward Bulwer-Lytton/Alice/43.xml" />
+			<chapter num="44" title="Chapter V." location="B/Edward Bulwer-Lytton/Alice/44.xml" />
+			<chapter num="45" title="Chapter VI." location="B/Edward Bulwer-Lytton/Alice/45.xml" />
+			<chapter num="46" title="Chapter VII." location="B/Edward Bulwer-Lytton/Alice/46.xml" />
+			<chapter num="47" title="Chapter VIII." location="B/Edward Bulwer-Lytton/Alice/47.xml" />
+			<chapter num="48" title="Chapter IX." location="B/Edward Bulwer-Lytton/Alice/48.xml" />
+
+	</section>
+	<section type="2" name="Book VI.">
+			<chapter num="49" title="Chapter I." location="B/Edward Bulwer-Lytton/Alice/49.xml" />
+			<chapter num="50" title="Chapter II." location="B/Edward Bulwer-Lytton/Alice/50.xml" />
+			<chapter num="51" title="Chapter III." location="B/Edward Bulwer-Lytton/Alice/51.xml" />
+			<chapter num="52" title="Chapter IV." location="B/Edward Bulwer-Lytton/Alice/52.xml" />
+			<chapter num="53" title="Chapter V." location="B/Edward Bulwer-Lytton/Alice/53.xml" />
+			<chapter num="54" title="Chapter VI." location="B/Edward Bulwer-Lytton/Alice/54.xml" />
+
+	</section>
+	<section type="2" name="Book VII.">
+			<chapter num="55" title="Chapter I." location="B/Edward Bulwer-Lytton/Alice/55.xml" />
+			<chapter num="56" title="Chapter II." location="B/Edward Bulwer-Lytton/Alice/56.xml" />
+			<chapter num="57" title="Chapter III." location="B/Edward Bulwer-Lytton/Alice/57.xml" />
+			<chapter num="58" title="Chapter IV." location="B/Edward Bulwer-Lytton/Alice/58.xml" />
+			<chapter num="59" title="Chapter V." location="B/Edward Bulwer-Lytton/Alice/59.xml" />
+			<chapter num="60" title="Chapter VI." location="B/Edward Bulwer-Lytton/Alice/60.xml" />
+
+	</section>
+	<section type="2" name="Book VIII.">
+			<chapter num="61" title="Chapter I." location="B/Edward Bulwer-Lytton/Alice/61.xml" />
+			<chapter num="62" title="Chapter II." location="B/Edward Bulwer-Lytton/Alice/62.xml" />
+			<chapter num="63" title="Chapter III." location="B/Edward Bulwer-Lytton/Alice/63.xml" />
+			<chapter num="64" title="Chapter IV." location="B/Edward Bulwer-Lytton/Alice/64.xml" />
+			<chapter num="65" title="Chapter V." location="B/Edward Bulwer-Lytton/Alice/65.xml" />
+			<chapter num="66" title="Chapter VI." location="B/Edward Bulwer-Lytton/Alice/66.xml" />
+			<chapter num="67" title="Chapter VII." location="B/Edward Bulwer-Lytton/Alice/67.xml" />
+
+	</section>
+	<section type="2" name="Book IX.">
+			<chapter num="68" title="Chapter I." location="B/Edward Bulwer-Lytton/Alice/68.xml" />
+			<chapter num="69" title="Chapter II." location="B/Edward Bulwer-Lytton/Alice/69.xml" />
+			<chapter num="70" title="Chapter III." location="B/Edward Bulwer-Lytton/Alice/70.xml" />
+			<chapter num="71" title="Chapter IV." location="B/Edward Bulwer-Lytton/Alice/71.xml" />
+			<chapter num="72" title="Chapter V." location="B/Edward Bulwer-Lytton/Alice/72.xml" />
+
+	</section>
+	<section type="2" name="Book X.">
+			<chapter num="73" title="Chapter I." location="B/Edward Bulwer-Lytton/Alice/73.xml" />
+			<chapter num="74" title="Chapter II." location="B/Edward Bulwer-Lytton/Alice/74.xml" />
+			<chapter num="75" title="Chapter III." location="B/Edward Bulwer-Lytton/Alice/75.xml" />
+			<chapter num="76" title="Chapter IV." location="B/Edward Bulwer-Lytton/Alice/76.xml" />
+			<chapter num="77" title="Chapter V." location="B/Edward Bulwer-Lytton/Alice/77.xml" />
+			<chapter num="78" title="Chapter VI." location="B/Edward Bulwer-Lytton/Alice/78.xml" />
+			<chapter num="79" title="Chapter VII." location="B/Edward Bulwer-Lytton/Alice/79.xml" />
+
+	</section>
+	<section type="2" name="Book XI.">
+			<chapter num="80" title="Chapter I." location="B/Edward Bulwer-Lytton/Alice/80.xml" />
+			<chapter num="81" title="Chapter II." location="B/Edward Bulwer-Lytton/Alice/81.xml" />
+			<chapter num="82" title="Chapter III." location="B/Edward Bulwer-Lytton/Alice/82.xml" />
+			<chapter num="83" title="Chapter IV." location="B/Edward Bulwer-Lytton/Alice/83.xml" />
+			<chapter num="84" title="Chapter V." location="B/Edward Bulwer-Lytton/Alice/84.xml" />
+			<chapter num="85" title="Chapter VI." location="B/Edward Bulwer-Lytton/Alice/85.xml" />
+			<chapter num="86" title="Chapter VII." location="B/Edward Bulwer-Lytton/Alice/86.xml" />
+			<chapter num="87" title="Chapter the Last." location="B/Edward Bulwer-Lytton/Alice/87.xml" />
+	</section>
+</book>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="132" title="Wind in the Willows, The" author="Grahame, Kenneth" location="G/Kenneth Grahame/Wind in the Willows, The">
+			<chapter num="1" title="Chapter I: The River Bank" location="G/Kenneth Grahame/Wind in the Willows, The/1.xml" />
+			<chapter num="2" title="Chapter II: The Open Road" location="G/Kenneth Grahame/Wind in the Willows, The/2.xml" />
+			<chapter num="3" title="Chapter III: The Wild Wood" location="G/Kenneth Grahame/Wind in the Willows, The/3.xml" />
+			<chapter num="4" title="Chapter IV: Mr. Badger" location="G/Kenneth Grahame/Wind in the Willows, The/4.xml" />
+			<chapter num="5" title="Chapter V: Dulce Domum" location="G/Kenneth Grahame/Wind in the Willows, The/5.xml" />
+			<chapter num="6" title="Chapter VI: Mr. Toad" location="G/Kenneth Grahame/Wind in the Willows, The/6.xml" />
+			<chapter num="7" title="Chapter VII: The Piper at the Gates of Dawn" location="G/Kenneth Grahame/Wind in the Willows, The/7.xml" />
+			<chapter num="8" title="Chapter VIII: Toad's Adventures" location="G/Kenneth Grahame/Wind in the Willows, The/8.xml" />
+			<chapter num="9" title="Chapter IX: Wayfarers All" location="G/Kenneth Grahame/Wind in the Willows, The/9.xml" />
+			<chapter num="10" title="Chapter X: The Further Adventures of Toad" location="G/Kenneth Grahame/Wind in the Willows, The/10.xml" />
+			<chapter num="11" title="Chapter XI: &quot;Like Summer Tempests Came His Tears&quot;" location="G/Kenneth Grahame/Wind in the Willows, The/11.xml" />
+			<chapter num="12" title="Chapter XII: The Return of Ulysses" location="G/Kenneth Grahame/Wind in the Willows, The/12.xml" />
+</book>

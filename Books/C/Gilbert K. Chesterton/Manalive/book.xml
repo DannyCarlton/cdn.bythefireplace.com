@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1718" title="Manalive" author="Chesterton, Gilbert K." location="C/Gilbert K. Chesterton/Manalive">
+
+	<section type="2" name="Part I: The Enigmas of Innocent Smith">
+			<chapter num="1" title="1. How the Great Wind Came to Beacon House" location="C/Gilbert K. Chesterton/Manalive/1.xml" />
+			<chapter num="2" title="2. The Luggage of an Optimist" location="C/Gilbert K. Chesterton/Manalive/2.xml" />
+			<chapter num="3" title="3. The Banner of Beacon" location="C/Gilbert K. Chesterton/Manalive/3.xml" />
+			<chapter num="4" title="4. The Garden of the God" location="C/Gilbert K. Chesterton/Manalive/4.xml" />
+			<chapter num="5" title="5. The Allegorical Practical Joker" location="C/Gilbert K. Chesterton/Manalive/5.xml" />
+
+	</section>
+	<section type="2" name="Part II: The Explanations of Innocent Smith">
+			<chapter num="6" title="1. The Eye of Death; or, the Murder Charge" location="C/Gilbert K. Chesterton/Manalive/6.xml" />
+			<chapter num="7" title="2. The Two Curates; or, the Burglary Charge" location="C/Gilbert K. Chesterton/Manalive/7.xml" />
+			<chapter num="8" title="3. The Round Road; or, the Desertion Charge" location="C/Gilbert K. Chesterton/Manalive/8.xml" />
+			<chapter num="9" title="4. The Wild Weddings; or, the Polygamy Charge" location="C/Gilbert K. Chesterton/Manalive/9.xml" />
+			<chapter num="10" title="5. How the Great Wind Went from Beacon House" location="C/Gilbert K. Chesterton/Manalive/10.xml" />
+	</section>
+</book>

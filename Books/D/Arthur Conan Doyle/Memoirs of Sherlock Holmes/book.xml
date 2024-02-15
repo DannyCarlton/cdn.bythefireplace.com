@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="332" title="Memoirs of Sherlock Holmes" author="Doyle, Arthur Conan" location="D/Arthur Conan Doyle/Memoirs of Sherlock Holmes">
+			<chapter num="1" title="Adventure I. Silver Blaze" location="D/Arthur Conan Doyle/Memoirs of Sherlock Holmes/1.xml" />
+			<chapter num="2" title="Adventure II. The Yellow Face" location="D/Arthur Conan Doyle/Memoirs of Sherlock Holmes/2.xml" />
+			<chapter num="3" title="Adventure III. The Stock-Broker's Clerk" location="D/Arthur Conan Doyle/Memoirs of Sherlock Holmes/3.xml" />
+			<chapter num="4" title="Adventure IV. The &quot;Gloria Scott&quot;" location="D/Arthur Conan Doyle/Memoirs of Sherlock Holmes/4.xml" />
+			<chapter num="5" title="Adventure V. The Musgrave Ritual" location="D/Arthur Conan Doyle/Memoirs of Sherlock Holmes/5.xml" />
+			<chapter num="6" title="Adventure VI. The Reigate Puzzle" location="D/Arthur Conan Doyle/Memoirs of Sherlock Holmes/6.xml" />
+			<chapter num="7" title="Adventure VII. The Crooked Man" location="D/Arthur Conan Doyle/Memoirs of Sherlock Holmes/7.xml" />
+			<chapter num="8" title="Adventure VIII. The Resident Patient" location="D/Arthur Conan Doyle/Memoirs of Sherlock Holmes/8.xml" />
+			<chapter num="9" title="Adventure IX. The Greek Interpreter" location="D/Arthur Conan Doyle/Memoirs of Sherlock Holmes/9.xml" />
+			<chapter num="10" title="Adventure X. The Naval Treaty" location="D/Arthur Conan Doyle/Memoirs of Sherlock Holmes/10.xml" />
+			<chapter num="11" title="Adventure XI. The Final Problem" location="D/Arthur Conan Doyle/Memoirs of Sherlock Holmes/11.xml" />
+</book>

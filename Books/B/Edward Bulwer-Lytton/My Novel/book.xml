@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40479" title="My Novel" author="Bulwer-Lytton, Edward" location="B/Edward Bulwer-Lytton/My Novel">
+
+	<section type="2" name="Book First.">
+			<chapter num="1" title="Initial Chapter. Showing How My Novel Came to Be Written." location="B/Edward Bulwer-Lytton/My Novel/1.xml" />
+			<chapter num="2" title="Chapter II." location="B/Edward Bulwer-Lytton/My Novel/2.xml" />
+			<chapter num="3" title="Chapter III." location="B/Edward Bulwer-Lytton/My Novel/3.xml" />
+			<chapter num="4" title="Chapter IV." location="B/Edward Bulwer-Lytton/My Novel/4.xml" />
+			<chapter num="5" title="Chapter V." location="B/Edward Bulwer-Lytton/My Novel/5.xml" />
+			<chapter num="6" title="Chapter VI." location="B/Edward Bulwer-Lytton/My Novel/6.xml" />
+			<chapter num="7" title="Chapter VII." location="B/Edward Bulwer-Lytton/My Novel/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="B/Edward Bulwer-Lytton/My Novel/8.xml" />
+			<chapter num="9" title="Chapter IX." location="B/Edward Bulwer-Lytton/My Novel/9.xml" />
+			<chapter num="10" title="Chapter X." location="B/Edward Bulwer-Lytton/My Novel/10.xml" />
+			<chapter num="11" title="Chapter XI." location="B/Edward Bulwer-Lytton/My Novel/11.xml" />
+			<chapter num="12" title="Chapter XII." location="B/Edward Bulwer-Lytton/My Novel/12.xml" />
+			<chapter num="13" title="Chapter XIII." location="B/Edward Bulwer-Lytton/My Novel/13.xml" />
+
+	</section>
+	<section type="2" name="Book Second.">
+			<chapter num="14" title="Initial Chapter. Informing the Reader How This Work Came to Have Initial Chapters." location="B/Edward Bulwer-Lytton/My Novel/14.xml" />
+			<chapter num="15" title="Chapter II." location="B/Edward Bulwer-Lytton/My Novel/15.xml" />
+			<chapter num="16" title="Chapter III." location="B/Edward Bulwer-Lytton/My Novel/16.xml" />
+			<chapter num="17" title="Chapter IV." location="B/Edward Bulwer-Lytton/My Novel/17.xml" />
+			<chapter num="18" title="Chapter V." location="B/Edward Bulwer-Lytton/My Novel/18.xml" />
+			<chapter num="19" title="Chapter VI." location="B/Edward Bulwer-Lytton/My Novel/19.xml" />
+			<chapter num="20" title="Chapter VII." location="B/Edward Bulwer-Lytton/My Novel/20.xml" />
+			<chapter num="21" title="Chapter VIII." location="B/Edward Bulwer-Lytton/My Novel/21.xml" />
+			<chapter num="22" title="Chapter IX." location="B/Edward Bulwer-Lytton/My Novel/22.xml" />
+			<chapter num="23" title="Chapter X." location="B/Edward Bulwer-Lytton/My Novel/23.xml" />
+			<chapter num="24" title="Chapter, XI." location="B/Edward Bulwer-Lytton/My Novel/24.xml" />
+			<chapter num="25" title="Chapter XII." location="B/Edward Bulwer-Lytton/My Novel/25.xml" />
+
+	</section>
+	<section type="2" name="Book Third.">
+			<chapter num="26" title="Initial Chapter. Showing How My Novel Came to Be Called &#8220;My Novel.&#8221;" location="B/Edward Bulwer-Lytton/My Novel/26.xml" />
+			<chapter num="27" title="Chapter II." location="B/Edward Bulwer-Lytton/My Novel/27.xml" />
+			<chapter num="28" title="Chapter III." location="B/Edward Bulwer-Lytton/My Novel/28.xml" />
+			<chapter num="29" title="Chapter IV." location="B/Edward Bulwer-Lytton/My Novel/29.xml" />
+			<chapter num="30" title="Chapter V." location="B/Edward Bulwer-Lytton/My Novel/30.xml" />
+			<chapter num="31" title="Chapter VI." location="B/Edward Bulwer-Lytton/My Novel/31.xml" />
+			<chapter num="32" title="Chapter VII." location="B/Edward Bulwer-Lytton/My Novel/32.xml" />
+			<chapter num="33" title="Chapter VIII." location="B/Edward Bulwer-Lytton/My Novel/33.xml" />
+			<chapter num="34" title="Chapter IX." location="B/Edward Bulwer-Lytton/My Novel/34.xml" />
+			<chapter num="35" title="Chapter X." location="B/Edward Bulwer-Lytton/My Novel/35.xml" />
+			<chapter num="36" title="Chapter XI." location="B/Edward Bulwer-Lytton/My Novel/36.xml" />
+			<chapter num="37" title="Chapter XII." location="B/Edward Bulwer-Lytton/My Novel/37.xml" />
+			<chapter num="38" title="Chapter XIII." location="B/Edward Bulwer-Lytton/My Novel/38.xml" />
+			<chapter num="39" title="Chapter XIV." location="B/Edward Bulwer-Lytton/My Novel/39.xml" />
+			<chapter num="40" title="Chapter XV." location="B/Edward Bulwer-Lytton/My Novel/40.xml" />
+			<chapter num="41" title="Chapter Xvl." location="B/Edward Bulwer-Lytton/My Novel/41.xml" />
+			<chapter num="42" title="Chapter Xvil" location="B/Edward Bulwer-Lytton/My Novel/42.xml" />
+			<chapter num="43" title="Chapter XVIII." location="B/Edward Bulwer-Lytton/My Novel/43.xml" />
+			<chapter num="44" title="Chapter XIX." location="B/Edward Bulwer-Lytton/My Novel/44.xml" />
+			<chapter num="45" title="Chapter XX." location="B/Edward Bulwer-Lytton/My Novel/45.xml" />
+			<chapter num="46" title="Chapter XXI." location="B/Edward Bulwer-Lytton/My Novel/46.xml" />
+			<chapter num="47" title="Chapter XXII." location="B/Edward Bulwer-Lytton/My Novel/47.xml" />
+			<chapter num="48" title="Chapter XXIII." location="B/Edward Bulwer-Lytton/My Novel/48.xml" />
+			<chapter num="49" title="Chapter XXIV." location="B/Edward Bulwer-Lytton/My Novel/49.xml" />
+			<chapter num="50" title="Chapter XXV." location="B/Edward Bulwer-Lytton/My Novel/50.xml" />
+			<chapter num="51" title="Chapter XXVI." location="B/Edward Bulwer-Lytton/My Novel/51.xml" />
+			<chapter num="52" title="Chapter XXVII." location="B/Edward Bulwer-Lytton/My Novel/52.xml" />
+			<chapter num="53" title="Chapter XXVIII." location="B/Edward Bulwer-Lytton/My Novel/53.xml" />
+			<chapter num="54" title="Chapter XXIX." location="B/Edward Bulwer-Lytton/My Novel/54.xml" />
+
+	</section>
+	<section type="2" name="Book Fourth.">
+			<chapter num="55" title="Initial Chapter. Comprising Mr. Caxton's Opinions on the Matrimonial State, Supported by Learned Authorities." location="B/Edward Bulwer-Lytton/My Novel/55.xml" />
+			<chapter num="56" title="Chapter II." location="B/Edward Bulwer-Lytton/My Novel/56.xml" />
+			<chapter num="57" title="Chapter III." location="B/Edward Bulwer-Lytton/My Novel/57.xml" />
+			<chapter num="58" title="Chapter IV." location="B/Edward Bulwer-Lytton/My Novel/58.xml" />
+			<chapter num="59" title="Chapter V." location="B/Edward Bulwer-Lytton/My Novel/59.xml" />
+			<chapter num="60" title="Chapter VI." location="B/Edward Bulwer-Lytton/My Novel/60.xml" />
+			<chapter num="61" title="Chapter VII." location="B/Edward Bulwer-Lytton/My Novel/61.xml" />
+			<chapter num="62" title="Chapter VIII." location="B/Edward Bulwer-Lytton/My Novel/62.xml" />
+			<chapter num="63" title="Chapter IX." location="B/Edward Bulwer-Lytton/My Novel/63.xml" />
+			<chapter num="64" title="Chapter X." location="B/Edward Bulwer-Lytton/My Novel/64.xml" />
+			<chapter num="65" title="Chapter XI." location="B/Edward Bulwer-Lytton/My Novel/65.xml" />
+			<chapter num="66" title="Chapter XII." location="B/Edward Bulwer-Lytton/My Novel/66.xml" />
+			<chapter num="67" title="Chapter XIII." location="B/Edward Bulwer-Lytton/My Novel/67.xml" />
+			<chapter num="68" title="Chapter XIV." location="B/Edward Bulwer-Lytton/My Novel/68.xml" />
+			<chapter num="69" title="Chapter XV." location="B/Edward Bulwer-Lytton/My Novel/69.xml" />
+			<chapter num="70" title="Chapter XVI." location="B/Edward Bulwer-Lytton/My Novel/70.xml" />
+			<chapter num="71" title="Chapter XVII." location="B/Edward Bulwer-Lytton/My Novel/71.xml" />
+			<chapter num="72" title="Chapter XVIII." location="B/Edward Bulwer-Lytton/My Novel/72.xml" />
+			<chapter num="73" title="Chapter XIX." location="B/Edward Bulwer-Lytton/My Novel/73.xml" />
+			<chapter num="74" title="Chapter XX." location="B/Edward Bulwer-Lytton/My Novel/74.xml" />
+			<chapter num="75" title="Chapter XXI." location="B/Edward Bulwer-Lytton/My Novel/75.xml" />
+			<chapter num="76" title="Chapter XXII." location="B/Edward Bulwer-Lytton/My Novel/76.xml" />
+			<chapter num="77" title="Chapter XXIII." location="B/Edward Bulwer-Lytton/My Novel/77.xml" />
+			<chapter num="78" title="Chapter XXIV." location="B/Edward Bulwer-Lytton/My Novel/78.xml" />
+			<chapter num="79" title="Chapter XXV." location="B/Edward Bulwer-Lytton/My Novel/79.xml" />
+
+	</section>
+	<section type="2" name="Book Fifth.">
+			<chapter num="80" title="Initial Chapter. Containing Mr. Caxton's Unavailing Caution Not to Be Dull." location="B/Edward Bulwer-Lytton/My Novel/80.xml" />
+			<chapter num="81" title="Chapter II." location="B/Edward Bulwer-Lytton/My Novel/81.xml" />
+			<chapter num="82" title="Chapter III." location="B/Edward Bulwer-Lytton/My Novel/82.xml" />
+			<chapter num="83" title="Chapter IV." location="B/Edward Bulwer-Lytton/My Novel/83.xml" />
+			<chapter num="84" title="Chapter V." location="B/Edward Bulwer-Lytton/My Novel/84.xml" />
+			<chapter num="85" title="Chapter VI." location="B/Edward Bulwer-Lytton/My Novel/85.xml" />
+			<chapter num="86" title="Chapter VII." location="B/Edward Bulwer-Lytton/My Novel/86.xml" />
+			<chapter num="87" title="Chapter VIII." location="B/Edward Bulwer-Lytton/My Novel/87.xml" />
+			<chapter num="88" title="Chapter IX." location="B/Edward Bulwer-Lytton/My Novel/88.xml" />
+			<chapter num="89" title="Chapter X." location="B/Edward Bulwer-Lytton/My Novel/89.xml" />
+			<chapter num="90" title="Chapter XI." location="B/Edward Bulwer-Lytton/My Novel/90.xml" />
+			<chapter num="91" title="Chapter XII." location="B/Edward Bulwer-Lytton/My Novel/91.xml" />
+			<chapter num="92" title="Chapter XIII." location="B/Edward Bulwer-Lytton/My Novel/92.xml" />
+			<chapter num="93" title="Chapter XIV." location="B/Edward Bulwer-Lytton/My Novel/93.xml" />
+			<chapter num="94" title="Chapter XV." location="B/Edward Bulwer-Lytton/My Novel/94.xml" />
+			<chapter num="95" title="Chapter XVI." location="B/Edward Bulwer-Lytton/My Novel/95.xml" />
+			<chapter num="96" title="Chapter XVII." location="B/Edward Bulwer-Lytton/My Novel/96.xml" />
+			<chapter num="97" title="Chapter XVIII." location="B/Edward Bulwer-Lytton/My Novel/97.xml" />
+			<chapter num="98" title="Chapter XIX." location="B/Edward Bulwer-Lytton/My Novel/98.xml" />
+
+	</section>
+	<section type="2" name="Book Sixth.">
+			<chapter num="99" title="Initial Chapter. Wherein Mr. Caxton Is Profoundly Metaphysical." location="B/Edward Bulwer-Lytton/My Novel/99.xml" />
+			<chapter num="100" title="Chapter II." location="B/Edward Bulwer-Lytton/My Novel/100.xml" />
+			<chapter num="101" title="Chapter III." location="B/Edward Bulwer-Lytton/My Novel/101.xml" />
+			<chapter num="102" title="Chapter IV." location="B/Edward Bulwer-Lytton/My Novel/102.xml" />
+			<chapter num="103" title="Chapter V." location="B/Edward Bulwer-Lytton/My Novel/103.xml" />
+			<chapter num="104" title="Chapter VI." location="B/Edward Bulwer-Lytton/My Novel/104.xml" />
+			<chapter num="105" title="Chapter VII." location="B/Edward Bulwer-Lytton/My Novel/105.xml" />
+			<chapter num="106" title="Chapter VIII." location="B/Edward Bulwer-Lytton/My Novel/106.xml" />
+			<chapter num="107" title="Chapter IX." location="B/Edward Bulwer-Lytton/My Novel/107.xml" />
+			<chapter num="108" title="Chapter IX." location="B/Edward Bulwer-Lytton/My Novel/108.xml" />
+			<chapter num="109" title="Chapter X." location="B/Edward Bulwer-Lytton/My Novel/109.xml" />
+			<chapter num="110" title="Chapter XI." location="B/Edward Bulwer-Lytton/My Novel/110.xml" />
+			<chapter num="111" title="Chapter XII." location="B/Edward Bulwer-Lytton/My Novel/111.xml" />
+			<chapter num="112" title="Chapter XIII." location="B/Edward Bulwer-Lytton/My Novel/112.xml" />
+			<chapter num="113" title="Chapter XIV." location="B/Edward Bulwer-Lytton/My Novel/113.xml" />
+			<chapter num="114" title="Chapter XV." location="B/Edward Bulwer-Lytton/My Novel/114.xml" />
+			<chapter num="115" title="Chapter XVI." location="B/Edward Bulwer-Lytton/My Novel/115.xml" />
+			<chapter num="116" title="Chapter XVII." location="B/Edward Bulwer-Lytton/My Novel/116.xml" />
+			<chapter num="117" title="Chapter XVIII." location="B/Edward Bulwer-Lytton/My Novel/117.xml" />
+			<chapter num="118" title="Chapter XIX." location="B/Edward Bulwer-Lytton/My Novel/118.xml" />
+			<chapter num="119" title="Chapter XX." location="B/Edward Bulwer-Lytton/My Novel/119.xml" />
+			<chapter num="120" title="Chapter XXI." location="B/Edward Bulwer-Lytton/My Novel/120.xml" />
+			<chapter num="121" title="Chapter XXII." location="B/Edward Bulwer-Lytton/My Novel/121.xml" />
+			<chapter num="122" title="Chapter XXIII." location="B/Edward Bulwer-Lytton/My Novel/122.xml" />
+			<chapter num="123" title="Chapter XXIV." location="B/Edward Bulwer-Lytton/My Novel/123.xml" />
+			<chapter num="124" title="Chapter XXV." location="B/Edward Bulwer-Lytton/My Novel/124.xml" />
+
+	</section>
+	<section type="2" name="Book Seventh.">
+			<chapter num="125" title="Initial Chapter. Mr. Caxton Upon Courage and Patience." location="B/Edward Bulwer-Lytton/My Novel/125.xml" />
+			<chapter num="126" title="Chapter II." location="B/Edward Bulwer-Lytton/My Novel/126.xml" />
+			<chapter num="127" title="Chapter III." location="B/Edward Bulwer-Lytton/My Novel/127.xml" />
+			<chapter num="128" title="Chapter IV." location="B/Edward Bulwer-Lytton/My Novel/128.xml" />
+			<chapter num="129" title="Chapter V." location="B/Edward Bulwer-Lytton/My Novel/129.xml" />
+			<chapter num="130" title="Chapter VI." location="B/Edward Bulwer-Lytton/My Novel/130.xml" />
+			<chapter num="131" title="Chapter VII." location="B/Edward Bulwer-Lytton/My Novel/131.xml" />
+			<chapter num="132" title="Chapter VIII." location="B/Edward Bulwer-Lytton/My Novel/132.xml" />
+			<chapter num="133" title="Chapter IX." location="B/Edward Bulwer-Lytton/My Novel/133.xml" />
+			<chapter num="134" title="Chapter X." location="B/Edward Bulwer-Lytton/My Novel/134.xml" />
+			<chapter num="135" title="Chapter XI." location="B/Edward Bulwer-Lytton/My Novel/135.xml" />
+			<chapter num="136" title="Chapter XII." location="B/Edward Bulwer-Lytton/My Novel/136.xml" />
+			<chapter num="137" title="Chapter XIII." location="B/Edward Bulwer-Lytton/My Novel/137.xml" />
+			<chapter num="138" title="Chapter XIV." location="B/Edward Bulwer-Lytton/My Novel/138.xml" />
+			<chapter num="139" title="Chapter XV." location="B/Edward Bulwer-Lytton/My Novel/139.xml" />
+			<chapter num="140" title="Chapter XVI." location="B/Edward Bulwer-Lytton/My Novel/140.xml" />
+			<chapter num="141" title="Chapter XVII." location="B/Edward Bulwer-Lytton/My Novel/141.xml" />
+			<chapter num="142" title="Chapter XVIII." location="B/Edward Bulwer-Lytton/My Novel/142.xml" />
+			<chapter num="143" title="Chapter XIX." location="B/Edward Bulwer-Lytton/My Novel/143.xml" />
+			<chapter num="144" title="Chapter XX." location="B/Edward Bulwer-Lytton/My Novel/144.xml" />
+			<chapter num="145" title="Chapter XXI." location="B/Edward Bulwer-Lytton/My Novel/145.xml" />
+			<chapter num="146" title="Chapter Xxii" location="B/Edward Bulwer-Lytton/My Novel/146.xml" />
+
+	</section>
+	<section type="2" name="Book Eighth.">
+			<chapter num="147" title="Initial Chapter. The Abuse of Intellect." location="B/Edward Bulwer-Lytton/My Novel/147.xml" />
+			<chapter num="148" title="Chapter II." location="B/Edward Bulwer-Lytton/My Novel/148.xml" />
+			<chapter num="149" title="Chapter III." location="B/Edward Bulwer-Lytton/My Novel/149.xml" />
+			<chapter num="150" title="Chapter IV." location="B/Edward Bulwer-Lytton/My Novel/150.xml" />
+			<chapter num="151" title="Chapter V." location="B/Edward Bulwer-Lytton/My Novel/151.xml" />
+			<chapter num="152" title="Chapter VI." location="B/Edward Bulwer-Lytton/My Novel/152.xml" />
+			<chapter num="153" title="Chapter VII." location="B/Edward Bulwer-Lytton/My Novel/153.xml" />
+			<chapter num="154" title="Chapter VIII." location="B/Edward Bulwer-Lytton/My Novel/154.xml" />
+			<chapter num="155" title="Chapter IX." location="B/Edward Bulwer-Lytton/My Novel/155.xml" />
+			<chapter num="156" title="Chapter X." location="B/Edward Bulwer-Lytton/My Novel/156.xml" />
+			<chapter num="157" title="Chapter XI." location="B/Edward Bulwer-Lytton/My Novel/157.xml" />
+			<chapter num="158" title="Chapter XII." location="B/Edward Bulwer-Lytton/My Novel/158.xml" />
+			<chapter num="159" title="Chapter XIII." location="B/Edward Bulwer-Lytton/My Novel/159.xml" />
+			<chapter num="160" title="Chapter XIV." location="B/Edward Bulwer-Lytton/My Novel/160.xml" />
+
+	</section>
+	<section type="2" name="Book Ninth.">
+			<chapter num="161" title="Initial Chapter. On Public Life." location="B/Edward Bulwer-Lytton/My Novel/161.xml" />
+			<chapter num="162" title="Chapter II." location="B/Edward Bulwer-Lytton/My Novel/162.xml" />
+			<chapter num="163" title="Chapter III." location="B/Edward Bulwer-Lytton/My Novel/163.xml" />
+			<chapter num="164" title="Chapter IV." location="B/Edward Bulwer-Lytton/My Novel/164.xml" />
+			<chapter num="165" title="Chapter V." location="B/Edward Bulwer-Lytton/My Novel/165.xml" />
+			<chapter num="166" title="Chapter VI." location="B/Edward Bulwer-Lytton/My Novel/166.xml" />
+			<chapter num="167" title="Chapter VII." location="B/Edward Bulwer-Lytton/My Novel/167.xml" />
+			<chapter num="168" title="Chapter VIII." location="B/Edward Bulwer-Lytton/My Novel/168.xml" />
+			<chapter num="169" title="Chapter IX." location="B/Edward Bulwer-Lytton/My Novel/169.xml" />
+			<chapter num="170" title="Chapter X." location="B/Edward Bulwer-Lytton/My Novel/170.xml" />
+			<chapter num="171" title="Chapter XI." location="B/Edward Bulwer-Lytton/My Novel/171.xml" />
+			<chapter num="172" title="Chapter XII." location="B/Edward Bulwer-Lytton/My Novel/172.xml" />
+			<chapter num="173" title="Chapter XIII." location="B/Edward Bulwer-Lytton/My Novel/173.xml" />
+			<chapter num="174" title="Chapter XIV." location="B/Edward Bulwer-Lytton/My Novel/174.xml" />
+			<chapter num="175" title="Chapter XV." location="B/Edward Bulwer-Lytton/My Novel/175.xml" />
+			<chapter num="176" title="Chapter XVI." location="B/Edward Bulwer-Lytton/My Novel/176.xml" />
+			<chapter num="177" title="Chapter XVII." location="B/Edward Bulwer-Lytton/My Novel/177.xml" />
+
+	</section>
+	<section type="2" name="Book Tenth.">
+			<chapter num="178" title="Initial Chapter. Upon This Fact,. That the World Is Still Much the Same As It Always Has Been." location="B/Edward Bulwer-Lytton/My Novel/178.xml" />
+			<chapter num="179" title="Chapter II." location="B/Edward Bulwer-Lytton/My Novel/179.xml" />
+			<chapter num="180" title="Chapter III." location="B/Edward Bulwer-Lytton/My Novel/180.xml" />
+			<chapter num="181" title="Chapter IV." location="B/Edward Bulwer-Lytton/My Novel/181.xml" />
+			<chapter num="182" title="Chapter V." location="B/Edward Bulwer-Lytton/My Novel/182.xml" />
+			<chapter num="183" title="Chapter VI." location="B/Edward Bulwer-Lytton/My Novel/183.xml" />
+			<chapter num="184" title="Chapter VII." location="B/Edward Bulwer-Lytton/My Novel/184.xml" />
+			<chapter num="185" title="Chapter VIII." location="B/Edward Bulwer-Lytton/My Novel/185.xml" />
+			<chapter num="186" title="Chapter IX." location="B/Edward Bulwer-Lytton/My Novel/186.xml" />
+			<chapter num="187" title="Chapter X." location="B/Edward Bulwer-Lytton/My Novel/187.xml" />
+			<chapter num="188" title="Chapter XI." location="B/Edward Bulwer-Lytton/My Novel/188.xml" />
+			<chapter num="189" title="Chapter XII." location="B/Edward Bulwer-Lytton/My Novel/189.xml" />
+			<chapter num="190" title="Chapter XIII." location="B/Edward Bulwer-Lytton/My Novel/190.xml" />
+			<chapter num="191" title="Chapter XIV." location="B/Edward Bulwer-Lytton/My Novel/191.xml" />
+			<chapter num="192" title="Chapter XV." location="B/Edward Bulwer-Lytton/My Novel/192.xml" />
+			<chapter num="193" title="Chapter XVI." location="B/Edward Bulwer-Lytton/My Novel/193.xml" />
+			<chapter num="194" title="Chapter XVII." location="B/Edward Bulwer-Lytton/My Novel/194.xml" />
+			<chapter num="195" title="Chapter XVIII." location="B/Edward Bulwer-Lytton/My Novel/195.xml" />
+			<chapter num="196" title="Chapter XIX." location="B/Edward Bulwer-Lytton/My Novel/196.xml" />
+			<chapter num="197" title="Chapter XX." location="B/Edward Bulwer-Lytton/My Novel/197.xml" />
+			<chapter num="198" title="Chapter XXI." location="B/Edward Bulwer-Lytton/My Novel/198.xml" />
+			<chapter num="199" title="Chapter XXII." location="B/Edward Bulwer-Lytton/My Novel/199.xml" />
+			<chapter num="200" title="Chapter XXIII." location="B/Edward Bulwer-Lytton/My Novel/200.xml" />
+			<chapter num="201" title="Chapter XXIV." location="B/Edward Bulwer-Lytton/My Novel/201.xml" />
+			<chapter num="202" title="Chapter XXV." location="B/Edward Bulwer-Lytton/My Novel/202.xml" />
+
+	</section>
+	<section type="2" name="Book Eleventh.">
+			<chapter num="203" title="Initial Chapter. On the Importance Of Hate As an Agent in Civilized Life." location="B/Edward Bulwer-Lytton/My Novel/203.xml" />
+			<chapter num="204" title="Chapter II." location="B/Edward Bulwer-Lytton/My Novel/204.xml" />
+			<chapter num="205" title="Chapter III." location="B/Edward Bulwer-Lytton/My Novel/205.xml" />
+			<chapter num="206" title="Chapter IV." location="B/Edward Bulwer-Lytton/My Novel/206.xml" />
+			<chapter num="207" title="Chapter V." location="B/Edward Bulwer-Lytton/My Novel/207.xml" />
+			<chapter num="208" title="Chapter VI." location="B/Edward Bulwer-Lytton/My Novel/208.xml" />
+			<chapter num="209" title="Chapter VII." location="B/Edward Bulwer-Lytton/My Novel/209.xml" />
+			<chapter num="210" title="Chapter VIII." location="B/Edward Bulwer-Lytton/My Novel/210.xml" />
+			<chapter num="211" title="Chapter IX." location="B/Edward Bulwer-Lytton/My Novel/211.xml" />
+			<chapter num="212" title="Chapter X." location="B/Edward Bulwer-Lytton/My Novel/212.xml" />
+			<chapter num="213" title="Chapter XI." location="B/Edward Bulwer-Lytton/My Novel/213.xml" />
+			<chapter num="214" title="Chapter XII." location="B/Edward Bulwer-Lytton/My Novel/214.xml" />
+			<chapter num="215" title="Chapter XIII." location="B/Edward Bulwer-Lytton/My Novel/215.xml" />
+			<chapter num="216" title="Chapter XIV." location="B/Edward Bulwer-Lytton/My Novel/216.xml" />
+			<chapter num="217" title="Chapter XV." location="B/Edward Bulwer-Lytton/My Novel/217.xml" />
+			<chapter num="218" title="Chapter XVI." location="B/Edward Bulwer-Lytton/My Novel/218.xml" />
+			<chapter num="219" title="Chapter XVII." location="B/Edward Bulwer-Lytton/My Novel/219.xml" />
+			<chapter num="220" title="Chapter XVIII." location="B/Edward Bulwer-Lytton/My Novel/220.xml" />
+			<chapter num="221" title="Chapter XIX." location="B/Edward Bulwer-Lytton/My Novel/221.xml" />
+			<chapter num="222" title="Chapter XX." location="B/Edward Bulwer-Lytton/My Novel/222.xml" />
+
+	</section>
+	<section type="2" name="Book Twelfth.">
+			<chapter num="223" title="Initial Chapter. Wherein the Caxton Family Reappear." location="B/Edward Bulwer-Lytton/My Novel/223.xml" />
+			<chapter num="224" title="Chapter II." location="B/Edward Bulwer-Lytton/My Novel/224.xml" />
+			<chapter num="225" title="Chapter III." location="B/Edward Bulwer-Lytton/My Novel/225.xml" />
+			<chapter num="226" title="Chapter IV." location="B/Edward Bulwer-Lytton/My Novel/226.xml" />
+			<chapter num="227" title="Chapter V." location="B/Edward Bulwer-Lytton/My Novel/227.xml" />
+			<chapter num="228" title="Chapter VI." location="B/Edward Bulwer-Lytton/My Novel/228.xml" />
+			<chapter num="229" title="Chapter VII." location="B/Edward Bulwer-Lytton/My Novel/229.xml" />
+			<chapter num="230" title="Chapter VIII." location="B/Edward Bulwer-Lytton/My Novel/230.xml" />
+			<chapter num="231" title="Chapter IX." location="B/Edward Bulwer-Lytton/My Novel/231.xml" />
+			<chapter num="232" title="Chapter X." location="B/Edward Bulwer-Lytton/My Novel/232.xml" />
+			<chapter num="233" title="Chapter XI." location="B/Edward Bulwer-Lytton/My Novel/233.xml" />
+			<chapter num="234" title="Chapter XII." location="B/Edward Bulwer-Lytton/My Novel/234.xml" />
+			<chapter num="235" title="Chapter XIII." location="B/Edward Bulwer-Lytton/My Novel/235.xml" />
+			<chapter num="236" title="Chapter XIV." location="B/Edward Bulwer-Lytton/My Novel/236.xml" />
+			<chapter num="237" title="Chapter XV." location="B/Edward Bulwer-Lytton/My Novel/237.xml" />
+			<chapter num="238" title="Chapter XVI." location="B/Edward Bulwer-Lytton/My Novel/238.xml" />
+			<chapter num="239" title="Chapter XVII." location="B/Edward Bulwer-Lytton/My Novel/239.xml" />
+			<chapter num="240" title="Chapter XVII." location="B/Edward Bulwer-Lytton/My Novel/240.xml" />
+			<chapter num="241" title="Chapter XIX." location="B/Edward Bulwer-Lytton/My Novel/241.xml" />
+			<chapter num="242" title="Chapter XX." location="B/Edward Bulwer-Lytton/My Novel/242.xml" />
+			<chapter num="243" title="Chapter XXI." location="B/Edward Bulwer-Lytton/My Novel/243.xml" />
+			<chapter num="244" title="Chapter XXII." location="B/Edward Bulwer-Lytton/My Novel/244.xml" />
+			<chapter num="245" title="Chapter XXIII." location="B/Edward Bulwer-Lytton/My Novel/245.xml" />
+			<chapter num="246" title="Chapter XXIV." location="B/Edward Bulwer-Lytton/My Novel/246.xml" />
+			<chapter num="247" title="Chapter XXV." location="B/Edward Bulwer-Lytton/My Novel/247.xml" />
+			<chapter num="248" title="Chapter XXVI." location="B/Edward Bulwer-Lytton/My Novel/248.xml" />
+			<chapter num="249" title="Chapter XXVII." location="B/Edward Bulwer-Lytton/My Novel/249.xml" />
+			<chapter num="250" title="Chapter XXVIII." location="B/Edward Bulwer-Lytton/My Novel/250.xml" />
+			<chapter num="251" title="Chapter XXIX." location="B/Edward Bulwer-Lytton/My Novel/251.xml" />
+			<chapter num="252" title="Chapter XXX." location="B/Edward Bulwer-Lytton/My Novel/252.xml" />
+			<chapter num="253" title="Chapter XXXI." location="B/Edward Bulwer-Lytton/My Novel/253.xml" />
+			<chapter num="254" title="Chapter XXXII." location="B/Edward Bulwer-Lytton/My Novel/254.xml" />
+			<chapter num="255" title="Chapter XXXIII." location="B/Edward Bulwer-Lytton/My Novel/255.xml" />
+			<chapter num="256" title="Chapter XXXIV." location="B/Edward Bulwer-Lytton/My Novel/256.xml" />
+	</section>
+</book>

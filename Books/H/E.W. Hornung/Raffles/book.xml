@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1918" title="Raffles" author="Hornung, E.W." location="H/E.W. Hornung/Raffles">
+		<section type="1" name="No Sinecure">
+			<chapter num="1" title="I" location="H/E.W. Hornung/Raffles/1.xml" />
+			<chapter num="2" title="II" location="H/E.W. Hornung/Raffles/2.xml" />
+			<chapter num="3" title="III" location="H/E.W. Hornung/Raffles/3.xml" />
+			<chapter num="4" title="A Jubilee Present" location="H/E.W. Hornung/Raffles/4.xml" />
+			<chapter num="5" title="The Last Laugh" location="H/E.W. Hornung/Raffles/5.xml" />
+		</section>
+		<section type="1" name="To Catch a Thief">
+			<chapter num="6" title="I" location="H/E.W. Hornung/Raffles/6.xml" />
+			<chapter num="7" title="II" location="H/E.W. Hornung/Raffles/7.xml" />
+			<chapter num="8" title="III" location="H/E.W. Hornung/Raffles/8.xml" />
+		</section>
+		<section type="1" name="An Old Flame">
+			<chapter num="9" title="I" location="H/E.W. Hornung/Raffles/9.xml" />
+			<chapter num="10" title="II" location="H/E.W. Hornung/Raffles/10.xml" />
+			<chapter num="11" title="The Wrong House" location="H/E.W. Hornung/Raffles/11.xml" />
+		</section>
+		<section type="1" name="The Knees of the Gods">
+			<chapter num="12" title="I" location="H/E.W. Hornung/Raffles/12.xml" />
+			<chapter num="13" title="II" location="H/E.W. Hornung/Raffles/13.xml" />
+			<chapter num="14" title="III" location="H/E.W. Hornung/Raffles/14.xml" />
+			<chapter num="15" title="IV" location="H/E.W. Hornung/Raffles/15.xml" />
+		</section>
+</book>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1385" title="Life and Adventures of Santa Claus, The" author="Baum, L. Frank" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The">
+		<section type="1" name="Youth">
+			<chapter num="1" title="1. Burzee" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/1.xml" />
+			<chapter num="2" title="2. The Child of the Forest" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/2.xml" />
+			<chapter num="3" title="3. The Adoption" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/3.xml" />
+			<chapter num="4" title="4. Claus" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/4.xml" />
+			<chapter num="5" title="5. The Master Woodsman" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/5.xml" />
+			<chapter num="6" title="6. Claus Discovers Humanity" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/6.xml" />
+			<chapter num="7" title="7. Claus Leaves the Forest" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/7.xml" />
+		</section>
+		<section type="1" name="Manhood">
+			<chapter num="8" title="1. The Laughing Valley" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/8.xml" />
+			<chapter num="9" title="2. How Claus Made the First Toy" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/9.xml" />
+			<chapter num="10" title="3. How the Ryls Colored the Toys" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/10.xml" />
+			<chapter num="11" title="4. How Little Mayrie Became Frightened" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/11.xml" />
+			<chapter num="12" title="5. How Bessie Blithesome Came to the Laughing Valley" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/12.xml" />
+			<chapter num="13" title="6. The Wickedness of the Awgwas" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/13.xml" />
+			<chapter num="14" title="7. The Great Battle Between Good and Evil" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/14.xml" />
+			<chapter num="15" title="8. The First Journey with the Reindeer" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/15.xml" />
+			<chapter num="16" title="9. &quot;Santa Claus!&quot;" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/16.xml" />
+			<chapter num="17" title="10. Christmas Eve" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/17.xml" />
+			<chapter num="18" title="11. How the First Stockings Were Hung by the Chimneys" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/18.xml" />
+			<chapter num="19" title="12. The First Christmas Tree" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/19.xml" />
+		</section>
+		<section type="1" name="Old Age">
+			<chapter num="20" title="1. The Mantle of Immortality" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/20.xml" />
+			<chapter num="21" title="2. When the World Grew Old" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/21.xml" />
+			<chapter num="22" title="3. The Deputies of Santa Claus" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/22.xml" />
+		</section>
+</book>

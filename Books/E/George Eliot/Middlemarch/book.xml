@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1212" title="Middlemarch" author="Eliot, George" location="E/George Eliot/Middlemarch">
+		<section type="1" name="Book I. Miss Brooke">
+			<chapter num="1" title="Chapter I." location="E/George Eliot/Middlemarch/1.xml" />
+			<chapter num="2" title="Chapter II." location="E/George Eliot/Middlemarch/2.xml" />
+			<chapter num="3" title="Chapter III." location="E/George Eliot/Middlemarch/3.xml" />
+			<chapter num="4" title="Chapter IV." location="E/George Eliot/Middlemarch/4.xml" />
+			<chapter num="5" title="Chapter V." location="E/George Eliot/Middlemarch/5.xml" />
+			<chapter num="6" title="Chapter VI." location="E/George Eliot/Middlemarch/6.xml" />
+			<chapter num="7" title="Chapter VII." location="E/George Eliot/Middlemarch/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="E/George Eliot/Middlemarch/8.xml" />
+			<chapter num="9" title="Chapter IX." location="E/George Eliot/Middlemarch/9.xml" />
+			<chapter num="10" title="Chapter X." location="E/George Eliot/Middlemarch/10.xml" />
+			<chapter num="11" title="Chapter XI." location="E/George Eliot/Middlemarch/11.xml" />
+			<chapter num="12" title="Chapter XII." location="E/George Eliot/Middlemarch/12.xml" />
+		</section>
+		<section type="1" name="Book II. Old and Young">
+			<chapter num="13" title="Chapter XIII." location="E/George Eliot/Middlemarch/13.xml" />
+			<chapter num="14" title="Chapter XIV." location="E/George Eliot/Middlemarch/14.xml" />
+			<chapter num="15" title="Chapter XV." location="E/George Eliot/Middlemarch/15.xml" />
+			<chapter num="16" title="Chapter XVI." location="E/George Eliot/Middlemarch/16.xml" />
+			<chapter num="17" title="Chapter XVII." location="E/George Eliot/Middlemarch/17.xml" />
+			<chapter num="18" title="Chapter XVIII." location="E/George Eliot/Middlemarch/18.xml" />
+			<chapter num="19" title="Chapter XIX." location="E/George Eliot/Middlemarch/19.xml" />
+			<chapter num="20" title="Chapter XX." location="E/George Eliot/Middlemarch/20.xml" />
+			<chapter num="21" title="Chapter XXI." location="E/George Eliot/Middlemarch/21.xml" />
+			<chapter num="22" title="Chapter XXII." location="E/George Eliot/Middlemarch/22.xml" />
+		</section>
+		<section type="1" name="Book III. Waiting for Death">
+			<chapter num="23" title="Chapter XXIII." location="E/George Eliot/Middlemarch/23.xml" />
+			<chapter num="24" title="Chapter XXIV." location="E/George Eliot/Middlemarch/24.xml" />
+			<chapter num="25" title="Chapter XXV." location="E/George Eliot/Middlemarch/25.xml" />
+			<chapter num="26" title="Chapter XXVI." location="E/George Eliot/Middlemarch/26.xml" />
+			<chapter num="27" title="Chapter XXVII." location="E/George Eliot/Middlemarch/27.xml" />
+			<chapter num="28" title="Chapter XXVIII." location="E/George Eliot/Middlemarch/28.xml" />
+			<chapter num="29" title="Chapter XXIX." location="E/George Eliot/Middlemarch/29.xml" />
+			<chapter num="30" title="Chapter XXX." location="E/George Eliot/Middlemarch/30.xml" />
+			<chapter num="31" title="Chapter XXXI." location="E/George Eliot/Middlemarch/31.xml" />
+			<chapter num="32" title="Chapter XXXII." location="E/George Eliot/Middlemarch/32.xml" />
+			<chapter num="33" title="Chapter XXXIII." location="E/George Eliot/Middlemarch/33.xml" />
+		</section>
+		<section type="1" name="Book IV. Three Love Problems">
+			<chapter num="34" title="Chapter XXXIV." location="E/George Eliot/Middlemarch/34.xml" />
+			<chapter num="35" title="Chapter XXXV." location="E/George Eliot/Middlemarch/35.xml" />
+			<chapter num="36" title="Chapter XXXVI." location="E/George Eliot/Middlemarch/36.xml" />
+			<chapter num="37" title="Chapter XXXVII." location="E/George Eliot/Middlemarch/37.xml" />
+			<chapter num="38" title="Chapter XXXVIII." location="E/George Eliot/Middlemarch/38.xml" />
+			<chapter num="39" title="Chapter XXXIX." location="E/George Eliot/Middlemarch/39.xml" />
+			<chapter num="40" title="Chapter XL." location="E/George Eliot/Middlemarch/40.xml" />
+			<chapter num="41" title="Chapter XLI." location="E/George Eliot/Middlemarch/41.xml" />
+			<chapter num="42" title="Chapter XLII." location="E/George Eliot/Middlemarch/42.xml" />
+		</section>
+		<section type="1" name="Book V. The Dead Hand">
+			<chapter num="43" title="Chapter XLIII." location="E/George Eliot/Middlemarch/43.xml" />
+			<chapter num="44" title="Chapter XLIV." location="E/George Eliot/Middlemarch/44.xml" />
+			<chapter num="45" title="Chapter XLV." location="E/George Eliot/Middlemarch/45.xml" />
+			<chapter num="46" title="Chapter XLVI." location="E/George Eliot/Middlemarch/46.xml" />
+			<chapter num="47" title="Chapter XLVII." location="E/George Eliot/Middlemarch/47.xml" />
+			<chapter num="48" title="Chapter XLVIII" location="E/George Eliot/Middlemarch/48.xml" />
+			<chapter num="49" title="Chapter XLIX." location="E/George Eliot/Middlemarch/49.xml" />
+			<chapter num="50" title="Chapter L." location="E/George Eliot/Middlemarch/50.xml" />
+			<chapter num="51" title="Chapter LI." location="E/George Eliot/Middlemarch/51.xml" />
+			<chapter num="52" title="Chapter LII." location="E/George Eliot/Middlemarch/52.xml" />
+			<chapter num="53" title="Chapter LIII." location="E/George Eliot/Middlemarch/53.xml" />
+		</section>
+		<section type="1" name="Book VI. The Widow and the Wife">
+			<chapter num="54" title="Chapter LIV." location="E/George Eliot/Middlemarch/54.xml" />
+			<chapter num="55" title="Chapter LV." location="E/George Eliot/Middlemarch/55.xml" />
+			<chapter num="56" title="Chapter LVI." location="E/George Eliot/Middlemarch/56.xml" />
+			<chapter num="57" title="Chapter LVII." location="E/George Eliot/Middlemarch/57.xml" />
+			<chapter num="58" title="Chapter LVIII." location="E/George Eliot/Middlemarch/58.xml" />
+			<chapter num="59" title="Chapter LIX." location="E/George Eliot/Middlemarch/59.xml" />
+			<chapter num="60" title="Chapter LX." location="E/George Eliot/Middlemarch/60.xml" />
+			<chapter num="61" title="Chapter LXI." location="E/George Eliot/Middlemarch/61.xml" />
+			<chapter num="62" title="Chapter LXII." location="E/George Eliot/Middlemarch/62.xml" />
+		</section>
+		<section type="1" name="Book VII. Two Temptations">
+			<chapter num="63" title="Chapter LXIII." location="E/George Eliot/Middlemarch/63.xml" />
+			<chapter num="64" title="Chapter LXIV." location="E/George Eliot/Middlemarch/64.xml" />
+			<chapter num="65" title="Chapter LXV." location="E/George Eliot/Middlemarch/65.xml" />
+			<chapter num="66" title="Chapter LXVI." location="E/George Eliot/Middlemarch/66.xml" />
+			<chapter num="67" title="Chapter LXVII." location="E/George Eliot/Middlemarch/67.xml" />
+			<chapter num="68" title="Chapter LXVIII." location="E/George Eliot/Middlemarch/68.xml" />
+			<chapter num="69" title="Chapter LXIX." location="E/George Eliot/Middlemarch/69.xml" />
+			<chapter num="70" title="Chapter LXX." location="E/George Eliot/Middlemarch/70.xml" />
+			<chapter num="71" title="Chapter LXXI." location="E/George Eliot/Middlemarch/71.xml" />
+		</section>
+		<section type="1" name="Book VIII. Sunset and Sunrise">
+			<chapter num="72" title="Chapter LXXII." location="E/George Eliot/Middlemarch/72.xml" />
+			<chapter num="73" title="Chapter LXXIII." location="E/George Eliot/Middlemarch/73.xml" />
+			<chapter num="74" title="Chapter LXXIV." location="E/George Eliot/Middlemarch/74.xml" />
+			<chapter num="75" title="Chapter LXXV." location="E/George Eliot/Middlemarch/75.xml" />
+			<chapter num="76" title="Chapter LXXVI." location="E/George Eliot/Middlemarch/76.xml" />
+			<chapter num="77" title="Chapter LXXVII." location="E/George Eliot/Middlemarch/77.xml" />
+			<chapter num="78" title="Chapter LXXVIII." location="E/George Eliot/Middlemarch/78.xml" />
+			<chapter num="79" title="Chapter LXXIX." location="E/George Eliot/Middlemarch/79.xml" />
+			<chapter num="80" title="Chapter LXXX." location="E/George Eliot/Middlemarch/80.xml" />
+			<chapter num="81" title="Chapter LXXXI." location="E/George Eliot/Middlemarch/81.xml" />
+			<chapter num="82" title="Chapter LXXXII." location="E/George Eliot/Middlemarch/82.xml" />
+			<chapter num="83" title="Chapter LXXXIII." location="E/George Eliot/Middlemarch/83.xml" />
+			<chapter num="84" title="Chapter LXXXIV." location="E/George Eliot/Middlemarch/84.xml" />
+			<chapter num="85" title="Chapter LIXXV." location="E/George Eliot/Middlemarch/85.xml" />
+			<chapter num="86" title="Finale." location="E/George Eliot/Middlemarch/86.xml" />
+		</section>
+</book>

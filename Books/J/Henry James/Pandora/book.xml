@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="70" title="Pandora" author="James, Henry" location="J/Henry James/Pandora">
+			<chapter num="1" title="Chapter I" location="J/Henry James/Pandora/1.xml" />
+			<chapter num="2" title="Chapter II" location="J/Henry James/Pandora/2.xml" />
+</book>

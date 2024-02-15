@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1785" title="Story of Julia Page, The" author="Norris, Kathleen Thompson" location="N/Kathleen Thompson Norris/Story of Julia Page, The">
+		<section type="1" name="Part One">
+			<chapter num="1" title="Chapter I" location="N/Kathleen Thompson Norris/Story of Julia Page, The/1.xml" />
+			<chapter num="2" title="Chapter II" location="N/Kathleen Thompson Norris/Story of Julia Page, The/2.xml" />
+			<chapter num="3" title="Chapter III" location="N/Kathleen Thompson Norris/Story of Julia Page, The/3.xml" />
+			<chapter num="4" title="Chapter IV" location="N/Kathleen Thompson Norris/Story of Julia Page, The/4.xml" />
+			<chapter num="5" title="Chapter V" location="N/Kathleen Thompson Norris/Story of Julia Page, The/5.xml" />
+			<chapter num="6" title="Chapter VI" location="N/Kathleen Thompson Norris/Story of Julia Page, The/6.xml" />
+			<chapter num="7" title="Chapter VII" location="N/Kathleen Thompson Norris/Story of Julia Page, The/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="N/Kathleen Thompson Norris/Story of Julia Page, The/8.xml" />
+		</section>
+		<section type="1" name="Part Two">
+			<chapter num="9" title="Chapter I" location="N/Kathleen Thompson Norris/Story of Julia Page, The/9.xml" />
+			<chapter num="10" title="Chapter II" location="N/Kathleen Thompson Norris/Story of Julia Page, The/10.xml" />
+			<chapter num="11" title="Chapter III" location="N/Kathleen Thompson Norris/Story of Julia Page, The/11.xml" />
+			<chapter num="12" title="Chapter IV" location="N/Kathleen Thompson Norris/Story of Julia Page, The/12.xml" />
+			<chapter num="13" title="Chapter V" location="N/Kathleen Thompson Norris/Story of Julia Page, The/13.xml" />
+			<chapter num="14" title="Chapter VI" location="N/Kathleen Thompson Norris/Story of Julia Page, The/14.xml" />
+			<chapter num="15" title="Chapter VII" location="N/Kathleen Thompson Norris/Story of Julia Page, The/15.xml" />
+			<chapter num="16" title="Chapter VIII" location="N/Kathleen Thompson Norris/Story of Julia Page, The/16.xml" />
+			<chapter num="17" title="Chapter IX" location="N/Kathleen Thompson Norris/Story of Julia Page, The/17.xml" />
+		</section>
+</book>

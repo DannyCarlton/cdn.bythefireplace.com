@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1824" title="Romany Of The Snows" author="Parker, Gilbert" location="P/Gilbert Parker/Romany Of The Snows">
+			<chapter num="1" title="Introduction" location="P/Gilbert Parker/Romany Of The Snows/1.xml" />
+		<section type="1" name="Volume I">
+			<chapter num="2" title="Across the Jumping Sandhills" location="P/Gilbert Parker/Romany Of The Snows/2.xml" />
+			<chapter num="3" title="A Lovely Bully" location="P/Gilbert Parker/Romany Of The Snows/3.xml" />
+			<chapter num="4" title="The Filibuster" location="P/Gilbert Parker/Romany Of The Snows/4.xml" />
+			<chapter num="5" title="The Gift of the Simple King" location="P/Gilbert Parker/Romany Of The Snows/5.xml" />
+		</section>
+		<section type="1" name="Volume II">
+			<chapter num="6" title="Malachi" location="P/Gilbert Parker/Romany Of The Snows/6.xml" />
+			<chapter num="7" title="The Lake of the Great Slave" location="P/Gilbert Parker/Romany Of The Snows/7.xml" />
+			<chapter num="8" title="The Red Patrol" location="P/Gilbert Parker/Romany Of The Snows/8.xml" />
+			<chapter num="9" title="The Going of the White Swan" location="P/Gilbert Parker/Romany Of The Snows/9.xml" />
+			<chapter num="10" title="At Bamber's Boom" location="P/Gilbert Parker/Romany Of The Snows/10.xml" />
+		</section>
+		<section type="1" name="Volume III">
+			<chapter num="11" title="The Bridge House" location="P/Gilbert Parker/Romany Of The Snows/11.xml" />
+			<chapter num="12" title="The Epaulettes" location="P/Gilbert Parker/Romany Of The Snows/12.xml" />
+			<chapter num="13" title="The House With the Broken Shutter" location="P/Gilbert Parker/Romany Of The Snows/13.xml" />
+			<chapter num="14" title="The Finding of Fingall" location="P/Gilbert Parker/Romany Of The Snows/14.xml" />
+			<chapter num="15" title="Three Commandments in the Vulgar Tongue" location="P/Gilbert Parker/Romany Of The Snows/15.xml" />
+		</section>
+		<section type="1" name="Volume IV">
+			<chapter num="16" title="Little Babiche" location="P/Gilbert Parker/Romany Of The Snows/16.xml" />
+			<chapter num="17" title="At Point O' Bugles" location="P/Gilbert Parker/Romany Of The Snows/17.xml" />
+			<chapter num="18" title="The Spoil of the Puma" location="P/Gilbert Parker/Romany Of The Snows/18.xml" />
+			<chapter num="19" title="The Trail of the Sun Dogs" location="P/Gilbert Parker/Romany Of The Snows/19.xml" />
+			<chapter num="20" title="The Pilot of Belle Amour" location="P/Gilbert Parker/Romany Of The Snows/20.xml" />
+		</section>
+		<section type="1" name="Volume V">
+			<chapter num="21" title="The Cruise of the &quot;Ninety-Nine&quot;" location="P/Gilbert Parker/Romany Of The Snows/21.xml" />
+			<chapter num="22" title="Romany of the Snows" location="P/Gilbert Parker/Romany Of The Snows/22.xml" />
+			<chapter num="23" title="The Plunderer" location="P/Gilbert Parker/Romany Of The Snows/23.xml" />
+		</section>
+</book>

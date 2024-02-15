@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40262" title="Chronicles of the Canongate" author="Scott, Walter" location="S/Walter Scott/Chronicles of the Canongate">
+			<chapter num="1" title="Introduction to Chronicles of the Canongate." location="S/Walter Scott/Chronicles of the Canongate/1.xml" />
+
+	<section type="2" name="Chronicles of the Canongate  -Introductory.">
+			<chapter num="2" title="Chapter I. Mr. Chrystal Croftangry's Account of Himself." location="S/Walter Scott/Chronicles of the Canongate/2.xml" />
+			<chapter num="3" title="Chapter II. In Which Mr. Croftangry Continues His Story." location="S/Walter Scott/Chronicles of the Canongate/3.xml" />
+			<chapter num="4" title="Chapter III. Mr. Croftangry, Inter Alia, Revisits Glentanner." location="S/Walter Scott/Chronicles of the Canongate/4.xml" />
+			<chapter num="5" title="Chapter IV. Mr. Croftangry Bids Adieu to Clydesdale." location="S/Walter Scott/Chronicles of the Canongate/5.xml" />
+			<chapter num="6" title="Chapter V. Mr. Croftangry Settles in the Canongate." location="S/Walter Scott/Chronicles of the Canongate/6.xml" />
+			<chapter num="7" title="Chapter VI. Mr. Croftangry's Account of Mrs. Bethune Baliol." location="S/Walter Scott/Chronicles of the Canongate/7.xml" />
+			<chapter num="8" title="Chapter VII. Mrs. Baliol Assists Mr. Croftangry in His Literary Speculations." location="S/Walter Scott/Chronicles of the Canongate/8.xml" />
+
+	</section>
+	<section type="2" name="The Highland Widow">
+			<chapter num="9" title="Chapter I." location="S/Walter Scott/Chronicles of the Canongate/9.xml" />
+			<chapter num="10" title="Chapter II." location="S/Walter Scott/Chronicles of the Canongate/10.xml" />
+			<chapter num="11" title="Chapter III." location="S/Walter Scott/Chronicles of the Canongate/11.xml" />
+			<chapter num="12" title="Chapter IV." location="S/Walter Scott/Chronicles of the Canongate/12.xml" />
+			<chapter num="13" title="Chapter V." location="S/Walter Scott/Chronicles of the Canongate/13.xml" />
+
+	</section>
+	<section type="2" name="The Two Drovers.">
+			<chapter num="14" title="Chapter I." location="S/Walter Scott/Chronicles of the Canongate/14.xml" />
+			<chapter num="15" title="Chapter II." location="S/Walter Scott/Chronicles of the Canongate/15.xml" />
+	</section>
+</book>

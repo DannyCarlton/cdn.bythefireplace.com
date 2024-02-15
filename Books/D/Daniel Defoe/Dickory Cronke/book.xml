@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2" title="Dickory Cronke" author="Defoe, Daniel" location="D/Daniel Defoe/Dickory Cronke">
+			<chapter num="1" title="Preface" location="D/Daniel Defoe/Dickory Cronke/1.xml" />
+			<chapter num="2" title="Part I" location="D/Daniel Defoe/Dickory Cronke/2.xml" />
+			<chapter num="3" title="Part II" location="D/Daniel Defoe/Dickory Cronke/3.xml" />
+			<chapter num="4" title="Part III" location="D/Daniel Defoe/Dickory Cronke/4.xml" />
+			<chapter num="5" title="Epitaph" location="D/Daniel Defoe/Dickory Cronke/5.xml" />
+</book>

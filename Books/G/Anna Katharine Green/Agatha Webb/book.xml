@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2410" title="Agatha Webb" author="Green, Anna Katharine" location="G/Anna Katharine Green/Agatha Webb">
+		<section type="1" name="Book I. The Purple Orchid">
+			<chapter num="1" title="I. A Cry on the Hill" location="G/Anna Katharine Green/Agatha Webb/1.xml" />
+			<chapter num="2" title="II. One Night's Work" location="G/Anna Katharine Green/Agatha Webb/2.xml" />
+			<chapter num="3" title="III. The Empty Drawer" location="G/Anna Katharine Green/Agatha Webb/3.xml" />
+			<chapter num="4" title="IV. The Full Drawer" location="G/Anna Katharine Green/Agatha Webb/4.xml" />
+			<chapter num="5" title="V. A Spot on the Lawn" location="G/Anna Katharine Green/Agatha Webb/5.xml" />
+			<chapter num="6" title="VI. &quot;Breakfast is Served, Gentlemen!&quot;" location="G/Anna Katharine Green/Agatha Webb/6.xml" />
+			<chapter num="7" title="VII. &quot;Marry Me&quot;" location="G/Anna Katharine Green/Agatha Webb/7.xml" />
+			<chapter num="8" title="VIII. &quot;A Devil that Understands Men&quot;" location="G/Anna Katharine Green/Agatha Webb/8.xml" />
+			<chapter num="9" title="IX. A Grand Woman" location="G/Anna Katharine Green/Agatha Webb/9.xml" />
+			<chapter num="10" title="X. Detective Knapp Arrives" location="G/Anna Katharine Green/Agatha Webb/10.xml" />
+			<chapter num="11" title="XI. The Man with a Beard" location="G/Anna Katharine Green/Agatha Webb/11.xml" />
+			<chapter num="12" title="XII. Wattles Comes" location="G/Anna Katharine Green/Agatha Webb/12.xml" />
+			<chapter num="13" title="XIII. Wattles Goes" location="G/Anna Katharine Green/Agatha Webb/13.xml" />
+			<chapter num="14" title="XIV. A Final Temptation" location="G/Anna Katharine Green/Agatha Webb/14.xml" />
+			<chapter num="15" title="XV. The Zabels Visited" location="G/Anna Katharine Green/Agatha Webb/15.xml" />
+			<chapter num="16" title="XYI. Local Talent at Work" location="G/Anna Katharine Green/Agatha Webb/16.xml" />
+			<chapter num="17" title="XVII. The Slippers, the Flower, and What Sweetwater Made of Them" location="G/Anna Katharine Green/Agatha Webb/17.xml" />
+			<chapter num="18" title="XVIII. Some Leading Questions" location="G/Anna Katharine Green/Agatha Webb/18.xml" />
+			<chapter num="19" title="XIX. Poor Philemon" location="G/Anna Katharine Green/Agatha Webb/19.xml" />
+			<chapter num="20" title="XX. A Surprise for Mr. Sutherland" location="G/Anna Katharine Green/Agatha Webb/20.xml" />
+		</section>
+		<section type="1" name="Book II. The Man of no Reputation">
+			<chapter num="21" title="XXI. Sweetwater Reasons" location="G/Anna Katharine Green/Agatha Webb/21.xml" />
+			<chapter num="22" title="XXII. Sweetwater Acts" location="G/Anna Katharine Green/Agatha Webb/22.xml" />
+			<chapter num="23" title="XXIII. A Sinister Pair" location="G/Anna Katharine Green/Agatha Webb/23.xml" />
+			<chapter num="24" title="XXIV. In the Shadow of the Mast" location="G/Anna Katharine Green/Agatha Webb/24.xml" />
+			<chapter num="25" title="XXV. In Extremity" location="G/Anna Katharine Green/Agatha Webb/25.xml" />
+			<chapter num="26" title="XXVI. The Adventure of the Parcel" location="G/Anna Katharine Green/Agatha Webb/26.xml" />
+			<chapter num="27" title="XXVII. The Adventure of the Scrap of Paper and the Three Words" location="G/Anna Katharine Green/Agatha Webb/27.xml" />
+			<chapter num="28" title="XXVIII. &quot;Who Are You?&quot;" location="G/Anna Katharine Green/Agatha Webb/28.xml" />
+			<chapter num="29" title="XXIX. Home Again" location="G/Anna Katharine Green/Agatha Webb/29.xml" />
+		</section>
+		<section type="1" name="Book III. Had Batsy Lived!">
+			<chapter num="30" title="XXX. What Followed the Striking of the Clock" location="G/Anna Katharine Green/Agatha Webb/30.xml" />
+			<chapter num="31" title="XXXI. A Witness Lost" location="G/Anna Katharine Green/Agatha Webb/31.xml" />
+			<chapter num="32" title="XXXII. Why Agatha Webb Will Never be Forgotten in Sutherlandtown" location="G/Anna Katharine Green/Agatha Webb/32.xml" />
+			<chapter num="33" title="XXXIII. Father and Son" location="G/Anna Katharine Green/Agatha Webb/33.xml" />
+			<chapter num="34" title="XXXIV. &quot;Not When They Are Young Girls&quot;" location="G/Anna Katharine Green/Agatha Webb/34.xml" />
+			<chapter num="35" title="XXXV. Sweetwater Pays His Debt at Last to Mr. Sutherland" location="G/Anna Katharine Green/Agatha Webb/35.xml" />
+		</section>
+</book>

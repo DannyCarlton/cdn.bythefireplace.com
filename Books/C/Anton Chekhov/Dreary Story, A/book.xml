@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1595" title="Dreary Story, A" author="Chekhov, Anton" location="C/Anton Chekhov/Dreary Story, A">
+			<chapter num="1" title="Chapter I" location="C/Anton Chekhov/Dreary Story, A/1.xml" />
+			<chapter num="2" title="Chapter II" location="C/Anton Chekhov/Dreary Story, A/2.xml" />
+			<chapter num="3" title="Chapter III" location="C/Anton Chekhov/Dreary Story, A/3.xml" />
+			<chapter num="4" title="Chapter IV" location="C/Anton Chekhov/Dreary Story, A/4.xml" />
+			<chapter num="5" title="Chapter V" location="C/Anton Chekhov/Dreary Story, A/5.xml" />
+			<chapter num="6" title="Chapter VI" location="C/Anton Chekhov/Dreary Story, A/6.xml" />
+</book>

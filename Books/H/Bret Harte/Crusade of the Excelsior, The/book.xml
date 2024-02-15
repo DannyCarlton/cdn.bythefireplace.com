@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40066" title="Crusade of the Excelsior, The" author="Harte, Bret" location="H/Bret Harte/Crusade of the Excelsior, The">
+
+	<section type="2" name="Part I.  In Bonds.">
+			<chapter num="1" title="Chapter I. A Crusader and a Sign." location="H/Bret Harte/Crusade of the Excelsior, The/1.xml" />
+			<chapter num="2" title="Chapter II. Another Portent." location="H/Bret Harte/Crusade of the Excelsior, The/2.xml" />
+			<chapter num="3" title="Chapter III. &quot;Vigilancia.&quot;" location="H/Bret Harte/Crusade of the Excelsior, The/3.xml" />
+			<chapter num="4" title="Chapter IV. In the Fog." location="H/Bret Harte/Crusade of the Excelsior, The/4.xml" />
+			<chapter num="5" title="Chapter V. Todos Santos." location="H/Bret Harte/Crusade of the Excelsior, The/5.xml" />
+			<chapter num="6" title="Chapter VI. &quot;Hail and Farewell.&quot;" location="H/Bret Harte/Crusade of the Excelsior, The/6.xml" />
+			<chapter num="7" title="Chapter VII. The Gentle Castaways." location="H/Bret Harte/Crusade of the Excelsior, The/7.xml" />
+			<chapter num="8" title="Chapter VIII. In Sanctuary." location="H/Bret Harte/Crusade of the Excelsior, The/8.xml" />
+			<chapter num="9" title="Chapter IX. An Open-air Prison." location="H/Bret Harte/Crusade of the Excelsior, The/9.xml" />
+			<chapter num="10" title="Chapter X. Todos Santos Solves the Mystery." location="H/Bret Harte/Crusade of the Excelsior, The/10.xml" />
+			<chapter num="11" title="Chapter XI. The Captain Follows His Ship." location="H/Bret Harte/Crusade of the Excelsior, The/11.xml" />
+
+	</section>
+	<section type="2" name="Part II.  Freed.">
+			<chapter num="12" title="Chapter I. The Mourners At San Francisco." location="H/Bret Harte/Crusade of the Excelsior, The/12.xml" />
+			<chapter num="13" title="Chapter II. The Mourners At Todos Santos." location="H/Bret Harte/Crusade of the Excelsior, The/13.xml" />
+			<chapter num="14" title="Chapter III. International Courtesies." location="H/Bret Harte/Crusade of the Excelsior, The/14.xml" />
+			<chapter num="15" title="Chapter IV. A Gleam of Sunshine." location="H/Bret Harte/Crusade of the Excelsior, The/15.xml" />
+			<chapter num="16" title="Chapter V. Clouds and Change." location="H/Bret Harte/Crusade of the Excelsior, The/16.xml" />
+			<chapter num="17" title="Chapter VI. A More Important Arrival." location="H/Bret Harte/Crusade of the Excelsior, The/17.xml" />
+			<chapter num="18" title="Chapter VII. The Return of the Excelsior." location="H/Bret Harte/Crusade of the Excelsior, The/18.xml" />
+			<chapter num="19" title="Chapter VIII. Hostage." location="H/Bret Harte/Crusade of the Excelsior, The/19.xml" />
+			<chapter num="20" title="Chapter IX. Liberated." location="H/Bret Harte/Crusade of the Excelsior, The/20.xml" />
+	</section>
+</book>

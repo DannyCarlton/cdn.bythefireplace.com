@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="90" title="Beauty and The Beast - and Tales of Home" author="Taylor, Bayard" location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home">
+		<section type="1" name="Beauty and the Beast.">
+			<chapter num="1" title="Chapter I" location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/1.xml" />
+			<chapter num="2" title="Chapter II." location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/2.xml" />
+			<chapter num="3" title="Chapter III." location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/3.xml" />
+			<chapter num="4" title="Chapter IV." location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/4.xml" />
+			<chapter num="5" title="Chapter V." location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/5.xml" />
+			<chapter num="6" title="Chapter VI." location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/6.xml" />
+			<chapter num="7" title="Chapter VII." location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/8.xml" />
+			<chapter num="9" title="Chapter IX." location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/9.xml" />
+			<chapter num="10" title="Chapter X." location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/10.xml" />
+			<chapter num="11" title="Chapter XI." location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/11.xml" />
+			<chapter num="12" title="Chapter XII." location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/12.xml" />
+		</section>
+		<section type="1" name="Tales From Home.">
+			<chapter num="13" title="The Strange Friend" location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/13.xml" />
+			<chapter num="14" title="Jacob Flint's Journey." location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/14.xml" />
+			<chapter num="15" title="Can a Life Hide Itself?" location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/15.xml" />
+			<chapter num="16" title="Twin-Love" location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/16.xml" />
+			<chapter num="17" title="The Experiences of the A. C." location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/17.xml" />
+			<chapter num="18" title="Friend Eli's Daughter" location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/18.xml" />
+			<chapter num="19" title="Miss Bartram's Trouble" location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/19.xml" />
+			<chapter num="20" title="Mrs. Strongitharm's Report" location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/20.xml" />
+		</section>
+</book>

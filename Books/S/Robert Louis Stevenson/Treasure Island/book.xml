@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="86" title="Treasure Island" author="Stevenson, Robert Louis" location="S/Robert Louis Stevenson/Treasure Island">
+		<section type="1" name="Part One: The Old Buccaneer">
+			<chapter num="1" title="Chapter 1: The Old Sea-dog at the Admiral Benbow" location="S/Robert Louis Stevenson/Treasure Island/1.xml" />
+			<chapter num="2" title="Chapter 2: Black Dog Appears and Disappears" location="S/Robert Louis Stevenson/Treasure Island/2.xml" />
+			<chapter num="3" title="Chapter 3: The Black Spot" location="S/Robert Louis Stevenson/Treasure Island/3.xml" />
+			<chapter num="4" title="Chapter 4: The Sea-chest" location="S/Robert Louis Stevenson/Treasure Island/4.xml" />
+			<chapter num="5" title="Chapter 5: The Last of the Blind Man" location="S/Robert Louis Stevenson/Treasure Island/5.xml" />
+			<chapter num="6" title="Chapter 6: The Captain's Papers" location="S/Robert Louis Stevenson/Treasure Island/6.xml" />
+		</section>
+		<section type="1" name="Part Two: The Sea-cook">
+			<chapter num="7" title="Chapter 7: I Go to Bristol" location="S/Robert Louis Stevenson/Treasure Island/7.xml" />
+			<chapter num="8" title="Chapter 8: At the Sign of the Spy-glass" location="S/Robert Louis Stevenson/Treasure Island/8.xml" />
+			<chapter num="9" title="Chapter 9: Powder and Arms" location="S/Robert Louis Stevenson/Treasure Island/9.xml" />
+			<chapter num="10" title="Chapter 10: The Voyage" location="S/Robert Louis Stevenson/Treasure Island/10.xml" />
+			<chapter num="11" title="Chapter 11: What I Heard in the Apple Barrel" location="S/Robert Louis Stevenson/Treasure Island/11.xml" />
+			<chapter num="12" title="Chapter 12: Council of War" location="S/Robert Louis Stevenson/Treasure Island/12.xml" />
+		</section>
+		<section type="1" name="Part Three: My Shore Adventure">
+			<chapter num="13" title="Chapter 13: How My Shore Adventure Began" location="S/Robert Louis Stevenson/Treasure Island/13.xml" />
+			<chapter num="14" title="Chapter 14: The First Blow" location="S/Robert Louis Stevenson/Treasure Island/14.xml" />
+			<chapter num="15" title="Chapter 15: The Man of the Island" location="S/Robert Louis Stevenson/Treasure Island/15.xml" />
+		</section>
+		<section type="1" name="Part Four: The Stockade">
+			<chapter num="16" title="Chapter 16: Narrative Continued by the Doctor: How the Ship Was Abandoned" location="S/Robert Louis Stevenson/Treasure Island/16.xml" />
+			<chapter num="17" title="Chapter 17: Narrative Continued by the Doctor: The Jolly-boat's Last Trip" location="S/Robert Louis Stevenson/Treasure Island/17.xml" />
+			<chapter num="18" title="Chapter 18: Narrative Continued by the Doctor: End of the First Day's Fighting" location="S/Robert Louis Stevenson/Treasure Island/18.xml" />
+			<chapter num="19" title="Chapter 19: Narrative Resumed by Jim Hawkins: The Garrison in the Stockade" location="S/Robert Louis Stevenson/Treasure Island/19.xml" />
+			<chapter num="20" title="Chapter 20: Silver's Embassy" location="S/Robert Louis Stevenson/Treasure Island/20.xml" />
+			<chapter num="21" title="Chapter 21: The Attack" location="S/Robert Louis Stevenson/Treasure Island/21.xml" />
+		</section>
+		<section type="1" name="Part Five: My Sea Adventure">
+			<chapter num="22" title="Chapter 22: How My Sea Adventure Began" location="S/Robert Louis Stevenson/Treasure Island/22.xml" />
+			<chapter num="23" title="Chapter 23: The Ebb-tide Runs" location="S/Robert Louis Stevenson/Treasure Island/23.xml" />
+			<chapter num="24" title="Chapter 24: The Cruise of the Coracle" location="S/Robert Louis Stevenson/Treasure Island/24.xml" />
+			<chapter num="25" title="Chapter 25: I Strike the Jolly Roger" location="S/Robert Louis Stevenson/Treasure Island/25.xml" />
+			<chapter num="26" title="Chapter 26: Israel Hands" location="S/Robert Louis Stevenson/Treasure Island/26.xml" />
+			<chapter num="27" title="Chapter 27: &quot;Pieces of Eight&quot;" location="S/Robert Louis Stevenson/Treasure Island/27.xml" />
+		</section>
+		<section type="1" name="Part Six: Captain Silver">
+			<chapter num="28" title="Chapter 28: In the Enemy's Camp" location="S/Robert Louis Stevenson/Treasure Island/28.xml" />
+			<chapter num="29" title="Chapter 29: The Black Spot Again" location="S/Robert Louis Stevenson/Treasure Island/29.xml" />
+			<chapter num="30" title="Chapter 30: On Parole" location="S/Robert Louis Stevenson/Treasure Island/30.xml" />
+			<chapter num="31" title="Chapter 31: The Treasure-hunt--Flint's Pointer" location="S/Robert Louis Stevenson/Treasure Island/31.xml" />
+			<chapter num="32" title="Chapter 32: The Treasure-hunt--The Voice Among the Trees" location="S/Robert Louis Stevenson/Treasure Island/32.xml" />
+			<chapter num="33" title="Chapter 33: The Fall of a Chieftain" location="S/Robert Louis Stevenson/Treasure Island/33.xml" />
+			<chapter num="34" title="Chapter 34: And Last" location="S/Robert Louis Stevenson/Treasure Island/34.xml" />
+		</section>
+</book>

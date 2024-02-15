@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="100" title="Time Machine, The" author="Wells, H.G." location="W/H.G. Wells/Time Machine, The">
+			<chapter num="1" title="Chapter I" location="W/H.G. Wells/Time Machine, The/1.xml" />
+			<chapter num="2" title="Chapter II" location="W/H.G. Wells/Time Machine, The/2.xml" />
+			<chapter num="3" title="Chapter III" location="W/H.G. Wells/Time Machine, The/3.xml" />
+			<chapter num="4" title="Chapter IV" location="W/H.G. Wells/Time Machine, The/4.xml" />
+			<chapter num="5" title="Chapter V" location="W/H.G. Wells/Time Machine, The/5.xml" />
+			<chapter num="6" title="Chapter VI" location="W/H.G. Wells/Time Machine, The/6.xml" />
+			<chapter num="7" title="Chapter VII" location="W/H.G. Wells/Time Machine, The/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="W/H.G. Wells/Time Machine, The/8.xml" />
+			<chapter num="9" title="Chapter IX" location="W/H.G. Wells/Time Machine, The/9.xml" />
+			<chapter num="10" title="Chapter X" location="W/H.G. Wells/Time Machine, The/10.xml" />
+			<chapter num="11" title="Chapter XI" location="W/H.G. Wells/Time Machine, The/11.xml" />
+			<chapter num="12" title="Chapter XII" location="W/H.G. Wells/Time Machine, The/12.xml" />
+			<chapter num="13" title="Epilogue" location="W/H.G. Wells/Time Machine, The/13.xml" />
+</book>

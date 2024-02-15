@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40283" title="Mercedes of Castile" author="Cooper, James Fenimore" location="C/James Fenimore Cooper/Mercedes of Castile">
+			<chapter num="1" title="Preface" location="C/James Fenimore Cooper/Mercedes of Castile/1.xml" />
+
+	<section type="2" name="Volume 1">
+			<chapter num="2" title="Chapter I" location="C/James Fenimore Cooper/Mercedes of Castile/2.xml" />
+			<chapter num="3" title="Chapter II" location="C/James Fenimore Cooper/Mercedes of Castile/3.xml" />
+			<chapter num="4" title="Chapter III" location="C/James Fenimore Cooper/Mercedes of Castile/4.xml" />
+			<chapter num="5" title="Chapter IV" location="C/James Fenimore Cooper/Mercedes of Castile/5.xml" />
+			<chapter num="6" title="Chapter V" location="C/James Fenimore Cooper/Mercedes of Castile/6.xml" />
+			<chapter num="7" title="Chapter VI" location="C/James Fenimore Cooper/Mercedes of Castile/7.xml" />
+			<chapter num="8" title="Chapter VII" location="C/James Fenimore Cooper/Mercedes of Castile/8.xml" />
+			<chapter num="9" title="Chapter VIII" location="C/James Fenimore Cooper/Mercedes of Castile/9.xml" />
+			<chapter num="10" title="Chapter IX" location="C/James Fenimore Cooper/Mercedes of Castile/10.xml" />
+			<chapter num="11" title="Chapter X" location="C/James Fenimore Cooper/Mercedes of Castile/11.xml" />
+			<chapter num="12" title="Chapter XI" location="C/James Fenimore Cooper/Mercedes of Castile/12.xml" />
+			<chapter num="13" title="Chapter XII" location="C/James Fenimore Cooper/Mercedes of Castile/13.xml" />
+			<chapter num="14" title="Chapter XIII" location="C/James Fenimore Cooper/Mercedes of Castile/14.xml" />
+			<chapter num="15" title="Chapter XIV" location="C/James Fenimore Cooper/Mercedes of Castile/15.xml" />
+			<chapter num="16" title="Chapter XV" location="C/James Fenimore Cooper/Mercedes of Castile/16.xml" />
+			<chapter num="17" title="Chapter XVI" location="C/James Fenimore Cooper/Mercedes of Castile/17.xml" />
+
+	</section>
+	<section type="2" name="Volume 2">
+			<chapter num="18" title="Chapter I" location="C/James Fenimore Cooper/Mercedes of Castile/18.xml" />
+			<chapter num="19" title="Chapter II" location="C/James Fenimore Cooper/Mercedes of Castile/19.xml" />
+			<chapter num="20" title="Chapter III" location="C/James Fenimore Cooper/Mercedes of Castile/20.xml" />
+			<chapter num="21" title="Chapter IV" location="C/James Fenimore Cooper/Mercedes of Castile/21.xml" />
+			<chapter num="22" title="Chapter V" location="C/James Fenimore Cooper/Mercedes of Castile/22.xml" />
+			<chapter num="23" title="Chapter VI" location="C/James Fenimore Cooper/Mercedes of Castile/23.xml" />
+			<chapter num="24" title="Chapter VII" location="C/James Fenimore Cooper/Mercedes of Castile/24.xml" />
+			<chapter num="25" title="Chapter VIII" location="C/James Fenimore Cooper/Mercedes of Castile/25.xml" />
+			<chapter num="26" title="Chapter IX" location="C/James Fenimore Cooper/Mercedes of Castile/26.xml" />
+			<chapter num="27" title="Chapter X" location="C/James Fenimore Cooper/Mercedes of Castile/27.xml" />
+			<chapter num="28" title="Chapter XI" location="C/James Fenimore Cooper/Mercedes of Castile/28.xml" />
+			<chapter num="29" title="Chapter XII" location="C/James Fenimore Cooper/Mercedes of Castile/29.xml" />
+			<chapter num="30" title="Chapter XIII" location="C/James Fenimore Cooper/Mercedes of Castile/30.xml" />
+			<chapter num="31" title="Chapter XIV" location="C/James Fenimore Cooper/Mercedes of Castile/31.xml" />
+			<chapter num="32" title="Chapter XV" location="C/James Fenimore Cooper/Mercedes of Castile/32.xml" />
+	</section>
+</book>

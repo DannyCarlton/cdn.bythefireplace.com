@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="972" title="Chimes, The" author="Dickens, Charles" location="D/Charles Dickens/Chimes, The">
+			<chapter num="1" title="Chapter I - First Quarter." location="D/Charles Dickens/Chimes, The/1.xml" />
+			<chapter num="2" title="Chapter II - The Second Quarter." location="D/Charles Dickens/Chimes, The/2.xml" />
+			<chapter num="3" title="Chapter III - Third Quarter." location="D/Charles Dickens/Chimes, The/3.xml" />
+			<chapter num="4" title="Chapter IV - Fourth Quarter." location="D/Charles Dickens/Chimes, The/4.xml" />
+</book>

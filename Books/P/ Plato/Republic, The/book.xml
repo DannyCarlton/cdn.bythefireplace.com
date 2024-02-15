@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1788" title="Republic, The" author="Plato, " location="P/ Plato/Republic, The">
+			<chapter num="1" title="The Introduction" location="P/ Plato/Republic, The/1.xml" />
+			<chapter num="2" title="Argument" location="P/ Plato/Republic, The/2.xml" />
+			<chapter num="3" title="Characters" location="P/ Plato/Republic, The/3.xml" />
+		<section type="1" name="Book I">
+			<chapter num="4" title="Socrates - Glaucon" location="P/ Plato/Republic, The/4.xml" />
+			<chapter num="5" title="Socrates - Polemarchus - Glaucon - Adeimantus" location="P/ Plato/Republic, The/5.xml" />
+			<chapter num="6" title="Glaucon - Cephalus - Socrates" location="P/ Plato/Republic, The/6.xml" />
+			<chapter num="7" title="Cephalus - Socrates - Polemarchus" location="P/ Plato/Republic, The/7.xml" />
+			<chapter num="8" title="Socrates - Polemarchus" location="P/ Plato/Republic, The/8.xml" />
+			<chapter num="9" title="Socrates - Polemarchus - Thrasymachus" location="P/ Plato/Republic, The/9.xml" />
+			<chapter num="10" title="Socrates - Thrasymachus - Glaucon" location="P/ Plato/Republic, The/10.xml" />
+			<chapter num="11" title="Socrates - Cleitophon - Polemarchus - Thrasymachus" location="P/ Plato/Republic, The/11.xml" />
+			<chapter num="12" title="Socrates - Thrasymachus" location="P/ Plato/Republic, The/12.xml" />
+			<chapter num="13" title="Socrates - Glaucon" location="P/ Plato/Republic, The/13.xml" />
+			<chapter num="14" title="Socrates - Glaucon - Thrasymachus" location="P/ Plato/Republic, The/14.xml" />
+		</section>
+		<section type="1" name="Book II">
+			<chapter num="15" title="Socrates - Glaucon" location="P/ Plato/Republic, The/15.xml" />
+			<chapter num="16" title="Glaucon" location="P/ Plato/Republic, The/16.xml" />
+			<chapter num="17" title="Socrates - Glaucon" location="P/ Plato/Republic, The/17.xml" />
+			<chapter num="18" title="Adeimantus -Socrates" location="P/ Plato/Republic, The/18.xml" />
+			<chapter num="19" title="Adeimantus" location="P/ Plato/Republic, The/19.xml" />
+			<chapter num="20" title="Socrates - Adeimantus" location="P/ Plato/Republic, The/20.xml" />
+			<chapter num="21" title="Socrates - Glaucon" location="P/ Plato/Republic, The/21.xml" />
+			<chapter num="22" title="Socrates - Adeimantus" location="P/ Plato/Republic, The/22.xml" />
+		</section>
+		<section type="1" name="Book III">
+			<chapter num="23" title="Socrates - Adeimantus" location="P/ Plato/Republic, The/23.xml" />
+			<chapter num="24" title="Socrates - Glaucon" location="P/ Plato/Republic, The/24.xml" />
+		</section>
+		<section type="1" name="Book IV">
+			<chapter num="25" title="Adeimantus - Socrates" location="P/ Plato/Republic, The/25.xml" />
+			<chapter num="26" title="Socrates - Glaucon" location="P/ Plato/Republic, The/26.xml" />
+		</section>
+		<section type="1" name="Book V">
+			<chapter num="27" title="Socrates - Glaucon - Adeimantus" location="P/ Plato/Republic, The/27.xml" />
+			<chapter num="28" title="Socrates - Adeimantus - Glaucon - Thrasymachus" location="P/ Plato/Republic, The/28.xml" />
+		</section>
+		<section type="1" name="Book VI">
+			<chapter num="29" title="Socrates - Glaucon" location="P/ Plato/Republic, The/29.xml" />
+			<chapter num="30" title="Socrates - Adeimantus" location="P/ Plato/Republic, The/30.xml" />
+			<chapter num="31" title="Glaucon - Socrates" location="P/ Plato/Republic, The/31.xml" />
+		</section>
+		<section type="1" name="Book VII">
+			<chapter num="32" title="Socrates - Glaucon" location="P/ Plato/Republic, The/32.xml" />
+		</section>
+		<section type="1" name="Book VIII">
+			<chapter num="33" title="Socrates - Glaucon" location="P/ Plato/Republic, The/33.xml" />
+			<chapter num="34" title="Socrates - Adeimantus" location="P/ Plato/Republic, The/34.xml" />
+		</section>
+		<section type="1" name="Book IX">
+			<chapter num="35" title="Socrates - Adeimantus" location="P/ Plato/Republic, The/35.xml" />
+			<chapter num="36" title="Socrates - Glaucon" location="P/ Plato/Republic, The/36.xml" />
+		</section>
+		<section type="1" name="Book X">
+			<chapter num="37" title="Socrates - Glaucon" location="P/ Plato/Republic, The/37.xml" />
+			<chapter num="38" title="Socrates" location="P/ Plato/Republic, The/38.xml" />
+		</section>
+</book>

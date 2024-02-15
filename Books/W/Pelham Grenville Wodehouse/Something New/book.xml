@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2022" title="Something New" author="Wodehouse, Pelham Grenville" location="W/Pelham Grenville Wodehouse/Something New">
+			<chapter num="1" title="Chapter I" location="W/Pelham Grenville Wodehouse/Something New/1.xml" />
+			<chapter num="2" title="Chapter II" location="W/Pelham Grenville Wodehouse/Something New/2.xml" />
+			<chapter num="3" title="Chapter III" location="W/Pelham Grenville Wodehouse/Something New/3.xml" />
+			<chapter num="4" title="Chapter IV" location="W/Pelham Grenville Wodehouse/Something New/4.xml" />
+			<chapter num="5" title="Chapter V" location="W/Pelham Grenville Wodehouse/Something New/5.xml" />
+			<chapter num="6" title="Chapter VI" location="W/Pelham Grenville Wodehouse/Something New/6.xml" />
+			<chapter num="7" title="Chapter VII" location="W/Pelham Grenville Wodehouse/Something New/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="W/Pelham Grenville Wodehouse/Something New/8.xml" />
+			<chapter num="9" title="Chapter IX" location="W/Pelham Grenville Wodehouse/Something New/9.xml" />
+			<chapter num="10" title="Chapter X" location="W/Pelham Grenville Wodehouse/Something New/10.xml" />
+			<chapter num="11" title="Chapter XI" location="W/Pelham Grenville Wodehouse/Something New/11.xml" />
+			<chapter num="12" title="Chapter XII" location="W/Pelham Grenville Wodehouse/Something New/12.xml" />
+</book>

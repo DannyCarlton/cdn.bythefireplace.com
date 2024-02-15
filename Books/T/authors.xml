@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="111" name="Teasdale, Sara" location="T/Sara Teasdale" />
+	<author aid="116" name="Tennyson, Lord Alfred" location="T/Lord Alfred Tennyson" />
+	<author aid="172" name="Turgenev, Ivan S." location="T/Ivan S. Turgenev" />
+	<author aid="34" name="Taylor, Bayard" location="T/Bayard Taylor" />
+	<author aid="35" name="Thackary, William Makepeace" location="T/William Makepeace Thackary" />
+	<author aid="36" name="Tolstoy, Leo" location="T/Leo Tolstoy" />
+	<author aid="37" name="Twain, Mark" location="T/Mark Twain" />
+	<author aid="43" name="Thoreau, Henry David" location="T/Henry David Thoreau" />
+	<author aid="79" name="Tarkington, Booth" location="T/Booth Tarkington" />
+	<author aid="94" name="Trollope, Anthony" location="T/Anthony Trollope" />
+	<author aid="5005" name="Thorndyke, Russell" location="T/Russell Thorndyke" />
+</authors>

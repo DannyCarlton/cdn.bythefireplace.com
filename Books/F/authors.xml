@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="102" name="Fox Jr., John" location="F/John Fox Jr." />
+	<author aid="121" name="Ferber, Edna" location="F/Edna Ferber" />
+	<author aid="127" name="Farnol, Jeffrey" location="F/Jeffrey Farnol" />
+	<author aid="142" name="Freeman, Mary E. Wilkins" location="F/Mary E. Wilkins Freeman" />
+	<author aid="21" name="Flaubert, Gustave" location="F/Gustave Flaubert" />
+	<author aid="81" name="Forster, E. M." location="F/E. M. Forster" />
+	<author aid="247" name="Fletcher, J. S." location="F/J. S. Fletcher" />
+	<author aid="251" name="Freeman, R. Austin" location="F/R. Austin Freeman" />
+	<author aid="199" name="Franc, Anatole" location="F/Anatole Franc" />
+	<author aid="249" name="Frey, Hildegard G." location="F/Hildegard G. Frey" />
+	<author aid="253" name="Finley, Martha" location="F/Martha Finley" />
+	<author aid="258" name="Fuller, Henry Blake" location="F/Henry Blake Fuller" />
+	<author aid="257" name="Foote, Mary Hallock" location="F/Mary Hallock Foote" />
+	<author aid="5010" name="Fitzgerald, F. Scott" location="F/F. Scott Fitzgerald" />
+</authors>

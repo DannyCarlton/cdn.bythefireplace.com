@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="24" title="Emma" author="Austen, Jane" location="A/Jane Austen/Emma">
+		<section type="1" name="Volume I">
+			<chapter num="1" title="Chapter I" location="A/Jane Austen/Emma/1.xml" />
+			<chapter num="2" title="Chapter II" location="A/Jane Austen/Emma/2.xml" />
+			<chapter num="3" title="Chapter III" location="A/Jane Austen/Emma/3.xml" />
+			<chapter num="4" title="Chapter IV" location="A/Jane Austen/Emma/4.xml" />
+			<chapter num="5" title="Chapter V" location="A/Jane Austen/Emma/5.xml" />
+			<chapter num="6" title="Chapter VI" location="A/Jane Austen/Emma/6.xml" />
+			<chapter num="7" title="Chapter VII" location="A/Jane Austen/Emma/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="A/Jane Austen/Emma/8.xml" />
+			<chapter num="9" title="Chapter IX" location="A/Jane Austen/Emma/9.xml" />
+			<chapter num="10" title="Chapter X" location="A/Jane Austen/Emma/10.xml" />
+			<chapter num="11" title="Chapter XI" location="A/Jane Austen/Emma/11.xml" />
+			<chapter num="12" title="Chapter XII" location="A/Jane Austen/Emma/12.xml" />
+			<chapter num="13" title="Chapter XIII" location="A/Jane Austen/Emma/13.xml" />
+			<chapter num="14" title="Chapter XIV" location="A/Jane Austen/Emma/14.xml" />
+			<chapter num="15" title="Chapter XV" location="A/Jane Austen/Emma/15.xml" />
+			<chapter num="16" title="Chapter XVI" location="A/Jane Austen/Emma/16.xml" />
+			<chapter num="17" title="Chapter XVII" location="A/Jane Austen/Emma/17.xml" />
+			<chapter num="18" title="Chapter XVIII" location="A/Jane Austen/Emma/18.xml" />
+		</section>
+		<section type="1" name="Volume II">
+			<chapter num="19" title="Chapter I" location="A/Jane Austen/Emma/19.xml" />
+			<chapter num="20" title="Chapter II" location="A/Jane Austen/Emma/20.xml" />
+			<chapter num="21" title="Chapter III" location="A/Jane Austen/Emma/21.xml" />
+			<chapter num="22" title="Chapter IV" location="A/Jane Austen/Emma/22.xml" />
+			<chapter num="23" title="Chapter V" location="A/Jane Austen/Emma/23.xml" />
+			<chapter num="24" title="Chapter VI" location="A/Jane Austen/Emma/24.xml" />
+			<chapter num="25" title="Chapter VII" location="A/Jane Austen/Emma/25.xml" />
+			<chapter num="26" title="Chapter VIII" location="A/Jane Austen/Emma/26.xml" />
+			<chapter num="27" title="Chapter IX" location="A/Jane Austen/Emma/27.xml" />
+			<chapter num="28" title="Chapter X" location="A/Jane Austen/Emma/28.xml" />
+			<chapter num="29" title="Chapter XI" location="A/Jane Austen/Emma/29.xml" />
+			<chapter num="30" title="Chapter XII" location="A/Jane Austen/Emma/30.xml" />
+			<chapter num="31" title="Chapter XIII" location="A/Jane Austen/Emma/31.xml" />
+			<chapter num="32" title="Chapter XIV" location="A/Jane Austen/Emma/32.xml" />
+			<chapter num="33" title="Chapter XV" location="A/Jane Austen/Emma/33.xml" />
+			<chapter num="34" title="Chapter XVI" location="A/Jane Austen/Emma/34.xml" />
+			<chapter num="35" title="Chapter XVII" location="A/Jane Austen/Emma/35.xml" />
+			<chapter num="36" title="Chapter XVIII" location="A/Jane Austen/Emma/36.xml" />
+		</section>
+		<section type="1" name="Volume III">
+			<chapter num="37" title="Chapter I" location="A/Jane Austen/Emma/37.xml" />
+			<chapter num="38" title="Chapter II" location="A/Jane Austen/Emma/38.xml" />
+			<chapter num="39" title="Chapter III" location="A/Jane Austen/Emma/39.xml" />
+			<chapter num="40" title="Chapter IV" location="A/Jane Austen/Emma/40.xml" />
+			<chapter num="41" title="Chapter V" location="A/Jane Austen/Emma/41.xml" />
+			<chapter num="42" title="Chapter VI" location="A/Jane Austen/Emma/42.xml" />
+			<chapter num="43" title="Chapter VII" location="A/Jane Austen/Emma/43.xml" />
+			<chapter num="44" title="Chapter VIII" location="A/Jane Austen/Emma/44.xml" />
+			<chapter num="45" title="Chapter IX" location="A/Jane Austen/Emma/45.xml" />
+			<chapter num="46" title="Chapter X" location="A/Jane Austen/Emma/46.xml" />
+			<chapter num="47" title="Chapter XI" location="A/Jane Austen/Emma/47.xml" />
+			<chapter num="48" title="Chapter XII" location="A/Jane Austen/Emma/48.xml" />
+			<chapter num="49" title="Chapter XIII" location="A/Jane Austen/Emma/49.xml" />
+			<chapter num="50" title="Chapter XIV" location="A/Jane Austen/Emma/50.xml" />
+			<chapter num="51" title="Chapter XV" location="A/Jane Austen/Emma/51.xml" />
+			<chapter num="52" title="Chapter XVI" location="A/Jane Austen/Emma/52.xml" />
+			<chapter num="53" title="Chapter XVII" location="A/Jane Austen/Emma/53.xml" />
+			<chapter num="54" title="Chapter XVIII" location="A/Jane Austen/Emma/54.xml" />
+			<chapter num="55" title="Chapter XIX" location="A/Jane Austen/Emma/55.xml" />
+		</section>
+</book>

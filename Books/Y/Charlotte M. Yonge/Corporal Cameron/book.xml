@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2317" title="Corporal Cameron" author="Yonge, Charlotte M." location="Y/Charlotte M. Yonge/Corporal Cameron">
+		<section type="1" name="Book One">
+			<chapter num="1" title="Chapter I. The Quitter" location="Y/Charlotte M. Yonge/Corporal Cameron/1.xml" />
+			<chapter num="2" title="Chapter II. The Glen of the Cup of Gold" location="Y/Charlotte M. Yonge/Corporal Cameron/2.xml" />
+			<chapter num="3" title="Chapter III. The Family Solicitor" location="Y/Charlotte M. Yonge/Corporal Cameron/3.xml" />
+			<chapter num="4" title="Chapter IV. A Question of Honour" location="Y/Charlotte M. Yonge/Corporal Cameron/4.xml" />
+			<chapter num="5" title="Chapter V. A Lady and the Law" location="Y/Charlotte M. Yonge/Corporal Cameron/5.xml" />
+			<chapter num="6" title="Chapter VI. The Waster's Refuge" location="Y/Charlotte M. Yonge/Corporal Cameron/6.xml" />
+			<chapter num="7" title="Chapter VII. Farewell to Cuagh Oir" location="Y/Charlotte M. Yonge/Corporal Cameron/7.xml" />
+			<chapter num="8" title="Chapter VIII. Will He Come Back?" location="Y/Charlotte M. Yonge/Corporal Cameron/8.xml" />
+		</section>
+		<section type="1" name="Book Two">
+			<chapter num="9" title="Chapter I. Ho for the Open!" location="Y/Charlotte M. Yonge/Corporal Cameron/9.xml" />
+			<chapter num="10" title="Chapter II. A Man's Job" location="Y/Charlotte M. Yonge/Corporal Cameron/10.xml" />
+			<chapter num="11" title="Chapter III. A Day's Work" location="Y/Charlotte M. Yonge/Corporal Cameron/11.xml" />
+			<chapter num="12" title="Chapter IV. A Rainy Day" location="Y/Charlotte M. Yonge/Corporal Cameron/12.xml" />
+			<chapter num="13" title="Chapter V. How They Saved the Day" location="Y/Charlotte M. Yonge/Corporal Cameron/13.xml" />
+			<chapter num="14" title="Chapter VI. A Sabbath Day in Late August" location="Y/Charlotte M. Yonge/Corporal Cameron/14.xml" />
+			<chapter num="15" title="Chapter VII. The Chivaree" location="Y/Charlotte M. Yonge/Corporal Cameron/15.xml" />
+			<chapter num="16" title="Chapter VIII. In Apple Time" location="Y/Charlotte M. Yonge/Corporal Cameron/16.xml" />
+		</section>
+		<section type="1" name="Book Three">
+			<chapter num="17" title="Chapter I. The Camp by the Gap" location="Y/Charlotte M. Yonge/Corporal Cameron/17.xml" />
+			<chapter num="18" title="Chapter II. On the Wings of the Storm" location="Y/Charlotte M. Yonge/Corporal Cameron/18.xml" />
+			<chapter num="19" title="Chapter III. The Stonies" location="Y/Charlotte M. Yonge/Corporal Cameron/19.xml" />
+			<chapter num="20" title="Chapter IV. The Dull Red Stain" location="Y/Charlotte M. Yonge/Corporal Cameron/20.xml" />
+			<chapter num="21" title="Chapter V. Sergeant Crisp" location="Y/Charlotte M. Yonge/Corporal Cameron/21.xml" />
+			<chapter num="22" title="Chapter VI. A Day in the Macleod Barracks" location="Y/Charlotte M. Yonge/Corporal Cameron/22.xml" />
+			<chapter num="23" title="Chapter VII. The Making of Braves" location="Y/Charlotte M. Yonge/Corporal Cameron/23.xml" />
+			<chapter num="24" title="Chapter VIII. Nurse Haley" location="Y/Charlotte M. Yonge/Corporal Cameron/24.xml" />
+			<chapter num="25" title="Chapter IX. &quot;Corporal&quot; Cameron" location="Y/Charlotte M. Yonge/Corporal Cameron/25.xml" />
+		</section>
+</book>

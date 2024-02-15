@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="222" title="Songs of Innocence and Experience" author="Blake, William" location="B/William Blake/Songs of Innocence and Experience">
+		<section type="1" name="Songs of Innocence">
+			<chapter num="1" title="Introduction" location="B/William Blake/Songs of Innocence and Experience/1.xml" />
+			<chapter num="2" title="The Shepherd" location="B/William Blake/Songs of Innocence and Experience/2.xml" />
+			<chapter num="3" title="The Echoing Green" location="B/William Blake/Songs of Innocence and Experience/3.xml" />
+			<chapter num="4" title="The Lamb" location="B/William Blake/Songs of Innocence and Experience/4.xml" />
+			<chapter num="5" title="The Little Black Boy" location="B/William Blake/Songs of Innocence and Experience/5.xml" />
+			<chapter num="6" title="The Blossom" location="B/William Blake/Songs of Innocence and Experience/6.xml" />
+			<chapter num="7" title="The Chimney-Sweeper" location="B/William Blake/Songs of Innocence and Experience/7.xml" />
+			<chapter num="8" title="The Little Boy Lost" location="B/William Blake/Songs of Innocence and Experience/8.xml" />
+			<chapter num="9" title="The Little Boy Found" location="B/William Blake/Songs of Innocence and Experience/9.xml" />
+			<chapter num="10" title="Laughing Song" location="B/William Blake/Songs of Innocence and Experience/10.xml" />
+			<chapter num="11" title="A Cradle Song" location="B/William Blake/Songs of Innocence and Experience/11.xml" />
+			<chapter num="12" title="The Divine Image" location="B/William Blake/Songs of Innocence and Experience/12.xml" />
+			<chapter num="13" title="Holy Thursday" location="B/William Blake/Songs of Innocence and Experience/13.xml" />
+			<chapter num="14" title="Night" location="B/William Blake/Songs of Innocence and Experience/14.xml" />
+			<chapter num="15" title="Spring" location="B/William Blake/Songs of Innocence and Experience/15.xml" />
+			<chapter num="16" title="Nurse's Song" location="B/William Blake/Songs of Innocence and Experience/16.xml" />
+			<chapter num="17" title="Infant Joy" location="B/William Blake/Songs of Innocence and Experience/17.xml" />
+			<chapter num="18" title="A Dream" location="B/William Blake/Songs of Innocence and Experience/18.xml" />
+			<chapter num="19" title="On Another's Sorrow" location="B/William Blake/Songs of Innocence and Experience/19.xml" />
+		</section>
+		<section type="1" name="Songs of Experience">
+			<chapter num="20" title="Introduction" location="B/William Blake/Songs of Innocence and Experience/20.xml" />
+			<chapter num="21" title="Earth's Answer" location="B/William Blake/Songs of Innocence and Experience/21.xml" />
+			<chapter num="22" title="The Clod and the Pebble" location="B/William Blake/Songs of Innocence and Experience/22.xml" />
+			<chapter num="23" title="Holy Thursday" location="B/William Blake/Songs of Innocence and Experience/23.xml" />
+			<chapter num="24" title="The Little Girl Lost" location="B/William Blake/Songs of Innocence and Experience/24.xml" />
+			<chapter num="25" title="The Little Girl Found" location="B/William Blake/Songs of Innocence and Experience/25.xml" />
+			<chapter num="26" title="The Chimney-Sweeper" location="B/William Blake/Songs of Innocence and Experience/26.xml" />
+			<chapter num="27" title="Nurse's Song" location="B/William Blake/Songs of Innocence and Experience/27.xml" />
+			<chapter num="28" title="The Sick Rose" location="B/William Blake/Songs of Innocence and Experience/28.xml" />
+			<chapter num="29" title="The Fly" location="B/William Blake/Songs of Innocence and Experience/29.xml" />
+			<chapter num="30" title="The Angel" location="B/William Blake/Songs of Innocence and Experience/30.xml" />
+			<chapter num="31" title="The Tiger" location="B/William Blake/Songs of Innocence and Experience/31.xml" />
+			<chapter num="32" title="My Pretty Rose Tree" location="B/William Blake/Songs of Innocence and Experience/32.xml" />
+			<chapter num="33" title="Ah, Sunflower" location="B/William Blake/Songs of Innocence and Experience/33.xml" />
+			<chapter num="34" title="The Lily" location="B/William Blake/Songs of Innocence and Experience/34.xml" />
+			<chapter num="35" title="The Garden of Love" location="B/William Blake/Songs of Innocence and Experience/35.xml" />
+			<chapter num="36" title="The Little Vagabond" location="B/William Blake/Songs of Innocence and Experience/36.xml" />
+			<chapter num="37" title="London" location="B/William Blake/Songs of Innocence and Experience/37.xml" />
+			<chapter num="38" title="The Human Abstract" location="B/William Blake/Songs of Innocence and Experience/38.xml" />
+			<chapter num="39" title="Infant Sorrow" location="B/William Blake/Songs of Innocence and Experience/39.xml" />
+			<chapter num="40" title="A Poison Tree" location="B/William Blake/Songs of Innocence and Experience/40.xml" />
+			<chapter num="41" title="A Little Boy Lost" location="B/William Blake/Songs of Innocence and Experience/41.xml" />
+			<chapter num="42" title="A Little Girl Lost" location="B/William Blake/Songs of Innocence and Experience/42.xml" />
+			<chapter num="43" title="A Divine Image" location="B/William Blake/Songs of Innocence and Experience/43.xml" />
+			<chapter num="44" title="A Cradle Song" location="B/William Blake/Songs of Innocence and Experience/44.xml" />
+			<chapter num="45" title="The Schoolboy" location="B/William Blake/Songs of Innocence and Experience/45.xml" />
+			<chapter num="46" title="To Tirzah" location="B/William Blake/Songs of Innocence and Experience/46.xml" />
+			<chapter num="47" title="The Voice of the Ancient Bard" location="B/William Blake/Songs of Innocence and Experience/47.xml" />
+		</section>
+</book>

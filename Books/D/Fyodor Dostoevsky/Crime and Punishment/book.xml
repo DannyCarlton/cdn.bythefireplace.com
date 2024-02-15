@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="55" title="Crime and Punishment" author="Dostoevsky, Fyodor" location="D/Fyodor Dostoevsky/Crime and Punishment">
+		<section type="1" name="Part I">
+			<chapter num="1" title="Chapter I" location="D/Fyodor Dostoevsky/Crime and Punishment/1.xml" />
+			<chapter num="2" title="Chapter II" location="D/Fyodor Dostoevsky/Crime and Punishment/2.xml" />
+			<chapter num="3" title="Chapter III" location="D/Fyodor Dostoevsky/Crime and Punishment/3.xml" />
+			<chapter num="4" title="Chapter IV" location="D/Fyodor Dostoevsky/Crime and Punishment/4.xml" />
+			<chapter num="5" title="Chapter V" location="D/Fyodor Dostoevsky/Crime and Punishment/5.xml" />
+			<chapter num="6" title="Chapter VI" location="D/Fyodor Dostoevsky/Crime and Punishment/6.xml" />
+			<chapter num="7" title="Chapter VII" location="D/Fyodor Dostoevsky/Crime and Punishment/7.xml" />
+		</section>
+		<section type="1" name="Part II">
+			<chapter num="8" title="Chapter I" location="D/Fyodor Dostoevsky/Crime and Punishment/8.xml" />
+			<chapter num="9" title="Chapter II" location="D/Fyodor Dostoevsky/Crime and Punishment/9.xml" />
+			<chapter num="10" title="Chapter III" location="D/Fyodor Dostoevsky/Crime and Punishment/10.xml" />
+			<chapter num="11" title="Chapter IV" location="D/Fyodor Dostoevsky/Crime and Punishment/11.xml" />
+			<chapter num="12" title="Chapter V" location="D/Fyodor Dostoevsky/Crime and Punishment/12.xml" />
+			<chapter num="13" title="Chapter VI" location="D/Fyodor Dostoevsky/Crime and Punishment/13.xml" />
+			<chapter num="14" title="Chapter VII" location="D/Fyodor Dostoevsky/Crime and Punishment/14.xml" />
+		</section>
+		<section type="1" name="Part III">
+			<chapter num="15" title="Chapter I" location="D/Fyodor Dostoevsky/Crime and Punishment/15.xml" />
+			<chapter num="16" title="Chapter II" location="D/Fyodor Dostoevsky/Crime and Punishment/16.xml" />
+			<chapter num="17" title="Chapter III" location="D/Fyodor Dostoevsky/Crime and Punishment/17.xml" />
+			<chapter num="18" title="Chapter IV" location="D/Fyodor Dostoevsky/Crime and Punishment/18.xml" />
+			<chapter num="19" title="Chapter V" location="D/Fyodor Dostoevsky/Crime and Punishment/19.xml" />
+			<chapter num="20" title="Chapter VI" location="D/Fyodor Dostoevsky/Crime and Punishment/20.xml" />
+		</section>
+		<section type="1" name="Part IV">
+			<chapter num="21" title="Chapter I" location="D/Fyodor Dostoevsky/Crime and Punishment/21.xml" />
+			<chapter num="22" title="Chapter II" location="D/Fyodor Dostoevsky/Crime and Punishment/22.xml" />
+			<chapter num="23" title="Chapter III" location="D/Fyodor Dostoevsky/Crime and Punishment/23.xml" />
+			<chapter num="24" title="Chapter IV" location="D/Fyodor Dostoevsky/Crime and Punishment/24.xml" />
+			<chapter num="25" title="Chapter V" location="D/Fyodor Dostoevsky/Crime and Punishment/25.xml" />
+			<chapter num="26" title="Chapter VI" location="D/Fyodor Dostoevsky/Crime and Punishment/26.xml" />
+		</section>
+		<section type="1" name="Part V">
+			<chapter num="27" title="Chapter I" location="D/Fyodor Dostoevsky/Crime and Punishment/27.xml" />
+			<chapter num="28" title="Chapter II" location="D/Fyodor Dostoevsky/Crime and Punishment/28.xml" />
+			<chapter num="29" title="Chapter III" location="D/Fyodor Dostoevsky/Crime and Punishment/29.xml" />
+			<chapter num="30" title="Chapter IV" location="D/Fyodor Dostoevsky/Crime and Punishment/30.xml" />
+			<chapter num="31" title="Chapter V" location="D/Fyodor Dostoevsky/Crime and Punishment/31.xml" />
+		</section>
+		<section type="1" name="Part VI">
+			<chapter num="32" title="Chapter I" location="D/Fyodor Dostoevsky/Crime and Punishment/32.xml" />
+			<chapter num="33" title="Chapter II" location="D/Fyodor Dostoevsky/Crime and Punishment/33.xml" />
+			<chapter num="34" title="Chapter III" location="D/Fyodor Dostoevsky/Crime and Punishment/34.xml" />
+			<chapter num="35" title="Chapter IV" location="D/Fyodor Dostoevsky/Crime and Punishment/35.xml" />
+			<chapter num="36" title="Chapter V" location="D/Fyodor Dostoevsky/Crime and Punishment/36.xml" />
+			<chapter num="37" title="Chapter VI" location="D/Fyodor Dostoevsky/Crime and Punishment/37.xml" />
+			<chapter num="38" title="Chapter VII" location="D/Fyodor Dostoevsky/Crime and Punishment/38.xml" />
+			<chapter num="39" title="Epilogue. Chapter II" location="D/Fyodor Dostoevsky/Crime and Punishment/39.xml" />
+		</section>
+</book>

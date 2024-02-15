@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2533" title="Lonesome Trail, The" author="Bower, B.M." location="B/B.M. Bower/Lonesome Trail, The">
+			<chapter num="1" title="Part One" location="B/B.M. Bower/Lonesome Trail, The/1.xml" />
+			<chapter num="2" title="Part Two" location="B/B.M. Bower/Lonesome Trail, The/2.xml" />
+			<chapter num="3" title="Part Three" location="B/B.M. Bower/Lonesome Trail, The/3.xml" />
+			<chapter num="4" title="Part Four" location="B/B.M. Bower/Lonesome Trail, The/4.xml" />
+			<chapter num="5" title="Part Five" location="B/B.M. Bower/Lonesome Trail, The/5.xml" />
+			<chapter num="6" title="Part Six" location="B/B.M. Bower/Lonesome Trail, The/6.xml" />
+</book>

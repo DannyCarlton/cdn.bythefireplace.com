@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="770" title="Wealth of Nations" author="Smith, Adam" location="S/Adam Smith/Wealth of Nations">
+			<chapter num="1" title="Introduction and Plan of the Work" location="S/Adam Smith/Wealth of Nations/1.xml" />
+		<section type="1" name="Book I">
+			<chapter num="2" title="Chapter  I. Of the Division of Labour" location="S/Adam Smith/Wealth of Nations/2.xml" />
+			<chapter num="3" title="Chapter II. Of the Principle which gives occasion to the Division of Labour" location="S/Adam Smith/Wealth of Nations/3.xml" />
+			<chapter num="4" title="Chapter III. That the Division of Labour is limited by the Extent of the Market" location="S/Adam Smith/Wealth of Nations/4.xml" />
+			<chapter num="5" title="Chapter IV. Of the Origin and Use of Money" location="S/Adam Smith/Wealth of Nations/5.xml" />
+			<chapter num="6" title="Chapter V. Of the Real and Nominal Price of Commodities, or their Price in Labour, and their Price in Money" location="S/Adam Smith/Wealth of Nations/6.xml" />
+			<chapter num="7" title="Chapter VI. Of the Component Parts of the Price of Commodities" location="S/Adam Smith/Wealth of Nations/7.xml" />
+			<chapter num="8" title="Chapter VII. Of the Natural and Market Price of Commodities" location="S/Adam Smith/Wealth of Nations/8.xml" />
+			<chapter num="9" title="Chapter VIII. Of the Wages of Labour" location="S/Adam Smith/Wealth of Nations/9.xml" />
+			<chapter num="10" title="Chapter IX. Of the Profits of Stock" location="S/Adam Smith/Wealth of Nations/10.xml" />
+			<chapter num="11" title="Chapter X. Of Wages and Profit in the different Employments of Labour and Stock" location="S/Adam Smith/Wealth of Nations/11.xml" />
+			<chapter num="12" title="Chapter XI. Of the Rent of Land" location="S/Adam Smith/Wealth of Nations/12.xml" />
+		</section>
+		<section type="1" name="Book II">
+			<chapter num="13" title="Introduction." location="S/Adam Smith/Wealth of Nations/13.xml" />
+			<chapter num="14" title="Chapter  I. Of the Division of Stock" location="S/Adam Smith/Wealth of Nations/14.xml" />
+			<chapter num="15" title="Chapter II. Of Money, considered as a particular Branch of the general Stock of the Society, or of the Expense of maintaining the National Capital." location="S/Adam Smith/Wealth of Nations/15.xml" />
+			<chapter num="16" title="Chapter III. Of the Accumulation of Capital, or of Productive and Unproductive Labour" location="S/Adam Smith/Wealth of Nations/16.xml" />
+			<chapter num="17" title="Chapter IV. Of Stock Lent at Interest" location="S/Adam Smith/Wealth of Nations/17.xml" />
+			<chapter num="18" title="Chapter V. Of the Different Employment of Capitals" location="S/Adam Smith/Wealth of Nations/18.xml" />
+		</section>
+		<section type="1" name="Book III">
+			<chapter num="19" title="Chapter I. Of the Natural Progress of Opulence" location="S/Adam Smith/Wealth of Nations/19.xml" />
+			<chapter num="20" title="Chapter II. Of the Discouragement of Agriculture in the ancient State of Europe after the Fall of the Roman Empire." location="S/Adam Smith/Wealth of Nations/20.xml" />
+			<chapter num="21" title="Chapter III. Of the Rise and Progress of Cities and Towns after the Fall of the Roman Empire." location="S/Adam Smith/Wealth of Nations/21.xml" />
+			<chapter num="22" title="Chapter IV. How the Commerce of the Towns Contributed to the Improvement of the Country" location="S/Adam Smith/Wealth of Nations/22.xml" />
+		</section>
+		<section type="1" name="Book IV">
+			<chapter num="23" title="Introduction" location="S/Adam Smith/Wealth of Nations/23.xml" />
+			<chapter num="24" title="Chapter I. Of the Principle of the Commercial, or Mercantile System" location="S/Adam Smith/Wealth of Nations/24.xml" />
+			<chapter num="25" title="Chapter II. Of Restraints upon the Importation from Foreign Countries of such Goods as can be produced at Home" location="S/Adam Smith/Wealth of Nations/25.xml" />
+			<chapter num="26" title="Chapter III. Of the extraordinary Restraints upon the Importation of Goods of almost all kinds from those Countries with which the Balance is supposed to be disadvantageous" location="S/Adam Smith/Wealth of Nations/26.xml" />
+			<chapter num="27" title="Chapter IV. Of Drawbacks" location="S/Adam Smith/Wealth of Nations/27.xml" />
+			<chapter num="28" title="Chapter V. Of Bounties" location="S/Adam Smith/Wealth of Nations/28.xml" />
+			<chapter num="29" title="Chapter VI. Of Treaties of Commerce" location="S/Adam Smith/Wealth of Nations/29.xml" />
+			<chapter num="30" title="Chapter VII. Of Colonies" location="S/Adam Smith/Wealth of Nations/30.xml" />
+			<chapter num="31" title="Chapter VIII. Conclusion of the Mercantile System" location="S/Adam Smith/Wealth of Nations/31.xml" />
+			<chapter num="32" title="Chapter IX. Of the Agricultural Systems, or of those Systems of Political Economy which represent the Produce of Land as either the sole or the principal Source of the Revenue and Wealth every Country" location="S/Adam Smith/Wealth of Nations/32.xml" />
+			<chapter num="33" title="Appendix" location="S/Adam Smith/Wealth of Nations/33.xml" />
+		</section>
+		<section type="1" name="Book V">
+			<chapter num="34" title="Chapter I. Of the Expenses of the Sovereign or Commonwealth" location="S/Adam Smith/Wealth of Nations/34.xml" />
+			<chapter num="35" title="Chapter II. Of the Sources of the General or Public Revenue of the Society" location="S/Adam Smith/Wealth of Nations/35.xml" />
+			<chapter num="36" title="Chapter III. Of Public Debts." location="S/Adam Smith/Wealth of Nations/36.xml" />
+		</section>
+</book>

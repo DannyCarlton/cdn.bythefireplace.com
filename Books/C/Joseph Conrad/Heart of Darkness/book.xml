@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="47" title="Heart of Darkness" author="Conrad, Joseph" location="C/Joseph Conrad/Heart of Darkness">
+			<chapter num="1" title="Part I" location="C/Joseph Conrad/Heart of Darkness/1.xml" />
+			<chapter num="2" title="Part II" location="C/Joseph Conrad/Heart of Darkness/2.xml" />
+			<chapter num="3" title="Part III" location="C/Joseph Conrad/Heart of Darkness/3.xml" />
+</book>

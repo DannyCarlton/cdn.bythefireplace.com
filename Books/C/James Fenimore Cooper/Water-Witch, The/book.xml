@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40304" title="Water-Witch, The" author="Cooper, James Fenimore" location="C/James Fenimore Cooper/Water-Witch, The">
+			<chapter num="1" title="Preface" location="C/James Fenimore Cooper/Water-Witch, The/1.xml" />
+
+	<section type="2" name="Volume 1">
+			<chapter num="2" title="Chapter I" location="C/James Fenimore Cooper/Water-Witch, The/2.xml" />
+			<chapter num="3" title="Chapter II" location="C/James Fenimore Cooper/Water-Witch, The/3.xml" />
+			<chapter num="4" title="Chapter III" location="C/James Fenimore Cooper/Water-Witch, The/4.xml" />
+			<chapter num="5" title="Chapter IV" location="C/James Fenimore Cooper/Water-Witch, The/5.xml" />
+			<chapter num="6" title="Chapter V" location="C/James Fenimore Cooper/Water-Witch, The/6.xml" />
+			<chapter num="7" title="Chapter VI" location="C/James Fenimore Cooper/Water-Witch, The/7.xml" />
+			<chapter num="8" title="Chapter VII" location="C/James Fenimore Cooper/Water-Witch, The/8.xml" />
+			<chapter num="9" title="Chapter VIII" location="C/James Fenimore Cooper/Water-Witch, The/9.xml" />
+			<chapter num="10" title="Chapter IX" location="C/James Fenimore Cooper/Water-Witch, The/10.xml" />
+			<chapter num="11" title="Chapter X" location="C/James Fenimore Cooper/Water-Witch, The/11.xml" />
+			<chapter num="12" title="Chapter XI" location="C/James Fenimore Cooper/Water-Witch, The/12.xml" />
+			<chapter num="13" title="Chapter XII" location="C/James Fenimore Cooper/Water-Witch, The/13.xml" />
+			<chapter num="14" title="Chapter XIII" location="C/James Fenimore Cooper/Water-Witch, The/14.xml" />
+			<chapter num="15" title="Chapter XIV" location="C/James Fenimore Cooper/Water-Witch, The/15.xml" />
+			<chapter num="16" title="Chapter XV" location="C/James Fenimore Cooper/Water-Witch, The/16.xml" />
+			<chapter num="17" title="Chapter XVI" location="C/James Fenimore Cooper/Water-Witch, The/17.xml" />
+			<chapter num="18" title="Chapter XVII" location="C/James Fenimore Cooper/Water-Witch, The/18.xml" />
+			<chapter num="19" title="Chapter XVIII" location="C/James Fenimore Cooper/Water-Witch, The/19.xml" />
+
+	</section>
+	<section type="2" name="Volume 2">
+			<chapter num="20" title="Chapter I" location="C/James Fenimore Cooper/Water-Witch, The/20.xml" />
+			<chapter num="21" title="Chapter II" location="C/James Fenimore Cooper/Water-Witch, The/21.xml" />
+			<chapter num="22" title="Chapter III" location="C/James Fenimore Cooper/Water-Witch, The/22.xml" />
+			<chapter num="23" title="Chapter IV" location="C/James Fenimore Cooper/Water-Witch, The/23.xml" />
+			<chapter num="24" title="Chapter V" location="C/James Fenimore Cooper/Water-Witch, The/24.xml" />
+			<chapter num="25" title="Chapter VI" location="C/James Fenimore Cooper/Water-Witch, The/25.xml" />
+			<chapter num="26" title="Chapter VII" location="C/James Fenimore Cooper/Water-Witch, The/26.xml" />
+			<chapter num="27" title="Chapter VIII" location="C/James Fenimore Cooper/Water-Witch, The/27.xml" />
+			<chapter num="28" title="Chapter IX" location="C/James Fenimore Cooper/Water-Witch, The/28.xml" />
+			<chapter num="29" title="Chapter X" location="C/James Fenimore Cooper/Water-Witch, The/29.xml" />
+			<chapter num="30" title="Chapter XI" location="C/James Fenimore Cooper/Water-Witch, The/30.xml" />
+			<chapter num="31" title="Chapter XII" location="C/James Fenimore Cooper/Water-Witch, The/31.xml" />
+			<chapter num="32" title="Chapter XIII" location="C/James Fenimore Cooper/Water-Witch, The/32.xml" />
+			<chapter num="33" title="Chapter XIV" location="C/James Fenimore Cooper/Water-Witch, The/33.xml" />
+			<chapter num="34" title="Chapter XV" location="C/James Fenimore Cooper/Water-Witch, The/34.xml" />
+			<chapter num="35" title="Chapter XVI" location="C/James Fenimore Cooper/Water-Witch, The/35.xml" />
+	</section>
+</book>

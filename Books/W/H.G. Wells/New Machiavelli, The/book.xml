@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1047" title="New Machiavelli, The" author="Wells, H.G." location="W/H.G. Wells/New Machiavelli, The">
+
+	<section type="2" name="Book the First">
+			<chapter num="1" title="Chapter I - Concerning a Book that was Never Written" location="W/H.G. Wells/New Machiavelli, The/1.xml" />
+			<chapter num="2" title="Chapter II - Bromstead and My Father" location="W/H.G. Wells/New Machiavelli, The/2.xml" />
+			<chapter num="3" title="Chapter III - Scholastic" location="W/H.G. Wells/New Machiavelli, The/3.xml" />
+			<chapter num="4" title="Chapter IV - Adolescence" location="W/H.G. Wells/New Machiavelli, The/4.xml" />
+
+	</section>
+	<section type="2" name="Book the Second">
+			<chapter num="5" title="Chapter I - Margaret in Staffordshire" location="W/H.G. Wells/New Machiavelli, The/5.xml" />
+			<chapter num="6" title="Chapter II - Margaret in London" location="W/H.G. Wells/New Machiavelli, The/6.xml" />
+			<chapter num="7" title="Chapter III - Margaret in Venice" location="W/H.G. Wells/New Machiavelli, The/7.xml" />
+			<chapter num="8" title="Chapter IV - The House in Westminster" location="W/H.G. Wells/New Machiavelli, The/8.xml" />
+
+	</section>
+	<section type="2" name="Book the Third">
+			<chapter num="9" title="Chapter I - The Riddle for the Statesman" location="W/H.G. Wells/New Machiavelli, The/9.xml" />
+			<chapter num="10" title="Chapter II - Seeking Associates" location="W/H.G. Wells/New Machiavelli, The/10.xml" />
+			<chapter num="11" title="Chapter III - Secession" location="W/H.G. Wells/New Machiavelli, The/11.xml" />
+			<chapter num="12" title="Chapter IV - The Besetting of Sex" location="W/H.G. Wells/New Machiavelli, The/12.xml" />
+
+	</section>
+	<section type="2" name="Book the Fourth">
+			<chapter num="13" title="Chapter I - Love and Success" location="W/H.G. Wells/New Machiavelli, The/13.xml" />
+			<chapter num="14" title="Chapter II - The Impossible Position" location="W/H.G. Wells/New Machiavelli, The/14.xml" />
+			<chapter num="15" title="Chapter III - The Breaking Point" location="W/H.G. Wells/New Machiavelli, The/15.xml" />
+	</section>
+</book>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1837" title="In the Days of the Comet" author="Wells, H.G." location="W/H.G. Wells/In the Days of the Comet">
+			<chapter num="1" title="Prologue. The Man Who Wrote in the Tower" location="W/H.G. Wells/In the Days of the Comet/1.xml" />
+		<section type="1" name="Book the First. The Comet">
+			<chapter num="2" title="Chapter the First. Dust in the Shadows" location="W/H.G. Wells/In the Days of the Comet/2.xml" />
+			<chapter num="3" title="Chapter the Second. Nettie" location="W/H.G. Wells/In the Days of the Comet/3.xml" />
+			<chapter num="4" title="Chapter the Third. The Revolver" location="W/H.G. Wells/In the Days of the Comet/4.xml" />
+			<chapter num="5" title="Chapter the Fourth. War" location="W/H.G. Wells/In the Days of the Comet/5.xml" />
+			<chapter num="6" title="Chapter the Fifth. The Pursuit of the Two Lovers" location="W/H.G. Wells/In the Days of the Comet/6.xml" />
+		</section>
+		<section type="1" name="Book the Second. The Green Vapors">
+			<chapter num="7" title="Chapter the First. The Change" location="W/H.G. Wells/In the Days of the Comet/7.xml" />
+			<chapter num="8" title="Chapter the Second. The Awakening" location="W/H.G. Wells/In the Days of the Comet/8.xml" />
+			<chapter num="9" title="Chapter the Third. The Cabinet Council" location="W/H.G. Wells/In the Days of the Comet/9.xml" />
+		</section>
+		<section type="1" name="Book the Third. The New World">
+			<chapter num="10" title="Chapter the First. Love After the Change" location="W/H.G. Wells/In the Days of the Comet/10.xml" />
+			<chapter num="11" title="Chapter the Second. My Mother's Last Days" location="W/H.G. Wells/In the Days of the Comet/11.xml" />
+			<chapter num="12" title="Chapter the Third. Beltane and New Year's Eve" location="W/H.G. Wells/In the Days of the Comet/12.xml" />
+			<chapter num="13" title="The Epilogue. The Window of the Tower" location="W/H.G. Wells/In the Days of the Comet/13.xml" />
+		</section>
+</book>

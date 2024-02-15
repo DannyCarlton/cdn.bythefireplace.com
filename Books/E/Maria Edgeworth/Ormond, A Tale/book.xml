@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40346" title="Ormond\, A Tale" author="Edgeworth, Maria" location="E/Maria Edgeworth/Ormond, A Tale">
+			<chapter num="1" title="To the Reader" location="E/Maria Edgeworth/Ormond, A Tale/1.xml" />
+
+	<section type="2" name="Volume I">
+			<chapter num="2" title="Chapter I" location="E/Maria Edgeworth/Ormond, A Tale/2.xml" />
+			<chapter num="3" title="Chapter II" location="E/Maria Edgeworth/Ormond, A Tale/3.xml" />
+			<chapter num="4" title="Chapter III" location="E/Maria Edgeworth/Ormond, A Tale/4.xml" />
+			<chapter num="5" title="Chapter IV" location="E/Maria Edgeworth/Ormond, A Tale/5.xml" />
+			<chapter num="6" title="Chapter V" location="E/Maria Edgeworth/Ormond, A Tale/6.xml" />
+			<chapter num="7" title="Chapter VI" location="E/Maria Edgeworth/Ormond, A Tale/7.xml" />
+			<chapter num="8" title="Chapter VII" location="E/Maria Edgeworth/Ormond, A Tale/8.xml" />
+			<chapter num="9" title="Chapter VIII" location="E/Maria Edgeworth/Ormond, A Tale/9.xml" />
+			<chapter num="10" title="Chapter IX" location="E/Maria Edgeworth/Ormond, A Tale/10.xml" />
+			<chapter num="11" title="Chapter X" location="E/Maria Edgeworth/Ormond, A Tale/11.xml" />
+			<chapter num="12" title="Chapter XI" location="E/Maria Edgeworth/Ormond, A Tale/12.xml" />
+			<chapter num="13" title="Chapter XII" location="E/Maria Edgeworth/Ormond, A Tale/13.xml" />
+			<chapter num="14" title="Chapter XIII" location="E/Maria Edgeworth/Ormond, A Tale/14.xml" />
+			<chapter num="15" title="Chapter XIV" location="E/Maria Edgeworth/Ormond, A Tale/15.xml" />
+			<chapter num="16" title="Chapter XV" location="E/Maria Edgeworth/Ormond, A Tale/16.xml" />
+			<chapter num="17" title="Chapter XVI" location="E/Maria Edgeworth/Ormond, A Tale/17.xml" />
+			<chapter num="18" title="Chapter XVII" location="E/Maria Edgeworth/Ormond, A Tale/18.xml" />
+			<chapter num="19" title="Chapter XVIII" location="E/Maria Edgeworth/Ormond, A Tale/19.xml" />
+
+	</section>
+	<section type="2" name="Volume II">
+			<chapter num="20" title="Chapter XIX" location="E/Maria Edgeworth/Ormond, A Tale/20.xml" />
+			<chapter num="21" title="Chapter XX" location="E/Maria Edgeworth/Ormond, A Tale/21.xml" />
+			<chapter num="22" title="Chapter XXI" location="E/Maria Edgeworth/Ormond, A Tale/22.xml" />
+			<chapter num="23" title="Chapter XXII" location="E/Maria Edgeworth/Ormond, A Tale/23.xml" />
+			<chapter num="24" title="Chapter XXIII" location="E/Maria Edgeworth/Ormond, A Tale/24.xml" />
+			<chapter num="25" title="Chapter XXIV" location="E/Maria Edgeworth/Ormond, A Tale/25.xml" />
+			<chapter num="26" title="Chapter XXV" location="E/Maria Edgeworth/Ormond, A Tale/26.xml" />
+			<chapter num="27" title="Chapter XXVI" location="E/Maria Edgeworth/Ormond, A Tale/27.xml" />
+			<chapter num="28" title="Chapter XXVII" location="E/Maria Edgeworth/Ormond, A Tale/28.xml" />
+			<chapter num="29" title="Chapter XXVIII" location="E/Maria Edgeworth/Ormond, A Tale/29.xml" />
+			<chapter num="30" title="Chapter XXIX" location="E/Maria Edgeworth/Ormond, A Tale/30.xml" />
+			<chapter num="31" title="Chapter XXX" location="E/Maria Edgeworth/Ormond, A Tale/31.xml" />
+			<chapter num="32" title="Chapter XXXI" location="E/Maria Edgeworth/Ormond, A Tale/32.xml" />
+			<chapter num="33" title="Chapter XXXII" location="E/Maria Edgeworth/Ormond, A Tale/33.xml" />
+	</section>
+</book>

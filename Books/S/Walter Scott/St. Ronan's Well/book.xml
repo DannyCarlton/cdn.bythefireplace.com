@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40270" title="St. Ronan's Well" author="Scott, Walter" location="S/Walter Scott/St. Ronan's Well">
+			<chapter num="1" title="Introduction to St Ronan's Well. " location="S/Walter Scott/St. Ronan's Well/1.xml" />
+
+	<section type="2" name="Vol. I. ">
+			<chapter num="2" title="Chapter I. An Old-world Landlady. " location="S/Walter Scott/St. Ronan's Well/2.xml" />
+			<chapter num="3" title="Chapter II. The Guest. " location="S/Walter Scott/St. Ronan's Well/3.xml" />
+			<chapter num="4" title="Chapter III. Administration. " location="S/Walter Scott/St. Ronan's Well/4.xml" />
+			<chapter num="5" title="Chapter IV. The Invitation. " location="S/Walter Scott/St. Ronan's Well/5.xml" />
+			<chapter num="6" title="Chapter V. Epistolary Eloquence. " location="S/Walter Scott/St. Ronan's Well/6.xml" />
+			<chapter num="7" title="Chapter VI. Table-talk. " location="S/Walter Scott/St. Ronan's Well/7.xml" />
+			<chapter num="8" title="Chapter VII. The Tea-table. " location="S/Walter Scott/St. Ronan's Well/8.xml" />
+			<chapter num="9" title="Chapter VIII. After Dinner. " location="S/Walter Scott/St. Ronan's Well/9.xml" />
+			<chapter num="10" title="Chapter IX. The Meeting. " location="S/Walter Scott/St. Ronan's Well/10.xml" />
+			<chapter num="11" title="Chapter X. Resources. " location="S/Walter Scott/St. Ronan's Well/11.xml" />
+			<chapter num="12" title="Chapter XI. Fraternal Love. " location="S/Walter Scott/St. Ronan's Well/12.xml" />
+			<chapter num="13" title="Chapter XII. The Challenge. " location="S/Walter Scott/St. Ronan's Well/13.xml" />
+			<chapter num="14" title="Chapter XIII. Disappointment. " location="S/Walter Scott/St. Ronan's Well/14.xml" />
+			<chapter num="15" title="Chapter XIV. The Consultation. " location="S/Walter Scott/St. Ronan's Well/15.xml" />
+			<chapter num="16" title="Chapter XV. A Praiser of Past Times. " location="S/Walter Scott/St. Ronan's Well/16.xml" />
+			<chapter num="17" title="Chapter XVI. The Clergyman. " location="S/Walter Scott/St. Ronan's Well/17.xml" />
+			<chapter num="18" title="Chapter XVII. The Acquaintance. " location="S/Walter Scott/St. Ronan's Well/18.xml" />
+			<chapter num="19" title="Chapter XVIII. Fortune's Frolics. " location="S/Walter Scott/St. Ronan's Well/19.xml" />
+			<chapter num="20" title="Chapter XIX. A Letter. " location="S/Walter Scott/St. Ronan's Well/20.xml" />
+
+	</section>
+	<section type="2" name="Vol. II. ">
+			<chapter num="21" title="Chapter I. Theatricals. " location="S/Walter Scott/St. Ronan's Well/21.xml" />
+			<chapter num="22" title="Chapter II. Perplexities. " location="S/Walter Scott/St. Ronan's Well/22.xml" />
+			<chapter num="23" title="Chapter III. Expostulation. " location="S/Walter Scott/St. Ronan's Well/23.xml" />
+			<chapter num="24" title="Chapter IV. The Proposal. " location="S/Walter Scott/St. Ronan's Well/24.xml" />
+			<chapter num="25" title="Chapter V. Private Information. " location="S/Walter Scott/St. Ronan's Well/25.xml" />
+			<chapter num="26" title="Chapter VI. Explanatory. " location="S/Walter Scott/St. Ronan's Well/26.xml" />
+			<chapter num="27" title="Chapter VII. Letter Continued. " location="S/Walter Scott/St. Ronan's Well/27.xml" />
+			<chapter num="28" title="Chapter VIII. The Reply. " location="S/Walter Scott/St. Ronan's Well/28.xml" />
+			<chapter num="29" title="Chapter IX. The Fright. " location="S/Walter Scott/St. Ronan's Well/29.xml" />
+			<chapter num="30" title="Chapter X. Mediation. " location="S/Walter Scott/St. Ronan's Well/30.xml" />
+			<chapter num="31" title="Chapter XI. Intrusion. " location="S/Walter Scott/St. Ronan's Well/31.xml" />
+			<chapter num="32" title="Chapter XII. Discussion. " location="S/Walter Scott/St. Ronan's Well/32.xml" />
+			<chapter num="33" title="Chapter XIII. A Death-bed. " location="S/Walter Scott/St. Ronan's Well/33.xml" />
+			<chapter num="34" title="Chapter XIV. Disappointment. " location="S/Walter Scott/St. Ronan's Well/34.xml" />
+			<chapter num="35" title="Chapter XV. A Tea-party. " location="S/Walter Scott/St. Ronan's Well/35.xml" />
+			<chapter num="36" title="Chapter XVI. Debate. " location="S/Walter Scott/St. Ronan's Well/36.xml" />
+			<chapter num="37" title="Chapter XVII. A Relative. " location="S/Walter Scott/St. Ronan's Well/37.xml" />
+			<chapter num="38" title="Chapter XVIII. The Wanderer. " location="S/Walter Scott/St. Ronan's Well/38.xml" />
+			<chapter num="39" title="Chapter XIX. The Catastrophe. " location="S/Walter Scott/St. Ronan's Well/39.xml" />
+			<chapter num="40" title="Chapter XX. Conclusion. " location="S/Walter Scott/St. Ronan's Well/40.xml" />
+	</section>
+</book>

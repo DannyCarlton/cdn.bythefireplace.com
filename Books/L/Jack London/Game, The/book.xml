@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="704" title="Game, The" author="London, Jack" location="L/Jack London/Game, The">
+			<chapter num="1" title="Chapter I" location="L/Jack London/Game, The/1.xml" />
+			<chapter num="2" title="Chapter II" location="L/Jack London/Game, The/2.xml" />
+			<chapter num="3" title="Chapter III" location="L/Jack London/Game, The/3.xml" />
+			<chapter num="4" title="Chapter IV" location="L/Jack London/Game, The/4.xml" />
+			<chapter num="5" title="Chapter V" location="L/Jack London/Game, The/5.xml" />
+			<chapter num="6" title="Chapter VI" location="L/Jack London/Game, The/6.xml" />
+</book>

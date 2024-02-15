@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="146" title="Evangeline" author="Longfellow, Henry Wadsworth" location="L/Henry Wadsworth Longfellow/Evangeline">
+			<chapter num="1" title="Preface" location="L/Henry Wadsworth Longfellow/Evangeline/1.xml" />
+			<chapter num="2" title="Part the First. I." location="L/Henry Wadsworth Longfellow/Evangeline/2.xml" />
+			<chapter num="3" title="Part the First. II." location="L/Henry Wadsworth Longfellow/Evangeline/3.xml" />
+			<chapter num="4" title="Part the First. III." location="L/Henry Wadsworth Longfellow/Evangeline/4.xml" />
+			<chapter num="5" title="Part the First. IV." location="L/Henry Wadsworth Longfellow/Evangeline/5.xml" />
+			<chapter num="6" title="Part the First. V." location="L/Henry Wadsworth Longfellow/Evangeline/6.xml" />
+			<chapter num="7" title="Part the Second. I." location="L/Henry Wadsworth Longfellow/Evangeline/7.xml" />
+			<chapter num="8" title="Part the Second. II." location="L/Henry Wadsworth Longfellow/Evangeline/8.xml" />
+			<chapter num="9" title="Part the Second. III." location="L/Henry Wadsworth Longfellow/Evangeline/9.xml" />
+			<chapter num="10" title="Part the Second. IV." location="L/Henry Wadsworth Longfellow/Evangeline/10.xml" />
+			<chapter num="11" title="Part the Second. V." location="L/Henry Wadsworth Longfellow/Evangeline/11.xml" />
+</book>

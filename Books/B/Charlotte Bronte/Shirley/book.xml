@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1735" title="Shirley" author="Bronte, Charlotte" location="B/Charlotte Bronte/Shirley">
+		<section type="1" name="Part One">
+			<chapter num="1" title="Chapter I. Levitical" location="B/Charlotte Bronte/Shirley/1.xml" />
+			<chapter num="2" title="Chapter II. The Wagons" location="B/Charlotte Bronte/Shirley/2.xml" />
+			<chapter num="3" title="Chapter III. Mr. Yorke" location="B/Charlotte Bronte/Shirley/3.xml" />
+			<chapter num="4" title="Chapter IV. Mr. Yorke (Continued)" location="B/Charlotte Bronte/Shirley/4.xml" />
+			<chapter num="5" title="Chapter V. Hollow's Cottage" location="B/Charlotte Bronte/Shirley/5.xml" />
+			<chapter num="6" title="Chapter VI. Coriolanus" location="B/Charlotte Bronte/Shirley/6.xml" />
+			<chapter num="7" title="Chapter VII. The Curates at Tea" location="B/Charlotte Bronte/Shirley/7.xml" />
+			<chapter num="8" title="Chapter VIII. Noah and Moses" location="B/Charlotte Bronte/Shirley/8.xml" />
+			<chapter num="9" title="Chapter IX. Briarmains" location="B/Charlotte Bronte/Shirley/9.xml" />
+		</section>
+		<section type="1" name="Part Two">
+			<chapter num="10" title="Chapter X. Old Maids" location="B/Charlotte Bronte/Shirley/10.xml" />
+			<chapter num="11" title="Chapter XI. Fieldhead" location="B/Charlotte Bronte/Shirley/11.xml" />
+			<chapter num="12" title="Chapter XII. Shirley and Caroline" location="B/Charlotte Bronte/Shirley/12.xml" />
+			<chapter num="13" title="Chapter XIII. Further Communications on Business" location="B/Charlotte Bronte/Shirley/13.xml" />
+			<chapter num="14" title="Chapter XIV. Shirley Seeks to Be Saved by Works" location="B/Charlotte Bronte/Shirley/14.xml" />
+			<chapter num="15" title="Chapter XV. Mr. Donne's Exodus" location="B/Charlotte Bronte/Shirley/15.xml" />
+			<chapter num="16" title="Chapter XVI. Whitsuntide" location="B/Charlotte Bronte/Shirley/16.xml" />
+			<chapter num="17" title="Chapter XVII. The School-Feast" location="B/Charlotte Bronte/Shirley/17.xml" />
+			<chapter num="18" title="Chapter XVIII. Which the Genteel Reader is Recommended to Skip, Low" location="B/Charlotte Bronte/Shirley/18.xml" />
+		</section>
+		<section type="1" name="Part Three">
+			<chapter num="19" title="Chapter XIX. A Summer Night" location="B/Charlotte Bronte/Shirley/19.xml" />
+			<chapter num="20" title="Chapter XX. To-Morrow" location="B/Charlotte Bronte/Shirley/20.xml" />
+			<chapter num="21" title="Chapter XXI. Mrs. Pryor" location="B/Charlotte Bronte/Shirley/21.xml" />
+			<chapter num="22" title="Chapter XXII. Two Lives" location="B/Charlotte Bronte/Shirley/22.xml" />
+			<chapter num="23" title="Chapter XXIII. An Evening Out" location="B/Charlotte Bronte/Shirley/23.xml" />
+			<chapter num="24" title="Chapter XXIV. The Valley of the Shadow of Death" location="B/Charlotte Bronte/Shirley/24.xml" />
+			<chapter num="25" title="Chapter XXV. The West Wind Blows" location="B/Charlotte Bronte/Shirley/25.xml" />
+			<chapter num="26" title="Chapter XXVI. Old Copy-Books" location="B/Charlotte Bronte/Shirley/26.xml" />
+			<chapter num="27" title="Chapter XXVII. The First Blue-Stocking" location="B/Charlotte Bronte/Shirley/27.xml" />
+			<chapter num="28" title="Chapter XXVIII. Phoebe" location="B/Charlotte Bronte/Shirley/28.xml" />
+		</section>
+		<section type="1" name="Part Four">
+			<chapter num="29" title="Chapter XXIX. Louis Moore" location="B/Charlotte Bronte/Shirley/29.xml" />
+			<chapter num="30" title="Chapter XXX. Rushedge, a Confessional" location="B/Charlotte Bronte/Shirley/30.xml" />
+			<chapter num="31" title="Chapter XXXI. Uncle and Niece" location="B/Charlotte Bronte/Shirley/31.xml" />
+			<chapter num="32" title="Chapter XXXII. The Schoolboy and the Wood-Nymph" location="B/Charlotte Bronte/Shirley/32.xml" />
+			<chapter num="33" title="Chapter XXXIII. Martin's Tactics" location="B/Charlotte Bronte/Shirley/33.xml" />
+			<chapter num="34" title="Chapter XXXIV. Case of Domestic Persecution - Remarkable Instance of" location="B/Charlotte Bronte/Shirley/34.xml" />
+			<chapter num="35" title="Chapter XXXV. Wherein Matters Make Some Progress, But Not Much" location="B/Charlotte Bronte/Shirley/35.xml" />
+			<chapter num="36" title="Chapter XXXVI. Written in the Schoolroom" location="B/Charlotte Bronte/Shirley/36.xml" />
+			<chapter num="37" title="Chapter XXXVII. The Winding-Up" location="B/Charlotte Bronte/Shirley/37.xml" />
+		</section>
+</book>

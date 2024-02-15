@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40055" title="Sappho of Green Springs, A" author="Harte, Bret" location="H/Bret Harte/Sappho of Green Springs, A">
+
+	<section type="2" name="A Sappho of Green Springs">
+			<chapter num="1" title="Chapter I." location="H/Bret Harte/Sappho of Green Springs, A/1.xml" />
+			<chapter num="2" title="Chapter II." location="H/Bret Harte/Sappho of Green Springs, A/2.xml" />
+			<chapter num="3" title="Chapter III." location="H/Bret Harte/Sappho of Green Springs, A/3.xml" />
+			<chapter num="4" title="Chapter IV." location="H/Bret Harte/Sappho of Green Springs, A/4.xml" />
+			<chapter num="5" title="Chapter V." location="H/Bret Harte/Sappho of Green Springs, A/5.xml" />
+
+	</section>
+	<section type="2" name="The Chatelaine of Burnt Ridge">
+			<chapter num="6" title="Chapter I." location="H/Bret Harte/Sappho of Green Springs, A/6.xml" />
+			<chapter num="7" title="Chapter II." location="H/Bret Harte/Sappho of Green Springs, A/7.xml" />
+			<chapter num="8" title="Chapter III." location="H/Bret Harte/Sappho of Green Springs, A/8.xml" />
+
+	</section>
+	<section type="2" name="Through the Santa Clara Wheat">
+			<chapter num="9" title="Chapter I." location="H/Bret Harte/Sappho of Green Springs, A/9.xml" />
+			<chapter num="10" title="Chapter II." location="H/Bret Harte/Sappho of Green Springs, A/10.xml" />
+			<chapter num="11" title="Chapter III." location="H/Bret Harte/Sappho of Green Springs, A/11.xml" />
+			<chapter num="12" title="Chapter IV." location="H/Bret Harte/Sappho of Green Springs, A/12.xml" />
+			<chapter num="13" title="Chapter V." location="H/Bret Harte/Sappho of Green Springs, A/13.xml" />
+			<chapter num="14" title="Chapter VI." location="H/Bret Harte/Sappho of Green Springs, A/14.xml" />
+
+	</section>
+	<section type="2" name="A Maecenas of the Pacific Slope">
+			<chapter num="15" title="Chapter I." location="H/Bret Harte/Sappho of Green Springs, A/15.xml" />
+			<chapter num="16" title="Chapter II." location="H/Bret Harte/Sappho of Green Springs, A/16.xml" />
+			<chapter num="17" title="Chapter III." location="H/Bret Harte/Sappho of Green Springs, A/17.xml" />
+			<chapter num="18" title="Chapter IV." location="H/Bret Harte/Sappho of Green Springs, A/18.xml" />
+			<chapter num="19" title="Chapter V." location="H/Bret Harte/Sappho of Green Springs, A/19.xml" />
+			<chapter num="20" title="Chapter VI." location="H/Bret Harte/Sappho of Green Springs, A/20.xml" />
+			<chapter num="21" title="Chapter VII." location="H/Bret Harte/Sappho of Green Springs, A/21.xml" />
+	</section>
+</book>

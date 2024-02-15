@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1803" title="Anabasis" author="Xenophon, " location="X/ Xenophon/Anabasis">
+		<section type="1" name="Book I">
+			<chapter num="1" title="I" location="X/ Xenophon/Anabasis/1.xml" />
+			<chapter num="2" title="I" location="X/ Xenophon/Anabasis/2.xml" />
+			<chapter num="3" title="I" location="X/ Xenophon/Anabasis/3.xml" />
+			<chapter num="4" title="I" location="X/ Xenophon/Anabasis/4.xml" />
+			<chapter num="5" title="I" location="X/ Xenophon/Anabasis/5.xml" />
+			<chapter num="6" title="I" location="X/ Xenophon/Anabasis/6.xml" />
+			<chapter num="7" title="I" location="X/ Xenophon/Anabasis/7.xml" />
+			<chapter num="8" title="I" location="X/ Xenophon/Anabasis/8.xml" />
+			<chapter num="9" title="I" location="X/ Xenophon/Anabasis/9.xml" />
+			<chapter num="10" title="I" location="X/ Xenophon/Anabasis/10.xml" />
+		</section>
+		<section type="1" name="Book II">
+			<chapter num="11" title="I" location="X/ Xenophon/Anabasis/11.xml" />
+			<chapter num="12" title="I" location="X/ Xenophon/Anabasis/12.xml" />
+			<chapter num="13" title="I" location="X/ Xenophon/Anabasis/13.xml" />
+			<chapter num="14" title="I" location="X/ Xenophon/Anabasis/14.xml" />
+			<chapter num="15" title="I" location="X/ Xenophon/Anabasis/15.xml" />
+			<chapter num="16" title="I" location="X/ Xenophon/Anabasis/16.xml" />
+		</section>
+		<section type="1" name="Book III">
+			<chapter num="17" title="I" location="X/ Xenophon/Anabasis/17.xml" />
+			<chapter num="18" title="I" location="X/ Xenophon/Anabasis/18.xml" />
+			<chapter num="19" title="I" location="X/ Xenophon/Anabasis/19.xml" />
+			<chapter num="20" title="I" location="X/ Xenophon/Anabasis/20.xml" />
+			<chapter num="21" title="I" location="X/ Xenophon/Anabasis/21.xml" />
+		</section>
+		<section type="1" name="Book IV">
+			<chapter num="22" title="I" location="X/ Xenophon/Anabasis/22.xml" />
+			<chapter num="23" title="I" location="X/ Xenophon/Anabasis/23.xml" />
+			<chapter num="24" title="I" location="X/ Xenophon/Anabasis/24.xml" />
+			<chapter num="25" title="I" location="X/ Xenophon/Anabasis/25.xml" />
+			<chapter num="26" title="I" location="X/ Xenophon/Anabasis/26.xml" />
+			<chapter num="27" title="I" location="X/ Xenophon/Anabasis/27.xml" />
+			<chapter num="28" title="I" location="X/ Xenophon/Anabasis/28.xml" />
+			<chapter num="29" title="I" location="X/ Xenophon/Anabasis/29.xml" />
+		</section>
+		<section type="1" name="Book V">
+			<chapter num="30" title="I" location="X/ Xenophon/Anabasis/30.xml" />
+			<chapter num="31" title="I" location="X/ Xenophon/Anabasis/31.xml" />
+			<chapter num="32" title="I" location="X/ Xenophon/Anabasis/32.xml" />
+			<chapter num="33" title="I" location="X/ Xenophon/Anabasis/33.xml" />
+			<chapter num="34" title="I" location="X/ Xenophon/Anabasis/34.xml" />
+			<chapter num="35" title="I" location="X/ Xenophon/Anabasis/35.xml" />
+			<chapter num="36" title="I" location="X/ Xenophon/Anabasis/36.xml" />
+			<chapter num="37" title="I" location="X/ Xenophon/Anabasis/37.xml" />
+		</section>
+		<section type="1" name="Book VI">
+			<chapter num="38" title="I" location="X/ Xenophon/Anabasis/38.xml" />
+			<chapter num="39" title="I" location="X/ Xenophon/Anabasis/39.xml" />
+			<chapter num="40" title="I" location="X/ Xenophon/Anabasis/40.xml" />
+			<chapter num="41" title="I" location="X/ Xenophon/Anabasis/41.xml" />
+			<chapter num="42" title="I" location="X/ Xenophon/Anabasis/42.xml" />
+			<chapter num="43" title="I" location="X/ Xenophon/Anabasis/43.xml" />
+		</section>
+		<section type="1" name="Book VII">
+			<chapter num="44" title="I" location="X/ Xenophon/Anabasis/44.xml" />
+			<chapter num="45" title="I" location="X/ Xenophon/Anabasis/45.xml" />
+			<chapter num="46" title="I" location="X/ Xenophon/Anabasis/46.xml" />
+			<chapter num="47" title="I" location="X/ Xenophon/Anabasis/47.xml" />
+			<chapter num="48" title="I" location="X/ Xenophon/Anabasis/48.xml" />
+			<chapter num="49" title="I" location="X/ Xenophon/Anabasis/49.xml" />
+			<chapter num="50" title="I" location="X/ Xenophon/Anabasis/50.xml" />
+			<chapter num="51" title="I" location="X/ Xenophon/Anabasis/51.xml" />
+		</section>
+</book>

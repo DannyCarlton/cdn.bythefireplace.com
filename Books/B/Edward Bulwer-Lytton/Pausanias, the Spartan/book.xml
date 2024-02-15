@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40482" title="Pausanias\, the Spartan" author="Bulwer-Lytton, Edward" location="B/Edward Bulwer-Lytton/Pausanias, the Spartan">
+
+	<section type="2" name="Book I.">
+			<chapter num="1" title="Chapter I." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/1.xml" />
+			<chapter num="2" title="Chapter II." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/2.xml" />
+			<chapter num="3" title="Chapter III." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/3.xml" />
+			<chapter num="4" title="Chapter IV." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/4.xml" />
+			<chapter num="5" title="Chapter V." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/5.xml" />
+
+	</section>
+	<section type="2" name="Book II.">
+			<chapter num="6" title="Chapter I." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/6.xml" />
+			<chapter num="7" title="Chapter II." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/7.xml" />
+			<chapter num="8" title="Chapter III." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/8.xml" />
+			<chapter num="9" title="Chapter IV." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/9.xml" />
+			<chapter num="10" title="Chapter V." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/10.xml" />
+			<chapter num="11" title="Chapter VI." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/11.xml" />
+
+	</section>
+	<section type="2" name="Book III.">
+			<chapter num="12" title="Chapter I." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/12.xml" />
+			<chapter num="13" title="Chapter II." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/13.xml" />
+			<chapter num="14" title="Chapter IV." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/14.xml" />
+			<chapter num="15" title="Chapter V" location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/15.xml" />
+			<chapter num="16" title="Chapter VI." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/16.xml" />
+			<chapter num="17" title="Chapter VII." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/17.xml" />
+
+	</section>
+	<section type="2" name="Book IV.">
+			<chapter num="18" title="Chapter I." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/18.xml" />
+			<chapter num="19" title="Chapter II." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/19.xml" />
+			<chapter num="20" title="Chapter III." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/20.xml" />
+			<chapter num="21" title="Chapter IV." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/21.xml" />
+			<chapter num="22" title="Chapter V." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/22.xml" />
+			<chapter num="23" title="Chapter VI." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/23.xml" />
+			<chapter num="24" title="Chapter VII." location="B/Edward Bulwer-Lytton/Pausanias, the Spartan/24.xml" />
+	</section>
+</book>

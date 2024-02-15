@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2090" title="Pomp of the Lavilettes, The" author="Parker, Gilbert" location="P/Gilbert Parker/Pomp of the Lavilettes, The">
+			<chapter num="1" title="Introduction" location="P/Gilbert Parker/Pomp of the Lavilettes, The/1.xml" />
+		<section type="1" name="Volume 1">
+			<chapter num="2" title="Chapter I" location="P/Gilbert Parker/Pomp of the Lavilettes, The/2.xml" />
+			<chapter num="3" title="Chapter II" location="P/Gilbert Parker/Pomp of the Lavilettes, The/3.xml" />
+			<chapter num="4" title="Chapter III" location="P/Gilbert Parker/Pomp of the Lavilettes, The/4.xml" />
+			<chapter num="5" title="Chapter IV" location="P/Gilbert Parker/Pomp of the Lavilettes, The/5.xml" />
+			<chapter num="6" title="Chapter V" location="P/Gilbert Parker/Pomp of the Lavilettes, The/6.xml" />
+			<chapter num="7" title="Chapter VI" location="P/Gilbert Parker/Pomp of the Lavilettes, The/7.xml" />
+			<chapter num="8" title="Chapter VII" location="P/Gilbert Parker/Pomp of the Lavilettes, The/8.xml" />
+			<chapter num="9" title="Chapter VIII" location="P/Gilbert Parker/Pomp of the Lavilettes, The/9.xml" />
+			<chapter num="10" title="Chapter IX" location="P/Gilbert Parker/Pomp of the Lavilettes, The/10.xml" />
+		</section>
+		<section type="1" name="Volume 2">
+			<chapter num="11" title="Chapter X" location="P/Gilbert Parker/Pomp of the Lavilettes, The/11.xml" />
+			<chapter num="12" title="Chapter XI" location="P/Gilbert Parker/Pomp of the Lavilettes, The/12.xml" />
+			<chapter num="13" title="Chapter XII" location="P/Gilbert Parker/Pomp of the Lavilettes, The/13.xml" />
+			<chapter num="14" title="Chapter XIII" location="P/Gilbert Parker/Pomp of the Lavilettes, The/14.xml" />
+			<chapter num="15" title="Chapter XIV" location="P/Gilbert Parker/Pomp of the Lavilettes, The/15.xml" />
+			<chapter num="16" title="Chapter XV" location="P/Gilbert Parker/Pomp of the Lavilettes, The/16.xml" />
+			<chapter num="17" title="Chapter XVI" location="P/Gilbert Parker/Pomp of the Lavilettes, The/17.xml" />
+			<chapter num="18" title="Chapter XVII" location="P/Gilbert Parker/Pomp of the Lavilettes, The/18.xml" />
+			<chapter num="19" title="Chapter XVIII" location="P/Gilbert Parker/Pomp of the Lavilettes, The/19.xml" />
+			<chapter num="20" title="Chapter XIX" location="P/Gilbert Parker/Pomp of the Lavilettes, The/20.xml" />
+			<chapter num="21" title="Chapter XX" location="P/Gilbert Parker/Pomp of the Lavilettes, The/21.xml" />
+		</section>
+</book>

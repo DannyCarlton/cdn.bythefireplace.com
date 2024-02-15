@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2434" title="Second Violin, The" author="Richmond, Grace S." location="R/Grace S. Richmond/Second Violin, The">
+		<section type="1" name="Book I. The Second Violin">
+			<chapter num="1" title="Chapter I" location="R/Grace S. Richmond/Second Violin, The/1.xml" />
+			<chapter num="2" title="Chapter II" location="R/Grace S. Richmond/Second Violin, The/2.xml" />
+			<chapter num="3" title="Chapter III" location="R/Grace S. Richmond/Second Violin, The/3.xml" />
+			<chapter num="4" title="Chapter IV" location="R/Grace S. Richmond/Second Violin, The/4.xml" />
+			<chapter num="5" title="Chapter V" location="R/Grace S. Richmond/Second Violin, The/5.xml" />
+			<chapter num="6" title="Chapter VI" location="R/Grace S. Richmond/Second Violin, The/6.xml" />
+			<chapter num="7" title="Chapter VII" location="R/Grace S. Richmond/Second Violin, The/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="R/Grace S. Richmond/Second Violin, The/8.xml" />
+			<chapter num="9" title="Chapter IX" location="R/Grace S. Richmond/Second Violin, The/9.xml" />
+			<chapter num="10" title="Chapter X" location="R/Grace S. Richmond/Second Violin, The/10.xml" />
+		</section>
+		<section type="1" name="Book II. The Churchill Latch-String">
+			<chapter num="11" title="Chapter I" location="R/Grace S. Richmond/Second Violin, The/11.xml" />
+			<chapter num="12" title="Chapter II" location="R/Grace S. Richmond/Second Violin, The/12.xml" />
+			<chapter num="13" title="Chapter III" location="R/Grace S. Richmond/Second Violin, The/13.xml" />
+			<chapter num="14" title="Chapter IV" location="R/Grace S. Richmond/Second Violin, The/14.xml" />
+			<chapter num="15" title="Chapter V" location="R/Grace S. Richmond/Second Violin, The/15.xml" />
+			<chapter num="16" title="Chapter VI" location="R/Grace S. Richmond/Second Violin, The/16.xml" />
+			<chapter num="17" title="Chapter VII" location="R/Grace S. Richmond/Second Violin, The/17.xml" />
+			<chapter num="18" title="Chapter VIII" location="R/Grace S. Richmond/Second Violin, The/18.xml" />
+			<chapter num="19" title="Chapter IX" location="R/Grace S. Richmond/Second Violin, The/19.xml" />
+			<chapter num="20" title="Chapter X" location="R/Grace S. Richmond/Second Violin, The/20.xml" />
+		</section>
+</book>

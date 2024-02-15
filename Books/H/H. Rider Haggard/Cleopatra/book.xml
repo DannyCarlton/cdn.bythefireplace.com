@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40383" title="Cleopatra" author="Haggard, H. Rider" location="H/H. Rider Haggard/Cleopatra">
+			<chapter num="1" title="Dedication." location="H/H. Rider Haggard/Cleopatra/1.xml" />
+			<chapter num="2" title="Author's Note." location="H/H. Rider Haggard/Cleopatra/2.xml" />
+			<chapter num="3" title="Introduction." location="H/H. Rider Haggard/Cleopatra/3.xml" />
+
+	<section type="2" name="Book I. The Preparation of Harmachis.">
+			<chapter num="4" title="Chapter I." location="H/H. Rider Haggard/Cleopatra/4.xml" />
+			<chapter num="5" title="Chapter II." location="H/H. Rider Haggard/Cleopatra/5.xml" />
+			<chapter num="6" title="Chapter III." location="H/H. Rider Haggard/Cleopatra/6.xml" />
+			<chapter num="7" title="Chapter IV." location="H/H. Rider Haggard/Cleopatra/7.xml" />
+			<chapter num="8" title="Chapter V." location="H/H. Rider Haggard/Cleopatra/8.xml" />
+			<chapter num="9" title="Chapter VI." location="H/H. Rider Haggard/Cleopatra/9.xml" />
+			<chapter num="10" title="Chapter VII." location="H/H. Rider Haggard/Cleopatra/10.xml" />
+
+	</section>
+	<section type="2" name="Book II. The Fall of Harmachis.">
+			<chapter num="11" title="Chapter I." location="H/H. Rider Haggard/Cleopatra/11.xml" />
+			<chapter num="12" title="Chapter II." location="H/H. Rider Haggard/Cleopatra/12.xml" />
+			<chapter num="13" title="Chapter III." location="H/H. Rider Haggard/Cleopatra/13.xml" />
+			<chapter num="14" title="Chapter IV." location="H/H. Rider Haggard/Cleopatra/14.xml" />
+			<chapter num="15" title="Chapter V." location="H/H. Rider Haggard/Cleopatra/15.xml" />
+			<chapter num="16" title="Chapter VI." location="H/H. Rider Haggard/Cleopatra/16.xml" />
+			<chapter num="17" title="Chapter VII." location="H/H. Rider Haggard/Cleopatra/17.xml" />
+			<chapter num="18" title="Chapter VIII." location="H/H. Rider Haggard/Cleopatra/18.xml" />
+			<chapter num="19" title="Chapter IX." location="H/H. Rider Haggard/Cleopatra/19.xml" />
+			<chapter num="20" title="Chapter X." location="H/H. Rider Haggard/Cleopatra/20.xml" />
+			<chapter num="21" title="Chapter XI." location="H/H. Rider Haggard/Cleopatra/21.xml" />
+			<chapter num="22" title="Chapter XII." location="H/H. Rider Haggard/Cleopatra/22.xml" />
+			<chapter num="23" title="Chapter XIII." location="H/H. Rider Haggard/Cleopatra/23.xml" />
+			<chapter num="24" title="Chapter XIV." location="H/H. Rider Haggard/Cleopatra/24.xml" />
+			<chapter num="25" title="Chapter XV." location="H/H. Rider Haggard/Cleopatra/25.xml" />
+			<chapter num="26" title="Chapter XVI." location="H/H. Rider Haggard/Cleopatra/26.xml" />
+
+	</section>
+	<section type="2" name="Book III. The Vengeance of Harmachis.">
+			<chapter num="27" title="Chapter I." location="H/H. Rider Haggard/Cleopatra/27.xml" />
+			<chapter num="28" title="Chapter II." location="H/H. Rider Haggard/Cleopatra/28.xml" />
+			<chapter num="29" title="Chapter III." location="H/H. Rider Haggard/Cleopatra/29.xml" />
+			<chapter num="30" title="Chapter IV." location="H/H. Rider Haggard/Cleopatra/30.xml" />
+			<chapter num="31" title="Chapter V." location="H/H. Rider Haggard/Cleopatra/31.xml" />
+			<chapter num="32" title="Chapter VI." location="H/H. Rider Haggard/Cleopatra/32.xml" />
+			<chapter num="33" title="Chapter VII." location="H/H. Rider Haggard/Cleopatra/33.xml" />
+			<chapter num="34" title="Chapter VIII." location="H/H. Rider Haggard/Cleopatra/34.xml" />
+			<chapter num="35" title="Chapter IX." location="H/H. Rider Haggard/Cleopatra/35.xml" />
+			<chapter num="36" title="Chapter X." location="H/H. Rider Haggard/Cleopatra/36.xml" />
+	</section>
+</book>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1594" title="Wife, The" author="Chekhov, Anton" location="C/Anton Chekhov/Wife, The">
+			<chapter num="1" title="Chapter I" location="C/Anton Chekhov/Wife, The/1.xml" />
+			<chapter num="2" title="Chapter II" location="C/Anton Chekhov/Wife, The/2.xml" />
+			<chapter num="3" title="Chapter III" location="C/Anton Chekhov/Wife, The/3.xml" />
+			<chapter num="4" title="Chapter IV" location="C/Anton Chekhov/Wife, The/4.xml" />
+			<chapter num="5" title="Chapter V" location="C/Anton Chekhov/Wife, The/5.xml" />
+			<chapter num="6" title="Chapter VI" location="C/Anton Chekhov/Wife, The/6.xml" />
+			<chapter num="7" title="Chapter VII" location="C/Anton Chekhov/Wife, The/7.xml" />
+</book>

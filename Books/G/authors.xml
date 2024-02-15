@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="115" name="Green, Anna Katharine" location="G/Anna Katharine Green" />
+	<author aid="119" name="Grey, Zane" location="G/Zane Grey" />
+	<author aid="129" name="Gregory, Eliot" location="G/Eliot Gregory" />
+	<author aid="133" name="Guest, Edgar A." location="G/Edgar A. Guest" />
+	<author aid="140" name="Gaskell, Elizabeth" location="G/Elizabeth Gaskell" />
+	<author aid="155" name="Gogol, Nikolai Vasilievich" location="G/Nikolai Vasilievich Gogol" />
+	<author aid="170" name="Galsworthy, John" location="G/John Galsworthy" />
+	<author aid="173" name="Goldsmith, Oliver" location="G/Oliver Goldsmith" />
+	<author aid="210" name="Goethe, Johann Wolfgang von" location="G/Johann Wolfgang von Goethe" />
+	<author aid="230" name="Gorky, Maxim" location="G/Maxim Gorky" />
+	<author aid="48" name="Grahame, Kenneth" location="G/Kenneth Grahame" />
+	<author aid="95" name="Gaboriau, Emile" location="G/Emile Gaboriau" />
+	<author aid="268" name="Glyn, Elinor" location="G/Elinor Glyn" />
+	<author aid="328" name="Glaspell, Susan" location="G/Susan Glaspell" />
+	<author aid="330" name="Gilman, Charlotte" location="G/Charlotte Gilman" />
+	<author aid="348" name="Griffiths, Arthur " location="G/Arthur  Griffiths" />
+</authors>

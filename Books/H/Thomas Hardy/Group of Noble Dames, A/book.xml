@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1408" title="Group of Noble Dames, A" author="Hardy, Thomas" location="H/Thomas Hardy/Group of Noble Dames, A">
+			<chapter num="1" title="Preface" location="H/Thomas Hardy/Group of Noble Dames, A/1.xml" />
+		<section type="1" name="Part I--Before Dinner">
+			<chapter num="2" title="Dame the First--The First Countess of Wessex" location="H/Thomas Hardy/Group of Noble Dames, A/2.xml" />
+			<chapter num="3" title="Dame the Second:  Barbara of the House of Grebe" location="H/Thomas Hardy/Group of Noble Dames, A/3.xml" />
+			<chapter num="4" title="Dame the Third:  The Marchioness of Stonehenge" location="H/Thomas Hardy/Group of Noble Dames, A/4.xml" />
+			<chapter num="5" title="Dame the Fourth:  Lady Mottisfont" location="H/Thomas Hardy/Group of Noble Dames, A/5.xml" />
+		</section>
+		<section type="1" name="Part II--After Dinner">
+			<chapter num="6" title="Dame the Fifth: The Lady Icenway" location="H/Thomas Hardy/Group of Noble Dames, A/6.xml" />
+			<chapter num="7" title="Dame the Sixth:  Squire Petrick's Lady" location="H/Thomas Hardy/Group of Noble Dames, A/7.xml" />
+			<chapter num="8" title="Dame the Seventh:  Anna, Lady Baxby" location="H/Thomas Hardy/Group of Noble Dames, A/8.xml" />
+			<chapter num="9" title="Dame the Eighth:  The Lady Penelope" location="H/Thomas Hardy/Group of Noble Dames, A/9.xml" />
+			<chapter num="10" title="Dame the Ninth:  The Duchess of Hamptonshire" location="H/Thomas Hardy/Group of Noble Dames, A/10.xml" />
+			<chapter num="11" title="Dame the Tenth:  The Honourable Laura" location="H/Thomas Hardy/Group of Noble Dames, A/11.xml" />
+		</section>
+</book>

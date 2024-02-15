@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="3021" title="Three John Silence Stories" author="Blackwood, Algernon" location="B/Algernon Blackwood/Three John Silence Stories">
+		<section type="1" name="Case I: A Psychical Invasion">
+			<chapter num="1" title="Chapter I" location="B/Algernon Blackwood/Three John Silence Stories/1.xml" />
+			<chapter num="2" title="Chapter II" location="B/Algernon Blackwood/Three John Silence Stories/2.xml" />
+			<chapter num="3" title="Chapter III" location="B/Algernon Blackwood/Three John Silence Stories/3.xml" />
+		</section>
+		<section type="1" name="Case II: Ancient Sorceries">
+			<chapter num="4" title="Chapter I" location="B/Algernon Blackwood/Three John Silence Stories/4.xml" />
+			<chapter num="5" title="Chapter II" location="B/Algernon Blackwood/Three John Silence Stories/5.xml" />
+			<chapter num="6" title="Chapter III" location="B/Algernon Blackwood/Three John Silence Stories/6.xml" />
+			<chapter num="7" title="Chapter IV" location="B/Algernon Blackwood/Three John Silence Stories/7.xml" />
+			<chapter num="8" title="Chapter V" location="B/Algernon Blackwood/Three John Silence Stories/8.xml" />
+		</section>
+		<section type="1" name="Case III: The Nemesis of Fire">
+			<chapter num="9" title="Chapter I" location="B/Algernon Blackwood/Three John Silence Stories/9.xml" />
+			<chapter num="10" title="Chapter II" location="B/Algernon Blackwood/Three John Silence Stories/10.xml" />
+			<chapter num="11" title="Chapter III" location="B/Algernon Blackwood/Three John Silence Stories/11.xml" />
+			<chapter num="12" title="Chapter IV" location="B/Algernon Blackwood/Three John Silence Stories/12.xml" />
+		</section>
+</book>

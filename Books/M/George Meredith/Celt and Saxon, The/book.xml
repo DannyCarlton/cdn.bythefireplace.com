@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40334" title="Celt and Saxon, The" author="Meredith, George" location="M/George Meredith/Celt and Saxon, The">
+
+	<section type="2" name="Book 1.">
+			<chapter num="1" title="Chapter I. Wherein an Excursion Is Made in a Celtic Mind" location="M/George Meredith/Celt and Saxon, The/1.xml" />
+			<chapter num="2" title="Chapter II. Mr. Adister" location="M/George Meredith/Celt and Saxon, The/2.xml" />
+			<chapter num="3" title="Chapter III. Caroline" location="M/George Meredith/Celt and Saxon, The/3.xml" />
+			<chapter num="4" title="Chapter IV. The Princess" location="M/George Meredith/Celt and Saxon, The/4.xml" />
+			<chapter num="5" title="Chapter V. At the Piano, Chiefly Without Music" location="M/George Meredith/Celt and Saxon, The/5.xml" />
+			<chapter num="6" title="Chapter VI. A Consultation: With Opinions Upon Welshwomen and the Cambrian Race" location="M/George Meredith/Celt and Saxon, The/6.xml" />
+			<chapter num="7" title="Chapter VII. The Miniature" location="M/George Meredith/Celt and Saxon, The/7.xml" />
+			<chapter num="8" title="Chapter VIII. Captain Con and Mrs. Adister O'donnell" location="M/George Meredith/Celt and Saxon, The/8.xml" />
+			<chapter num="9" title="Chapter IX. The Captain's Cabin" location="M/George Meredith/Celt and Saxon, The/9.xml" />
+			<chapter num="10" title="Chapter X. The Brothers" location="M/George Meredith/Celt and Saxon, The/10.xml" />
+			<chapter num="11" title="Chapter XI. Introducing a New Character" location="M/George Meredith/Celt and Saxon, The/11.xml" />
+
+	</section>
+	<section type="2" name="Book 2.">
+			<chapter num="12" title="Chapter XII. Miss Mattock" location="M/George Meredith/Celt and Saxon, The/12.xml" />
+			<chapter num="13" title="Chapter XIII. The Dinner-party" location="M/George Meredith/Celt and Saxon, The/13.xml" />
+			<chapter num="14" title="Chapter XIV. Of Rockney" location="M/George Meredith/Celt and Saxon, The/14.xml" />
+			<chapter num="15" title="Chapter XV. The Mattock Family" location="M/George Meredith/Celt and Saxon, The/15.xml" />
+			<chapter num="16" title="Chapter XVI. Of the Great Mr. Bull and the Celtic and Saxon View of Him: and Something of Richard Rockney" location="M/George Meredith/Celt and Saxon, The/16.xml" />
+			<chapter num="17" title="Chapter XVII. Crossing the Rubicon" location="M/George Meredith/Celt and Saxon, The/17.xml" />
+			<chapter num="18" title="Chapter XVIII. Captain Con's Letter" location="M/George Meredith/Celt and Saxon, The/18.xml" />
+			<chapter num="19" title="Chapter XIX. Mars Convalescent" location="M/George Meredith/Celt and Saxon, The/19.xml" />
+	</section>
+</book>

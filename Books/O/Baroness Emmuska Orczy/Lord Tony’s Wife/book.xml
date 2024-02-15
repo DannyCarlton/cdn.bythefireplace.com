@@ -1,0 +1,29 @@
+ï»¿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40452" title="Lord Tony’s Wife" author="Orczy, Baroness Emmuska" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife">
+
+	<section type="2" name="Book One">
+			<chapter num="1" title="Prologue" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/1.xml" />
+			<chapter num="2" title="1. The Moor" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/2.xml" />
+			<chapter num="3" title="2. The Bottom Inn" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/3.xml" />
+			<chapter num="4" title="3. The Assembly Rooms" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/4.xml" />
+			<chapter num="5" title="4. The Father" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/5.xml" />
+			<chapter num="6" title="5. The Nest" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/6.xml" />
+			<chapter num="7" title="6. The Scarlet Pimpernel" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/7.xml" />
+			<chapter num="8" title="7. Marguerite" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/8.xml" />
+			<chapter num="9" title="8. The Road to Portishead" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/9.xml" />
+			<chapter num="10" title="9. The Coast of France" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/10.xml" />
+
+	</section>
+	<section type="2" name="Book Two">
+			<chapter num="11" title="1. The Tiger’s Lair" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/11.xml" />
+			<chapter num="12" title="2. Le Bouffay" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/12.xml" />
+			<chapter num="13" title="3. The Fowlers" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/13.xml" />
+			<chapter num="14" title="4. The Net" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/14.xml" />
+			<chapter num="15" title="5. The Message Of Hope" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/15.xml" />
+			<chapter num="16" title="6. The Rat Mort" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/16.xml" />
+			<chapter num="17" title="7. The Fracas in the Tavern" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/17.xml" />
+			<chapter num="18" title="8. The English Adventurers" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/18.xml" />
+			<chapter num="19" title="9. The Proconsul" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/19.xml" />
+			<chapter num="20" title="10. Lord Tony" location="O/Baroness Emmuska Orczy/Lord Tony’s Wife/20.xml" />
+	</section>
+</book>

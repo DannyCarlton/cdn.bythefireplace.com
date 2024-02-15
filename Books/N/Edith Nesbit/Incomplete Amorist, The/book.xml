@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2768" title="Incomplete Amorist, The" author="Nesbit, Edith" location="N/Edith Nesbit/Incomplete Amorist, The">
+		<section type="1" name="Book 1.--The Girl">
+			<chapter num="1" title="Chapter I. The Inevitable." location="N/Edith Nesbit/Incomplete Amorist, The/1.xml" />
+			<chapter num="2" title="Chapter II. The Irresistible." location="N/Edith Nesbit/Incomplete Amorist, The/2.xml" />
+			<chapter num="3" title="Chapter III. Voluntary." location="N/Edith Nesbit/Incomplete Amorist, The/3.xml" />
+			<chapter num="4" title="Chapter IV. Involuntary." location="N/Edith Nesbit/Incomplete Amorist, The/4.xml" />
+			<chapter num="5" title="Chapter V. The Prisoner." location="N/Edith Nesbit/Incomplete Amorist, The/5.xml" />
+			<chapter num="6" title="Chapter VI. The Criminal." location="N/Edith Nesbit/Incomplete Amorist, The/6.xml" />
+			<chapter num="7" title="Chapter VII. The Escape." location="N/Edith Nesbit/Incomplete Amorist, The/7.xml" />
+		</section>
+		<section type="1" name="Book 2.--The Man">
+			<chapter num="8" title="Chapter VIII. The One and the Other." location="N/Edith Nesbit/Incomplete Amorist, The/8.xml" />
+			<chapter num="9" title="Chapter IX. The Opportunity." location="N/Edith Nesbit/Incomplete Amorist, The/9.xml" />
+			<chapter num="10" title="Chapter X. Seeing Life." location="N/Edith Nesbit/Incomplete Amorist, The/10.xml" />
+			<chapter num="11" title="Chapter XI. The Thought." location="N/Edith Nesbit/Incomplete Amorist, The/11.xml" />
+			<chapter num="12" title="Chapter XII. The Rescue." location="N/Edith Nesbit/Incomplete Amorist, The/12.xml" />
+			<chapter num="13" title="Chapter XIII. Contrasts." location="N/Edith Nesbit/Incomplete Amorist, The/13.xml" />
+			<chapter num="14" title="Chapter XIV. Renunciation." location="N/Edith Nesbit/Incomplete Amorist, The/14.xml" />
+		</section>
+		<section type="1" name="Book 3.--The Other Woman">
+			<chapter num="15" title="Chapter XV. On Mount Parnassus." location="N/Edith Nesbit/Incomplete Amorist, The/15.xml" />
+			<chapter num="16" title="Chapter XVI. &quot;Love and Tupper.&quot;" location="N/Edith Nesbit/Incomplete Amorist, The/16.xml" />
+			<chapter num="17" title="Chapter XVII. Interventions." location="N/Edith Nesbit/Incomplete Amorist, The/17.xml" />
+			<chapter num="18" title="Chapter XVIII. The Truth." location="N/Edith Nesbit/Incomplete Amorist, The/18.xml" />
+			<chapter num="19" title="Chapter XIX. The Truth with a Vengeance." location="N/Edith Nesbit/Incomplete Amorist, The/19.xml" />
+			<chapter num="20" title="Chapter XX. Waking-Up Time." location="N/Edith Nesbit/Incomplete Amorist, The/20.xml" />
+		</section>
+		<section type="1" name="Book 4.--The Other Man">
+			<chapter num="21" title="Chapter XXI. The Flight." location="N/Edith Nesbit/Incomplete Amorist, The/21.xml" />
+			<chapter num="22" title="Chapter XXII. The Lunatic." location="N/Edith Nesbit/Incomplete Amorist, The/22.xml" />
+			<chapter num="23" title="Chapter XXIII. Temperatures." location="N/Edith Nesbit/Incomplete Amorist, The/23.xml" />
+			<chapter num="24" title="Chapter XXIV. The Confessional." location="N/Edith Nesbit/Incomplete Amorist, The/24.xml" />
+			<chapter num="25" title="Chapter XXV. The Forest." location="N/Edith Nesbit/Incomplete Amorist, The/25.xml" />
+			<chapter num="26" title="Chapter XXVI. The Miracle." location="N/Edith Nesbit/Incomplete Amorist, The/26.xml" />
+			<chapter num="27" title="Chapter XXVII. The Pink Silk Story." location="N/Edith Nesbit/Incomplete Amorist, The/27.xml" />
+			<chapter num="28" title="Chapter XXVIII. &quot;And So--&quot;" location="N/Edith Nesbit/Incomplete Amorist, The/28.xml" />
+		</section>
+</book>

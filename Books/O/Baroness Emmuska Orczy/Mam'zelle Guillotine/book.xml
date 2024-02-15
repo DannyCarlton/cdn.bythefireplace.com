@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40046" title="Mam'zelle Guillotine" author="Orczy, Baroness Emmuska" location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine">
+
+	<section type="2" name="Book One">
+			<chapter num="1" title="Chapter I: 1789: The Dawn of Revolution" location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/1.xml" />
+			<chapter num="2" title="Chapter II: Paris in Revolt" location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/2.xml" />
+			<chapter num="3" title="Chapter III: One of the Derelicts" location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/3.xml" />
+
+	</section>
+	<section type="2" name="Book Two">
+			<chapter num="4" title="Chapter IV. London 1794" location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/4.xml" />
+			<chapter num="5" title="Chapter V: A Social Event " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/5.xml" />
+			<chapter num="6" title="Chapter VI: The Prince of Dandies" location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/6.xml" />
+			<chapter num="7" title="Chapter VII: A Valorous Deed " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/7.xml" />
+			<chapter num="8" title="Chapter VIII: A Royal Friend " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/8.xml" />
+			<chapter num="9" title="Chapter IX: The Bitter Lesson" location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/9.xml" />
+
+	</section>
+	<section type="2" name="Book Three">
+			<chapter num="10" title="Chapter X: A Unique Personage " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/10.xml" />
+			<chapter num="11" title="Chapter XI: Baffled " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/11.xml" />
+			<chapter num="12" title="Chapter XII: Chauvelin Takes a Hand" location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/12.xml" />
+			<chapter num="13" title="Chapter XIII: The English Spy" location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/13.xml" />
+			<chapter num="14" title="Chapter XIV: Le Parc Aux Daims " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/14.xml" />
+			<chapter num="15" title="Chapter XV: Whatever Happens " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/15.xml" />
+			<chapter num="16" title="Chapter XVI: A Master Sleuth " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/16.xml" />
+			<chapter num="17" title="Chapter XVII: Thunder Crash " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/17.xml" />
+			<chapter num="18" title="Chapter XVIII: At the Commissariat of Police " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/18.xml" />
+			<chapter num="19" title="Chapter XIX: The Interloper " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/19.xml" />
+			<chapter num="20" title="Chapter XX: The Courier " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/20.xml" />
+			<chapter num="21" title="Chapter XXI: An Outrage" location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/21.xml" />
+			<chapter num="22" title="Chapter XXII: Nightmare " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/22.xml" />
+
+	</section>
+	<section type="2" name="Book Four">
+			<chapter num="23" title="Chapter XXIII: A Message " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/23.xml" />
+			<chapter num="24" title="Chapter XXIV: The Cosy Corner " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/24.xml" />
+
+	</section>
+	<section type="2" name="Book Five">
+			<chapter num="25" title="Chapter XXV: The Man in Black " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/25.xml" />
+			<chapter num="26" title="Chapter XXVI: Fortune in Sight " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/26.xml" />
+			<chapter num="27" title="Chapter XXVII: At the Cross Roads " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/27.xml" />
+			<chapter num="28" title="Chapter XXVIII: The Fight " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/28.xml" />
+			<chapter num="29" title="Chapter XXIX: Hell-for-leather" location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/29.xml" />
+			<chapter num="30" title="Chapter XXX: The Silent Pool " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/30.xml" />
+			<chapter num="31" title="Chapter XXXI: An Interlude " location="O/Baroness Emmuska Orczy/Mam'zelle Guillotine/31.xml" />
+	</section>
+</book>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1086" title="Tamburlaine the Great, Part II" author="Marlowe, Christopher" location="M/Christopher Marlowe/Tamburlaine the Great, Part II">
+			<chapter num="1" title="Prologue." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/1.xml" />
+			<chapter num="2" title="Dramatis Personae." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/2.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="3" title="Scene I." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/3.xml" />
+			<chapter num="4" title="Scene II." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/4.xml" />
+			<chapter num="5" title="Scene III." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/5.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="6" title="Scene I." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/6.xml" />
+			<chapter num="7" title="Scene II." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/7.xml" />
+			<chapter num="8" title="Scene III." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/8.xml" />
+			<chapter num="9" title="Scene IV." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/9.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="10" title="Scene I." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/10.xml" />
+			<chapter num="11" title="Scene II." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/11.xml" />
+			<chapter num="12" title="Scene III." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/12.xml" />
+			<chapter num="13" title="Scene IV." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/13.xml" />
+			<chapter num="14" title="Scene V." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/14.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="15" title="Scene I." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/15.xml" />
+			<chapter num="16" title="Scene II." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/16.xml" />
+			<chapter num="17" title="Scene III." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/17.xml" />
+		</section>
+		<section type="1" name="ACT V">
+			<chapter num="18" title="Scene I." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/18.xml" />
+			<chapter num="19" title="Scene II." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/19.xml" />
+			<chapter num="20" title="Scene III." location="M/Christopher Marlowe/Tamburlaine the Great, Part II/20.xml" />
+		</section>
+</book>

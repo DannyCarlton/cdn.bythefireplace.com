@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2061" title="Blix" author="Norris, Frank" location="N/Frank Norris/Blix">
+			<chapter num="1" title="Chapter I" location="N/Frank Norris/Blix/1.xml" />
+			<chapter num="2" title="Chapter II" location="N/Frank Norris/Blix/2.xml" />
+			<chapter num="3" title="Chapter III" location="N/Frank Norris/Blix/3.xml" />
+			<chapter num="4" title="Chapter IV" location="N/Frank Norris/Blix/4.xml" />
+			<chapter num="5" title="Chapter V" location="N/Frank Norris/Blix/5.xml" />
+			<chapter num="6" title="Chapter VI" location="N/Frank Norris/Blix/6.xml" />
+			<chapter num="7" title="Chapter VII" location="N/Frank Norris/Blix/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="N/Frank Norris/Blix/8.xml" />
+			<chapter num="9" title="Chapter IX" location="N/Frank Norris/Blix/9.xml" />
+			<chapter num="10" title="Chapter X" location="N/Frank Norris/Blix/10.xml" />
+			<chapter num="11" title="Chapter XI" location="N/Frank Norris/Blix/11.xml" />
+			<chapter num="12" title="Chapter XII" location="N/Frank Norris/Blix/12.xml" />
+			<chapter num="13" title="Chapter XIII" location="N/Frank Norris/Blix/13.xml" />
+			<chapter num="14" title="Chapter XIV" location="N/Frank Norris/Blix/14.xml" />
+</book>

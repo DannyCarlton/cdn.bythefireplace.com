@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="753" title="Big Town, The" author="Lardner, Ring" location="L/Ring Lardner/Big Town, The">
+			<chapter num="1" title="Cast of Characters" location="L/Ring Lardner/Big Town, The/1.xml" />
+			<chapter num="2" title="I. Quick Returns" location="L/Ring Lardner/Big Town, The/2.xml" />
+			<chapter num="3" title="II. Ritchey" location="L/Ring Lardner/Big Town, The/3.xml" />
+			<chapter num="4" title="III. Lady Perkins" location="L/Ring Lardner/Big Town, The/4.xml" />
+			<chapter num="5" title="IV. Only One" location="L/Ring Lardner/Big Town, The/5.xml" />
+			<chapter num="6" title="V. Katie Wins a Home" location="L/Ring Lardner/Big Town, The/6.xml" />
+</book>

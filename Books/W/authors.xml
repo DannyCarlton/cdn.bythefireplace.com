@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="10" name="Wells, H.G." location="W/H.G. Wells" />
+	<author aid="101" name="Wallace, Edgar" location="W/Edgar Wallace" />
+	<author aid="103" name="Walpole, Horace" location="W/Horace Walpole" />
+	<author aid="106" name="Washington, Booker T." location="W/Booker T. Washington" />
+	<author aid="183" name="Winter, John Strange" location="W/John Strange Winter" />
+	<author aid="188" name="Weyman, Stanley J." location="W/Stanley J. Weyman" />
+	<author aid="190" name="White, Stewart Edward" location="W/Stewart Edward White" />
+	<author aid="39" name="Wharton, Edith" location="W/Edith Wharton" />
+	<author aid="40" name="Woolf, Virginia" location="W/Virginia Woolf" />
+	<author aid="54" name="Wiggin, Kate Douglas" location="W/Kate Douglas Wiggin" />
+	<author aid="62" name="Wilde, Oscar" location="W/Oscar Wilde" />
+	<author aid="75" name="Wodehouse, Pelham Grenville" location="W/Pelham Grenville Wodehouse" />
+	<author aid="342" name="Wright, Harold Bell" location="W/Harold Bell Wright" />
+	<author aid="346" name="Ward, Mrs. Humphry" location="W/Mrs. Humphry Ward" />
+	<author aid="343" name="Williams, Valentine" location="W/Valentine Williams" />
+</authors>

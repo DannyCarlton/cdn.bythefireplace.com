@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40342" title="Vittoria" author="Meredith, George" location="M/George Meredith/Vittoria">
+
+	<section type="2" name="Book 1.">
+			<chapter num="1" title="Chapter I. Up Monte Motterone" location="M/George Meredith/Vittoria/1.xml" />
+			<chapter num="2" title="Chapter II. On the Heights" location="M/George Meredith/Vittoria/2.xml" />
+			<chapter num="3" title="Chapter III. Signorina Vittoria" location="M/George Meredith/Vittoria/3.xml" />
+			<chapter num="4" title="Chapter IV. Ammiani's Intercession " location="M/George Meredith/Vittoria/4.xml" />
+			<chapter num="5" title="Chapter V. The Spy" location="M/George Meredith/Vittoria/5.xml" />
+			<chapter num="6" title="Chapter VI. The Warning" location="M/George Meredith/Vittoria/6.xml" />
+			<chapter num="7" title="Chapter VII. Barto Rizzo" location="M/George Meredith/Vittoria/7.xml" />
+			<chapter num="8" title="Chapter VIII. The Letter" location="M/George Meredith/Vittoria/8.xml" />
+
+	</section>
+	<section type="2" name="Book 2.">
+			<chapter num="9" title="Chapter IX. In Verona" location="M/George Meredith/Vittoria/9.xml" />
+			<chapter num="10" title="Chapter X. The Pope's Mouth" location="M/George Meredith/Vittoria/10.xml" />
+			<chapter num="11" title="Chapter XI. Laura Piaveni" location="M/George Meredith/Vittoria/11.xml" />
+			<chapter num="12" title="Chapter XII. The Bronze Butterfly" location="M/George Meredith/Vittoria/12.xml" />
+			<chapter num="13" title="Chapter XIII. The Plot of the Signor Antonio" location="M/George Meredith/Vittoria/13.xml" />
+
+	</section>
+	<section type="2" name="Book 3.">
+			<chapter num="14" title="Chapter XIV. At the Maestro's Door" location="M/George Meredith/Vittoria/14.xml" />
+			<chapter num="15" title="Chapter XV. Ammiani Through the Midnight" location="M/George Meredith/Vittoria/15.xml" />
+			<chapter num="16" title="Chapter XVI. Countess Ammiani" location="M/George Meredith/Vittoria/16.xml" />
+			<chapter num="17" title="Chapter XVII. In the Piazza D'armi" location="M/George Meredith/Vittoria/17.xml" />
+			<chapter num="18" title="Chapter XVIII. The Night of the Fifteenth" location="M/George Meredith/Vittoria/18.xml" />
+			<chapter num="19" title="Chapter XIX. The Prima Donna" location="M/George Meredith/Vittoria/19.xml" />
+
+	</section>
+	<section type="2" name="Book 4.">
+			<chapter num="20" title="Chapter XX. The Opera of Camilla" location="M/George Meredith/Vittoria/20.xml" />
+			<chapter num="21" title="Chapter XXI. The Third Act" location="M/George Meredith/Vittoria/21.xml" />
+			<chapter num="22" title="Chapter XXII. Wilfrid Comes Forward" location="M/George Meredith/Vittoria/22.xml" />
+			<chapter num="23" title="Chapter XXIII. First Hours of the Flight" location="M/George Meredith/Vittoria/23.xml" />
+			<chapter num="24" title="Chapter XXIV. Adventures of Vittoria and Angelo" location="M/George Meredith/Vittoria/24.xml" />
+			<chapter num="25" title="Chapter XXV. Across the Mountains" location="M/George Meredith/Vittoria/25.xml" />
+
+	</section>
+	<section type="2" name="Book 5.">
+			<chapter num="26" title="Chapter XXVI. The Duel in the Pass" location="M/George Meredith/Vittoria/26.xml" />
+			<chapter num="27" title="Chapter XXVII. A New Ordeal" location="M/George Meredith/Vittoria/27.xml" />
+			<chapter num="28" title="Chapter XXVIII. The Escape of Angelo" location="M/George Meredith/Vittoria/28.xml" />
+
+	</section>
+	<section type="2" name="Book 6.">
+			<chapter num="29" title="Chapter XXIX. Episodes of the Revolt and the War. The Tobacco-riots. Rinaldo Guidascarpi" location="M/George Meredith/Vittoria/29.xml" />
+			<chapter num="30" title="Chapter XXX. Episodes of the Revolt and the War. The Five Days of Milan" location="M/George Meredith/Vittoria/30.xml" />
+			<chapter num="31" title="Chapter XXXI. Episodes of the Revolt and the War. Vittoria Disobeys Her Lover" location="M/George Meredith/Vittoria/31.xml" />
+			<chapter num="32" title="Chapter XXXI. Episodes of the Revolt and the War. The Treachery of Pericles. The White Umbrella. The Death of Rinaldo Guidascarpi" location="M/George Meredith/Vittoria/32.xml" />
+
+	</section>
+	<section type="2" name="Book 7.">
+			<chapter num="33" title="Chapter XXXIII. Episodes of the Revolt and the War. Count Karl Lenkenstein. The Story of the Guidascarpi. The Victory of the Volunteers" location="M/George Meredith/Vittoria/33.xml" />
+			<chapter num="34" title="Chapter XXXIV. Episodes of the Revolt and the War. The Deeds of Barto Rizzo. The Meeting At Roveredo" location="M/George Meredith/Vittoria/34.xml" />
+			<chapter num="35" title="Chapter XXXV. Close of the Lombard Campaign. Vittoria's Perplexity" location="M/George Meredith/Vittoria/35.xml" />
+			<chapter num="36" title="Chapter XXXVI. A Fresh Entanglement" location="M/George Meredith/Vittoria/36.xml" />
+			<chapter num="37" title="Chapter XXXVII. On Lago Maggiore" location="M/George Meredith/Vittoria/37.xml" />
+			<chapter num="38" title="Chapter XXXVIII. Violetta D'isorella" location="M/George Meredith/Vittoria/38.xml" />
+			<chapter num="39" title="Chapter XXXIX. Anna of Lenkenstein" location="M/George Meredith/Vittoria/39.xml" />
+
+	</section>
+	<section type="2" name="Book 8.">
+			<chapter num="40" title="Chapter XL. Through the Winter" location="M/George Meredith/Vittoria/40.xml" />
+			<chapter num="41" title="Chapter XLI. The Interview" location="M/George Meredith/Vittoria/41.xml" />
+			<chapter num="42" title="Chapter XLII. The Shadow on Conspiracy" location="M/George Meredith/Vittoria/42.xml" />
+			<chapter num="43" title="Chapter XLIII. The Last Meeting in Milan" location="M/George Meredith/Vittoria/43.xml" />
+			<chapter num="44" title="Chapter XLIV. The Wife and the Husband" location="M/George Meredith/Vittoria/44.xml" />
+			<chapter num="45" title="Chapter XLV. Shows Many Paths Converging to the End" location="M/George Meredith/Vittoria/45.xml" />
+			<chapter num="46" title="Chapter XLVI. The Last" location="M/George Meredith/Vittoria/46.xml" />
+	</section>
+</book>

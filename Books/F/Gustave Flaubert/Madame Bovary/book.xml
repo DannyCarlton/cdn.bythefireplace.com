@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="62" title="Madame Bovary" author="Flaubert, Gustave" location="F/Gustave Flaubert/Madame Bovary">
+		<section type="1" name="Part I">
+			<chapter num="1" title="Chapter One" location="F/Gustave Flaubert/Madame Bovary/1.xml" />
+			<chapter num="2" title="Chapter Two" location="F/Gustave Flaubert/Madame Bovary/2.xml" />
+			<chapter num="3" title="Chapter Three" location="F/Gustave Flaubert/Madame Bovary/3.xml" />
+			<chapter num="4" title="Chapter Four" location="F/Gustave Flaubert/Madame Bovary/4.xml" />
+			<chapter num="5" title="Chapter Five" location="F/Gustave Flaubert/Madame Bovary/5.xml" />
+			<chapter num="6" title="Chapter Six" location="F/Gustave Flaubert/Madame Bovary/6.xml" />
+			<chapter num="7" title="Chapter Seven" location="F/Gustave Flaubert/Madame Bovary/7.xml" />
+			<chapter num="8" title="Chapter Eight" location="F/Gustave Flaubert/Madame Bovary/8.xml" />
+			<chapter num="9" title="Chapter Nine" location="F/Gustave Flaubert/Madame Bovary/9.xml" />
+		</section>
+		<section type="1" name="Part II">
+			<chapter num="10" title="Chapter One" location="F/Gustave Flaubert/Madame Bovary/10.xml" />
+			<chapter num="11" title="Chapter Two" location="F/Gustave Flaubert/Madame Bovary/11.xml" />
+			<chapter num="12" title="Chapter Three" location="F/Gustave Flaubert/Madame Bovary/12.xml" />
+			<chapter num="13" title="Chapter Four" location="F/Gustave Flaubert/Madame Bovary/13.xml" />
+			<chapter num="14" title="Chapter Five" location="F/Gustave Flaubert/Madame Bovary/14.xml" />
+			<chapter num="15" title="Chapter Six" location="F/Gustave Flaubert/Madame Bovary/15.xml" />
+			<chapter num="16" title="Chapter Seven" location="F/Gustave Flaubert/Madame Bovary/16.xml" />
+			<chapter num="17" title="Chapter Eight" location="F/Gustave Flaubert/Madame Bovary/17.xml" />
+			<chapter num="18" title="Chapter Nine" location="F/Gustave Flaubert/Madame Bovary/18.xml" />
+			<chapter num="19" title="Chapter Ten" location="F/Gustave Flaubert/Madame Bovary/19.xml" />
+			<chapter num="20" title="Chapter Eleven" location="F/Gustave Flaubert/Madame Bovary/20.xml" />
+			<chapter num="21" title="Chapter Twelve" location="F/Gustave Flaubert/Madame Bovary/21.xml" />
+			<chapter num="22" title="Chapter Thirteen" location="F/Gustave Flaubert/Madame Bovary/22.xml" />
+			<chapter num="23" title="Chapter Fourteen" location="F/Gustave Flaubert/Madame Bovary/23.xml" />
+		</section>
+		<section type="1" name="Part III">
+			<chapter num="24" title="Chapter One" location="F/Gustave Flaubert/Madame Bovary/24.xml" />
+			<chapter num="25" title="Chapter Two" location="F/Gustave Flaubert/Madame Bovary/25.xml" />
+			<chapter num="26" title="Chapter Three" location="F/Gustave Flaubert/Madame Bovary/26.xml" />
+			<chapter num="27" title="Chapter Four" location="F/Gustave Flaubert/Madame Bovary/27.xml" />
+			<chapter num="28" title="Chapter Five" location="F/Gustave Flaubert/Madame Bovary/28.xml" />
+			<chapter num="29" title="Chapter Six" location="F/Gustave Flaubert/Madame Bovary/29.xml" />
+			<chapter num="30" title="Chapter Seven" location="F/Gustave Flaubert/Madame Bovary/30.xml" />
+			<chapter num="31" title="Chapter Eight" location="F/Gustave Flaubert/Madame Bovary/31.xml" />
+			<chapter num="32" title="Chapter Nine" location="F/Gustave Flaubert/Madame Bovary/32.xml" />
+			<chapter num="33" title="Chapter Ten" location="F/Gustave Flaubert/Madame Bovary/33.xml" />
+			<chapter num="34" title="Chapter Eleven" location="F/Gustave Flaubert/Madame Bovary/34.xml" />
+		</section>
+</book>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1820" title="Peace" author="Aristophanes, " location="A/ Aristophanes/Peace">
+			<chapter num="1" title="Introduction" location="A/ Aristophanes/Peace/1.xml" />
+			<chapter num="2" title="Dramatis Personae" location="A/ Aristophanes/Peace/2.xml" />
+			<chapter num="3" title="Peace" location="A/ Aristophanes/Peace/3.xml" />
+			<chapter num="4" title="Peace (cont'd)" location="A/ Aristophanes/Peace/4.xml" />
+			<chapter num="5" title="Peace (cont'd)" location="A/ Aristophanes/Peace/5.xml" />
+</book>

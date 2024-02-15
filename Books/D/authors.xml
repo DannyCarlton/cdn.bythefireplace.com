@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="125" name="Davis, Richard Harding" location="D/Richard Harding Davis" />
+	<author aid="144" name="Dryden, John" location="D/John Dryden" />
+	<author aid="161" name="Dickinson, Emily" location="D/Emily Dickinson" />
+	<author aid="169" name="Darlington, Edgar B. P." location="D/Edgar B. P. Darlington" />
+	<author aid="17" name="Dickens, Charles" location="D/Charles Dickens" />
+	<author aid="18" name="Dostoevsky, Fyodor" location="D/Fyodor Dostoevsky" />
+	<author aid="189" name="Dunbar, Alice" location="D/Alice Dunbar" />
+	<author aid="19" name="Doyle, Arthur Conan" location="D/Arthur Conan Doyle" />
+	<author aid="2" name="Defoe, Daniel" location="D/Daniel Defoe" />
+	<author aid="20" name="Dumas, Alexandre" location="D/Alexandre Dumas" />
+	<author aid="42" name="Darwin, Charles" location="D/Charles Darwin" />
+	<author aid="56" name="Dante, Alighieri" location="D/Alighieri Dante" />
+	<author aid="334" name="Dell, Ethel M." location="D/Ethel M. Dell" />
+</authors>

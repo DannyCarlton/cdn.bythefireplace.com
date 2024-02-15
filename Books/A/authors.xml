@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="11" name="Austen, Jane" location="A/Jane Austen" />
+	<author aid="112" name="Adams, Henry" location="A/Henry Adams" />
+	<author aid="149" name="Anonymous, " location="A/ Anonymous" />
+	<author aid="159" name="Alger Jr., Horatio" location="A/Horatio Alger Jr." />
+	<author aid="164" name="Aldrich, Thomas Bailey" location="A/Thomas Bailey Aldrich" />
+	<author aid="195" name="Altsheler, Joseph A." location="A/Joseph A. Altsheler" />
+	<author aid="204" name="Arthur, T.S." location="A/T.S. Arthur" />
+	<author aid="206" name="Augustine, Saint" location="A/Saint Augustine" />
+	<author aid="209" name="Aristophanes, " location="A/ Aristophanes" />
+	<author aid="216" name="Adams, Samuel Hopkins" location="A/Samuel Hopkins Adams" />
+	<author aid="218" name="Atherton, Gertrude Franklin Horn" location="A/Gertrude Franklin Horn Atherton" />
+	<author aid="220" name="Adams, Andy" location="A/Andy Adams" />
+	<author aid="3" name="Alcott, Louisa May" location="A/Louisa May Alcott" />
+	<author aid="44" name="Andersen, Hans Christian" location="A/Hans Christian Andersen" />
+	<author aid="78" name="Aesop, " location="A/ Aesop" />
+	<author aid="83" name="Appleton, Victor" location="A/Victor Appleton" />
+	<author aid="231" name="Andreyev, Leonid N." location="A/Leonid N. Andreyev" />
+	<author aid="264" name="Aristotle, " location="A/ Aristotle" />
+	<author aid="265" name="Allen, Grant" location="A/Grant Allen" />
+	<author aid="266" name="Anderson, Sherwood" location="A/Sherwood Anderson" />
+	<author aid="273" name="Anderson, Robert Gordon" location="A/Robert Gordon Anderson" />
+</authors>

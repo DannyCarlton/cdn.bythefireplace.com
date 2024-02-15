@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2455" title="Elsie Dinsmore" author="Finley, Martha" location="F/Martha Finley/Elsie Dinsmore">
+			<chapter num="1" title="Chapter First" location="F/Martha Finley/Elsie Dinsmore/1.xml" />
+			<chapter num="2" title="Chapter Second" location="F/Martha Finley/Elsie Dinsmore/2.xml" />
+			<chapter num="3" title="Chapter Third" location="F/Martha Finley/Elsie Dinsmore/3.xml" />
+			<chapter num="4" title="Chapter Fourth" location="F/Martha Finley/Elsie Dinsmore/4.xml" />
+			<chapter num="5" title="Chapter Fifth" location="F/Martha Finley/Elsie Dinsmore/5.xml" />
+			<chapter num="6" title="Chapter Sixth" location="F/Martha Finley/Elsie Dinsmore/6.xml" />
+			<chapter num="7" title="Chapter Seventh" location="F/Martha Finley/Elsie Dinsmore/7.xml" />
+			<chapter num="8" title="Chapter Eighth." location="F/Martha Finley/Elsie Dinsmore/8.xml" />
+			<chapter num="9" title="Chapter Ninth" location="F/Martha Finley/Elsie Dinsmore/9.xml" />
+			<chapter num="10" title="Chapter Tenth" location="F/Martha Finley/Elsie Dinsmore/10.xml" />
+			<chapter num="11" title="Chapter Eleventh" location="F/Martha Finley/Elsie Dinsmore/11.xml" />
+			<chapter num="12" title="Chapter Twelfth" location="F/Martha Finley/Elsie Dinsmore/12.xml" />
+			<chapter num="13" title="Chapter Thirteenth" location="F/Martha Finley/Elsie Dinsmore/13.xml" />
+			<chapter num="14" title="Chapter Fourteenth" location="F/Martha Finley/Elsie Dinsmore/14.xml" />
+			<chapter num="15" title="Chapter Fifteenth" location="F/Martha Finley/Elsie Dinsmore/15.xml" />
+</book>

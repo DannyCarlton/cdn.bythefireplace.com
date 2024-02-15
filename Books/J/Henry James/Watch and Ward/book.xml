@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40126" title="Watch and Ward" author="James, Henry" location="J/Henry James/Watch and Ward">
+
+	<section type="2" name="Part First.">
+			<chapter num="1" title="Chapter I." location="J/Henry James/Watch and Ward/1.xml" />
+			<chapter num="2" title="Chapter II." location="J/Henry James/Watch and Ward/2.xml" />
+
+	</section>
+	<section type="2" name="Part Second.">
+			<chapter num="3" title="Chapter III." location="J/Henry James/Watch and Ward/3.xml" />
+			<chapter num="4" title="Chapter IV." location="J/Henry James/Watch and Ward/4.xml" />
+
+	</section>
+	<section type="2" name="Part Third.">
+			<chapter num="5" title="Chapter V." location="J/Henry James/Watch and Ward/5.xml" />
+			<chapter num="6" title="Chapter VI." location="J/Henry James/Watch and Ward/6.xml" />
+
+	</section>
+	<section type="2" name="Part Fourth.">
+			<chapter num="7" title="Chapter VII." location="J/Henry James/Watch and Ward/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="J/Henry James/Watch and Ward/8.xml" />
+
+	</section>
+	<section type="2" name="Part Fifth.">
+			<chapter num="9" title="Chapter IX." location="J/Henry James/Watch and Ward/9.xml" />
+			<chapter num="10" title="Chapter X." location="J/Henry James/Watch and Ward/10.xml" />
+			<chapter num="11" title="Chapter XI." location="J/Henry James/Watch and Ward/11.xml" />
+	</section>
+</book>

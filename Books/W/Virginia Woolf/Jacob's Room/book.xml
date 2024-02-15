@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2010" title="Jacob's Room" author="Woolf, Virginia" location="W/Virginia Woolf/Jacob's Room">
+			<chapter num="1" title="Chapter One" location="W/Virginia Woolf/Jacob's Room/1.xml" />
+			<chapter num="2" title="Chapter Two" location="W/Virginia Woolf/Jacob's Room/2.xml" />
+			<chapter num="3" title="Chapter Three" location="W/Virginia Woolf/Jacob's Room/3.xml" />
+			<chapter num="4" title="Chapter Four" location="W/Virginia Woolf/Jacob's Room/4.xml" />
+			<chapter num="5" title="Chapter Five" location="W/Virginia Woolf/Jacob's Room/5.xml" />
+			<chapter num="6" title="Chapter Six" location="W/Virginia Woolf/Jacob's Room/6.xml" />
+			<chapter num="7" title="Chapter Seven" location="W/Virginia Woolf/Jacob's Room/7.xml" />
+			<chapter num="8" title="Chapter Eight" location="W/Virginia Woolf/Jacob's Room/8.xml" />
+			<chapter num="9" title="Chapter Nine" location="W/Virginia Woolf/Jacob's Room/9.xml" />
+			<chapter num="10" title="Chapter Ten" location="W/Virginia Woolf/Jacob's Room/10.xml" />
+			<chapter num="11" title="Chapter Eleven" location="W/Virginia Woolf/Jacob's Room/11.xml" />
+			<chapter num="12" title="Chapter Twelve" location="W/Virginia Woolf/Jacob's Room/12.xml" />
+			<chapter num="13" title="Chapter Thirteen" location="W/Virginia Woolf/Jacob's Room/13.xml" />
+			<chapter num="14" title="Chapter Fourteen" location="W/Virginia Woolf/Jacob's Room/14.xml" />
+</book>

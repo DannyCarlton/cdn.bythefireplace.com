@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="301" title="King Henry VI Part II" author="Shakespeare, William" location="S/William Shakespeare/King Henry VI Part II">
+			<chapter num="1" title="Dramatis Personae" location="S/William Shakespeare/King Henry VI Part II/1.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="2" title="Scene I." location="S/William Shakespeare/King Henry VI Part II/2.xml" />
+			<chapter num="3" title="Scene II." location="S/William Shakespeare/King Henry VI Part II/3.xml" />
+			<chapter num="4" title="Scene III." location="S/William Shakespeare/King Henry VI Part II/4.xml" />
+			<chapter num="5" title="Scene IV." location="S/William Shakespeare/King Henry VI Part II/5.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="6" title="Scene I." location="S/William Shakespeare/King Henry VI Part II/6.xml" />
+			<chapter num="7" title="Scene II." location="S/William Shakespeare/King Henry VI Part II/7.xml" />
+			<chapter num="8" title="Scene III." location="S/William Shakespeare/King Henry VI Part II/8.xml" />
+			<chapter num="9" title="Scene IV." location="S/William Shakespeare/King Henry VI Part II/9.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="10" title="Scene I." location="S/William Shakespeare/King Henry VI Part II/10.xml" />
+			<chapter num="11" title="Scene II." location="S/William Shakespeare/King Henry VI Part II/11.xml" />
+			<chapter num="12" title="Scene III." location="S/William Shakespeare/King Henry VI Part II/12.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="13" title="Scene I." location="S/William Shakespeare/King Henry VI Part II/13.xml" />
+			<chapter num="14" title="Scene II." location="S/William Shakespeare/King Henry VI Part II/14.xml" />
+			<chapter num="15" title="Scene III." location="S/William Shakespeare/King Henry VI Part II/15.xml" />
+			<chapter num="16" title="Scene IV." location="S/William Shakespeare/King Henry VI Part II/16.xml" />
+			<chapter num="17" title="Scene V." location="S/William Shakespeare/King Henry VI Part II/17.xml" />
+			<chapter num="18" title="Scene VI." location="S/William Shakespeare/King Henry VI Part II/18.xml" />
+			<chapter num="19" title="Scene VII." location="S/William Shakespeare/King Henry VI Part II/19.xml" />
+			<chapter num="20" title="Scene VIII." location="S/William Shakespeare/King Henry VI Part II/20.xml" />
+			<chapter num="21" title="Scene IX." location="S/William Shakespeare/King Henry VI Part II/21.xml" />
+			<chapter num="22" title="Scene X." location="S/William Shakespeare/King Henry VI Part II/22.xml" />
+		</section>
+		<section type="1" name="ACT V">
+			<chapter num="23" title="Scene I." location="S/William Shakespeare/King Henry VI Part II/23.xml" />
+			<chapter num="24" title="Scene II." location="S/William Shakespeare/King Henry VI Part II/24.xml" />
+			<chapter num="25" title="Scene III." location="S/William Shakespeare/King Henry VI Part II/25.xml" />
+		</section>
+</book>

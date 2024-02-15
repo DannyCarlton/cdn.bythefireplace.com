@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1062" title="Sonnets" author="Shakespeare, William" location="S/William Shakespeare/Sonnets">
+			<chapter num="1" title="Sonnets I-XX" location="S/William Shakespeare/Sonnets/1.xml" />
+			<chapter num="2" title="Sonnets XXI-XL" location="S/William Shakespeare/Sonnets/2.xml" />
+			<chapter num="3" title="Sonnets XLI-LX" location="S/William Shakespeare/Sonnets/3.xml" />
+			<chapter num="4" title="Sonnets LXI-LXXX" location="S/William Shakespeare/Sonnets/4.xml" />
+			<chapter num="5" title="Sonnets LXXI-C" location="S/William Shakespeare/Sonnets/5.xml" />
+			<chapter num="6" title="Sonnets CI-CXX" location="S/William Shakespeare/Sonnets/6.xml" />
+			<chapter num="7" title="Sonnets CXXI-CXL" location="S/William Shakespeare/Sonnets/7.xml" />
+			<chapter num="8" title="Sonnets CXLI-LCIV" location="S/William Shakespeare/Sonnets/8.xml" />
+</book>

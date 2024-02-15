@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="150" title="Antony and Cleopatra" author="Shakespeare, William" location="S/William Shakespeare/Antony and Cleopatra">
+			<chapter num="1" title="Dramatis Personae" location="S/William Shakespeare/Antony and Cleopatra/1.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="2" title="Scene 1" location="S/William Shakespeare/Antony and Cleopatra/2.xml" />
+			<chapter num="3" title="Scene 2" location="S/William Shakespeare/Antony and Cleopatra/3.xml" />
+			<chapter num="4" title="Scene 3" location="S/William Shakespeare/Antony and Cleopatra/4.xml" />
+			<chapter num="5" title="Scene 4" location="S/William Shakespeare/Antony and Cleopatra/5.xml" />
+			<chapter num="6" title="Scene 5" location="S/William Shakespeare/Antony and Cleopatra/6.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="7" title="Scene 1" location="S/William Shakespeare/Antony and Cleopatra/7.xml" />
+			<chapter num="8" title="Scene 2" location="S/William Shakespeare/Antony and Cleopatra/8.xml" />
+			<chapter num="9" title="Scene 3" location="S/William Shakespeare/Antony and Cleopatra/9.xml" />
+			<chapter num="10" title="Scene 4" location="S/William Shakespeare/Antony and Cleopatra/10.xml" />
+			<chapter num="11" title="Scene 5" location="S/William Shakespeare/Antony and Cleopatra/11.xml" />
+			<chapter num="12" title="Scene 6" location="S/William Shakespeare/Antony and Cleopatra/12.xml" />
+			<chapter num="13" title="Scene 7" location="S/William Shakespeare/Antony and Cleopatra/13.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="14" title="Scene 1" location="S/William Shakespeare/Antony and Cleopatra/14.xml" />
+			<chapter num="15" title="Scene 2" location="S/William Shakespeare/Antony and Cleopatra/15.xml" />
+			<chapter num="16" title="Scene 3" location="S/William Shakespeare/Antony and Cleopatra/16.xml" />
+			<chapter num="17" title="Scene 4" location="S/William Shakespeare/Antony and Cleopatra/17.xml" />
+			<chapter num="18" title="Scene 5" location="S/William Shakespeare/Antony and Cleopatra/18.xml" />
+			<chapter num="19" title="Scene 6" location="S/William Shakespeare/Antony and Cleopatra/19.xml" />
+			<chapter num="20" title="Scene 7" location="S/William Shakespeare/Antony and Cleopatra/20.xml" />
+			<chapter num="21" title="Scene 8" location="S/William Shakespeare/Antony and Cleopatra/21.xml" />
+			<chapter num="22" title="Scene 9" location="S/William Shakespeare/Antony and Cleopatra/22.xml" />
+			<chapter num="23" title="Scene 10" location="S/William Shakespeare/Antony and Cleopatra/23.xml" />
+			<chapter num="24" title="Scene 11" location="S/William Shakespeare/Antony and Cleopatra/24.xml" />
+			<chapter num="25" title="Scene 12" location="S/William Shakespeare/Antony and Cleopatra/25.xml" />
+			<chapter num="26" title="Scene 13" location="S/William Shakespeare/Antony and Cleopatra/26.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="27" title="Scene 1" location="S/William Shakespeare/Antony and Cleopatra/27.xml" />
+			<chapter num="28" title="Scene 2" location="S/William Shakespeare/Antony and Cleopatra/28.xml" />
+			<chapter num="29" title="Scene 3" location="S/William Shakespeare/Antony and Cleopatra/29.xml" />
+			<chapter num="30" title="Scene 4" location="S/William Shakespeare/Antony and Cleopatra/30.xml" />
+			<chapter num="31" title="Scene 5" location="S/William Shakespeare/Antony and Cleopatra/31.xml" />
+			<chapter num="32" title="Scene 6" location="S/William Shakespeare/Antony and Cleopatra/32.xml" />
+			<chapter num="33" title="Scene 7" location="S/William Shakespeare/Antony and Cleopatra/33.xml" />
+			<chapter num="34" title="Scene 8" location="S/William Shakespeare/Antony and Cleopatra/34.xml" />
+			<chapter num="35" title="Scene 9" location="S/William Shakespeare/Antony and Cleopatra/35.xml" />
+			<chapter num="36" title="Scene 10" location="S/William Shakespeare/Antony and Cleopatra/36.xml" />
+			<chapter num="37" title="Scene 11" location="S/William Shakespeare/Antony and Cleopatra/37.xml" />
+			<chapter num="38" title="Scene 12" location="S/William Shakespeare/Antony and Cleopatra/38.xml" />
+			<chapter num="39" title="Scene 13" location="S/William Shakespeare/Antony and Cleopatra/39.xml" />
+			<chapter num="40" title="Scene 14" location="S/William Shakespeare/Antony and Cleopatra/40.xml" />
+			<chapter num="41" title="Scene 15" location="S/William Shakespeare/Antony and Cleopatra/41.xml" />
+		</section>
+		<section type="1" name="ACT V">
+			<chapter num="42" title="Scene 1" location="S/William Shakespeare/Antony and Cleopatra/42.xml" />
+			<chapter num="43" title="Scene 2" location="S/William Shakespeare/Antony and Cleopatra/43.xml" />
+		</section>
+</book>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40266" title="Old Mortality" author="Scott, Walter" location="S/Walter Scott/Old Mortality">
+
+	<section type="2" name="Vol. I">
+			<chapter num="1" title="Chapter I. Preliminary. " location="S/Walter Scott/Old Mortality/1.xml" />
+			<chapter num="2" title="Chapter II. " location="S/Walter Scott/Old Mortality/2.xml" />
+			<chapter num="3" title="Chapter III. " location="S/Walter Scott/Old Mortality/3.xml" />
+			<chapter num="4" title="Chapter IV. " location="S/Walter Scott/Old Mortality/4.xml" />
+			<chapter num="5" title="Chapter V. " location="S/Walter Scott/Old Mortality/5.xml" />
+			<chapter num="6" title="Chapter VI. " location="S/Walter Scott/Old Mortality/6.xml" />
+			<chapter num="7" title="Chapter VII. " location="S/Walter Scott/Old Mortality/7.xml" />
+			<chapter num="8" title="Chapter VIII. " location="S/Walter Scott/Old Mortality/8.xml" />
+
+	</section>
+	<section type="2" name="Vol. II">
+			<chapter num="9" title="Chapter I. " location="S/Walter Scott/Old Mortality/9.xml" />
+			<chapter num="10" title="Chapter II. " location="S/Walter Scott/Old Mortality/10.xml" />
+			<chapter num="11" title="Chapter III. " location="S/Walter Scott/Old Mortality/11.xml" />
+			<chapter num="12" title="Chapter IV. " location="S/Walter Scott/Old Mortality/12.xml" />
+			<chapter num="13" title="Chapter V. " location="S/Walter Scott/Old Mortality/13.xml" />
+			<chapter num="14" title="Chapter VI. " location="S/Walter Scott/Old Mortality/14.xml" />
+			<chapter num="15" title="Chapter VII. " location="S/Walter Scott/Old Mortality/15.xml" />
+			<chapter num="16" title="Chapter VIII. " location="S/Walter Scott/Old Mortality/16.xml" />
+			<chapter num="17" title="Chapter IX. " location="S/Walter Scott/Old Mortality/17.xml" />
+			<chapter num="18" title="Chapter X. " location="S/Walter Scott/Old Mortality/18.xml" />
+			<chapter num="19" title="Chapter XI. " location="S/Walter Scott/Old Mortality/19.xml" />
+			<chapter num="20" title="Chapter XII. " location="S/Walter Scott/Old Mortality/20.xml" />
+			<chapter num="21" title="Chapter XIII. " location="S/Walter Scott/Old Mortality/21.xml" />
+			<chapter num="22" title="Chapter XIV. " location="S/Walter Scott/Old Mortality/22.xml" />
+			<chapter num="23" title="Chapter XV. " location="S/Walter Scott/Old Mortality/23.xml" />
+			<chapter num="24" title="Chapter XVI. " location="S/Walter Scott/Old Mortality/24.xml" />
+			<chapter num="25" title="Chapter XVII. " location="S/Walter Scott/Old Mortality/25.xml" />
+			<chapter num="26" title="Chapter XVIII. " location="S/Walter Scott/Old Mortality/26.xml" />
+			<chapter num="27" title="Chapter XIX. " location="S/Walter Scott/Old Mortality/27.xml" />
+			<chapter num="28" title="Chapter XX. " location="S/Walter Scott/Old Mortality/28.xml" />
+			<chapter num="29" title="Chapter XXI. " location="S/Walter Scott/Old Mortality/29.xml" />
+			<chapter num="30" title="Chapter XXII. " location="S/Walter Scott/Old Mortality/30.xml" />
+			<chapter num="31" title="Chapter XXIII. " location="S/Walter Scott/Old Mortality/31.xml" />
+			<chapter num="32" title="Chapter XXIV. " location="S/Walter Scott/Old Mortality/32.xml" />
+			<chapter num="33" title="Chapter XXV. " location="S/Walter Scott/Old Mortality/33.xml" />
+			<chapter num="34" title="Chapter XXVI. " location="S/Walter Scott/Old Mortality/34.xml" />
+			<chapter num="35" title="Chapter XXVII. " location="S/Walter Scott/Old Mortality/35.xml" />
+			<chapter num="36" title="Chapter XXVIII. " location="S/Walter Scott/Old Mortality/36.xml" />
+	</section>
+</book>

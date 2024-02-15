@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1546" title="Evil Genius, The" author="Collins, Wilkie" location="C/Wilkie Collins/Evil Genius, The">
+		<section type="1" name="Before the Story. Miss Westerfield's Education">
+			<chapter num="1" title="1.--The Trial." location="C/Wilkie Collins/Evil Genius, The/1.xml" />
+			<chapter num="2" title="2.--The Sentence." location="C/Wilkie Collins/Evil Genius, The/2.xml" />
+			<chapter num="3" title="3.--The Letter." location="C/Wilkie Collins/Evil Genius, The/3.xml" />
+			<chapter num="4" title="4.--The Garret." location="C/Wilkie Collins/Evil Genius, The/4.xml" />
+			<chapter num="5" title="5.--The Landlord." location="C/Wilkie Collins/Evil Genius, The/5.xml" />
+			<chapter num="6" title="6.--The Brute." location="C/Wilkie Collins/Evil Genius, The/6.xml" />
+			<chapter num="7" title="7.--The Cipher." location="C/Wilkie Collins/Evil Genius, The/7.xml" />
+			<chapter num="8" title="8.--The Diamonds." location="C/Wilkie Collins/Evil Genius, The/8.xml" />
+			<chapter num="9" title="9.--The Mother." location="C/Wilkie Collins/Evil Genius, The/9.xml" />
+			<chapter num="10" title="10.--The School." location="C/Wilkie Collins/Evil Genius, The/10.xml" />
+		</section>
+
+	<section type="2" name="The Story">
+		<section type="1" name="First Book.">
+			<chapter num="11" title="Chapter I. Mrs. Presty Presents Herself." location="C/Wilkie Collins/Evil Genius, The/11.xml" />
+			<chapter num="12" title="Chapter II. The Governess Enters." location="C/Wilkie Collins/Evil Genius, The/12.xml" />
+			<chapter num="13" title="Chapter III. Mrs. Presty Changes Her Mind." location="C/Wilkie Collins/Evil Genius, The/13.xml" />
+			<chapter num="14" title="Chapter IV. Randal Receives His Correspondence." location="C/Wilkie Collins/Evil Genius, The/14.xml" />
+			<chapter num="15" title="Chapter V. Randal Writes to New York." location="C/Wilkie Collins/Evil Genius, The/15.xml" />
+			<chapter num="16" title="Chapter VI. Sydney Teaches." location="C/Wilkie Collins/Evil Genius, The/16.xml" />
+			<chapter num="17" title="Chapter VII. Sydney Suffers." location="C/Wilkie Collins/Evil Genius, The/17.xml" />
+			<chapter num="18" title="Chapter VIII. Mrs. Presty Makes a Discovery." location="C/Wilkie Collins/Evil Genius, The/18.xml" />
+			<chapter num="19" title="Chapter IX. Somebody Attends to the Door." location="C/Wilkie Collins/Evil Genius, The/19.xml" />
+			<chapter num="20" title="Chapter X. Kitty Mentions Her Birthday." location="C/Wilkie Collins/Evil Genius, The/20.xml" />
+			<chapter num="21" title="Chapter XI. Linley Asserts His Authority." location="C/Wilkie Collins/Evil Genius, The/21.xml" />
+			<chapter num="22" title="Chapter XII. Two of Them Sleep Badly." location="C/Wilkie Collins/Evil Genius, The/22.xml" />
+			<chapter num="23" title="Chapter XIII. Kitty Keeps Her Birthday." location="C/Wilkie Collins/Evil Genius, The/23.xml" />
+			<chapter num="24" title="Chapter XIV. Kitty Feels the Heartache." location="C/Wilkie Collins/Evil Genius, The/24.xml" />
+		</section>
+		<section type="1" name="Second Book.">
+			<chapter num="25" title="Chapter XV. The Doctor." location="C/Wilkie Collins/Evil Genius, The/25.xml" />
+			<chapter num="26" title="Chapter XVI. The Child." location="C/Wilkie Collins/Evil Genius, The/26.xml" />
+			<chapter num="27" title="Chapter XVII. The Husband." location="C/Wilkie Collins/Evil Genius, The/27.xml" />
+			<chapter num="28" title="Chapter XVIII. The Nursemaid." location="C/Wilkie Collins/Evil Genius, The/28.xml" />
+			<chapter num="29" title="Chapter XIX. The Captain." location="C/Wilkie Collins/Evil Genius, The/29.xml" />
+			<chapter num="30" title="Chapter XX. The Mother-in-Law." location="C/Wilkie Collins/Evil Genius, The/30.xml" />
+			<chapter num="31" title="Chapter XXI. The Governess." location="C/Wilkie Collins/Evil Genius, The/31.xml" />
+		</section>
+		<section type="1" name="Third Book.">
+			<chapter num="32" title="Chapter XXII. Retrospect." location="C/Wilkie Collins/Evil Genius, The/32.xml" />
+			<chapter num="33" title="Chapter XXIII. Separation." location="C/Wilkie Collins/Evil Genius, The/33.xml" />
+			<chapter num="34" title="Chapter XXIV. Hostility." location="C/Wilkie Collins/Evil Genius, The/34.xml" />
+			<chapter num="35" title="Chapter XXV. Consultation." location="C/Wilkie Collins/Evil Genius, The/35.xml" />
+			<chapter num="36" title="Chapter XXVI. Decision." location="C/Wilkie Collins/Evil Genius, The/36.xml" />
+			<chapter num="37" title="Chapter XXVII. Resolution." location="C/Wilkie Collins/Evil Genius, The/37.xml" />
+		</section>
+		<section type="1" name="Fourth Book.">
+			<chapter num="38" title="Chapter XXVIII. Mr. Randal Linley." location="C/Wilkie Collins/Evil Genius, The/38.xml" />
+			<chapter num="39" title="Chapter XXIX. Mr. Sarrazin." location="C/Wilkie Collins/Evil Genius, The/39.xml" />
+			<chapter num="40" title="Chapter XXX. The Lord President." location="C/Wilkie Collins/Evil Genius, The/40.xml" />
+			<chapter num="41" title="Chapter XXXI. Mr. Herbert Linley." location="C/Wilkie Collins/Evil Genius, The/41.xml" />
+			<chapter num="42" title="Chapter XXXII. Miss Westerfield." location="C/Wilkie Collins/Evil Genius, The/42.xml" />
+			<chapter num="43" title="Chapter XXXIII. Mrs. Romsey." location="C/Wilkie Collins/Evil Genius, The/43.xml" />
+			<chapter num="44" title="Chapter XXXIV. Mrs. Presty." location="C/Wilkie Collins/Evil Genius, The/44.xml" />
+			<chapter num="45" title="Chapter XXXV. Captain Bennydeck." location="C/Wilkie Collins/Evil Genius, The/45.xml" />
+			<chapter num="46" title="Chapter XXXVI. Mr. and Mrs. Herbert." location="C/Wilkie Collins/Evil Genius, The/46.xml" />
+			<chapter num="47" title="Chapter XXXVII. Mrs. Norman." location="C/Wilkie Collins/Evil Genius, The/47.xml" />
+		</section>
+		<section type="1" name="Fifth Book.">
+			<chapter num="48" title="Chapter XXXVIII. Hear the Lawyer." location="C/Wilkie Collins/Evil Genius, The/48.xml" />
+			<chapter num="49" title="Chapter XXXIX. Listen to Reason." location="C/Wilkie Collins/Evil Genius, The/49.xml" />
+			<chapter num="50" title="Chapter XL. Keep Your Temper." location="C/Wilkie Collins/Evil Genius, The/50.xml" />
+			<chapter num="51" title="Chapter XLI. Make the Best of It." location="C/Wilkie Collins/Evil Genius, The/51.xml" />
+			<chapter num="52" title="Chapter XLII. Try to Excuse Her." location="C/Wilkie Collins/Evil Genius, The/52.xml" />
+			<chapter num="53" title="Chapter XLIII. Know Your Own Mind." location="C/Wilkie Collins/Evil Genius, The/53.xml" />
+			<chapter num="54" title="Chapter XLIV. Think of Consequences." location="C/Wilkie Collins/Evil Genius, The/54.xml" />
+			<chapter num="55" title="Chapter XLV. Love Your Enemies." location="C/Wilkie Collins/Evil Genius, The/55.xml" />
+			<chapter num="56" title="Chapter XLVI. Nil Desperandum." location="C/Wilkie Collins/Evil Genius, The/56.xml" />
+			<chapter num="57" title="Chapter XLVII. Better Do It Than Wish It Done." location="C/Wilkie Collins/Evil Genius, The/57.xml" />
+			<chapter num="58" title="Chapter XLVIII. Be Careful!" location="C/Wilkie Collins/Evil Genius, The/58.xml" />
+			<chapter num="59" title="Chapter XLIX. Keep the Secret." location="C/Wilkie Collins/Evil Genius, The/59.xml" />
+			<chapter num="60" title="Chapter L. Forgiveness to the Injured Doth Belong." location="C/Wilkie Collins/Evil Genius, The/60.xml" />
+			<chapter num="61" title="Chapter LI. Dum Spiro, Spero." location="C/Wilkie Collins/Evil Genius, The/61.xml" />
+			<chapter num="62" title="Chapter LII. L'homme propose, et Dieu dispose." location="C/Wilkie Collins/Evil Genius, The/62.xml" />
+			<chapter num="63" title="Chapter LIII. The Largest Nature, the Longest Love." location="C/Wilkie Collins/Evil Genius, The/63.xml" />
+			<chapter num="64" title="Chapter LIV. Let Bygones Be Bygones." location="C/Wilkie Collins/Evil Genius, The/64.xml" />
+			<chapter num="65" title="Chapter LV. Leave It to the Child." location="C/Wilkie Collins/Evil Genius, The/65.xml" />
+		</section>
+		<section type="1" name="After the Story">
+			<chapter num="66" title="1.--The Lawyer's Apology." location="C/Wilkie Collins/Evil Genius, The/66.xml" />
+			<chapter num="67" title="2.--The Lawyer's Defense." location="C/Wilkie Collins/Evil Genius, The/67.xml" />
+			<chapter num="68" title="3.--The Lawyer's Last Word." location="C/Wilkie Collins/Evil Genius, The/68.xml" />
+		</section>
+	</section>
+</book>

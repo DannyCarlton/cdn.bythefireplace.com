@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="840" title="Ambassadors, The" author="James, Henry" location="J/Henry James/Ambassadors, The">
+			<chapter num="1" title="Preface" location="J/Henry James/Ambassadors, The/1.xml" />
+
+	<section type="2" name="Volume I">
+		<section type="1" name="Book First">
+			<chapter num="2" title="Chapter I" location="J/Henry James/Ambassadors, The/2.xml" />
+			<chapter num="3" title="Chapter II" location="J/Henry James/Ambassadors, The/3.xml" />
+			<chapter num="4" title="Chapter III" location="J/Henry James/Ambassadors, The/4.xml" />
+		</section>
+		<section type="1" name="Book Second">
+			<chapter num="5" title="Chapter I" location="J/Henry James/Ambassadors, The/5.xml" />
+			<chapter num="6" title="Chapter II" location="J/Henry James/Ambassadors, The/6.xml" />
+		</section>
+		<section type="1" name="Book Third">
+			<chapter num="7" title="Chapter I" location="J/Henry James/Ambassadors, The/7.xml" />
+			<chapter num="8" title="Chapter II" location="J/Henry James/Ambassadors, The/8.xml" />
+		</section>
+		<section type="1" name="Book Fourth">
+			<chapter num="9" title="Chapter I" location="J/Henry James/Ambassadors, The/9.xml" />
+			<chapter num="10" title="Chapter II" location="J/Henry James/Ambassadors, The/10.xml" />
+		</section>
+		<section type="1" name="Book Fifth">
+			<chapter num="11" title="Chapter I" location="J/Henry James/Ambassadors, The/11.xml" />
+			<chapter num="12" title="Chapter II" location="J/Henry James/Ambassadors, The/12.xml" />
+			<chapter num="13" title="Chapter III" location="J/Henry James/Ambassadors, The/13.xml" />
+		</section>
+		<section type="1" name="Book Sixth">
+			<chapter num="14" title="Chapter I" location="J/Henry James/Ambassadors, The/14.xml" />
+			<chapter num="15" title="Chapter II" location="J/Henry James/Ambassadors, The/15.xml" />
+			<chapter num="16" title="Chapter III" location="J/Henry James/Ambassadors, The/16.xml" />
+		</section>
+
+	</section>
+	<section type="2" name="Volume II">
+		<section type="1" name="Book Seventh">
+			<chapter num="17" title="Chapter I" location="J/Henry James/Ambassadors, The/17.xml" />
+			<chapter num="18" title="Chapter II" location="J/Henry James/Ambassadors, The/18.xml" />
+			<chapter num="19" title="Chapter III" location="J/Henry James/Ambassadors, The/19.xml" />
+		</section>
+		<section type="1" name="Book Eighth">
+			<chapter num="20" title="Chapter I" location="J/Henry James/Ambassadors, The/20.xml" />
+			<chapter num="21" title="Chapter II" location="J/Henry James/Ambassadors, The/21.xml" />
+			<chapter num="22" title="Chapter III" location="J/Henry James/Ambassadors, The/22.xml" />
+		</section>
+		<section type="1" name="Book Ninth">
+			<chapter num="23" title="Chapter I" location="J/Henry James/Ambassadors, The/23.xml" />
+			<chapter num="24" title="Chapter II" location="J/Henry James/Ambassadors, The/24.xml" />
+			<chapter num="25" title="Chapter III" location="J/Henry James/Ambassadors, The/25.xml" />
+		</section>
+		<section type="1" name="Book Tenth">
+			<chapter num="26" title="Chapter I" location="J/Henry James/Ambassadors, The/26.xml" />
+			<chapter num="27" title="Chapter II" location="J/Henry James/Ambassadors, The/27.xml" />
+			<chapter num="28" title="Chapter III" location="J/Henry James/Ambassadors, The/28.xml" />
+		</section>
+		<section type="1" name="Book Eleventh">
+			<chapter num="29" title="Chapter I" location="J/Henry James/Ambassadors, The/29.xml" />
+			<chapter num="30" title="Chapter II" location="J/Henry James/Ambassadors, The/30.xml" />
+			<chapter num="31" title="Chapter III" location="J/Henry James/Ambassadors, The/31.xml" />
+			<chapter num="32" title="Chapter IV" location="J/Henry James/Ambassadors, The/32.xml" />
+		</section>
+		<section type="1" name="Book Twelfth">
+			<chapter num="33" title="Chapter I" location="J/Henry James/Ambassadors, The/33.xml" />
+			<chapter num="34" title="Chapter II" location="J/Henry James/Ambassadors, The/34.xml" />
+			<chapter num="35" title="Chapter III" location="J/Henry James/Ambassadors, The/35.xml" />
+			<chapter num="36" title="Chapter IV" location="J/Henry James/Ambassadors, The/36.xml" />
+			<chapter num="37" title="Chapter V" location="J/Henry James/Ambassadors, The/37.xml" />
+		</section>
+	</section>
+</book>

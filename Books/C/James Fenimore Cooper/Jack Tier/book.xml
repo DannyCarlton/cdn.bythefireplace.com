@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40281" title="Jack Tier" author="Cooper, James Fenimore" location="C/James Fenimore Cooper/Jack Tier">
+			<chapter num="1" title="Preface." location="C/James Fenimore Cooper/Jack Tier/1.xml" />
+
+	<section type="2" name="Volume 1">
+			<chapter num="2" title="Chapter I." location="C/James Fenimore Cooper/Jack Tier/2.xml" />
+			<chapter num="3" title="Chapter II." location="C/James Fenimore Cooper/Jack Tier/3.xml" />
+			<chapter num="4" title="Chapter III." location="C/James Fenimore Cooper/Jack Tier/4.xml" />
+			<chapter num="5" title="Chapter IV." location="C/James Fenimore Cooper/Jack Tier/5.xml" />
+			<chapter num="6" title="Chapter V." location="C/James Fenimore Cooper/Jack Tier/6.xml" />
+			<chapter num="7" title="Chapter VI." location="C/James Fenimore Cooper/Jack Tier/7.xml" />
+			<chapter num="8" title="Chapter VII." location="C/James Fenimore Cooper/Jack Tier/8.xml" />
+			<chapter num="9" title="Chapter VIII." location="C/James Fenimore Cooper/Jack Tier/9.xml" />
+
+	</section>
+	<section type="2" name="Volume 2">
+			<chapter num="10" title="Chapter I." location="C/James Fenimore Cooper/Jack Tier/10.xml" />
+			<chapter num="11" title="Chapter II." location="C/James Fenimore Cooper/Jack Tier/11.xml" />
+			<chapter num="12" title="Chapter III." location="C/James Fenimore Cooper/Jack Tier/12.xml" />
+			<chapter num="13" title="Chapter IV." location="C/James Fenimore Cooper/Jack Tier/13.xml" />
+			<chapter num="14" title="Chapter V." location="C/James Fenimore Cooper/Jack Tier/14.xml" />
+			<chapter num="15" title="Chapter VI." location="C/James Fenimore Cooper/Jack Tier/15.xml" />
+			<chapter num="16" title="Chapter VII." location="C/James Fenimore Cooper/Jack Tier/16.xml" />
+			<chapter num="17" title="Chapter VIII." location="C/James Fenimore Cooper/Jack Tier/17.xml" />
+			<chapter num="18" title="Chapter IX." location="C/James Fenimore Cooper/Jack Tier/18.xml" />
+	</section>
+</book>

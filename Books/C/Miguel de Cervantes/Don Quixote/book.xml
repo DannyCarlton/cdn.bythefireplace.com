@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1148" title="Don Quixote" author="Cervantes, Miguel de" location="C/Miguel de Cervantes/Don Quixote">
+			<chapter num="1" title="Some Commendatory Verses" location="C/Miguel de Cervantes/Don Quixote/1.xml" />
+			<chapter num="2" title="The Author's Preface" location="C/Miguel de Cervantes/Don Quixote/2.xml" />
+			<chapter num="3" title="Dedication of Part I" location="C/Miguel de Cervantes/Don Quixote/3.xml" />
+		<section type="1" name="Part I">
+			<chapter num="4" title="Chapter I" location="C/Miguel de Cervantes/Don Quixote/4.xml" />
+			<chapter num="5" title="Chapter II" location="C/Miguel de Cervantes/Don Quixote/5.xml" />
+			<chapter num="6" title="Chapter III" location="C/Miguel de Cervantes/Don Quixote/6.xml" />
+			<chapter num="7" title="Chapter IV" location="C/Miguel de Cervantes/Don Quixote/7.xml" />
+			<chapter num="8" title="Chapter V" location="C/Miguel de Cervantes/Don Quixote/8.xml" />
+			<chapter num="9" title="Chapter VI" location="C/Miguel de Cervantes/Don Quixote/9.xml" />
+			<chapter num="10" title="Chapter VII" location="C/Miguel de Cervantes/Don Quixote/10.xml" />
+			<chapter num="11" title="Chapter VIII" location="C/Miguel de Cervantes/Don Quixote/11.xml" />
+			<chapter num="12" title="Chapter IX" location="C/Miguel de Cervantes/Don Quixote/12.xml" />
+			<chapter num="13" title="Chapter X" location="C/Miguel de Cervantes/Don Quixote/13.xml" />
+			<chapter num="14" title="Chapter XI" location="C/Miguel de Cervantes/Don Quixote/14.xml" />
+			<chapter num="15" title="Chapter XII" location="C/Miguel de Cervantes/Don Quixote/15.xml" />
+			<chapter num="16" title="Chapter XIII" location="C/Miguel de Cervantes/Don Quixote/16.xml" />
+			<chapter num="17" title="Chapter XIV" location="C/Miguel de Cervantes/Don Quixote/17.xml" />
+			<chapter num="18" title="Chapter XV" location="C/Miguel de Cervantes/Don Quixote/18.xml" />
+			<chapter num="19" title="Chapter XVI" location="C/Miguel de Cervantes/Don Quixote/19.xml" />
+			<chapter num="20" title="Chapter XVII" location="C/Miguel de Cervantes/Don Quixote/20.xml" />
+			<chapter num="21" title="Chapter XVIII" location="C/Miguel de Cervantes/Don Quixote/21.xml" />
+			<chapter num="22" title="Chapter XIX" location="C/Miguel de Cervantes/Don Quixote/22.xml" />
+			<chapter num="23" title="Chapter XX" location="C/Miguel de Cervantes/Don Quixote/23.xml" />
+			<chapter num="24" title="Chapter XXI" location="C/Miguel de Cervantes/Don Quixote/24.xml" />
+			<chapter num="25" title="Chapter XXII" location="C/Miguel de Cervantes/Don Quixote/25.xml" />
+			<chapter num="26" title="Chapter XXIII" location="C/Miguel de Cervantes/Don Quixote/26.xml" />
+			<chapter num="27" title="Chapter XXIV" location="C/Miguel de Cervantes/Don Quixote/27.xml" />
+			<chapter num="28" title="Chapter XXV" location="C/Miguel de Cervantes/Don Quixote/28.xml" />
+			<chapter num="29" title="Chapter XXVI" location="C/Miguel de Cervantes/Don Quixote/29.xml" />
+			<chapter num="30" title="Chapter XXVII" location="C/Miguel de Cervantes/Don Quixote/30.xml" />
+			<chapter num="31" title="Chapter XXVIII" location="C/Miguel de Cervantes/Don Quixote/31.xml" />
+			<chapter num="32" title="Chapter XXIX" location="C/Miguel de Cervantes/Don Quixote/32.xml" />
+			<chapter num="33" title="Chapter XXX" location="C/Miguel de Cervantes/Don Quixote/33.xml" />
+			<chapter num="34" title="Chapter XXXI" location="C/Miguel de Cervantes/Don Quixote/34.xml" />
+			<chapter num="35" title="Chapter XXXII" location="C/Miguel de Cervantes/Don Quixote/35.xml" />
+			<chapter num="36" title="Chapter XXXIII" location="C/Miguel de Cervantes/Don Quixote/36.xml" />
+			<chapter num="37" title="Chapter XXXIV" location="C/Miguel de Cervantes/Don Quixote/37.xml" />
+			<chapter num="38" title="Chapter XXXV" location="C/Miguel de Cervantes/Don Quixote/38.xml" />
+			<chapter num="39" title="Chapter XXXVI" location="C/Miguel de Cervantes/Don Quixote/39.xml" />
+			<chapter num="40" title="Chapter XXXVII" location="C/Miguel de Cervantes/Don Quixote/40.xml" />
+			<chapter num="41" title="Chapter XXXVIII" location="C/Miguel de Cervantes/Don Quixote/41.xml" />
+			<chapter num="42" title="Chapter XXXIX" location="C/Miguel de Cervantes/Don Quixote/42.xml" />
+			<chapter num="43" title="Chapter XL" location="C/Miguel de Cervantes/Don Quixote/43.xml" />
+			<chapter num="44" title="Chapter XLI" location="C/Miguel de Cervantes/Don Quixote/44.xml" />
+			<chapter num="45" title="Chapter XLII" location="C/Miguel de Cervantes/Don Quixote/45.xml" />
+			<chapter num="46" title="Chapter XLIII" location="C/Miguel de Cervantes/Don Quixote/46.xml" />
+			<chapter num="47" title="Chapter XLIV" location="C/Miguel de Cervantes/Don Quixote/47.xml" />
+			<chapter num="48" title="Chapter XLV" location="C/Miguel de Cervantes/Don Quixote/48.xml" />
+			<chapter num="49" title="Chapter XLVI" location="C/Miguel de Cervantes/Don Quixote/49.xml" />
+			<chapter num="50" title="Chapter XLVII" location="C/Miguel de Cervantes/Don Quixote/50.xml" />
+			<chapter num="51" title="Chapter XLVIII" location="C/Miguel de Cervantes/Don Quixote/51.xml" />
+			<chapter num="52" title="Chapter XLIX" location="C/Miguel de Cervantes/Don Quixote/52.xml" />
+			<chapter num="53" title="Chapter L" location="C/Miguel de Cervantes/Don Quixote/53.xml" />
+			<chapter num="54" title="Chapter LI" location="C/Miguel de Cervantes/Don Quixote/54.xml" />
+			<chapter num="55" title="Dedication of Part II" location="C/Miguel de Cervantes/Don Quixote/55.xml" />
+		</section>
+		<section type="1" name="Part II">
+			<chapter num="56" title="The Author's Preface" location="C/Miguel de Cervantes/Don Quixote/56.xml" />
+			<chapter num="57" title="Chapter I" location="C/Miguel de Cervantes/Don Quixote/57.xml" />
+			<chapter num="58" title="Chapter II" location="C/Miguel de Cervantes/Don Quixote/58.xml" />
+			<chapter num="59" title="Chapter III" location="C/Miguel de Cervantes/Don Quixote/59.xml" />
+			<chapter num="60" title="Chapter IV" location="C/Miguel de Cervantes/Don Quixote/60.xml" />
+			<chapter num="61" title="Chapter V" location="C/Miguel de Cervantes/Don Quixote/61.xml" />
+			<chapter num="62" title="Chapter VI" location="C/Miguel de Cervantes/Don Quixote/62.xml" />
+			<chapter num="63" title="Chapter VII" location="C/Miguel de Cervantes/Don Quixote/63.xml" />
+			<chapter num="64" title="Chapter VIII" location="C/Miguel de Cervantes/Don Quixote/64.xml" />
+			<chapter num="65" title="Chapter IX" location="C/Miguel de Cervantes/Don Quixote/65.xml" />
+			<chapter num="66" title="Chapter X" location="C/Miguel de Cervantes/Don Quixote/66.xml" />
+			<chapter num="67" title="Chapter XI" location="C/Miguel de Cervantes/Don Quixote/67.xml" />
+			<chapter num="68" title="Chapter XII" location="C/Miguel de Cervantes/Don Quixote/68.xml" />
+			<chapter num="69" title="Chapter XIII" location="C/Miguel de Cervantes/Don Quixote/69.xml" />
+			<chapter num="70" title="Chapter XIV" location="C/Miguel de Cervantes/Don Quixote/70.xml" />
+			<chapter num="71" title="Chapter XV" location="C/Miguel de Cervantes/Don Quixote/71.xml" />
+			<chapter num="72" title="Chapter XVI" location="C/Miguel de Cervantes/Don Quixote/72.xml" />
+			<chapter num="73" title="Chapter XVII" location="C/Miguel de Cervantes/Don Quixote/73.xml" />
+			<chapter num="74" title="Chapter XVIII" location="C/Miguel de Cervantes/Don Quixote/74.xml" />
+			<chapter num="75" title="Chapter XIX" location="C/Miguel de Cervantes/Don Quixote/75.xml" />
+			<chapter num="76" title="Chapter XX" location="C/Miguel de Cervantes/Don Quixote/76.xml" />
+			<chapter num="77" title="Chapter XXI" location="C/Miguel de Cervantes/Don Quixote/77.xml" />
+			<chapter num="78" title="Chapter XXII" location="C/Miguel de Cervantes/Don Quixote/78.xml" />
+			<chapter num="79" title="Chapter XXIII" location="C/Miguel de Cervantes/Don Quixote/79.xml" />
+			<chapter num="80" title="Chapter XXIV" location="C/Miguel de Cervantes/Don Quixote/80.xml" />
+			<chapter num="81" title="Chapter XXV" location="C/Miguel de Cervantes/Don Quixote/81.xml" />
+			<chapter num="82" title="Chapter XXVI" location="C/Miguel de Cervantes/Don Quixote/82.xml" />
+			<chapter num="83" title="Chapter XXVII" location="C/Miguel de Cervantes/Don Quixote/83.xml" />
+			<chapter num="84" title="Chapter XXVIII" location="C/Miguel de Cervantes/Don Quixote/84.xml" />
+			<chapter num="85" title="Chapter XXIX" location="C/Miguel de Cervantes/Don Quixote/85.xml" />
+			<chapter num="86" title="Chapter XXX" location="C/Miguel de Cervantes/Don Quixote/86.xml" />
+			<chapter num="87" title="Chapter XXXI" location="C/Miguel de Cervantes/Don Quixote/87.xml" />
+			<chapter num="88" title="Chapter XXXII" location="C/Miguel de Cervantes/Don Quixote/88.xml" />
+			<chapter num="89" title="Chapter XXXIII" location="C/Miguel de Cervantes/Don Quixote/89.xml" />
+			<chapter num="90" title="Chapter XXXIV" location="C/Miguel de Cervantes/Don Quixote/90.xml" />
+			<chapter num="91" title="Chapter XXXV" location="C/Miguel de Cervantes/Don Quixote/91.xml" />
+			<chapter num="92" title="Chapter XXXVI" location="C/Miguel de Cervantes/Don Quixote/92.xml" />
+			<chapter num="93" title="Chapter XXXVII" location="C/Miguel de Cervantes/Don Quixote/93.xml" />
+			<chapter num="94" title="Chapter XXXVIII" location="C/Miguel de Cervantes/Don Quixote/94.xml" />
+			<chapter num="95" title="Chapter XXXIX" location="C/Miguel de Cervantes/Don Quixote/95.xml" />
+			<chapter num="96" title="Chapter XL" location="C/Miguel de Cervantes/Don Quixote/96.xml" />
+			<chapter num="97" title="Chapter XLI" location="C/Miguel de Cervantes/Don Quixote/97.xml" />
+			<chapter num="98" title="Chapter XLII" location="C/Miguel de Cervantes/Don Quixote/98.xml" />
+			<chapter num="99" title="Chapter XLIII" location="C/Miguel de Cervantes/Don Quixote/99.xml" />
+			<chapter num="100" title="Chapter XLIV" location="C/Miguel de Cervantes/Don Quixote/100.xml" />
+			<chapter num="101" title="Chapter XLV" location="C/Miguel de Cervantes/Don Quixote/101.xml" />
+			<chapter num="102" title="Chapter XLVI" location="C/Miguel de Cervantes/Don Quixote/102.xml" />
+			<chapter num="103" title="Chapter XLVII" location="C/Miguel de Cervantes/Don Quixote/103.xml" />
+			<chapter num="104" title="Chapter XLVIII" location="C/Miguel de Cervantes/Don Quixote/104.xml" />
+			<chapter num="105" title="Chapter XLIX" location="C/Miguel de Cervantes/Don Quixote/105.xml" />
+			<chapter num="106" title="Chapter L" location="C/Miguel de Cervantes/Don Quixote/106.xml" />
+			<chapter num="107" title="Chapter LI" location="C/Miguel de Cervantes/Don Quixote/107.xml" />
+			<chapter num="108" title="Chapter LII" location="C/Miguel de Cervantes/Don Quixote/108.xml" />
+			<chapter num="109" title="Chapter LIII" location="C/Miguel de Cervantes/Don Quixote/109.xml" />
+			<chapter num="110" title="Chapter XLIV" location="C/Miguel de Cervantes/Don Quixote/110.xml" />
+			<chapter num="111" title="Chapter LV" location="C/Miguel de Cervantes/Don Quixote/111.xml" />
+			<chapter num="112" title="Chapter LVI" location="C/Miguel de Cervantes/Don Quixote/112.xml" />
+			<chapter num="113" title="Chapter LVII" location="C/Miguel de Cervantes/Don Quixote/113.xml" />
+			<chapter num="114" title="Chapter LVIII" location="C/Miguel de Cervantes/Don Quixote/114.xml" />
+			<chapter num="115" title="Chapter LIX" location="C/Miguel de Cervantes/Don Quixote/115.xml" />
+			<chapter num="116" title="Chapter LX" location="C/Miguel de Cervantes/Don Quixote/116.xml" />
+			<chapter num="117" title="Chapter LXI" location="C/Miguel de Cervantes/Don Quixote/117.xml" />
+			<chapter num="118" title="Chapter LXII" location="C/Miguel de Cervantes/Don Quixote/118.xml" />
+			<chapter num="119" title="Chapter LXIII" location="C/Miguel de Cervantes/Don Quixote/119.xml" />
+			<chapter num="120" title="Chapter LXIV" location="C/Miguel de Cervantes/Don Quixote/120.xml" />
+			<chapter num="121" title="Chapter LXV" location="C/Miguel de Cervantes/Don Quixote/121.xml" />
+			<chapter num="122" title="Chapter LXVI" location="C/Miguel de Cervantes/Don Quixote/122.xml" />
+			<chapter num="123" title="Chapter LXVII" location="C/Miguel de Cervantes/Don Quixote/123.xml" />
+			<chapter num="124" title="Chapter LXVIII" location="C/Miguel de Cervantes/Don Quixote/124.xml" />
+			<chapter num="125" title="Chapter LXIX" location="C/Miguel de Cervantes/Don Quixote/125.xml" />
+			<chapter num="126" title="Chapter LXX" location="C/Miguel de Cervantes/Don Quixote/126.xml" />
+			<chapter num="127" title="Chapter LXXI" location="C/Miguel de Cervantes/Don Quixote/127.xml" />
+			<chapter num="128" title="Chapter LXXII" location="C/Miguel de Cervantes/Don Quixote/128.xml" />
+			<chapter num="129" title="Chapter LXXIII" location="C/Miguel de Cervantes/Don Quixote/129.xml" />
+			<chapter num="130" title="Chapter LXXIV" location="C/Miguel de Cervantes/Don Quixote/130.xml" />
+		</section>
+</book>

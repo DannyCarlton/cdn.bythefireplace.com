@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="494" title="Paradise Regained" author="Milton, John" location="M/John Milton/Paradise Regained">
+			<chapter num="1" title="The First Book" location="M/John Milton/Paradise Regained/1.xml" />
+			<chapter num="2" title="The Second Book" location="M/John Milton/Paradise Regained/2.xml" />
+			<chapter num="3" title="The Third Book" location="M/John Milton/Paradise Regained/3.xml" />
+			<chapter num="4" title="The Fourth Book" location="M/John Milton/Paradise Regained/4.xml" />
+</book>

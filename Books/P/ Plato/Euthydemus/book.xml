@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1797" title="Euthydemus" author="Plato, " location="P/ Plato/Euthydemus">
+			<chapter num="1" title="Introduction." location="P/ Plato/Euthydemus/1.xml" />
+			<chapter num="2" title="Euthydemus" location="P/ Plato/Euthydemus/2.xml" />
+			<chapter num="3" title="Euthydemus (cont'd)" location="P/ Plato/Euthydemus/3.xml" />
+</book>

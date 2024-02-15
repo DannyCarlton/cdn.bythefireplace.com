@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="405" title="Tess of the d'Urbervilles" author="Hardy, Thomas" location="H/Thomas Hardy/Tess of the d'Urbervilles">
+		<section type="1" name="Phase the First: The Maiden">
+			<chapter num="1" title="Chapter I" location="H/Thomas Hardy/Tess of the d'Urbervilles/1.xml" />
+			<chapter num="2" title="Chapter II" location="H/Thomas Hardy/Tess of the d'Urbervilles/2.xml" />
+			<chapter num="3" title="Chapter III" location="H/Thomas Hardy/Tess of the d'Urbervilles/3.xml" />
+			<chapter num="4" title="Chapter IV" location="H/Thomas Hardy/Tess of the d'Urbervilles/4.xml" />
+			<chapter num="5" title="Chapter V" location="H/Thomas Hardy/Tess of the d'Urbervilles/5.xml" />
+			<chapter num="6" title="Chapter VI" location="H/Thomas Hardy/Tess of the d'Urbervilles/6.xml" />
+			<chapter num="7" title="Chapter VII" location="H/Thomas Hardy/Tess of the d'Urbervilles/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="H/Thomas Hardy/Tess of the d'Urbervilles/8.xml" />
+			<chapter num="9" title="Chapter IX" location="H/Thomas Hardy/Tess of the d'Urbervilles/9.xml" />
+			<chapter num="10" title="Chapter X" location="H/Thomas Hardy/Tess of the d'Urbervilles/10.xml" />
+			<chapter num="11" title="Chapter XI" location="H/Thomas Hardy/Tess of the d'Urbervilles/11.xml" />
+		</section>
+		<section type="1" name="Phase the Second: Maiden No More">
+			<chapter num="12" title="Chapter XII" location="H/Thomas Hardy/Tess of the d'Urbervilles/12.xml" />
+			<chapter num="13" title="Chapter XIII" location="H/Thomas Hardy/Tess of the d'Urbervilles/13.xml" />
+			<chapter num="14" title="Chapter XIV" location="H/Thomas Hardy/Tess of the d'Urbervilles/14.xml" />
+			<chapter num="15" title="Chapter XV" location="H/Thomas Hardy/Tess of the d'Urbervilles/15.xml" />
+		</section>
+		<section type="1" name="Phase the Third: The Rally">
+			<chapter num="16" title="Chapter XVI" location="H/Thomas Hardy/Tess of the d'Urbervilles/16.xml" />
+			<chapter num="17" title="Chapter XVII" location="H/Thomas Hardy/Tess of the d'Urbervilles/17.xml" />
+			<chapter num="18" title="Chapter XVIII" location="H/Thomas Hardy/Tess of the d'Urbervilles/18.xml" />
+			<chapter num="19" title="Chapter XIX" location="H/Thomas Hardy/Tess of the d'Urbervilles/19.xml" />
+			<chapter num="20" title="Chapter XX" location="H/Thomas Hardy/Tess of the d'Urbervilles/20.xml" />
+			<chapter num="21" title="Chapter XXI" location="H/Thomas Hardy/Tess of the d'Urbervilles/21.xml" />
+			<chapter num="22" title="Chapter XXII" location="H/Thomas Hardy/Tess of the d'Urbervilles/22.xml" />
+			<chapter num="23" title="Chapter XXIII" location="H/Thomas Hardy/Tess of the d'Urbervilles/23.xml" />
+			<chapter num="24" title="Chapter XXIV" location="H/Thomas Hardy/Tess of the d'Urbervilles/24.xml" />
+		</section>
+		<section type="1" name="Phase the Fourth: The Consequence">
+			<chapter num="25" title="Chapter XXV" location="H/Thomas Hardy/Tess of the d'Urbervilles/25.xml" />
+			<chapter num="26" title="Chapter XXVI" location="H/Thomas Hardy/Tess of the d'Urbervilles/26.xml" />
+			<chapter num="27" title="Chapter XXVII" location="H/Thomas Hardy/Tess of the d'Urbervilles/27.xml" />
+			<chapter num="28" title="Chapter XXVIII" location="H/Thomas Hardy/Tess of the d'Urbervilles/28.xml" />
+			<chapter num="29" title="Chapter XXIX" location="H/Thomas Hardy/Tess of the d'Urbervilles/29.xml" />
+			<chapter num="30" title="Chapter XXX" location="H/Thomas Hardy/Tess of the d'Urbervilles/30.xml" />
+			<chapter num="31" title="Chapter XXXI" location="H/Thomas Hardy/Tess of the d'Urbervilles/31.xml" />
+			<chapter num="32" title="Chapter XXXII" location="H/Thomas Hardy/Tess of the d'Urbervilles/32.xml" />
+			<chapter num="33" title="Chapter XXXIII" location="H/Thomas Hardy/Tess of the d'Urbervilles/33.xml" />
+			<chapter num="34" title="Chapter XXXIV" location="H/Thomas Hardy/Tess of the d'Urbervilles/34.xml" />
+		</section>
+		<section type="1" name="Phase the Fifth: The Woman Pays">
+			<chapter num="35" title="Chapter XXXV" location="H/Thomas Hardy/Tess of the d'Urbervilles/35.xml" />
+			<chapter num="36" title="Chapter XXXVI" location="H/Thomas Hardy/Tess of the d'Urbervilles/36.xml" />
+			<chapter num="37" title="Chapter XXXVII" location="H/Thomas Hardy/Tess of the d'Urbervilles/37.xml" />
+			<chapter num="38" title="Chapter XXXVIII" location="H/Thomas Hardy/Tess of the d'Urbervilles/38.xml" />
+			<chapter num="39" title="Chapter XXXIX" location="H/Thomas Hardy/Tess of the d'Urbervilles/39.xml" />
+			<chapter num="40" title="Chapter XL" location="H/Thomas Hardy/Tess of the d'Urbervilles/40.xml" />
+			<chapter num="41" title="Chapter XLI" location="H/Thomas Hardy/Tess of the d'Urbervilles/41.xml" />
+			<chapter num="42" title="Chapter XLII" location="H/Thomas Hardy/Tess of the d'Urbervilles/42.xml" />
+			<chapter num="43" title="Chapter XLIII" location="H/Thomas Hardy/Tess of the d'Urbervilles/43.xml" />
+			<chapter num="44" title="Chapter XLIV" location="H/Thomas Hardy/Tess of the d'Urbervilles/44.xml" />
+		</section>
+		<section type="1" name="Phase the Sixth: The Convert">
+			<chapter num="45" title="Chapter XLV" location="H/Thomas Hardy/Tess of the d'Urbervilles/45.xml" />
+			<chapter num="46" title="Chapter XLVI" location="H/Thomas Hardy/Tess of the d'Urbervilles/46.xml" />
+			<chapter num="47" title="Chapter XLVII" location="H/Thomas Hardy/Tess of the d'Urbervilles/47.xml" />
+			<chapter num="48" title="Chapter XLVIII" location="H/Thomas Hardy/Tess of the d'Urbervilles/48.xml" />
+			<chapter num="49" title="Chapter XLIX" location="H/Thomas Hardy/Tess of the d'Urbervilles/49.xml" />
+			<chapter num="50" title="Chapter L" location="H/Thomas Hardy/Tess of the d'Urbervilles/50.xml" />
+			<chapter num="51" title="Chapter LI" location="H/Thomas Hardy/Tess of the d'Urbervilles/51.xml" />
+			<chapter num="52" title="Chapter LII" location="H/Thomas Hardy/Tess of the d'Urbervilles/52.xml" />
+		</section>
+		<section type="1" name="Phase the Seventh: Fulfilment">
+			<chapter num="53" title="Chapter LIII" location="H/Thomas Hardy/Tess of the d'Urbervilles/53.xml" />
+			<chapter num="54" title="Chapter LIV" location="H/Thomas Hardy/Tess of the d'Urbervilles/54.xml" />
+			<chapter num="55" title="Chapter LV" location="H/Thomas Hardy/Tess of the d'Urbervilles/55.xml" />
+			<chapter num="56" title="Chapter LVI" location="H/Thomas Hardy/Tess of the d'Urbervilles/56.xml" />
+			<chapter num="57" title="Chapter LVII" location="H/Thomas Hardy/Tess of the d'Urbervilles/57.xml" />
+			<chapter num="58" title="Chapter LVIII" location="H/Thomas Hardy/Tess of the d'Urbervilles/58.xml" />
+			<chapter num="59" title="Chapter LIX" location="H/Thomas Hardy/Tess of the d'Urbervilles/59.xml" />
+		</section>
+</book>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="77" title="White Fang" author="London, Jack" location="L/Jack London/White Fang">
+		<section type="1" name="Part I">
+			<chapter num="1" title="Chapter I - The Trail of the Meat" location="L/Jack London/White Fang/1.xml" />
+			<chapter num="2" title="Chapter II - The She-Wolf" location="L/Jack London/White Fang/2.xml" />
+			<chapter num="3" title="Chapter III - The Hunger Cry" location="L/Jack London/White Fang/3.xml" />
+		</section>
+		<section type="1" name="Part II">
+			<chapter num="4" title="Chapter I - The Battle of the Fangs" location="L/Jack London/White Fang/4.xml" />
+			<chapter num="5" title="Chapter II - The Lair" location="L/Jack London/White Fang/5.xml" />
+			<chapter num="6" title="Chapter III - The Grey Cub" location="L/Jack London/White Fang/6.xml" />
+			<chapter num="7" title="Chapter IV - The Wall of the World" location="L/Jack London/White Fang/7.xml" />
+			<chapter num="8" title="Chapter V - The Law of Meat" location="L/Jack London/White Fang/8.xml" />
+		</section>
+		<section type="1" name="Part III">
+			<chapter num="9" title="Chapter I - The Makers of Fire" location="L/Jack London/White Fang/9.xml" />
+			<chapter num="10" title="Chapter II - The Bondage" location="L/Jack London/White Fang/10.xml" />
+			<chapter num="11" title="Chapter III - The Outcast" location="L/Jack London/White Fang/11.xml" />
+			<chapter num="12" title="Chapter IV - The Trail of the Gods" location="L/Jack London/White Fang/12.xml" />
+			<chapter num="13" title="Chapter V - The Covenant" location="L/Jack London/White Fang/13.xml" />
+			<chapter num="14" title="Chapter VI - The Famine" location="L/Jack London/White Fang/14.xml" />
+		</section>
+		<section type="1" name="Part IV">
+			<chapter num="15" title="Chapter I - The Enemy of His Kind" location="L/Jack London/White Fang/15.xml" />
+			<chapter num="16" title="Chapter II - The Mad God" location="L/Jack London/White Fang/16.xml" />
+			<chapter num="17" title="Chapter III - The Reign of Hate" location="L/Jack London/White Fang/17.xml" />
+			<chapter num="18" title="Chapter IV - The Clinging Death" location="L/Jack London/White Fang/18.xml" />
+			<chapter num="19" title="Chapter V - The Indomitable" location="L/Jack London/White Fang/19.xml" />
+			<chapter num="20" title="Chapter VI - The Love-Master" location="L/Jack London/White Fang/20.xml" />
+		</section>
+		<section type="1" name="Part V">
+			<chapter num="21" title="Chapter I - The Long Trail" location="L/Jack London/White Fang/21.xml" />
+			<chapter num="22" title="Chapter II - The Southland" location="L/Jack London/White Fang/22.xml" />
+			<chapter num="23" title="Chapter III - The God's Domain" location="L/Jack London/White Fang/23.xml" />
+			<chapter num="24" title="Chapter IV - The Call of Kind" location="L/Jack London/White Fang/24.xml" />
+			<chapter num="25" title="Chapter V - The Sleeping Wolf" location="L/Jack London/White Fang/25.xml" />
+		</section>
+</book>

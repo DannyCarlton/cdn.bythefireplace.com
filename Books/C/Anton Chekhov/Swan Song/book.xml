@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1270" title="Swan Song" author="Chekhov, Anton" location="C/Anton Chekhov/Swan Song">
+			<chapter num="1" title="Introduction" location="C/Anton Chekhov/Swan Song/1.xml" />
+			<chapter num="2" title="Characters" location="C/Anton Chekhov/Swan Song/2.xml" />
+			<chapter num="3" title="The Swan Song" location="C/Anton Chekhov/Swan Song/3.xml" />
+</book>

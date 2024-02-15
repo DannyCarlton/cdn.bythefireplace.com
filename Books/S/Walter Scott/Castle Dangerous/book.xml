@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40261" title="Castle Dangerous" author="Scott, Walter" location="S/Walter Scott/Castle Dangerous">
+			<chapter num="1" title="Introduction.. (1832.)" location="S/Walter Scott/Castle Dangerous/1.xml" />
+			<chapter num="2" title="Chapter the First." location="S/Walter Scott/Castle Dangerous/2.xml" />
+			<chapter num="3" title="Chapter the Second." location="S/Walter Scott/Castle Dangerous/3.xml" />
+			<chapter num="4" title="Chapter the Third." location="S/Walter Scott/Castle Dangerous/4.xml" />
+			<chapter num="5" title="Chapter the Fourth." location="S/Walter Scott/Castle Dangerous/5.xml" />
+			<chapter num="6" title="Chapter the Fifth." location="S/Walter Scott/Castle Dangerous/6.xml" />
+			<chapter num="7" title="Chapter the Sixth." location="S/Walter Scott/Castle Dangerous/7.xml" />
+			<chapter num="8" title="Chapter the Seventh." location="S/Walter Scott/Castle Dangerous/8.xml" />
+			<chapter num="9" title="Chapter the Eighth." location="S/Walter Scott/Castle Dangerous/9.xml" />
+			<chapter num="10" title="Chapter the Ninth." location="S/Walter Scott/Castle Dangerous/10.xml" />
+			<chapter num="11" title="Chapter the Tenth." location="S/Walter Scott/Castle Dangerous/11.xml" />
+			<chapter num="12" title="Chapter the Eleventh." location="S/Walter Scott/Castle Dangerous/12.xml" />
+			<chapter num="13" title="Chapter the Twelfth." location="S/Walter Scott/Castle Dangerous/13.xml" />
+			<chapter num="14" title="Chapter the Thirteenth." location="S/Walter Scott/Castle Dangerous/14.xml" />
+			<chapter num="15" title="Chapter the Fourteenth." location="S/Walter Scott/Castle Dangerous/15.xml" />
+			<chapter num="16" title="Chapter the Fifteenth." location="S/Walter Scott/Castle Dangerous/16.xml" />
+			<chapter num="17" title="Chapter the Sixteenth." location="S/Walter Scott/Castle Dangerous/17.xml" />
+			<chapter num="18" title="Chapter the Seventeenth." location="S/Walter Scott/Castle Dangerous/18.xml" />
+			<chapter num="19" title="Chapter the Eighteenth." location="S/Walter Scott/Castle Dangerous/19.xml" />
+			<chapter num="20" title="Chapter the Nineteenth." location="S/Walter Scott/Castle Dangerous/20.xml" />
+			<chapter num="21" title="Chapter the Twentieth." location="S/Walter Scott/Castle Dangerous/21.xml" />
+</book>

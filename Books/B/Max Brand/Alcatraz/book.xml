@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40161" title="Alcatraz" author="Brand, Max" location="B/Max Brand/Alcatraz">
+			<chapter num="1" title="Chapter I. Cordova" location="B/Max Brand/Alcatraz/1.xml" />
+			<chapter num="2" title="Chapter II. The Coming of David" location="B/Max Brand/Alcatraz/2.xml" />
+			<chapter num="3" title="Chapter III. Concerning Fighters" location="B/Max Brand/Alcatraz/3.xml" />
+			<chapter num="4" title="Chapter IV. The Strength of the Weak" location="B/Max Brand/Alcatraz/4.xml" />
+			<chapter num="5" title="Chapter V. Retribution" location="B/Max Brand/Alcatraz/5.xml" />
+			<chapter num="6" title="Chapter VI. Freedom" location="B/Max Brand/Alcatraz/6.xml" />
+			<chapter num="7" title="Chapter VII. The Promised Land" location="B/Max Brand/Alcatraz/7.xml" />
+			<chapter num="8" title="Chapter VIII. Murder" location="B/Max Brand/Alcatraz/8.xml" />
+			<chapter num="9" title="Chapter IX. The Stampede" location="B/Max Brand/Alcatraz/9.xml" />
+			<chapter num="10" title="Chapter X. The Thief" location="B/Max Brand/Alcatraz/10.xml" />
+			<chapter num="11" title="Chapter XI. The Failure" location="B/Max Brand/Alcatraz/11.xml" />
+			<chapter num="12" title="Chapter XII. From the Hip" location="B/Max Brand/Alcatraz/12.xml" />
+			<chapter num="13" title="Chapter XIII. The Bargain" location="B/Max Brand/Alcatraz/13.xml" />
+			<chapter num="14" title="Chapter XIV. Strategy" location="B/Max Brand/Alcatraz/14.xml" />
+			<chapter num="15" title="Chapter XV. The King" location="B/Max Brand/Alcatraz/15.xml" />
+			<chapter num="16" title="Chapter XVI. Red Perris: Advocate" location="B/Max Brand/Alcatraz/16.xml" />
+			<chapter num="17" title="Chapter XVII. Invisible Danger" location="B/Max Brand/Alcatraz/17.xml" />
+			<chapter num="18" title="Chapter XVIII. Victory" location="B/Max Brand/Alcatraz/18.xml" />
+			<chapter num="19" title="Chapter XIX. Hervey Takes a Trick" location="B/Max Brand/Alcatraz/19.xml" />
+			<chapter num="20" title="Chapter XX. The Trap Shuts" location="B/Max Brand/Alcatraz/20.xml" />
+			<chapter num="21" title="Chapter XXI. The Battle" location="B/Max Brand/Alcatraz/21.xml" />
+			<chapter num="22" title="Chapter XXII. Mcguire Sleeps" location="B/Max Brand/Alcatraz/22.xml" />
+			<chapter num="23" title="Chapter XXIII. Lobo" location="B/Max Brand/Alcatraz/23.xml" />
+			<chapter num="24" title="Chapter XXIV. The Crisis" location="B/Max Brand/Alcatraz/24.xml" />
+			<chapter num="25" title="Chapter XXV. The Little Smoky" location="B/Max Brand/Alcatraz/25.xml" />
+			<chapter num="26" title="Chapter XXVI. Partners" location="B/Max Brand/Alcatraz/26.xml" />
+			<chapter num="27" title="Chapter XXVII. The End of the Race" location="B/Max Brand/Alcatraz/27.xml" />
+</book>

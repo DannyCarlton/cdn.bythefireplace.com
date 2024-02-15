@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40477" title="Leila" author="Bulwer-Lytton, Edward" location="B/Edward Bulwer-Lytton/Leila">
+
+	<section type="2" name="Book I.">
+			<chapter num="1" title="Chapter I. The Enchanter and the Warrior." location="B/Edward Bulwer-Lytton/Leila/1.xml" />
+			<chapter num="2" title="Chapter II. The King Within His Palace." location="B/Edward Bulwer-Lytton/Leila/2.xml" />
+			<chapter num="3" title="Chapter III. The Lovers." location="B/Edward Bulwer-Lytton/Leila/3.xml" />
+			<chapter num="4" title="Chapter IV. The Father and Daughter." location="B/Edward Bulwer-Lytton/Leila/4.xml" />
+			<chapter num="5" title="Chapter V. Ambition Distorted Into Vice by Law." location="B/Edward Bulwer-Lytton/Leila/5.xml" />
+			<chapter num="6" title="Chapter VI. The Lion in the Net" location="B/Edward Bulwer-Lytton/Leila/6.xml" />
+
+	</section>
+	<section type="2" name="Book II.">
+			<chapter num="7" title="Chapter I. The Royal Tent of Spain.. The King and the Dominican. The Visitor and the Hostage." location="B/Edward Bulwer-Lytton/Leila/7.xml" />
+			<chapter num="8" title="Chapter II. The Ambush, the Strife, And the Capture." location="B/Edward Bulwer-Lytton/Leila/8.xml" />
+			<chapter num="9" title="Chapter III. The Hero in the Power of The Dreamer." location="B/Edward Bulwer-Lytton/Leila/9.xml" />
+			<chapter num="10" title="Chapter IV. A Fuller View of the Character of Boabdil.. Muza in the Gardens of His Beloved." location="B/Edward Bulwer-Lytton/Leila/10.xml" />
+			<chapter num="11" title="Chapter V. Boabdil's Reconciliation With His People." location="B/Edward Bulwer-Lytton/Leila/11.xml" />
+			<chapter num="12" title="Chapter V. Leila.. Her New Lover.. Portrait of the First Inquisitor of Spain.. The Chalice Returned to the Lips of Almamen." location="B/Edward Bulwer-Lytton/Leila/12.xml" />
+			<chapter num="13" title="Chapter VII. The Tribunal and the Miracle" location="B/Edward Bulwer-Lytton/Leila/13.xml" />
+
+	</section>
+	<section type="2" name="Book III.">
+			<chapter num="14" title="Chapter I. Isabel and the Jewish Maiden." location="B/Edward Bulwer-Lytton/Leila/14.xml" />
+			<chapter num="15" title="Chapter II. The Temptation of the Jewess,. In Which the History Passes From the Outward to the Internal." location="B/Edward Bulwer-Lytton/Leila/15.xml" />
+			<chapter num="16" title="Chapter III. The Hour and the Man" location="B/Edward Bulwer-Lytton/Leila/16.xml" />
+
+	</section>
+	<section type="2" name="Book IV.">
+			<chapter num="17" title="Chapter. I. Leila in the Castle. The Siege." location="B/Edward Bulwer-Lytton/Leila/17.xml" />
+			<chapter num="18" title="Chapter II. Almamen's Proposed Enterprise.. The Three Israelites. Circumstance Impresses Each Character With a Varying Die." location="B/Edward Bulwer-Lytton/Leila/18.xml" />
+			<chapter num="19" title="Chapter III. The Fugitive and the Meeting" location="B/Edward Bulwer-Lytton/Leila/19.xml" />
+			<chapter num="20" title="Chapter IV. Almamen Hears and Sees, But Refuses to Believe; for the Brain, Overwrought, Grows Dull, Even in The Keenest." location="B/Edward Bulwer-Lytton/Leila/20.xml" />
+			<chapter num="21" title="Chapter V. In the Ferment of Great Events the Dregs Rise." location="B/Edward Bulwer-Lytton/Leila/21.xml" />
+			<chapter num="22" title="Chapter VI. Boadbil's Return.. The Reappearance of Granada." location="B/Edward Bulwer-Lytton/Leila/22.xml" />
+			<chapter num="23" title="Chapter VII. The Conflagration.. The Majesty of an Individual Passion in the Midst of Hostile Thousands." location="B/Edward Bulwer-Lytton/Leila/23.xml" />
+
+	</section>
+	<section type="2" name="Book V.">
+			<chapter num="24" title="Chapter I. The Great Battle." location="B/Edward Bulwer-Lytton/Leila/24.xml" />
+			<chapter num="25" title="Chapter II. The Novice." location="B/Edward Bulwer-Lytton/Leila/25.xml" />
+			<chapter num="26" title="Chapter III. The Pause Between Defeat And Surrender." location="B/Edward Bulwer-Lytton/Leila/26.xml" />
+			<chapter num="27" title="Chapter IV. The Adventure of the Solitary Horseman." location="B/Edward Bulwer-Lytton/Leila/27.xml" />
+			<chapter num="28" title="Chapter V. The Sacrifice." location="B/Edward Bulwer-Lytton/Leila/28.xml" />
+			<chapter num="29" title="Chapter VI. The Return. The Riot. The Treachery. And the Death." location="B/Edward Bulwer-Lytton/Leila/29.xml" />
+			<chapter num="30" title="Chapter VII. The End." location="B/Edward Bulwer-Lytton/Leila/30.xml" />
+	</section>
+</book>

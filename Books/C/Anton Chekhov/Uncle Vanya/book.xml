@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1020" title="Uncle Vanya" author="Chekhov, Anton" location="C/Anton Chekhov/Uncle Vanya">
+			<chapter num="1" title="Characters" location="C/Anton Chekhov/Uncle Vanya/1.xml" />
+			<chapter num="2" title="ACT I" location="C/Anton Chekhov/Uncle Vanya/2.xml" />
+			<chapter num="3" title="ACT II" location="C/Anton Chekhov/Uncle Vanya/3.xml" />
+			<chapter num="4" title="ACT III" location="C/Anton Chekhov/Uncle Vanya/4.xml" />
+			<chapter num="5" title="ACT IV" location="C/Anton Chekhov/Uncle Vanya/5.xml" />
+</book>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="148" title="Aeneid" author="Virgil, " location="V/ Virgil/Aeneid">
+			<chapter num="1" title="Book I" location="V/ Virgil/Aeneid/1.xml" />
+			<chapter num="2" title="Book II" location="V/ Virgil/Aeneid/2.xml" />
+			<chapter num="3" title="Book III" location="V/ Virgil/Aeneid/3.xml" />
+			<chapter num="4" title="Book IV" location="V/ Virgil/Aeneid/4.xml" />
+			<chapter num="5" title="Book V" location="V/ Virgil/Aeneid/5.xml" />
+			<chapter num="6" title="Book VI" location="V/ Virgil/Aeneid/6.xml" />
+			<chapter num="7" title="Book VII" location="V/ Virgil/Aeneid/7.xml" />
+			<chapter num="8" title="Book VIII" location="V/ Virgil/Aeneid/8.xml" />
+			<chapter num="9" title="Book IX" location="V/ Virgil/Aeneid/9.xml" />
+			<chapter num="10" title="Book X" location="V/ Virgil/Aeneid/10.xml" />
+			<chapter num="11" title="Book XI" location="V/ Virgil/Aeneid/11.xml" />
+			<chapter num="12" title="Book XII" location="V/ Virgil/Aeneid/12.xml" />
+</book>

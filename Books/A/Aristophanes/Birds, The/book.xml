@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1801" title="Birds, The" author="Aristophanes, " location="A/ Aristophanes/Birds, The">
+			<chapter num="1" title="Introduction" location="A/ Aristophanes/Birds, The/1.xml" />
+			<chapter num="2" title="Dramatis Personae" location="A/ Aristophanes/Birds, The/2.xml" />
+			<chapter num="3" title="The Birds" location="A/ Aristophanes/Birds, The/3.xml" />
+			<chapter num="4" title="The Birds (cont'd)" location="A/ Aristophanes/Birds, The/4.xml" />
+			<chapter num="5" title="The Birds (cont'd)" location="A/ Aristophanes/Birds, The/5.xml" />
+			<chapter num="6" title="The Birds (cont'd)" location="A/ Aristophanes/Birds, The/6.xml" />
+</book>

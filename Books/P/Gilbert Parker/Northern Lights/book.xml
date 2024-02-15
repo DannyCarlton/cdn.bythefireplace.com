@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1844" title="Northern Lights" author="Parker, Gilbert" location="P/Gilbert Parker/Northern Lights">
+			<chapter num="1" title="Introduction" location="P/Gilbert Parker/Northern Lights/1.xml" />
+		<section type="1" name="Volume I">
+			<chapter num="2" title="A Lodge in the Wilderness" location="P/Gilbert Parker/Northern Lights/2.xml" />
+			<chapter num="3" title="Once at Red Man's River" location="P/Gilbert Parker/Northern Lights/3.xml" />
+			<chapter num="4" title="The Strobe of the Hour" location="P/Gilbert Parker/Northern Lights/4.xml" />
+			<chapter num="5" title="Buckmaster's Boy" location="P/Gilbert Parker/Northern Lights/5.xml" />
+		</section>
+		<section type="1" name="Volume II">
+			<chapter num="6" title="To-Morrow" location="P/Gilbert Parker/Northern Lights/6.xml" />
+			<chapter num="7" title="Qu'Appelle (Who calls?)" location="P/Gilbert Parker/Northern Lights/7.xml" />
+			<chapter num="8" title="The Stake and the Plumb-Line" location="P/Gilbert Parker/Northern Lights/8.xml" />
+		</section>
+		<section type="1" name="Volume III">
+			<chapter num="9" title="When the Swallows Homeward Fly" location="P/Gilbert Parker/Northern Lights/9.xml" />
+			<chapter num="10" title="George's Wife" location="P/Gilbert Parker/Northern Lights/10.xml" />
+			<chapter num="11" title="Marcile" location="P/Gilbert Parker/Northern Lights/11.xml" />
+		</section>
+		<section type="1" name="Volume IV">
+			<chapter num="12" title="A Man, A Famine, and A Heathen Boy" location="P/Gilbert Parker/Northern Lights/12.xml" />
+			<chapter num="13" title="The Healing Springs and the Pioneers" location="P/Gilbert Parker/Northern Lights/13.xml" />
+			<chapter num="14" title="The Little Widow of Jansen" location="P/Gilbert Parker/Northern Lights/14.xml" />
+			<chapter num="15" title="Watching the Rise of Orion" location="P/Gilbert Parker/Northern Lights/15.xml" />
+		</section>
+		<section type="1" name="Volume V">
+			<chapter num="16" title="The Error of the Day" location="P/Gilbert Parker/Northern Lights/16.xml" />
+			<chapter num="17" title="The Whisperer" location="P/Gilbert Parker/Northern Lights/17.xml" />
+			<chapter num="18" title="As Deep As the Sea" location="P/Gilbert Parker/Northern Lights/18.xml" />
+		</section>
+</book>

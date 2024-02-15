@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1916" title="Among Malay Pirates" author="Henty, George Alfred" location="H/George Alfred Henty/Among Malay Pirates">
+		<section type="1" name="Among Malay Pirates">
+			<chapter num="1" title="Chapter I." location="H/George Alfred Henty/Among Malay Pirates/1.xml" />
+			<chapter num="2" title="Chapter II." location="H/George Alfred Henty/Among Malay Pirates/2.xml" />
+			<chapter num="3" title="Chapter III." location="H/George Alfred Henty/Among Malay Pirates/3.xml" />
+			<chapter num="4" title="Chapter IV." location="H/George Alfred Henty/Among Malay Pirates/4.xml" />
+			<chapter num="5" title="Chapter V." location="H/George Alfred Henty/Among Malay Pirates/5.xml" />
+			<chapter num="6" title="Chapter VI." location="H/George Alfred Henty/Among Malay Pirates/6.xml" />
+			<chapter num="7" title="Chapter VII." location="H/George Alfred Henty/Among Malay Pirates/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="H/George Alfred Henty/Among Malay Pirates/8.xml" />
+			<chapter num="9" title="Chapter IX." location="H/George Alfred Henty/Among Malay Pirates/9.xml" />
+			<chapter num="10" title="Chapter X." location="H/George Alfred Henty/Among Malay Pirates/10.xml" />
+			<chapter num="11" title="Chapter XI." location="H/George Alfred Henty/Among Malay Pirates/11.xml" />
+		</section>
+		<section type="1" name="Bears and Dacoits a Tale of the Ghauts">
+			<chapter num="12" title="Chapter I" location="H/George Alfred Henty/Among Malay Pirates/12.xml" />
+			<chapter num="13" title="Chapter II" location="H/George Alfred Henty/Among Malay Pirates/13.xml" />
+			<chapter num="14" title="The Paternosters" location="H/George Alfred Henty/Among Malay Pirates/14.xml" />
+			<chapter num="15" title="A Pipe of Mystery" location="H/George Alfred Henty/Among Malay Pirates/15.xml" />
+			<chapter num="16" title="White Faced Dick: A Story of Pine Tree Gulch" location="H/George Alfred Henty/Among Malay Pirates/16.xml" />
+			<chapter num="17" title="A Brush With the Chinese" location="H/George Alfred Henty/Among Malay Pirates/17.xml" />
+		</section>
+</book>

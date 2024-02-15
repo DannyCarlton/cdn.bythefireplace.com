@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40201" title="Heartsease" author="Yonge, Charlotte M." location="Y/Charlotte M. Yonge/Heartsease">
+
+	<section type="2" name="Part I">
+			<chapter num="1" title="Title Page" location="Y/Charlotte M. Yonge/Heartsease/1.xml" />
+			<chapter num="2" title="Chapter 1" location="Y/Charlotte M. Yonge/Heartsease/2.xml" />
+			<chapter num="3" title="Chapter 2" location="Y/Charlotte M. Yonge/Heartsease/3.xml" />
+			<chapter num="4" title="Chapter 3" location="Y/Charlotte M. Yonge/Heartsease/4.xml" />
+			<chapter num="5" title="Chapter 4" location="Y/Charlotte M. Yonge/Heartsease/5.xml" />
+			<chapter num="6" title="Chapter 5" location="Y/Charlotte M. Yonge/Heartsease/6.xml" />
+			<chapter num="7" title="Chapter 6" location="Y/Charlotte M. Yonge/Heartsease/7.xml" />
+
+	</section>
+	<section type="2" name="Part II">
+			<chapter num="8" title="Title Page" location="Y/Charlotte M. Yonge/Heartsease/8.xml" />
+			<chapter num="9" title="Chapter 1" location="Y/Charlotte M. Yonge/Heartsease/9.xml" />
+			<chapter num="10" title="Chapter 2" location="Y/Charlotte M. Yonge/Heartsease/10.xml" />
+			<chapter num="11" title="Chapter 3" location="Y/Charlotte M. Yonge/Heartsease/11.xml" />
+			<chapter num="12" title="Chapter 4" location="Y/Charlotte M. Yonge/Heartsease/12.xml" />
+			<chapter num="13" title="Chapter 5" location="Y/Charlotte M. Yonge/Heartsease/13.xml" />
+			<chapter num="14" title="Chapter 6" location="Y/Charlotte M. Yonge/Heartsease/14.xml" />
+			<chapter num="15" title="Chapter 7" location="Y/Charlotte M. Yonge/Heartsease/15.xml" />
+			<chapter num="16" title="Chapter 8" location="Y/Charlotte M. Yonge/Heartsease/16.xml" />
+			<chapter num="17" title="Chapter 9" location="Y/Charlotte M. Yonge/Heartsease/17.xml" />
+			<chapter num="18" title="Chapter 10" location="Y/Charlotte M. Yonge/Heartsease/18.xml" />
+			<chapter num="19" title="Chapter 11" location="Y/Charlotte M. Yonge/Heartsease/19.xml" />
+			<chapter num="20" title="Chapter 12" location="Y/Charlotte M. Yonge/Heartsease/20.xml" />
+			<chapter num="21" title="Chapter 13" location="Y/Charlotte M. Yonge/Heartsease/21.xml" />
+			<chapter num="22" title="Chapter 14" location="Y/Charlotte M. Yonge/Heartsease/22.xml" />
+			<chapter num="23" title="Chapter 15" location="Y/Charlotte M. Yonge/Heartsease/23.xml" />
+			<chapter num="24" title="Chapter 16" location="Y/Charlotte M. Yonge/Heartsease/24.xml" />
+			<chapter num="25" title="Chapter 17" location="Y/Charlotte M. Yonge/Heartsease/25.xml" />
+			<chapter num="26" title="Chapter 18" location="Y/Charlotte M. Yonge/Heartsease/26.xml" />
+			<chapter num="27" title="Chapter 19" location="Y/Charlotte M. Yonge/Heartsease/27.xml" />
+			<chapter num="28" title="Chapter 20" location="Y/Charlotte M. Yonge/Heartsease/28.xml" />
+			<chapter num="29" title="Chapter 21" location="Y/Charlotte M. Yonge/Heartsease/29.xml" />
+			<chapter num="30" title="Chapter 22" location="Y/Charlotte M. Yonge/Heartsease/30.xml" />
+			<chapter num="31" title="Chapter 23" location="Y/Charlotte M. Yonge/Heartsease/31.xml" />
+
+	</section>
+	<section type="2" name="Part III">
+			<chapter num="32" title="Title Page" location="Y/Charlotte M. Yonge/Heartsease/32.xml" />
+			<chapter num="33" title="Chapter 1" location="Y/Charlotte M. Yonge/Heartsease/33.xml" />
+			<chapter num="34" title="Chapter 2" location="Y/Charlotte M. Yonge/Heartsease/34.xml" />
+			<chapter num="35" title="Chapter 3" location="Y/Charlotte M. Yonge/Heartsease/35.xml" />
+			<chapter num="36" title="Chapter 4" location="Y/Charlotte M. Yonge/Heartsease/36.xml" />
+			<chapter num="37" title="Chapter 5" location="Y/Charlotte M. Yonge/Heartsease/37.xml" />
+			<chapter num="38" title="Chapter 6" location="Y/Charlotte M. Yonge/Heartsease/38.xml" />
+			<chapter num="39" title="Chapter 7" location="Y/Charlotte M. Yonge/Heartsease/39.xml" />
+			<chapter num="40" title="Chapter 8" location="Y/Charlotte M. Yonge/Heartsease/40.xml" />
+			<chapter num="41" title="Chapter 9" location="Y/Charlotte M. Yonge/Heartsease/41.xml" />
+			<chapter num="42" title="Chapter 10" location="Y/Charlotte M. Yonge/Heartsease/42.xml" />
+			<chapter num="43" title="Chapter 11" location="Y/Charlotte M. Yonge/Heartsease/43.xml" />
+			<chapter num="44" title="Chapter 12" location="Y/Charlotte M. Yonge/Heartsease/44.xml" />
+			<chapter num="45" title="Chapter 13" location="Y/Charlotte M. Yonge/Heartsease/45.xml" />
+			<chapter num="46" title="Chapter 14" location="Y/Charlotte M. Yonge/Heartsease/46.xml" />
+			<chapter num="47" title="Chapter 15" location="Y/Charlotte M. Yonge/Heartsease/47.xml" />
+			<chapter num="48" title="Chapter 16" location="Y/Charlotte M. Yonge/Heartsease/48.xml" />
+			<chapter num="49" title="Chapter 17" location="Y/Charlotte M. Yonge/Heartsease/49.xml" />
+			<chapter num="50" title="Chapter 18" location="Y/Charlotte M. Yonge/Heartsease/50.xml" />
+	</section>
+</book>

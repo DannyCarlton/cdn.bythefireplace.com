@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="939" title="Longest Journey, The" author="Forster, E. M." location="F/E. M. Forster/Longest Journey, The">
+		<section type="1" name="Part 1. Cambridge">
+			<chapter num="1" title="Chapter I" location="F/E. M. Forster/Longest Journey, The/1.xml" />
+		</section>
+		<section type="1" name="PartI. Cambridge">
+			<chapter num="2" title="Chapter II" location="F/E. M. Forster/Longest Journey, The/2.xml" />
+			<chapter num="3" title="Chapter III" location="F/E. M. Forster/Longest Journey, The/3.xml" />
+			<chapter num="4" title="Chapter IV" location="F/E. M. Forster/Longest Journey, The/4.xml" />
+			<chapter num="5" title="Chapter V" location="F/E. M. Forster/Longest Journey, The/5.xml" />
+			<chapter num="6" title="Chapter VI" location="F/E. M. Forster/Longest Journey, The/6.xml" />
+			<chapter num="7" title="Chapter VII" location="F/E. M. Forster/Longest Journey, The/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="F/E. M. Forster/Longest Journey, The/8.xml" />
+			<chapter num="9" title="Chapter IX" location="F/E. M. Forster/Longest Journey, The/9.xml" />
+			<chapter num="10" title="Chapter X" location="F/E. M. Forster/Longest Journey, The/10.xml" />
+			<chapter num="11" title="Chapter XI" location="F/E. M. Forster/Longest Journey, The/11.xml" />
+			<chapter num="12" title="Chapter XII" location="F/E. M. Forster/Longest Journey, The/12.xml" />
+			<chapter num="13" title="Chapter XIII" location="F/E. M. Forster/Longest Journey, The/13.xml" />
+			<chapter num="14" title="Chapter XIV" location="F/E. M. Forster/Longest Journey, The/14.xml" />
+			<chapter num="15" title="Chapter XV" location="F/E. M. Forster/Longest Journey, The/15.xml" />
+		</section>
+		<section type="1" name="Part 2. Sawston">
+			<chapter num="16" title="Chapter XVI" location="F/E. M. Forster/Longest Journey, The/16.xml" />
+			<chapter num="17" title="Chapter XVII" location="F/E. M. Forster/Longest Journey, The/17.xml" />
+			<chapter num="18" title="Chapter XVIII" location="F/E. M. Forster/Longest Journey, The/18.xml" />
+			<chapter num="19" title="Chapter XIX" location="F/E. M. Forster/Longest Journey, The/19.xml" />
+			<chapter num="20" title="Chapter XX" location="F/E. M. Forster/Longest Journey, The/20.xml" />
+			<chapter num="21" title="Chapter XXI" location="F/E. M. Forster/Longest Journey, The/21.xml" />
+			<chapter num="22" title="Chapter XXII" location="F/E. M. Forster/Longest Journey, The/22.xml" />
+			<chapter num="23" title="Chapter XXIII" location="F/E. M. Forster/Longest Journey, The/23.xml" />
+			<chapter num="24" title="Chapter XXIV" location="F/E. M. Forster/Longest Journey, The/24.xml" />
+			<chapter num="25" title="Chapter XXV" location="F/E. M. Forster/Longest Journey, The/25.xml" />
+			<chapter num="26" title="Chapter XXVI" location="F/E. M. Forster/Longest Journey, The/26.xml" />
+			<chapter num="27" title="Chapter XXVII" location="F/E. M. Forster/Longest Journey, The/27.xml" />
+			<chapter num="28" title="Chapter XXVIII" location="F/E. M. Forster/Longest Journey, The/28.xml" />
+		</section>
+		<section type="1" name="Part 3. Wiltshire">
+			<chapter num="29" title="Chapter XXIX" location="F/E. M. Forster/Longest Journey, The/29.xml" />
+			<chapter num="30" title="Chapter XXX" location="F/E. M. Forster/Longest Journey, The/30.xml" />
+			<chapter num="31" title="Chapter XXXI" location="F/E. M. Forster/Longest Journey, The/31.xml" />
+			<chapter num="32" title="Chapter XXXII" location="F/E. M. Forster/Longest Journey, The/32.xml" />
+			<chapter num="33" title="Chapter XXXIII" location="F/E. M. Forster/Longest Journey, The/33.xml" />
+			<chapter num="34" title="Chapter XXXIV" location="F/E. M. Forster/Longest Journey, The/34.xml" />
+			<chapter num="35" title="Chapter XXXV" location="F/E. M. Forster/Longest Journey, The/35.xml" />
+		</section>
+</book>

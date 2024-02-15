@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2089" title="Madame Midas" author="Hume, Fergus" location="H/Fergus Hume/Madame Midas">
+			<chapter num="1" title="Prologue. Cast Up by the Sea" location="H/Fergus Hume/Madame Midas/1.xml" />
+		<section type="1" name="Part I">
+			<chapter num="2" title="Chapter I. The Pactolus Claim" location="H/Fergus Hume/Madame Midas/2.xml" />
+			<chapter num="3" title="Chapter II. Slivers" location="H/Fergus Hume/Madame Midas/3.xml" />
+			<chapter num="4" title="Chapter III. Madame Midas at Home" location="H/Fergus Hume/Madame Midas/4.xml" />
+			<chapter num="5" title="Chapter IV. The Good Samaritan" location="H/Fergus Hume/Madame Midas/5.xml" />
+			<chapter num="6" title="Chapter V. Mammon's Treasure House" location="H/Fergus Hume/Madame Midas/6.xml" />
+			<chapter num="7" title="Chapter VI. Kitty" location="H/Fergus Hume/Madame Midas/7.xml" />
+			<chapter num="8" title="Chapter VII. Mr. Villiers Pays a Visit" location="H/Fergus Hume/Madame Midas/8.xml" />
+			<chapter num="9" title="Chapter VIII. Madame Midas Strikes 'Ile'" location="H/Fergus Hume/Madame Midas/9.xml" />
+			<chapter num="10" title="Chapter IX. Love's Young Dream" location="H/Fergus Hume/Madame Midas/10.xml" />
+			<chapter num="11" title="Chapter X. Friends in Council" location="H/Fergus Hume/Madame Midas/11.xml" />
+			<chapter num="12" title="Chapter XI. Theodore Wopples, Actor" location="H/Fergus Hume/Madame Midas/12.xml" />
+			<chapter num="13" title="Chapter XII. Highway Robbery" location="H/Fergus Hume/Madame Midas/13.xml" />
+			<chapter num="14" title="Chapter XIII. A Glimpse of Bohemia" location="H/Fergus Hume/Madame Midas/14.xml" />
+			<chapter num="15" title="Chapter XIV. A Mysterious Disappearance" location="H/Fergus Hume/Madame Midas/15.xml" />
+			<chapter num="16" title="Chapter XV. Slivers in Search of Evidence" location="H/Fergus Hume/Madame Midas/16.xml" />
+			<chapter num="17" title="Chapter XVI. Mcintosh Speaks His Mind" location="H/Fergus Hume/Madame Midas/17.xml" />
+			<chapter num="18" title="Chapter XVII. The Best of Friends Must Part" location="H/Fergus Hume/Madame Midas/18.xml" />
+			<chapter num="19" title="Chapter XVIII. M. Vandeloup is Unjustly Suspected" location="H/Fergus Hume/Madame Midas/19.xml" />
+			<chapter num="20" title="Chapter XIX. The Devil's Lead" location="H/Fergus Hume/Madame Midas/20.xml" />
+		</section>
+		<section type="1" name="Part II">
+			<chapter num="21" title="Chapter I. Tempus Fugit" location="H/Fergus Hume/Madame Midas/21.xml" />
+			<chapter num="22" title="Chapter II. Disenchantment" location="H/Fergus Hume/Madame Midas/22.xml" />
+			<chapter num="23" title="Chapter III. M. Vandeloup Hears Something to His Advantage" location="H/Fergus Hume/Madame Midas/23.xml" />
+			<chapter num="24" title="Chapter IV. The Case of Adele Blondet" location="H/Fergus Hume/Madame Midas/24.xml" />
+			<chapter num="25" title="Chapter V. The Key of the Street" location="H/Fergus Hume/Madame Midas/25.xml" />
+			<chapter num="26" title="Chapter VI. On Change" location="H/Fergus Hume/Madame Midas/26.xml" />
+			<chapter num="27" title="Chapter VII. The Opulence of Madame Midas" location="H/Fergus Hume/Madame Midas/27.xml" />
+			<chapter num="28" title="Chapter VIII. M. Vandeloup is Surprised" location="H/Fergus Hume/Madame Midas/28.xml" />
+			<chapter num="29" title="Chapter IX. A Professional Philanthropist" location="H/Fergus Hume/Madame Midas/29.xml" />
+			<chapter num="30" title="Chapter X. In the Fernery" location="H/Fergus Hume/Madame Midas/30.xml" />
+			<chapter num="31" title="Chapter XI. The Vision of Miss Kitty Marchurst" location="H/Fergus Hume/Madame Midas/31.xml" />
+			<chapter num="32" title="Chapter XII. A Startling Discovery" location="H/Fergus Hume/Madame Midas/32.xml" />
+			<chapter num="33" title="Chapter XIII. Diamond Cut Diamond" location="H/Fergus Hume/Madame Midas/33.xml" />
+			<chapter num="34" title="Chapter XIV. Circumstantial Evidence" location="H/Fergus Hume/Madame Midas/34.xml" />
+			<chapter num="35" title="Chapter XV. Kismet" location="H/Fergus Hume/Madame Midas/35.xml" />
+			<chapter num="36" title="Chapter XVI. Be Sure Thy Sin Will Find Thee Out" location="H/Fergus Hume/Madame Midas/36.xml" />
+			<chapter num="37" title="Epilogue. The Wages of Sin" location="H/Fergus Hume/Madame Midas/37.xml" />
+		</section>
+</book>

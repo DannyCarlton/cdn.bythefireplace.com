@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1577" title="Heart of Rachael, The" author="Norris, Kathleen Thompson" location="N/Kathleen Thompson Norris/Heart of Rachael, The">
+		<section type="1" name="Book I">
+			<chapter num="1" title="Chapter I" location="N/Kathleen Thompson Norris/Heart of Rachael, The/1.xml" />
+			<chapter num="2" title="Chapter II" location="N/Kathleen Thompson Norris/Heart of Rachael, The/2.xml" />
+			<chapter num="3" title="Chapter III" location="N/Kathleen Thompson Norris/Heart of Rachael, The/3.xml" />
+			<chapter num="4" title="Chapter IV" location="N/Kathleen Thompson Norris/Heart of Rachael, The/4.xml" />
+			<chapter num="5" title="Chapter V" location="N/Kathleen Thompson Norris/Heart of Rachael, The/5.xml" />
+			<chapter num="6" title="Chapter VI" location="N/Kathleen Thompson Norris/Heart of Rachael, The/6.xml" />
+		</section>
+		<section type="1" name="Book II">
+			<chapter num="7" title="Chapter I" location="N/Kathleen Thompson Norris/Heart of Rachael, The/7.xml" />
+			<chapter num="8" title="Chapter II" location="N/Kathleen Thompson Norris/Heart of Rachael, The/8.xml" />
+			<chapter num="9" title="Chapter III" location="N/Kathleen Thompson Norris/Heart of Rachael, The/9.xml" />
+			<chapter num="10" title="Chapter IV" location="N/Kathleen Thompson Norris/Heart of Rachael, The/10.xml" />
+			<chapter num="11" title="Chapter V" location="N/Kathleen Thompson Norris/Heart of Rachael, The/11.xml" />
+			<chapter num="12" title="Chapter VI" location="N/Kathleen Thompson Norris/Heart of Rachael, The/12.xml" />
+			<chapter num="13" title="Chapter VII" location="N/Kathleen Thompson Norris/Heart of Rachael, The/13.xml" />
+		</section>
+		<section type="1" name="Book III">
+			<chapter num="14" title="Chapter I" location="N/Kathleen Thompson Norris/Heart of Rachael, The/14.xml" />
+			<chapter num="15" title="Chapter II" location="N/Kathleen Thompson Norris/Heart of Rachael, The/15.xml" />
+			<chapter num="16" title="Chapter III" location="N/Kathleen Thompson Norris/Heart of Rachael, The/16.xml" />
+			<chapter num="17" title="Chapter IV" location="N/Kathleen Thompson Norris/Heart of Rachael, The/17.xml" />
+			<chapter num="18" title="Chapter V" location="N/Kathleen Thompson Norris/Heart of Rachael, The/18.xml" />
+			<chapter num="19" title="Chapter VI" location="N/Kathleen Thompson Norris/Heart of Rachael, The/19.xml" />
+			<chapter num="20" title="Chapter VII" location="N/Kathleen Thompson Norris/Heart of Rachael, The/20.xml" />
+		</section>
+</book>

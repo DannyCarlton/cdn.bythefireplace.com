@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2462" title="Strawberry Acres" author="Richmond, Grace S." location="R/Grace S. Richmond/Strawberry Acres">
+		<section type="1" name="Part I.--Five Miles Out">
+			<chapter num="1" title="Chapter I. Five Miles Out" location="R/Grace S. Richmond/Strawberry Acres/1.xml" />
+			<chapter num="2" title="Chapter II. Everybody Explores" location="R/Grace S. Richmond/Strawberry Acres/2.xml" />
+			<chapter num="3" title="Chapter III. The Apartment Overflows" location="R/Grace S. Richmond/Strawberry Acres/3.xml" />
+			<chapter num="4" title="Chapter IV. Arguments and Answers" location="R/Grace S. Richmond/Strawberry Acres/4.xml" />
+			<chapter num="5" title="Chapter V. Telephones and Tents" location="R/Grace S. Richmond/Strawberry Acres/5.xml" />
+			<chapter num="6" title="Chapter VI. In the Pine Grove" location="R/Grace S. Richmond/Strawberry Acres/6.xml" />
+			<chapter num="7" title="Chapter VII. Everybody is Satisfied" location="R/Grace S. Richmond/Strawberry Acres/7.xml" />
+			<chapter num="8" title="Chapter VIII. Problems and Hearts" location="R/Grace S. Richmond/Strawberry Acres/8.xml" />
+			<chapter num="9" title="Chapter IX. Max Compromises" location="R/Grace S. Richmond/Strawberry Acres/9.xml" />
+			<chapter num="10" title="Chapter X. Jack-O'-Lanterns" location="R/Grace S. Richmond/Strawberry Acres/10.xml" />
+		</section>
+		<section type="1" name="Part II. The Lanes and the Acres.">
+			<chapter num="11" title="Chapter XI. What's in a Name?" location="R/Grace S. Richmond/Strawberry Acres/11.xml" />
+			<chapter num="12" title="Chapter XII. In the Old Garden" location="R/Grace S. Richmond/Strawberry Acres/12.xml" />
+			<chapter num="13" title="Chapter XIII. Afternoon Tea" location="R/Grace S. Richmond/Strawberry Acres/13.xml" />
+			<chapter num="14" title="Chapter XIV. Two and Two" location="R/Grace S. Richmond/Strawberry Acres/14.xml" />
+			<chapter num="15" title="Chapter XV. On an August Evening" location="R/Grace S. Richmond/Strawberry Acres/15.xml" />
+			<chapter num="16" title="Chapter XVI. Time-Tables" location="R/Grace S. Richmond/Strawberry Acres/16.xml" />
+			<chapter num="17" title="Chapter XVII. The Southbound Limited" location="R/Grace S. Richmond/Strawberry Acres/17.xml" />
+			<chapter num="18" title="Chapter XVIII. From April North" location="R/Grace S. Richmond/Strawberry Acres/18.xml" />
+			<chapter num="19" title="Chapter XIX. Round the Corner" location="R/Grace S. Richmond/Strawberry Acres/19.xml" />
+			<chapter num="20" title="Chapter XX. Green Leaves" location="R/Grace S. Richmond/Strawberry Acres/20.xml" />
+		</section>
+</book>

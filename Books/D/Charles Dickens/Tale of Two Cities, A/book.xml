@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="54" title="Tale of Two Cities, A" author="Dickens, Charles" location="D/Charles Dickens/Tale of Two Cities, A">
+		<section type="1" name="Book I">
+			<chapter num="1" title="Chapter I. The Period" location="D/Charles Dickens/Tale of Two Cities, A/1.xml" />
+			<chapter num="2" title="Chapter II. The Mail" location="D/Charles Dickens/Tale of Two Cities, A/2.xml" />
+			<chapter num="3" title="Chapter III. The Night Shadows" location="D/Charles Dickens/Tale of Two Cities, A/3.xml" />
+			<chapter num="4" title="Chapter IV. The Preparation" location="D/Charles Dickens/Tale of Two Cities, A/4.xml" />
+			<chapter num="5" title="Chapter V. The Wine-shop" location="D/Charles Dickens/Tale of Two Cities, A/5.xml" />
+			<chapter num="6" title="Chapter VI. The Shoemaker" location="D/Charles Dickens/Tale of Two Cities, A/6.xml" />
+		</section>
+		<section type="1" name="Book II">
+			<chapter num="7" title="Chapter I. Five Years Later" location="D/Charles Dickens/Tale of Two Cities, A/7.xml" />
+			<chapter num="8" title="Chapter II. A Sight" location="D/Charles Dickens/Tale of Two Cities, A/8.xml" />
+			<chapter num="9" title="Chapter III. A Disappointment" location="D/Charles Dickens/Tale of Two Cities, A/9.xml" />
+			<chapter num="10" title="Chapter IV. Congratulatory" location="D/Charles Dickens/Tale of Two Cities, A/10.xml" />
+			<chapter num="11" title="Chapter V. The Jackal" location="D/Charles Dickens/Tale of Two Cities, A/11.xml" />
+			<chapter num="12" title="Chapter VI. Hundreds of People" location="D/Charles Dickens/Tale of Two Cities, A/12.xml" />
+			<chapter num="13" title="Chapter VII. Monseigneur in Town" location="D/Charles Dickens/Tale of Two Cities, A/13.xml" />
+			<chapter num="14" title="Chapter VIII. Monseigneur in the Country" location="D/Charles Dickens/Tale of Two Cities, A/14.xml" />
+			<chapter num="15" title="Chapter IX. The Gorgon's Head" location="D/Charles Dickens/Tale of Two Cities, A/15.xml" />
+			<chapter num="16" title="Chapter X. Two Promises" location="D/Charles Dickens/Tale of Two Cities, A/16.xml" />
+			<chapter num="17" title="Chapter XI. A Companion Picture" location="D/Charles Dickens/Tale of Two Cities, A/17.xml" />
+			<chapter num="18" title="Chapter XII. The Fellow of Delicacy" location="D/Charles Dickens/Tale of Two Cities, A/18.xml" />
+			<chapter num="19" title="Chapter XIII. The Fellow of No Delicacy" location="D/Charles Dickens/Tale of Two Cities, A/19.xml" />
+			<chapter num="20" title="Chapter XIV. The Honest Tradesman" location="D/Charles Dickens/Tale of Two Cities, A/20.xml" />
+			<chapter num="21" title="Chapter XV. Knitting" location="D/Charles Dickens/Tale of Two Cities, A/21.xml" />
+			<chapter num="22" title="Chapter XVI. Still Knitting" location="D/Charles Dickens/Tale of Two Cities, A/22.xml" />
+			<chapter num="23" title="Chapter XVII. One Night" location="D/Charles Dickens/Tale of Two Cities, A/23.xml" />
+			<chapter num="24" title="Chapter XVIII. Nine Days" location="D/Charles Dickens/Tale of Two Cities, A/24.xml" />
+			<chapter num="25" title="Chapter XIX. An Opinion" location="D/Charles Dickens/Tale of Two Cities, A/25.xml" />
+			<chapter num="26" title="Chapter XX. A Plea" location="D/Charles Dickens/Tale of Two Cities, A/26.xml" />
+			<chapter num="27" title="Chapter XXI. Echoing Footsteps" location="D/Charles Dickens/Tale of Two Cities, A/27.xml" />
+			<chapter num="28" title="Chapter XXII. The Sea Still Rises" location="D/Charles Dickens/Tale of Two Cities, A/28.xml" />
+			<chapter num="29" title="Chapter XXIII. Fire Rises" location="D/Charles Dickens/Tale of Two Cities, A/29.xml" />
+			<chapter num="30" title="Chapter XXIV. Drawn to the Loadstone Rock" location="D/Charles Dickens/Tale of Two Cities, A/30.xml" />
+		</section>
+		<section type="1" name="Book III">
+			<chapter num="31" title="Chapter I. In Secret" location="D/Charles Dickens/Tale of Two Cities, A/31.xml" />
+			<chapter num="32" title="Chapter II. The Grindstone" location="D/Charles Dickens/Tale of Two Cities, A/32.xml" />
+			<chapter num="33" title="Chapter III. The Shadow" location="D/Charles Dickens/Tale of Two Cities, A/33.xml" />
+			<chapter num="34" title="Chapter IV. Calm in Storm" location="D/Charles Dickens/Tale of Two Cities, A/34.xml" />
+			<chapter num="35" title="Chapter V. The Wood-Sawyer" location="D/Charles Dickens/Tale of Two Cities, A/35.xml" />
+			<chapter num="36" title="Chapter VI. Triumph" location="D/Charles Dickens/Tale of Two Cities, A/36.xml" />
+			<chapter num="37" title="Chapter VII. A Knock at the Door" location="D/Charles Dickens/Tale of Two Cities, A/37.xml" />
+			<chapter num="38" title="Chapter VIII. A Hand at Cards" location="D/Charles Dickens/Tale of Two Cities, A/38.xml" />
+			<chapter num="39" title="Chapter IX. The Game Made" location="D/Charles Dickens/Tale of Two Cities, A/39.xml" />
+			<chapter num="40" title="Chapter X. The Substance of the Shadow" location="D/Charles Dickens/Tale of Two Cities, A/40.xml" />
+			<chapter num="41" title="Chapter XI. Dusk" location="D/Charles Dickens/Tale of Two Cities, A/41.xml" />
+			<chapter num="42" title="Chapter XII. Darkness" location="D/Charles Dickens/Tale of Two Cities, A/42.xml" />
+			<chapter num="43" title="Chapter XIII. Fifty-two" location="D/Charles Dickens/Tale of Two Cities, A/43.xml" />
+			<chapter num="44" title="Chapter XIV. The Knitting Done" location="D/Charles Dickens/Tale of Two Cities, A/44.xml" />
+			<chapter num="45" title="Chapter XV. The Footsteps Die Out For Ever" location="D/Charles Dickens/Tale of Two Cities, A/45.xml" />
+		</section>
+</book>

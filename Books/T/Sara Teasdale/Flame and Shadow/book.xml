@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1246" title="Flame and Shadow" author="Teasdale, Sara" location="T/Sara Teasdale/Flame and Shadow">
+		<section type="1" name="I">
+			<chapter num="1" title="Blue Squills" location="T/Sara Teasdale/Flame and Shadow/1.xml" />
+			<chapter num="2" title="Stars" location="T/Sara Teasdale/Flame and Shadow/2.xml" />
+			<chapter num="3" title="&quot;What Do I Care?&quot;" location="T/Sara Teasdale/Flame and Shadow/3.xml" />
+			<chapter num="4" title="Meadowlarks" location="T/Sara Teasdale/Flame and Shadow/4.xml" />
+			<chapter num="5" title="Driftwood" location="T/Sara Teasdale/Flame and Shadow/5.xml" />
+			<chapter num="6" title="&quot;I Have Loved Hours at Sea&quot;" location="T/Sara Teasdale/Flame and Shadow/6.xml" />
+			<chapter num="7" title="August Moonrise" location="T/Sara Teasdale/Flame and Shadow/7.xml" />
+		</section>
+		<section type="1" name="II">
+			<chapter num="8" title="Memories. Places" location="T/Sara Teasdale/Flame and Shadow/8.xml" />
+			<chapter num="9" title="Memories. Old Tunes" location="T/Sara Teasdale/Flame and Shadow/9.xml" />
+			<chapter num="10" title="Memories. &quot;Only in Sleep&quot;" location="T/Sara Teasdale/Flame and Shadow/10.xml" />
+			<chapter num="11" title="Memories. Redbirds" location="T/Sara Teasdale/Flame and Shadow/11.xml" />
+			<chapter num="12" title="Memories. Sunset:  St. Louis" location="T/Sara Teasdale/Flame and Shadow/12.xml" />
+			<chapter num="13" title="Memories. The Coin" location="T/Sara Teasdale/Flame and Shadow/13.xml" />
+			<chapter num="14" title="Memories. The Voice" location="T/Sara Teasdale/Flame and Shadow/14.xml" />
+		</section>
+		<section type="1" name="III">
+			<chapter num="15" title="Day and Night" location="T/Sara Teasdale/Flame and Shadow/15.xml" />
+			<chapter num="16" title="Compensation" location="T/Sara Teasdale/Flame and Shadow/16.xml" />
+			<chapter num="17" title="I Remembered" location="T/Sara Teasdale/Flame and Shadow/17.xml" />
+			<chapter num="18" title="&quot;Oh You Are Coming&quot;" location="T/Sara Teasdale/Flame and Shadow/18.xml" />
+			<chapter num="19" title="The Return" location="T/Sara Teasdale/Flame and Shadow/19.xml" />
+			<chapter num="20" title="Gray Eyes" location="T/Sara Teasdale/Flame and Shadow/20.xml" />
+			<chapter num="21" title="The Net" location="T/Sara Teasdale/Flame and Shadow/21.xml" />
+			<chapter num="22" title="The Mystery" location="T/Sara Teasdale/Flame and Shadow/22.xml" />
+		</section>
+		<section type="1" name="IV">
+			<chapter num="23" title="In a Hospital. Open Windows" location="T/Sara Teasdale/Flame and Shadow/23.xml" />
+			<chapter num="24" title="In a Hospital. The New Moon" location="T/Sara Teasdale/Flame and Shadow/24.xml" />
+			<chapter num="25" title="In a Hospital. Eight O'Clock" location="T/Sara Teasdale/Flame and Shadow/25.xml" />
+			<chapter num="26" title="In a Hospital. Lost Things" location="T/Sara Teasdale/Flame and Shadow/26.xml" />
+			<chapter num="27" title="In a Hospital. Pain" location="T/Sara Teasdale/Flame and Shadow/27.xml" />
+			<chapter num="28" title="In a Hospital. The Broken Field" location="T/Sara Teasdale/Flame and Shadow/28.xml" />
+			<chapter num="29" title="In a Hospital. The Unseen" location="T/Sara Teasdale/Flame and Shadow/29.xml" />
+			<chapter num="30" title="In a Hospital. A Prayer" location="T/Sara Teasdale/Flame and Shadow/30.xml" />
+		</section>
+		<section type="1" name="V">
+			<chapter num="31" title="Spring Torrents" location="T/Sara Teasdale/Flame and Shadow/31.xml" />
+			<chapter num="32" title="&quot;I Know the Stars&quot;" location="T/Sara Teasdale/Flame and Shadow/32.xml" />
+			<chapter num="33" title="Understanding" location="T/Sara Teasdale/Flame and Shadow/33.xml" />
+			<chapter num="34" title="Nightfall" location="T/Sara Teasdale/Flame and Shadow/34.xml" />
+			<chapter num="35" title="&quot;It Is Not a Word&quot;" location="T/Sara Teasdale/Flame and Shadow/35.xml" />
+			<chapter num="36" title="&quot;My Heart Is Heavy&quot;" location="T/Sara Teasdale/Flame and Shadow/36.xml" />
+			<chapter num="37" title="The Nights Remember" location="T/Sara Teasdale/Flame and Shadow/37.xml" />
+			<chapter num="38" title="&quot;Let It Be Forgotten&quot;" location="T/Sara Teasdale/Flame and Shadow/38.xml" />
+		</section>
+		<section type="1" name="VI">
+			<chapter num="39" title="The Dark Cup. May Day" location="T/Sara Teasdale/Flame and Shadow/39.xml" />
+			<chapter num="40" title="The Dark Cup. &quot;Since There Is No Escape&quot;" location="T/Sara Teasdale/Flame and Shadow/40.xml" />
+			<chapter num="41" title="The Dark Cup. &quot;The Dreams of My Heart&quot;" location="T/Sara Teasdale/Flame and Shadow/41.xml" />
+			<chapter num="42" title="The Dark Cup. &quot;A Little While&quot;" location="T/Sara Teasdale/Flame and Shadow/42.xml" />
+			<chapter num="43" title="The Dark Cup. The Garden" location="T/Sara Teasdale/Flame and Shadow/43.xml" />
+			<chapter num="44" title="The Dark Cup. The Wine" location="T/Sara Teasdale/Flame and Shadow/44.xml" />
+			<chapter num="45" title="The Dark Cup. In a Cuban Garden" location="T/Sara Teasdale/Flame and Shadow/45.xml" />
+			<chapter num="46" title="The Dark Cup. &quot;If I Must Go&quot;" location="T/Sara Teasdale/Flame and Shadow/46.xml" />
+		</section>
+		<section type="1" name="VII">
+			<chapter num="47" title="In Spring, Santa Barbara" location="T/Sara Teasdale/Flame and Shadow/47.xml" />
+			<chapter num="48" title="White Fog" location="T/Sara Teasdale/Flame and Shadow/48.xml" />
+			<chapter num="49" title="Arcturus" location="T/Sara Teasdale/Flame and Shadow/49.xml" />
+			<chapter num="50" title="Moonlight" location="T/Sara Teasdale/Flame and Shadow/50.xml" />
+			<chapter num="51" title="Morning Song" location="T/Sara Teasdale/Flame and Shadow/51.xml" />
+			<chapter num="52" title="Gray Fog" location="T/Sara Teasdale/Flame and Shadow/52.xml" />
+			<chapter num="53" title="Bells" location="T/Sara Teasdale/Flame and Shadow/53.xml" />
+			<chapter num="54" title="Lovely Chance" location="T/Sara Teasdale/Flame and Shadow/54.xml" />
+		</section>
+		<section type="1" name="VIII">
+			<chapter num="55" title="&quot;There Will Come Soft Rains&quot;" location="T/Sara Teasdale/Flame and Shadow/55.xml" />
+			<chapter num="56" title="In a Garden" location="T/Sara Teasdale/Flame and Shadow/56.xml" />
+			<chapter num="57" title="Nahant" location="T/Sara Teasdale/Flame and Shadow/57.xml" />
+			<chapter num="58" title="Winter Stars" location="T/Sara Teasdale/Flame and Shadow/58.xml" />
+			<chapter num="59" title="A Boy" location="T/Sara Teasdale/Flame and Shadow/59.xml" />
+			<chapter num="60" title="Winter Dusk" location="T/Sara Teasdale/Flame and Shadow/60.xml" />
+		</section>
+		<section type="1" name="IX">
+			<chapter num="61" title="By the Sea. The Unchanging" location="T/Sara Teasdale/Flame and Shadow/61.xml" />
+			<chapter num="62" title="By the Sea. June Night" location="T/Sara Teasdale/Flame and Shadow/62.xml" />
+			<chapter num="63" title="By the Sea. &quot;Like Barley Bending&quot;" location="T/Sara Teasdale/Flame and Shadow/63.xml" />
+			<chapter num="64" title="By the Sea. &quot;Oh Day of Fire and Sun&quot;" location="T/Sara Teasdale/Flame and Shadow/64.xml" />
+			<chapter num="65" title="By the Sea. &quot;I Thought of You&quot;" location="T/Sara Teasdale/Flame and Shadow/65.xml" />
+			<chapter num="66" title="By the Sea. On the Dunes" location="T/Sara Teasdale/Flame and Shadow/66.xml" />
+			<chapter num="67" title="By the Sea. Spray" location="T/Sara Teasdale/Flame and Shadow/67.xml" />
+			<chapter num="68" title="By the Sea. If Death Is Kind" location="T/Sara Teasdale/Flame and Shadow/68.xml" />
+		</section>
+		<section type="1" name="X">
+			<chapter num="69" title="Thoughts" location="T/Sara Teasdale/Flame and Shadow/69.xml" />
+			<chapter num="70" title="Faces" location="T/Sara Teasdale/Flame and Shadow/70.xml" />
+			<chapter num="71" title="Evening:  New York" location="T/Sara Teasdale/Flame and Shadow/71.xml" />
+			<chapter num="72" title="Snowfall" location="T/Sara Teasdale/Flame and Shadow/72.xml" />
+			<chapter num="73" title="The Silent Battle" location="T/Sara Teasdale/Flame and Shadow/73.xml" />
+			<chapter num="74" title="The Sanctuary" location="T/Sara Teasdale/Flame and Shadow/74.xml" />
+			<chapter num="75" title="At Sea" location="T/Sara Teasdale/Flame and Shadow/75.xml" />
+			<chapter num="76" title="Dust" location="T/Sara Teasdale/Flame and Shadow/76.xml" />
+			<chapter num="77" title="The Long Hill" location="T/Sara Teasdale/Flame and Shadow/77.xml" />
+		</section>
+		<section type="1" name="XI">
+			<chapter num="78" title="Summer Storm" location="T/Sara Teasdale/Flame and Shadow/78.xml" />
+			<chapter num="79" title="In the End" location="T/Sara Teasdale/Flame and Shadow/79.xml" />
+			<chapter num="80" title="&quot;It Will Not Change&quot;" location="T/Sara Teasdale/Flame and Shadow/80.xml" />
+			<chapter num="81" title="Change" location="T/Sara Teasdale/Flame and Shadow/81.xml" />
+			<chapter num="82" title="Water Lilies" location="T/Sara Teasdale/Flame and Shadow/82.xml" />
+			<chapter num="83" title="&quot;Did You Never Know?&quot;" location="T/Sara Teasdale/Flame and Shadow/83.xml" />
+			<chapter num="84" title="The Treasure" location="T/Sara Teasdale/Flame and Shadow/84.xml" />
+			<chapter num="85" title="The Storm" location="T/Sara Teasdale/Flame and Shadow/85.xml" />
+		</section>
+		<section type="1" name="XII">
+			<chapter num="86" title="Songs For Myself. The Tree" location="T/Sara Teasdale/Flame and Shadow/86.xml" />
+			<chapter num="87" title="Songs For Myself. At Midnight" location="T/Sara Teasdale/Flame and Shadow/87.xml" />
+			<chapter num="88" title="Songs For Myself. Song Making" location="T/Sara Teasdale/Flame and Shadow/88.xml" />
+			<chapter num="89" title="Songs For Myself. Alone" location="T/Sara Teasdale/Flame and Shadow/89.xml" />
+			<chapter num="90" title="Songs For Myself. Red Maples" location="T/Sara Teasdale/Flame and Shadow/90.xml" />
+			<chapter num="91" title="Songs For Myself. Debtor" location="T/Sara Teasdale/Flame and Shadow/91.xml" />
+			<chapter num="92" title="Songs For Myself. The Wind in the Hemlock" location="T/Sara Teasdale/Flame and Shadow/92.xml" />
+		</section>
+</book>

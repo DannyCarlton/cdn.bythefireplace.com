@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1355" title="Mr. Standfast" author="Buchan, John" location="B/John Buchan/Mr. Standfast">
+		<section type="1" name="Part I">
+			<chapter num="1" title="Chapter One. The Wicket-Gate" location="B/John Buchan/Mr. Standfast/1.xml" />
+			<chapter num="2" title="Chapter Two. 'The Village Named Morality'" location="B/John Buchan/Mr. Standfast/2.xml" />
+			<chapter num="3" title="Chapter Three. The Reflections of a Cured Dyspeptic" location="B/John Buchan/Mr. Standfast/3.xml" />
+			<chapter num="4" title="Chapter Four. Andrew Amos" location="B/John Buchan/Mr. Standfast/4.xml" />
+			<chapter num="5" title="Chapter Five. Various Doings in the West" location="B/John Buchan/Mr. Standfast/5.xml" />
+			<chapter num="6" title="Chapter Six. The Skirts of the Coolin" location="B/John Buchan/Mr. Standfast/6.xml" />
+			<chapter num="7" title="Chapter Seven. I Hear of the Wild Birds" location="B/John Buchan/Mr. Standfast/7.xml" />
+			<chapter num="8" title="Chapter Eight. The Adventures of a Bagman" location="B/John Buchan/Mr. Standfast/8.xml" />
+			<chapter num="9" title="Chapter Nine. I Take the Wings of a Dove" location="B/John Buchan/Mr. Standfast/9.xml" />
+			<chapter num="10" title="Chapter Ten. The Advantages of an Air Raid" location="B/John Buchan/Mr. Standfast/10.xml" />
+			<chapter num="11" title="Chapter Eleven. The Valley of Humiliation" location="B/John Buchan/Mr. Standfast/11.xml" />
+		</section>
+		<section type="1" name="Part II">
+			<chapter num="12" title="Chapter Twelve. I Become a Combatant Once More" location="B/John Buchan/Mr. Standfast/12.xml" />
+			<chapter num="13" title="Chapter Thirteen. The Adventure of the Picardy Chateau" location="B/John Buchan/Mr. Standfast/13.xml" />
+			<chapter num="14" title="Chapter Fourteen. Mr Blenkiron Discourses on Love and War" location="B/John Buchan/Mr. Standfast/14.xml" />
+			<chapter num="15" title="Chapter Fifteen. St Anton" location="B/John Buchan/Mr. Standfast/15.xml" />
+			<chapter num="16" title="Chapter Sixteen. I Lie on a Hard Bed" location="B/John Buchan/Mr. Standfast/16.xml" />
+			<chapter num="17" title="Chapter Seventeen. The Col of the Swallows" location="B/John Buchan/Mr. Standfast/17.xml" />
+			<chapter num="18" title="Chapter Eighteen. The Underground Railway" location="B/John Buchan/Mr. Standfast/18.xml" />
+			<chapter num="19" title="Chapter Nineteen. The Cage of the Wild Birds" location="B/John Buchan/Mr. Standfast/19.xml" />
+			<chapter num="20" title="Chapter Twenty. The Storm Breaks in the West" location="B/John Buchan/Mr. Standfast/20.xml" />
+			<chapter num="21" title="Chapter Twenty-One. How an Exile Returned to His Own People" location="B/John Buchan/Mr. Standfast/21.xml" />
+			<chapter num="22" title="Chapter Twenty-Two. The Summons Comes for Mr Standfast" location="B/John Buchan/Mr. Standfast/22.xml" />
+		</section>
+</book>

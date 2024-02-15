@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="123" name="Henry, O" location="H/O Henry" />
+	<author aid="593" name="Harte, Bret" location="H/Bret Harte" />
+	<author aid="152" name="Hudson, W. H." location="H/W. H. Hudson" />
+	<author aid="171" name="Huxley, Aldous" location="H/Aldous Huxley" />
+	<author aid="174" name="Hale, Edward Everett" location="H/Edward Everett Hale" />
+	<author aid="182" name="Harraden, Beatrice" location="H/Beatrice Harraden" />
+	<author aid="186" name="Henty, George Alfred" location="H/George Alfred Henty" />
+	<author aid="22" name="Haggard, H. Rider" location="H/H. Rider Haggard" />
+	<author aid="23" name="Hardy, Thomas" location="H/Thomas Hardy" />
+	<author aid="49" name="Hope, Laura Lee" location="H/Laura Lee Hope" />
+	<author aid="57" name="Homer, " location="H/ Homer" />
+	<author aid="68" name="Hugo, Victor" location="H/Victor Hugo" />
+	<author aid="84" name="Hope, Anthony" location="H/Anthony Hope" />
+	<author aid="89" name="Holmes, Oliver Wendell" location="H/Oliver Wendell Holmes" />
+	<author aid="90" name="Hornung, E.W." location="H/E.W. Hornung" />
+	<author aid="91" name="Hawthorne, Julian" location="H/Julian Hawthorne" />
+	<author aid="92" name="Hume, Fergus" location="H/Fergus Hume" />
+	<author aid="5003" name="Hancock, H. Irving" location="H/H. Irving Hancock" />
+	<author aid="5014" name="Howard, Robert E." location="H/Robert E. Howard" />
+	<author aid="329" name="Howells, William D." location="H/William D. Howells" />
+</authors>

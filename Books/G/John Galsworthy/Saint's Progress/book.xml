@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40371" title="Saint's Progress" author="Galsworthy, John" location="G/John Galsworthy/Saint's Progress">
+
+	<section type="2" name="Part I.">
+			<chapter num="1" title="Chapter I." location="G/John Galsworthy/Saint's Progress/1.xml" />
+			<chapter num="2" title="Chapter II." location="G/John Galsworthy/Saint's Progress/2.xml" />
+			<chapter num="3" title="Chapter III." location="G/John Galsworthy/Saint's Progress/3.xml" />
+			<chapter num="4" title="Chapter IV." location="G/John Galsworthy/Saint's Progress/4.xml" />
+			<chapter num="5" title="Chapter V." location="G/John Galsworthy/Saint's Progress/5.xml" />
+			<chapter num="6" title="Chapter VI." location="G/John Galsworthy/Saint's Progress/6.xml" />
+			<chapter num="7" title="Chapter VII." location="G/John Galsworthy/Saint's Progress/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="G/John Galsworthy/Saint's Progress/8.xml" />
+			<chapter num="9" title="Chapter IX." location="G/John Galsworthy/Saint's Progress/9.xml" />
+			<chapter num="10" title="Chapter X." location="G/John Galsworthy/Saint's Progress/10.xml" />
+
+	</section>
+	<section type="2" name="Part II.">
+			<chapter num="11" title="Chapter I." location="G/John Galsworthy/Saint's Progress/11.xml" />
+			<chapter num="12" title="Chapter II." location="G/John Galsworthy/Saint's Progress/12.xml" />
+			<chapter num="13" title="Chapter III." location="G/John Galsworthy/Saint's Progress/13.xml" />
+			<chapter num="14" title="Chapter IV." location="G/John Galsworthy/Saint's Progress/14.xml" />
+			<chapter num="15" title="Chapter V." location="G/John Galsworthy/Saint's Progress/15.xml" />
+			<chapter num="16" title="Chapter VI." location="G/John Galsworthy/Saint's Progress/16.xml" />
+			<chapter num="17" title="Chapter VII." location="G/John Galsworthy/Saint's Progress/17.xml" />
+			<chapter num="18" title="Chapter VIII." location="G/John Galsworthy/Saint's Progress/18.xml" />
+			<chapter num="19" title="Chapter IX." location="G/John Galsworthy/Saint's Progress/19.xml" />
+			<chapter num="20" title="Chapter X." location="G/John Galsworthy/Saint's Progress/20.xml" />
+
+	</section>
+	<section type="2" name="Part III.">
+			<chapter num="21" title="Chapter I." location="G/John Galsworthy/Saint's Progress/21.xml" />
+			<chapter num="22" title="Chapter II." location="G/John Galsworthy/Saint's Progress/22.xml" />
+			<chapter num="23" title="Chapter III." location="G/John Galsworthy/Saint's Progress/23.xml" />
+			<chapter num="24" title="Chapter IV." location="G/John Galsworthy/Saint's Progress/24.xml" />
+			<chapter num="25" title="Chapter V." location="G/John Galsworthy/Saint's Progress/25.xml" />
+			<chapter num="26" title="Chapter VI." location="G/John Galsworthy/Saint's Progress/26.xml" />
+			<chapter num="27" title="Chapter VII." location="G/John Galsworthy/Saint's Progress/27.xml" />
+			<chapter num="28" title="Chapter VIII." location="G/John Galsworthy/Saint's Progress/28.xml" />
+			<chapter num="29" title="Chapter IX." location="G/John Galsworthy/Saint's Progress/29.xml" />
+			<chapter num="30" title="Chapter X." location="G/John Galsworthy/Saint's Progress/30.xml" />
+			<chapter num="31" title="Chapter XI." location="G/John Galsworthy/Saint's Progress/31.xml" />
+			<chapter num="32" title="Chapter XII." location="G/John Galsworthy/Saint's Progress/32.xml" />
+			<chapter num="33" title="Chapter XIII." location="G/John Galsworthy/Saint's Progress/33.xml" />
+			<chapter num="34" title="Chapter XIV." location="G/John Galsworthy/Saint's Progress/34.xml" />
+
+	</section>
+	<section type="2" name="Part IV.">
+			<chapter num="35" title="Chapter I." location="G/John Galsworthy/Saint's Progress/35.xml" />
+			<chapter num="36" title="Chapter II." location="G/John Galsworthy/Saint's Progress/36.xml" />
+			<chapter num="37" title="Chapter III." location="G/John Galsworthy/Saint's Progress/37.xml" />
+			<chapter num="38" title="Chapter IV." location="G/John Galsworthy/Saint's Progress/38.xml" />
+			<chapter num="39" title="Chapter V." location="G/John Galsworthy/Saint's Progress/39.xml" />
+			<chapter num="40" title="Chapter VI." location="G/John Galsworthy/Saint's Progress/40.xml" />
+	</section>
+</book>

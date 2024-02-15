@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2330" title="Tales of Lonely Trails" author="Grey, Zane" location="G/Zane Grey/Tales of Lonely Trails">
+			<chapter num="1" title="Chapter I. Nonnezoshe" location="G/Zane Grey/Tales of Lonely Trails/1.xml" />
+			<chapter num="2" title="Chapter II. Colorado Trails" location="G/Zane Grey/Tales of Lonely Trails/2.xml" />
+		<section type="1" name="Chapter III. Roping Lions in the Grand Canyon">
+			<chapter num="3" title="I" location="G/Zane Grey/Tales of Lonely Trails/3.xml" />
+			<chapter num="4" title="II" location="G/Zane Grey/Tales of Lonely Trails/4.xml" />
+			<chapter num="5" title="III" location="G/Zane Grey/Tales of Lonely Trails/5.xml" />
+			<chapter num="6" title="IV" location="G/Zane Grey/Tales of Lonely Trails/6.xml" />
+			<chapter num="7" title="V" location="G/Zane Grey/Tales of Lonely Trails/7.xml" />
+			<chapter num="8" title="VI" location="G/Zane Grey/Tales of Lonely Trails/8.xml" />
+			<chapter num="9" title="VII" location="G/Zane Grey/Tales of Lonely Trails/9.xml" />
+			<chapter num="10" title="VIII" location="G/Zane Grey/Tales of Lonely Trails/10.xml" />
+			<chapter num="11" title="IX" location="G/Zane Grey/Tales of Lonely Trails/11.xml" />
+			<chapter num="12" title="X" location="G/Zane Grey/Tales of Lonely Trails/12.xml" />
+			<chapter num="13" title="XI" location="G/Zane Grey/Tales of Lonely Trails/13.xml" />
+			<chapter num="14" title="XII" location="G/Zane Grey/Tales of Lonely Trails/14.xml" />
+			<chapter num="15" title="XIII" location="G/Zane Grey/Tales of Lonely Trails/15.xml" />
+			<chapter num="16" title="XIV" location="G/Zane Grey/Tales of Lonely Trails/16.xml" />
+		</section>
+		<section type="1" name="Chapter IV. Tonto Basin">
+			<chapter num="17" title="I" location="G/Zane Grey/Tales of Lonely Trails/17.xml" />
+			<chapter num="18" title="II" location="G/Zane Grey/Tales of Lonely Trails/18.xml" />
+			<chapter num="19" title="III" location="G/Zane Grey/Tales of Lonely Trails/19.xml" />
+			<chapter num="20" title="IV" location="G/Zane Grey/Tales of Lonely Trails/20.xml" />
+			<chapter num="21" title="V" location="G/Zane Grey/Tales of Lonely Trails/21.xml" />
+			<chapter num="22" title="VI" location="G/Zane Grey/Tales of Lonely Trails/22.xml" />
+			<chapter num="23" title="VII" location="G/Zane Grey/Tales of Lonely Trails/23.xml" />
+			<chapter num="24" title="VIII" location="G/Zane Grey/Tales of Lonely Trails/24.xml" />
+			<chapter num="25" title="IX" location="G/Zane Grey/Tales of Lonely Trails/25.xml" />
+			<chapter num="26" title="X" location="G/Zane Grey/Tales of Lonely Trails/26.xml" />
+			<chapter num="27" title="Chapter V. Death Valley" location="G/Zane Grey/Tales of Lonely Trails/27.xml" />
+		</section>
+</book>

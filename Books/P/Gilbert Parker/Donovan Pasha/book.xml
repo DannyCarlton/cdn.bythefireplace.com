@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2866" title="Donovan Pasha" author="Parker, Gilbert" location="P/Gilbert Parker/Donovan Pasha">
+			<chapter num="1" title="Introduction" location="P/Gilbert Parker/Donovan Pasha/1.xml" />
+			<chapter num="2" title="A Foreword" location="P/Gilbert Parker/Donovan Pasha/2.xml" />
+		<section type="1" name="Volume 1">
+			<chapter num="3" title="While the Lamp Holds Out to Burn" location="P/Gilbert Parker/Donovan Pasha/3.xml" />
+			<chapter num="4" title="The Price of the Grindstone--and the Drum" location="P/Gilbert Parker/Donovan Pasha/4.xml" />
+			<chapter num="5" title="The Desertion of Mahommed Selim" location="P/Gilbert Parker/Donovan Pasha/5.xml" />
+			<chapter num="6" title="On the Reef of Norman's Woe" location="P/Gilbert Parker/Donovan Pasha/6.xml" />
+		</section>
+		<section type="1" name="Volume 2">
+			<chapter num="7" title="Fielding Had an Orderly" location="P/Gilbert Parker/Donovan Pasha/7.xml" />
+			<chapter num="8" title="The Eye of the Needle" location="P/Gilbert Parker/Donovan Pasha/8.xml" />
+			<chapter num="9" title="A Treaty of Peace" location="P/Gilbert Parker/Donovan Pasha/9.xml" />
+			<chapter num="10" title="At the Mercy of Tiberius" location="P/Gilbert Parker/Donovan Pasha/10.xml" />
+			<chapter num="11" title="All the World's Mad" location="P/Gilbert Parker/Donovan Pasha/11.xml" />
+		</section>
+		<section type="1" name="Volume 3">
+			<chapter num="12" title="The Man at the Wheel" location="P/Gilbert Parker/Donovan Pasha/12.xml" />
+			<chapter num="13" title="A Tyrant and a Lady" location="P/Gilbert Parker/Donovan Pasha/13.xml" />
+		</section>
+		<section type="1" name="Volume 4">
+			<chapter num="14" title="A Young Lion of Dedan" location="P/Gilbert Parker/Donovan Pasha/14.xml" />
+			<chapter num="15" title="He Would not be Denied" location="P/Gilbert Parker/Donovan Pasha/15.xml" />
+			<chapter num="16" title="The Flower of the Flock" location="P/Gilbert Parker/Donovan Pasha/16.xml" />
+			<chapter num="17" title="The Light of Other Days" location="P/Gilbert Parker/Donovan Pasha/17.xml" />
+			<chapter num="18" title="Glossary" location="P/Gilbert Parker/Donovan Pasha/18.xml" />
+		</section>
+</book>

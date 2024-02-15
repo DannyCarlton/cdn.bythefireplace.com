@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="123" title="Wizard of Oz, The" author="Baum, L. Frank" location="B/L. Frank Baum/Wizard of Oz, The">
+			<chapter num="1" title="1.  The Cyclone" location="B/L. Frank Baum/Wizard of Oz, The/1.xml" />
+			<chapter num="2" title="2.  The Council with the Munchkins" location="B/L. Frank Baum/Wizard of Oz, The/2.xml" />
+			<chapter num="3" title="3.  How Dorothy Saved the Scarecrow" location="B/L. Frank Baum/Wizard of Oz, The/3.xml" />
+			<chapter num="4" title="4.  The Road Through the Forest" location="B/L. Frank Baum/Wizard of Oz, The/4.xml" />
+			<chapter num="5" title="5.  The Rescue of the Tin Woodman" location="B/L. Frank Baum/Wizard of Oz, The/5.xml" />
+			<chapter num="6" title="6.  The Cowardly Lion" location="B/L. Frank Baum/Wizard of Oz, The/6.xml" />
+			<chapter num="7" title="7.  The Journey to the Great Oz" location="B/L. Frank Baum/Wizard of Oz, The/7.xml" />
+			<chapter num="8" title="8.  The Deadly Poppy Field" location="B/L. Frank Baum/Wizard of Oz, The/8.xml" />
+			<chapter num="9" title="9.  The Queen of the Field Mice" location="B/L. Frank Baum/Wizard of Oz, The/9.xml" />
+			<chapter num="10" title="10.  The Guardian of the Gate" location="B/L. Frank Baum/Wizard of Oz, The/10.xml" />
+			<chapter num="11" title="11.  The Wonderful City of Oz" location="B/L. Frank Baum/Wizard of Oz, The/11.xml" />
+			<chapter num="12" title="12.  The Search for the Wicked Witch" location="B/L. Frank Baum/Wizard of Oz, The/12.xml" />
+			<chapter num="13" title="13.  The Rescue" location="B/L. Frank Baum/Wizard of Oz, The/13.xml" />
+			<chapter num="14" title="14.  The Winged Monkeys" location="B/L. Frank Baum/Wizard of Oz, The/14.xml" />
+			<chapter num="15" title="15.  The Discovery of Oz, the Terrible" location="B/L. Frank Baum/Wizard of Oz, The/15.xml" />
+			<chapter num="16" title="16.  The Magic Art of the Great Humbug" location="B/L. Frank Baum/Wizard of Oz, The/16.xml" />
+			<chapter num="17" title="17.  How the Balloon Was Launched" location="B/L. Frank Baum/Wizard of Oz, The/17.xml" />
+			<chapter num="18" title="18.  Away to the South" location="B/L. Frank Baum/Wizard of Oz, The/18.xml" />
+			<chapter num="19" title="19.  Attacked by the Fighting Trees" location="B/L. Frank Baum/Wizard of Oz, The/19.xml" />
+			<chapter num="20" title="20.  The Dainty China Country" location="B/L. Frank Baum/Wizard of Oz, The/20.xml" />
+			<chapter num="21" title="21.  The Lion Becomes the King of Beasts" location="B/L. Frank Baum/Wizard of Oz, The/21.xml" />
+			<chapter num="22" title="22.  The Country of the Quadlings" location="B/L. Frank Baum/Wizard of Oz, The/22.xml" />
+			<chapter num="23" title="23.  Glinda The Good Witch Grants Dorothy's Wish" location="B/L. Frank Baum/Wizard of Oz, The/23.xml" />
+			<chapter num="24" title="24.  Home Again" location="B/L. Frank Baum/Wizard of Oz, The/24.xml" />
+</book>

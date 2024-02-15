@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40189" title="Strolling Saint, The" author="Sabatini, Rafael" location="S/Rafael Sabatini/Strolling Saint, The">
+
+	<section type="2" name="Book One. The Oblate">
+			<chapter num="1" title="Chapter I. Nomen Et Omen" location="S/Rafael Sabatini/Strolling Saint, The/1.xml" />
+			<chapter num="2" title="Chapter II. Gino Falcone" location="S/Rafael Sabatini/Strolling Saint, The/2.xml" />
+			<chapter num="3" title="Chapter III. The Pietistic Thrall" location="S/Rafael Sabatini/Strolling Saint, The/3.xml" />
+			<chapter num="4" title="Chapter IV. Luisina" location="S/Rafael Sabatini/Strolling Saint, The/4.xml" />
+			<chapter num="5" title="Chapter V. Rebellion" location="S/Rafael Sabatini/Strolling Saint, The/5.xml" />
+			<chapter num="6" title="Chapter VI. Fra Gervasio" location="S/Rafael Sabatini/Strolling Saint, The/6.xml" />
+
+	</section>
+	<section type="2" name="Book II. Giuliana">
+			<chapter num="7" title="Chapter I. The House of Astorre Fifanti" location="S/Rafael Sabatini/Strolling Saint, The/7.xml" />
+			<chapter num="8" title="Chapter II. Humanities" location="S/Rafael Sabatini/Strolling Saint, The/8.xml" />
+			<chapter num="9" title="Chapter III. Preux-chevalier" location="S/Rafael Sabatini/Strolling Saint, The/9.xml" />
+			<chapter num="10" title="Chapter IV. My Lord Gambara Clears the Ground" location="S/Rafael Sabatini/Strolling Saint, The/10.xml" />
+			<chapter num="11" title="Chapter V. Pabulum Acherontis" location="S/Rafael Sabatini/Strolling Saint, The/11.xml" />
+			<chapter num="12" title="Chapter VI. The Iron Girdle" location="S/Rafael Sabatini/Strolling Saint, The/12.xml" />
+
+	</section>
+	<section type="2" name="Book III. The Wilderness">
+			<chapter num="13" title="Chapter I. The Home-coming" location="S/Rafael Sabatini/Strolling Saint, The/13.xml" />
+			<chapter num="14" title="Chapter II. The Captain of Justice" location="S/Rafael Sabatini/Strolling Saint, The/14.xml" />
+			<chapter num="15" title="Chapter III. Gambara's Interests" location="S/Rafael Sabatini/Strolling Saint, The/15.xml" />
+			<chapter num="16" title="Chapter IV. The Anchorite of Monte Orsaro" location="S/Rafael Sabatini/Strolling Saint, The/16.xml" />
+			<chapter num="17" title="Chapter V. The Renunciation" location="S/Rafael Sabatini/Strolling Saint, The/17.xml" />
+			<chapter num="18" title="Chapter VI. Hypnerotomachia" location="S/Rafael Sabatini/Strolling Saint, The/18.xml" />
+			<chapter num="19" title="Chapter VII. Intruders" location="S/Rafael Sabatini/Strolling Saint, The/19.xml" />
+			<chapter num="20" title="Chapter VIII. The Vision" location="S/Rafael Sabatini/Strolling Saint, The/20.xml" />
+			<chapter num="21" title="Chapter IX. The Iconoclast" location="S/Rafael Sabatini/Strolling Saint, The/21.xml" />
+
+	</section>
+	<section type="2" name="Book IV. The World">
+			<chapter num="22" title="Chapter I. Pagliano" location="S/Rafael Sabatini/Strolling Saint, The/22.xml" />
+			<chapter num="23" title="Chapter II. The Governor of Milan" location="S/Rafael Sabatini/Strolling Saint, The/23.xml" />
+			<chapter num="24" title="Chapter III. Pier Luigi Farnese" location="S/Rafael Sabatini/Strolling Saint, The/24.xml" />
+			<chapter num="25" title="Chapter IV. Madonna Bianca" location="S/Rafael Sabatini/Strolling Saint, The/25.xml" />
+			<chapter num="26" title="Chapter V. The Warning" location="S/Rafael Sabatini/Strolling Saint, The/26.xml" />
+			<chapter num="27" title="Chapter VI. The Talons of the Holy Office" location="S/Rafael Sabatini/Strolling Saint, The/27.xml" />
+			<chapter num="28" title="Chapter VII. The Papal Bull" location="S/Rafael Sabatini/Strolling Saint, The/28.xml" />
+			<chapter num="29" title="Chapter VIII. The Third Degree" location="S/Rafael Sabatini/Strolling Saint, The/29.xml" />
+			<chapter num="30" title="Chapter IX. The Return" location="S/Rafael Sabatini/Strolling Saint, The/30.xml" />
+			<chapter num="31" title="Chapter X. The Nuptials of Bianca" location="S/Rafael Sabatini/Strolling Saint, The/31.xml" />
+			<chapter num="32" title="Chapter XI. The Penance" location="S/Rafael Sabatini/Strolling Saint, The/32.xml" />
+			<chapter num="33" title="Chapter XII. Blood" location="S/Rafael Sabatini/Strolling Saint, The/33.xml" />
+			<chapter num="34" title="Chapter XIII. The Overthrow" location="S/Rafael Sabatini/Strolling Saint, The/34.xml" />
+			<chapter num="35" title="Chapter XIV. The Citation" location="S/Rafael Sabatini/Strolling Saint, The/35.xml" />
+			<chapter num="36" title="Chapter XV. The Will of Heaven" location="S/Rafael Sabatini/Strolling Saint, The/36.xml" />
+	</section>
+</book>

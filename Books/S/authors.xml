@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="100" name="Sinclair, Upton" location="S/Upton Sinclair" />
+	<author aid="114" name="Stacpoole, Henry De Vere" location="S/Henry De Vere Stacpoole" />
+	<author aid="135" name="Smith, Adam" location="S/Adam Smith" />
+	<author aid="137" name="Stockton, Frank" location="S/Frank Stockton" />
+	<author aid="154" name="Shaw, George Bernard" location="S/George Bernard Shaw" />
+	<author aid="1626" name="Stratemeyer, Edward" location="S/Edward Stratemeyer" />
+	<author aid="168" name="Synge, J. M." location="S/J. M. Synge" />
+	<author aid="178" name="Sidney, Margaret" location="S/Margaret Sidney" />
+	<author aid="179" name="Stowe, Harriet Beecher" location="S/Harriet Beecher Stowe" />
+	<author aid="191" name="Stratton-Porter, Gene" location="S/Gene Stratton-Porter" />
+	<author aid="215" name="Shakespeare, William" location="S/William Shakespeare" />
+	<author aid="227" name="Sologub, Fyodor" location="S/Fyodor Sologub" />
+	<author aid="29" name="Sewell, Anna" location="S/Anna Sewell" />
+	<author aid="30" name="Stevenson, Robert Louis" location="S/Robert Louis Stevenson" />
+	<author aid="31" name="Stoker, Bram" location="S/Bram Stoker" />
+	<author aid="32" name="Shelley, Mary Wollstonecraft" location="S/Mary Wollstonecraft Shelley" />
+	<author aid="33" name="Swift, Jonathan" location="S/Jonathan Swift" />
+	<author aid="4" name="Sun Tzu, " location="S/ Sun Tzu" />
+	<author aid="53" name="Spyri, Johanna" location="S/Johanna Spyri" />
+	<author aid="69" name="Service, Robert" location="S/Robert Service" />
+	<author aid="76" name="Scott, Walter" location="S/Walter Scott" />
+	<author aid="640" name="Sabatini, Rafael" location="S/Rafael Sabatini" />
+	<author aid="5007" name="Sheldon, Charles M." location="S/Charles M. Sheldon" />
+	<author aid="693" name="Sanger, Margaret" location="S/Margaret Sanger" />
+</authors>

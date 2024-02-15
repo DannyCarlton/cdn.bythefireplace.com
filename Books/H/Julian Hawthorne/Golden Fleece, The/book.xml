@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="369" title="Golden Fleece, The" author="Hawthorne, Julian" location="H/Julian Hawthorne/Golden Fleece, The">
+			<chapter num="1" title="Chapter I." location="H/Julian Hawthorne/Golden Fleece, The/1.xml" />
+			<chapter num="2" title="Chapter II." location="H/Julian Hawthorne/Golden Fleece, The/2.xml" />
+			<chapter num="3" title="Chapter III." location="H/Julian Hawthorne/Golden Fleece, The/3.xml" />
+			<chapter num="4" title="Chapter IV." location="H/Julian Hawthorne/Golden Fleece, The/4.xml" />
+			<chapter num="5" title="Chapter V." location="H/Julian Hawthorne/Golden Fleece, The/5.xml" />
+			<chapter num="6" title="Chapter VI." location="H/Julian Hawthorne/Golden Fleece, The/6.xml" />
+			<chapter num="7" title="Chapter VII." location="H/Julian Hawthorne/Golden Fleece, The/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="H/Julian Hawthorne/Golden Fleece, The/8.xml" />
+</book>

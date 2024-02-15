@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40377" title="To Let" author="Galsworthy, John" location="G/John Galsworthy/To Let">
+
+	<section type="2" name="Part I.">
+			<chapter num="1" title="Chapter I. Encounter" location="G/John Galsworthy/To Let/1.xml" />
+			<chapter num="2" title="Chapter II. Fine Fleur Forsyte" location="G/John Galsworthy/To Let/2.xml" />
+			<chapter num="3" title="Chapter III. At Robin Hill" location="G/John Galsworthy/To Let/3.xml" />
+			<chapter num="4" title="Chapter IV. The Mausoleum" location="G/John Galsworthy/To Let/4.xml" />
+			<chapter num="5" title="Chapter V. The Native Heath" location="G/John Galsworthy/To Let/5.xml" />
+			<chapter num="6" title="Chapter VI. Jon" location="G/John Galsworthy/To Let/6.xml" />
+			<chapter num="7" title="Chapter VII. Fleur" location="G/John Galsworthy/To Let/7.xml" />
+			<chapter num="8" title="Chapter VIII. Idyll on Grass" location="G/John Galsworthy/To Let/8.xml" />
+			<chapter num="9" title="Chapter IX. Goya" location="G/John Galsworthy/To Let/9.xml" />
+			<chapter num="10" title="Chapter X. Trio" location="G/John Galsworthy/To Let/10.xml" />
+			<chapter num="11" title="Chapter XI. Duet" location="G/John Galsworthy/To Let/11.xml" />
+			<chapter num="12" title="Chapter XII. Caprice" location="G/John Galsworthy/To Let/12.xml" />
+
+	</section>
+	<section type="2" name="Part II.">
+			<chapter num="13" title="Chapter I. Mother and Son" location="G/John Galsworthy/To Let/13.xml" />
+			<chapter num="14" title="Chapter II. Fathers and Daughters" location="G/John Galsworthy/To Let/14.xml" />
+			<chapter num="15" title="Chapter III. Meetings" location="G/John Galsworthy/To Let/15.xml" />
+			<chapter num="16" title="Chapter IV. In Green Street" location="G/John Galsworthy/To Let/16.xml" />
+			<chapter num="17" title="Chapter V. Purely Forsyte Affairs" location="G/John Galsworthy/To Let/17.xml" />
+			<chapter num="18" title="Chapter VI. Soames' Private Life" location="G/John Galsworthy/To Let/18.xml" />
+			<chapter num="19" title="Chapter VII. June Takes a Hand" location="G/John Galsworthy/To Let/19.xml" />
+			<chapter num="20" title="Chapter VIII. The Bit Between the Teeth" location="G/John Galsworthy/To Let/20.xml" />
+			<chapter num="21" title="Chapter IX. Fat in the Fire" location="G/John Galsworthy/To Let/21.xml" />
+			<chapter num="22" title="Chapter X. Decision" location="G/John Galsworthy/To Let/22.xml" />
+			<chapter num="23" title="Chapter XI. Timothy Prophesies" location="G/John Galsworthy/To Let/23.xml" />
+
+	</section>
+	<section type="2" name="Part III.">
+			<chapter num="24" title="Chapter I. Old Jolyon Walks" location="G/John Galsworthy/To Let/24.xml" />
+			<chapter num="25" title="Chapter II. Confession" location="G/John Galsworthy/To Let/25.xml" />
+			<chapter num="26" title="Chapter III. Irene!" location="G/John Galsworthy/To Let/26.xml" />
+			<chapter num="27" title="Chapter IV. Soames Cogitates" location="G/John Galsworthy/To Let/27.xml" />
+			<chapter num="28" title="Chapter V. The Fixed Idea" location="G/John Galsworthy/To Let/28.xml" />
+			<chapter num="29" title="Chapter VI. Desperate" location="G/John Galsworthy/To Let/29.xml" />
+			<chapter num="30" title="Chapter VII. Embassy" location="G/John Galsworthy/To Let/30.xml" />
+			<chapter num="31" title="Chapter VIII. The Dark Tune" location="G/John Galsworthy/To Let/31.xml" />
+			<chapter num="32" title="Chapter IX. Under the Oak-tree" location="G/John Galsworthy/To Let/32.xml" />
+			<chapter num="33" title="Chapter X. Fleur's Wedding" location="G/John Galsworthy/To Let/33.xml" />
+			<chapter num="34" title="Chapter XI. The Last of the Forsytes" location="G/John Galsworthy/To Let/34.xml" />
+	</section>
+</book>

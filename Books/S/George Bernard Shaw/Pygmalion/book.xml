@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1126" title="Pygmalion" author="Shaw, George Bernard" location="S/George Bernard Shaw/Pygmalion">
+			<chapter num="1" title="Preface. A Professor of Phonetics." location="S/George Bernard Shaw/Pygmalion/1.xml" />
+			<chapter num="2" title="ACT I" location="S/George Bernard Shaw/Pygmalion/2.xml" />
+			<chapter num="3" title="ACT II" location="S/George Bernard Shaw/Pygmalion/3.xml" />
+			<chapter num="4" title="ACT III" location="S/George Bernard Shaw/Pygmalion/4.xml" />
+			<chapter num="5" title="ACT IV" location="S/George Bernard Shaw/Pygmalion/5.xml" />
+			<chapter num="6" title="ACT V" location="S/George Bernard Shaw/Pygmalion/6.xml" />
+			<chapter num="7" title="Sequel. What Happened Afterwards" location="S/George Bernard Shaw/Pygmalion/7.xml" />
+</book>

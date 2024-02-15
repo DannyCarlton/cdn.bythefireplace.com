@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1535" title="Enemy of the People, An" author="Ibsen, Henrik" location="I/Henrik Ibsen/Enemy of the People, An">
+			<chapter num="1" title="Dramatis Personae" location="I/Henrik Ibsen/Enemy of the People, An/1.xml" />
+			<chapter num="2" title="Act I" location="I/Henrik Ibsen/Enemy of the People, An/2.xml" />
+			<chapter num="3" title="Act II" location="I/Henrik Ibsen/Enemy of the People, An/3.xml" />
+			<chapter num="4" title="Act III" location="I/Henrik Ibsen/Enemy of the People, An/4.xml" />
+			<chapter num="5" title="Act IV" location="I/Henrik Ibsen/Enemy of the People, An/5.xml" />
+			<chapter num="6" title="Act V" location="I/Henrik Ibsen/Enemy of the People, An/6.xml" />
+</book>

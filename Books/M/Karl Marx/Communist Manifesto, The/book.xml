@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="491" title="Communist Manifesto, The" author="Marx, Karl" location="M/Karl Marx/Communist Manifesto, The">
+			<chapter num="1" title="Introduction" location="M/Karl Marx/Communist Manifesto, The/1.xml" />
+			<chapter num="2" title="I.  Bourgeois and Proletarians" location="M/Karl Marx/Communist Manifesto, The/2.xml" />
+			<chapter num="3" title="II. Proletarians and Communists" location="M/Karl Marx/Communist Manifesto, The/3.xml" />
+			<chapter num="4" title="III Socialist and Communist Literature" location="M/Karl Marx/Communist Manifesto, The/4.xml" />
+			<chapter num="5" title="IV. Position of the Communists in Relation to the Various Existing Opposition Parties" location="M/Karl Marx/Communist Manifesto, The/5.xml" />
+</book>

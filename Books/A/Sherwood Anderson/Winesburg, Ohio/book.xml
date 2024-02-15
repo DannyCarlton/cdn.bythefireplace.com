@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2833" title="Winesburg, Ohio" author="Anderson, Sherwood" location="A/Sherwood Anderson/Winesburg, Ohio">
+			<chapter num="1" title="Introduction" location="A/Sherwood Anderson/Winesburg, Ohio/1.xml" />
+		<section type="1" name="The Book of the Grotesque">
+			<chapter num="2" title="Preface" location="A/Sherwood Anderson/Winesburg, Ohio/2.xml" />
+			<chapter num="3" title="Hands" location="A/Sherwood Anderson/Winesburg, Ohio/3.xml" />
+			<chapter num="4" title="Paper Pills" location="A/Sherwood Anderson/Winesburg, Ohio/4.xml" />
+			<chapter num="5" title="Mother" location="A/Sherwood Anderson/Winesburg, Ohio/5.xml" />
+			<chapter num="6" title="The Philosopher" location="A/Sherwood Anderson/Winesburg, Ohio/6.xml" />
+			<chapter num="7" title="Nobody Knows" location="A/Sherwood Anderson/Winesburg, Ohio/7.xml" />
+			<chapter num="8" title="Godliness" location="A/Sherwood Anderson/Winesburg, Ohio/8.xml" />
+			<chapter num="9" title="A Man of Ideas" location="A/Sherwood Anderson/Winesburg, Ohio/9.xml" />
+			<chapter num="10" title="Adventure" location="A/Sherwood Anderson/Winesburg, Ohio/10.xml" />
+			<chapter num="11" title="Respectability" location="A/Sherwood Anderson/Winesburg, Ohio/11.xml" />
+			<chapter num="12" title="The Thinker" location="A/Sherwood Anderson/Winesburg, Ohio/12.xml" />
+			<chapter num="13" title="Tandy" location="A/Sherwood Anderson/Winesburg, Ohio/13.xml" />
+			<chapter num="14" title="The Strength of God" location="A/Sherwood Anderson/Winesburg, Ohio/14.xml" />
+			<chapter num="15" title="The Teacher" location="A/Sherwood Anderson/Winesburg, Ohio/15.xml" />
+			<chapter num="16" title="Loneliness" location="A/Sherwood Anderson/Winesburg, Ohio/16.xml" />
+			<chapter num="17" title="An Awakening" location="A/Sherwood Anderson/Winesburg, Ohio/17.xml" />
+			<chapter num="18" title="&quot;Queer&quot;" location="A/Sherwood Anderson/Winesburg, Ohio/18.xml" />
+			<chapter num="19" title="The Untold Lie" location="A/Sherwood Anderson/Winesburg, Ohio/19.xml" />
+			<chapter num="20" title="Drink" location="A/Sherwood Anderson/Winesburg, Ohio/20.xml" />
+			<chapter num="21" title="Death" location="A/Sherwood Anderson/Winesburg, Ohio/21.xml" />
+			<chapter num="22" title="Sophistication" location="A/Sherwood Anderson/Winesburg, Ohio/22.xml" />
+			<chapter num="23" title="Departure" location="A/Sherwood Anderson/Winesburg, Ohio/23.xml" />
+		</section>
+</book>

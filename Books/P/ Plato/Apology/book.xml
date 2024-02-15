@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2083" title="Apology" author="Plato, " location="P/ Plato/Apology">
+			<chapter num="1" title="Introduction." location="P/ Plato/Apology/1.xml" />
+			<chapter num="2" title="Apology" location="P/ Plato/Apology/2.xml" />
+</book>

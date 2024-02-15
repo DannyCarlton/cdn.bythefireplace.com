@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="0" name="Misc. Authors, " location="M/ Misc. Authors" />
+	<author aid="105" name="Maupassant, Guy de" location="M/Guy de Maupassant" />
+	<author aid="107" name="Marx, Karl" location="M/Karl Marx" />
+	<author aid="108" name="MacGrath, Harold" location="M/Harold MacGrath" />
+	<author aid="109" name="McElroy, John" location="M/John McElroy" />
+	<author aid="110" name="Maugham, Somerset" location="M/Somerset Maugham" />
+	<author aid="136" name="Moliere, Jean Baptiste Poquelin" location="M/Jean Baptiste Poquelin Moliere" />
+	<author aid="139" name="Marlowe, Christopher" location="M/Christopher Marlowe" />
+	<author aid="145" name="MacDonald, George" location="M/George MacDonald" />
+	<author aid="146" name="Machiavelli, Nicolo" location="M/Nicolo Machiavelli" />
+	<author aid="147" name="Millay, Edna St. Vincent" location="M/Edna St. Vincent Millay" />
+	<author aid="148" name="Morley, Christopher" location="M/Christopher Morley" />
+	<author aid="200" name="Munro, H. H. (Saki)" location="M/H. H. (Saki) Munro" />
+	<author aid="1216" name="Mansfield, Katherine" location="M/Katherine Mansfield" />
+	<author aid="28" name="Montgomery, Lucy Maud" location="M/Lucy Maud Montgomery" />
+	<author aid="65" name="Milton, John" location="M/John Milton" />
+	<author aid="77" name="Melville, Herman" location="M/Herman Melville" />
+	<author aid="5002" name="Mason, A.E.W." location="M/A.E.W. Mason" />
+	<author aid="5009" name="Meredith, George" location="M/George Meredith" />
+	<author aid="5013" name="Marryat, Frederick" location="M/Frederick Marryat" />
+	<author aid="345" name="Maurier, George du" location="M/George du Maurier" />
+</authors>

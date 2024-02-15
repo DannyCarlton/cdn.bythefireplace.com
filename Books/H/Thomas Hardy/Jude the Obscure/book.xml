@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="65" title="Jude the Obscure" author="Hardy, Thomas" location="H/Thomas Hardy/Jude the Obscure">
+		<section type="1" name="Part First">
+			<chapter num="1" title="Chapter I" location="H/Thomas Hardy/Jude the Obscure/1.xml" />
+			<chapter num="2" title="Chapter II" location="H/Thomas Hardy/Jude the Obscure/2.xml" />
+			<chapter num="3" title="Chapter III" location="H/Thomas Hardy/Jude the Obscure/3.xml" />
+			<chapter num="4" title="Chapter IV" location="H/Thomas Hardy/Jude the Obscure/4.xml" />
+			<chapter num="5" title="Chapter V" location="H/Thomas Hardy/Jude the Obscure/5.xml" />
+			<chapter num="6" title="Chapter VI" location="H/Thomas Hardy/Jude the Obscure/6.xml" />
+			<chapter num="7" title="Chapter VII" location="H/Thomas Hardy/Jude the Obscure/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="H/Thomas Hardy/Jude the Obscure/8.xml" />
+			<chapter num="9" title="Chapter IX" location="H/Thomas Hardy/Jude the Obscure/9.xml" />
+			<chapter num="10" title="Chapter X" location="H/Thomas Hardy/Jude the Obscure/10.xml" />
+			<chapter num="11" title="Chapter XI" location="H/Thomas Hardy/Jude the Obscure/11.xml" />
+		</section>
+		<section type="1" name="Part Second">
+			<chapter num="12" title="Chapter I" location="H/Thomas Hardy/Jude the Obscure/12.xml" />
+			<chapter num="13" title="Chapter II" location="H/Thomas Hardy/Jude the Obscure/13.xml" />
+			<chapter num="14" title="Chapter III" location="H/Thomas Hardy/Jude the Obscure/14.xml" />
+			<chapter num="15" title="Chapter IV" location="H/Thomas Hardy/Jude the Obscure/15.xml" />
+			<chapter num="16" title="Chapter V" location="H/Thomas Hardy/Jude the Obscure/16.xml" />
+			<chapter num="17" title="Chapter VI" location="H/Thomas Hardy/Jude the Obscure/17.xml" />
+			<chapter num="18" title="Chapter VII" location="H/Thomas Hardy/Jude the Obscure/18.xml" />
+		</section>
+		<section type="1" name="Part Third">
+			<chapter num="19" title="Chapter I" location="H/Thomas Hardy/Jude the Obscure/19.xml" />
+			<chapter num="20" title="Chapter II" location="H/Thomas Hardy/Jude the Obscure/20.xml" />
+			<chapter num="21" title="Chapter III" location="H/Thomas Hardy/Jude the Obscure/21.xml" />
+			<chapter num="22" title="Chapter IV" location="H/Thomas Hardy/Jude the Obscure/22.xml" />
+			<chapter num="23" title="Chapter V" location="H/Thomas Hardy/Jude the Obscure/23.xml" />
+			<chapter num="24" title="Chapter VI" location="H/Thomas Hardy/Jude the Obscure/24.xml" />
+			<chapter num="25" title="Chapter VII" location="H/Thomas Hardy/Jude the Obscure/25.xml" />
+			<chapter num="26" title="Chapter VIII" location="H/Thomas Hardy/Jude the Obscure/26.xml" />
+			<chapter num="27" title="Chapter IX" location="H/Thomas Hardy/Jude the Obscure/27.xml" />
+			<chapter num="28" title="Chapter X" location="H/Thomas Hardy/Jude the Obscure/28.xml" />
+		</section>
+		<section type="1" name="Part Fourth">
+			<chapter num="29" title="Chapter I" location="H/Thomas Hardy/Jude the Obscure/29.xml" />
+			<chapter num="30" title="Chapter II" location="H/Thomas Hardy/Jude the Obscure/30.xml" />
+			<chapter num="31" title="Chapter III" location="H/Thomas Hardy/Jude the Obscure/31.xml" />
+			<chapter num="32" title="Chapter IV" location="H/Thomas Hardy/Jude the Obscure/32.xml" />
+			<chapter num="33" title="Chapter V" location="H/Thomas Hardy/Jude the Obscure/33.xml" />
+			<chapter num="34" title="Chapter VI" location="H/Thomas Hardy/Jude the Obscure/34.xml" />
+		</section>
+		<section type="1" name="Part Fifth">
+			<chapter num="35" title="Chapter I" location="H/Thomas Hardy/Jude the Obscure/35.xml" />
+			<chapter num="36" title="Chapter II" location="H/Thomas Hardy/Jude the Obscure/36.xml" />
+			<chapter num="37" title="Chapter III" location="H/Thomas Hardy/Jude the Obscure/37.xml" />
+			<chapter num="38" title="Chapter IV" location="H/Thomas Hardy/Jude the Obscure/38.xml" />
+			<chapter num="39" title="Chapter V" location="H/Thomas Hardy/Jude the Obscure/39.xml" />
+			<chapter num="40" title="Chapter VI" location="H/Thomas Hardy/Jude the Obscure/40.xml" />
+			<chapter num="41" title="Chapter VII" location="H/Thomas Hardy/Jude the Obscure/41.xml" />
+			<chapter num="42" title="Chapter VIII" location="H/Thomas Hardy/Jude the Obscure/42.xml" />
+		</section>
+		<section type="1" name="Part Sixth">
+			<chapter num="43" title="Chapter I" location="H/Thomas Hardy/Jude the Obscure/43.xml" />
+			<chapter num="44" title="Chapter II" location="H/Thomas Hardy/Jude the Obscure/44.xml" />
+			<chapter num="45" title="Chapter III" location="H/Thomas Hardy/Jude the Obscure/45.xml" />
+			<chapter num="46" title="Chapter IV" location="H/Thomas Hardy/Jude the Obscure/46.xml" />
+			<chapter num="47" title="Chapter V" location="H/Thomas Hardy/Jude the Obscure/47.xml" />
+			<chapter num="48" title="Chapter VI" location="H/Thomas Hardy/Jude the Obscure/48.xml" />
+			<chapter num="49" title="Chapter VII" location="H/Thomas Hardy/Jude the Obscure/49.xml" />
+			<chapter num="50" title="Chapter VIII" location="H/Thomas Hardy/Jude the Obscure/50.xml" />
+			<chapter num="51" title="Chapter IX" location="H/Thomas Hardy/Jude the Obscure/51.xml" />
+			<chapter num="52" title="Chapter X" location="H/Thomas Hardy/Jude the Obscure/52.xml" />
+			<chapter num="53" title="Chapter XI" location="H/Thomas Hardy/Jude the Obscure/53.xml" />
+		</section>
+</book>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1569" title="Bit O' Love, A" author="Galsworthy, John" location="G/John Galsworthy/Bit O' Love, A">
+			<chapter num="1" title="Persons of the Play" location="G/John Galsworthy/Bit O' Love, A/1.xml" />
+			<chapter num="2" title="ACT I" location="G/John Galsworthy/Bit O' Love, A/2.xml" />
+		<section type="1" name="ACT II">
+			<chapter num="3" title="Scene I" location="G/John Galsworthy/Bit O' Love, A/3.xml" />
+			<chapter num="4" title="Scene II" location="G/John Galsworthy/Bit O' Love, A/4.xml" />
+			<chapter num="5" title="Scene III" location="G/John Galsworthy/Bit O' Love, A/5.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="6" title="Scene I" location="G/John Galsworthy/Bit O' Love, A/6.xml" />
+			<chapter num="7" title="Scene II" location="G/John Galsworthy/Bit O' Love, A/7.xml" />
+		</section>
+</book>

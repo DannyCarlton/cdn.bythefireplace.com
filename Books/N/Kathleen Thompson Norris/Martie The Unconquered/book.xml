@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1582" title="Martie The Unconquered" author="Norris, Kathleen Thompson" location="N/Kathleen Thompson Norris/Martie The Unconquered">
+		<section type="1" name="Book I">
+			<chapter num="1" title="Chapter I" location="N/Kathleen Thompson Norris/Martie The Unconquered/1.xml" />
+			<chapter num="2" title="Chapter II" location="N/Kathleen Thompson Norris/Martie The Unconquered/2.xml" />
+			<chapter num="3" title="Chapter III" location="N/Kathleen Thompson Norris/Martie The Unconquered/3.xml" />
+			<chapter num="4" title="Chapter IV" location="N/Kathleen Thompson Norris/Martie The Unconquered/4.xml" />
+			<chapter num="5" title="Chapter V" location="N/Kathleen Thompson Norris/Martie The Unconquered/5.xml" />
+			<chapter num="6" title="Chapter VI" location="N/Kathleen Thompson Norris/Martie The Unconquered/6.xml" />
+		</section>
+		<section type="1" name="Book II">
+			<chapter num="7" title="Chapter I" location="N/Kathleen Thompson Norris/Martie The Unconquered/7.xml" />
+			<chapter num="8" title="Chapter II" location="N/Kathleen Thompson Norris/Martie The Unconquered/8.xml" />
+			<chapter num="9" title="Chapter III" location="N/Kathleen Thompson Norris/Martie The Unconquered/9.xml" />
+			<chapter num="10" title="Chapter IV" location="N/Kathleen Thompson Norris/Martie The Unconquered/10.xml" />
+			<chapter num="11" title="Chapter V" location="N/Kathleen Thompson Norris/Martie The Unconquered/11.xml" />
+			<chapter num="12" title="Chapter VI" location="N/Kathleen Thompson Norris/Martie The Unconquered/12.xml" />
+		</section>
+		<section type="1" name="Book III">
+			<chapter num="13" title="Chapter I" location="N/Kathleen Thompson Norris/Martie The Unconquered/13.xml" />
+			<chapter num="14" title="Chapter II" location="N/Kathleen Thompson Norris/Martie The Unconquered/14.xml" />
+			<chapter num="15" title="Chapter III" location="N/Kathleen Thompson Norris/Martie The Unconquered/15.xml" />
+			<chapter num="16" title="Chapter IV" location="N/Kathleen Thompson Norris/Martie The Unconquered/16.xml" />
+			<chapter num="17" title="Chapter V" location="N/Kathleen Thompson Norris/Martie The Unconquered/17.xml" />
+			<chapter num="18" title="Chapter VI" location="N/Kathleen Thompson Norris/Martie The Unconquered/18.xml" />
+			<chapter num="19" title="Chapter VII" location="N/Kathleen Thompson Norris/Martie The Unconquered/19.xml" />
+			<chapter num="20" title="Chapter VIII" location="N/Kathleen Thompson Norris/Martie The Unconquered/20.xml" />
+		</section>
+</book>

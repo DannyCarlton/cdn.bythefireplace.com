@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2096" title="Trespasser, The" author="Parker, Gilbert" location="P/Gilbert Parker/Trespasser, The">
+			<chapter num="1" title="Introduction." location="P/Gilbert Parker/Trespasser, The/1.xml" />
+		<section type="1" name="Volume I">
+			<chapter num="2" title="Chapter I. One in Search of a Kingdom" location="P/Gilbert Parker/Trespasser, The/2.xml" />
+			<chapter num="3" title="Chapter II. In Which He Claims His Own" location="P/Gilbert Parker/Trespasser, The/3.xml" />
+			<chapter num="4" title="Chapter III. He Tells the Story of His Life" location="P/Gilbert Parker/Trespasser, The/4.xml" />
+			<chapter num="5" title="Chapter IV. An Hour With His Father's Past" location="P/Gilbert Parker/Trespasser, The/5.xml" />
+			<chapter num="6" title="Chapter V.. Wherein He Finds His Enemy" location="P/Gilbert Parker/Trespasser, The/6.xml" />
+		</section>
+		<section type="1" name="Volume II">
+			<chapter num="7" title="Chapter VI. Which Tells of Strange Encounters" location="P/Gilbert Parker/Trespasser, The/7.xml" />
+			<chapter num="8" title="Chapter VII. Wherein the Seal of His Heritage is Set" location="P/Gilbert Parker/Trespasser, The/8.xml" />
+			<chapter num="9" title="Chapter VIII. He Answers an Awkward Question" location="P/Gilbert Parker/Trespasser, The/9.xml" />
+			<chapter num="10" title="Chapter IX. He Finds New Sponsors" location="P/Gilbert Parker/Trespasser, The/10.xml" />
+			<chapter num="11" title="Chapter X. He Comes to &quot;The Waking of the Fire&quot;" location="P/Gilbert Parker/Trespasser, The/11.xml" />
+			<chapter num="12" title="Chapter XI. He Makes a Gallant Conquest" location="P/Gilbert Parker/Trespasser, The/12.xml" />
+		</section>
+		<section type="1" name="Volume III">
+			<chapter num="13" title="Chapter XII. He Stands Between Two Worlds" location="P/Gilbert Parker/Trespasser, The/13.xml" />
+			<chapter num="14" title="Chapter XIII. He Journeys Afar" location="P/Gilbert Parker/Trespasser, The/14.xml" />
+			<chapter num="15" title="Chapter XIV. In Which the Past is Repeated" location="P/Gilbert Parker/Trespasser, The/15.xml" />
+			<chapter num="16" title="Chapter XV. Wherein is Seen the Old Adam and the Garden" location="P/Gilbert Parker/Trespasser, The/16.xml" />
+			<chapter num="17" title="Chapter XVI. Wherein Love Knows No Law Save the Man's Will" location="P/Gilbert Parker/Trespasser, The/17.xml" />
+			<chapter num="18" title="Chapter XVII. The Man and the Woman Face the Intolerable" location="P/Gilbert Parker/Trespasser, The/18.xml" />
+			<chapter num="19" title="Chapter XVIII. &quot;Return, O Shulamite!&quot;" location="P/Gilbert Parker/Trespasser, The/19.xml" />
+		</section>
+</book>

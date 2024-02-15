@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="643" title="Hard Times" author="Dickens, Charles" location="D/Charles Dickens/Hard Times">
+		<section type="1" name="Book the First - Sowing">
+			<chapter num="1" title="Chapter I - The One Thing Needful" location="D/Charles Dickens/Hard Times/1.xml" />
+			<chapter num="2" title="Chapter II - Murdering the Innocents" location="D/Charles Dickens/Hard Times/2.xml" />
+			<chapter num="3" title="Chapter III - A Loophole" location="D/Charles Dickens/Hard Times/3.xml" />
+			<chapter num="4" title="Chapter IV - Mr. Bounderby" location="D/Charles Dickens/Hard Times/4.xml" />
+			<chapter num="5" title="Chapter V - The Keynote" location="D/Charles Dickens/Hard Times/5.xml" />
+			<chapter num="6" title="Chapter VI - Sleary's Horsemanship" location="D/Charles Dickens/Hard Times/6.xml" />
+			<chapter num="7" title="Chapter VII - Mrs. Sparsit" location="D/Charles Dickens/Hard Times/7.xml" />
+			<chapter num="8" title="Chapter VIII - Never Wonder" location="D/Charles Dickens/Hard Times/8.xml" />
+			<chapter num="9" title="Chapter IX - Sissy's Progress" location="D/Charles Dickens/Hard Times/9.xml" />
+			<chapter num="10" title="Chapter X - Stephen Blackpool" location="D/Charles Dickens/Hard Times/10.xml" />
+			<chapter num="11" title="Chapter XI - No Way Out" location="D/Charles Dickens/Hard Times/11.xml" />
+			<chapter num="12" title="Chapter XII - The Old Woman" location="D/Charles Dickens/Hard Times/12.xml" />
+			<chapter num="13" title="Chapter XIII - Rachael" location="D/Charles Dickens/Hard Times/13.xml" />
+			<chapter num="14" title="Chapter XIV - The Great Manufacturer" location="D/Charles Dickens/Hard Times/14.xml" />
+			<chapter num="15" title="Chapter XV - Father and Daughter" location="D/Charles Dickens/Hard Times/15.xml" />
+			<chapter num="16" title="Chapter XVI - Husband and Wife" location="D/Charles Dickens/Hard Times/16.xml" />
+		</section>
+		<section type="1" name="Book the Second - Reaping">
+			<chapter num="17" title="Chapter I - Effects in the Bank" location="D/Charles Dickens/Hard Times/17.xml" />
+			<chapter num="18" title="Chapter II - Mr. James Harthouse" location="D/Charles Dickens/Hard Times/18.xml" />
+			<chapter num="19" title="Chapter III - The Whelp" location="D/Charles Dickens/Hard Times/19.xml" />
+			<chapter num="20" title="Chapter IV - Men and Brothers" location="D/Charles Dickens/Hard Times/20.xml" />
+			<chapter num="21" title="Chapter V - Men and Masters" location="D/Charles Dickens/Hard Times/21.xml" />
+			<chapter num="22" title="Chapter VI - Fading Away" location="D/Charles Dickens/Hard Times/22.xml" />
+			<chapter num="23" title="Chapter VII - Gunpowder" location="D/Charles Dickens/Hard Times/23.xml" />
+			<chapter num="24" title="Chapter VIII - Explosion" location="D/Charles Dickens/Hard Times/24.xml" />
+			<chapter num="25" title="Chapter IX - Hearing the Last of It" location="D/Charles Dickens/Hard Times/25.xml" />
+			<chapter num="26" title="Chapter X - Mrs. Sparsit's Staircase" location="D/Charles Dickens/Hard Times/26.xml" />
+			<chapter num="27" title="Chapter XI - Lower and Lower" location="D/Charles Dickens/Hard Times/27.xml" />
+			<chapter num="28" title="Chapter XII - Down" location="D/Charles Dickens/Hard Times/28.xml" />
+		</section>
+		<section type="1" name="Book the Third - Garnering">
+			<chapter num="29" title="Chapter I - Another Thing Needful" location="D/Charles Dickens/Hard Times/29.xml" />
+			<chapter num="30" title="Chapter II - Very Ridiculous" location="D/Charles Dickens/Hard Times/30.xml" />
+			<chapter num="31" title="Chapter III - Very Decided" location="D/Charles Dickens/Hard Times/31.xml" />
+			<chapter num="32" title="Chapter IV - Lost" location="D/Charles Dickens/Hard Times/32.xml" />
+			<chapter num="33" title="Chapter V - Found" location="D/Charles Dickens/Hard Times/33.xml" />
+			<chapter num="34" title="Chapter VI - The Starlight" location="D/Charles Dickens/Hard Times/34.xml" />
+			<chapter num="35" title="Chapter VII - Whelp-Hunting" location="D/Charles Dickens/Hard Times/35.xml" />
+			<chapter num="36" title="Chapter VIII - Philosophical" location="D/Charles Dickens/Hard Times/36.xml" />
+			<chapter num="37" title="Chapter IX - Final" location="D/Charles Dickens/Hard Times/37.xml" />
+		</section>
+</book>

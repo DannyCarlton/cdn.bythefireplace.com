@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40397" title="Newton Forster" author="Marryat, Frederick" location="M/Frederick Marryat/Newton Forster">
+
+	<section type="2" name="Volume The First">
+			<chapter num="1" title="Chapter I." location="M/Frederick Marryat/Newton Forster/1.xml" />
+			<chapter num="2" title="Chapter II." location="M/Frederick Marryat/Newton Forster/2.xml" />
+			<chapter num="3" title="Chapter III." location="M/Frederick Marryat/Newton Forster/3.xml" />
+			<chapter num="4" title="Chapter IV." location="M/Frederick Marryat/Newton Forster/4.xml" />
+			<chapter num="5" title="Chapter V." location="M/Frederick Marryat/Newton Forster/5.xml" />
+			<chapter num="6" title="Chapter VI." location="M/Frederick Marryat/Newton Forster/6.xml" />
+			<chapter num="7" title="Chapter VII." location="M/Frederick Marryat/Newton Forster/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="M/Frederick Marryat/Newton Forster/8.xml" />
+			<chapter num="9" title="Chapter IX." location="M/Frederick Marryat/Newton Forster/9.xml" />
+			<chapter num="10" title="Chapter X." location="M/Frederick Marryat/Newton Forster/10.xml" />
+			<chapter num="11" title="Chapter XI." location="M/Frederick Marryat/Newton Forster/11.xml" />
+			<chapter num="12" title="Chapter XII." location="M/Frederick Marryat/Newton Forster/12.xml" />
+			<chapter num="13" title="Chapter XIII." location="M/Frederick Marryat/Newton Forster/13.xml" />
+			<chapter num="14" title="Chapter XIV." location="M/Frederick Marryat/Newton Forster/14.xml" />
+			<chapter num="15" title="Chapter XV." location="M/Frederick Marryat/Newton Forster/15.xml" />
+			<chapter num="16" title="Chapter XVI." location="M/Frederick Marryat/Newton Forster/16.xml" />
+			<chapter num="17" title="Chapter XVII." location="M/Frederick Marryat/Newton Forster/17.xml" />
+			<chapter num="18" title="Chapter XVIII." location="M/Frederick Marryat/Newton Forster/18.xml" />
+
+	</section>
+	<section type="2" name="Volume The Second">
+			<chapter num="19" title="Chapter I." location="M/Frederick Marryat/Newton Forster/19.xml" />
+			<chapter num="20" title="Chapter II." location="M/Frederick Marryat/Newton Forster/20.xml" />
+			<chapter num="21" title="Chapter III." location="M/Frederick Marryat/Newton Forster/21.xml" />
+			<chapter num="22" title="Chapter IV." location="M/Frederick Marryat/Newton Forster/22.xml" />
+			<chapter num="23" title="Chapter V." location="M/Frederick Marryat/Newton Forster/23.xml" />
+			<chapter num="24" title="Chapter VI." location="M/Frederick Marryat/Newton Forster/24.xml" />
+			<chapter num="25" title="Chapter VII." location="M/Frederick Marryat/Newton Forster/25.xml" />
+			<chapter num="26" title="Chapter VIII." location="M/Frederick Marryat/Newton Forster/26.xml" />
+			<chapter num="27" title="Chapter IX." location="M/Frederick Marryat/Newton Forster/27.xml" />
+			<chapter num="28" title="Chapter X." location="M/Frederick Marryat/Newton Forster/28.xml" />
+			<chapter num="29" title="Chapter XI." location="M/Frederick Marryat/Newton Forster/29.xml" />
+			<chapter num="30" title="Chapter XII." location="M/Frederick Marryat/Newton Forster/30.xml" />
+			<chapter num="31" title="Chapter XIII." location="M/Frederick Marryat/Newton Forster/31.xml" />
+			<chapter num="32" title="Chapter XIV." location="M/Frederick Marryat/Newton Forster/32.xml" />
+			<chapter num="33" title="Chapter XV." location="M/Frederick Marryat/Newton Forster/33.xml" />
+			<chapter num="34" title="Chapter XVI." location="M/Frederick Marryat/Newton Forster/34.xml" />
+			<chapter num="35" title="Chapter XVII." location="M/Frederick Marryat/Newton Forster/35.xml" />
+			<chapter num="36" title="Chapter XVIII." location="M/Frederick Marryat/Newton Forster/36.xml" />
+			<chapter num="37" title="Chapter XIX." location="M/Frederick Marryat/Newton Forster/37.xml" />
+
+	</section>
+	<section type="2" name="Volume The Third">
+			<chapter num="38" title="Chapter I." location="M/Frederick Marryat/Newton Forster/38.xml" />
+			<chapter num="39" title=" Chapter II." location="M/Frederick Marryat/Newton Forster/39.xml" />
+			<chapter num="40" title=" Chapter III." location="M/Frederick Marryat/Newton Forster/40.xml" />
+			<chapter num="41" title=" Chapter IV." location="M/Frederick Marryat/Newton Forster/41.xml" />
+			<chapter num="42" title="Chapter V." location="M/Frederick Marryat/Newton Forster/42.xml" />
+			<chapter num="43" title=" Chapter VI." location="M/Frederick Marryat/Newton Forster/43.xml" />
+			<chapter num="44" title=" Chapter VII." location="M/Frederick Marryat/Newton Forster/44.xml" />
+			<chapter num="45" title=" Chapter VIII." location="M/Frederick Marryat/Newton Forster/45.xml" />
+			<chapter num="46" title=" Chapter IX." location="M/Frederick Marryat/Newton Forster/46.xml" />
+			<chapter num="47" title=" Chapter X." location="M/Frederick Marryat/Newton Forster/47.xml" />
+			<chapter num="48" title=" Chapter XI." location="M/Frederick Marryat/Newton Forster/48.xml" />
+			<chapter num="49" title=" Chapter XII." location="M/Frederick Marryat/Newton Forster/49.xml" />
+			<chapter num="50" title=" Chapter XIII." location="M/Frederick Marryat/Newton Forster/50.xml" />
+			<chapter num="51" title=" Chapter XIV." location="M/Frederick Marryat/Newton Forster/51.xml" />
+			<chapter num="52" title=" Chapter XV." location="M/Frederick Marryat/Newton Forster/52.xml" />
+			<chapter num="53" title=" Chapter XVI." location="M/Frederick Marryat/Newton Forster/53.xml" />
+	</section>
+</book>

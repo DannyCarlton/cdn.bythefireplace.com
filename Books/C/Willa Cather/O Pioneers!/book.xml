@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1049" title="O Pioneers!" author="Cather, Willa" location="C/Willa Cather/O Pioneers!">
+		<section type="1" name="Part I. The Wild Land">
+			<chapter num="1" title="Chapter I" location="C/Willa Cather/O Pioneers!/1.xml" />
+			<chapter num="2" title="Chapter II" location="C/Willa Cather/O Pioneers!/2.xml" />
+			<chapter num="3" title="Chapter III" location="C/Willa Cather/O Pioneers!/3.xml" />
+			<chapter num="4" title="Chapter IV" location="C/Willa Cather/O Pioneers!/4.xml" />
+			<chapter num="5" title="Chapter V" location="C/Willa Cather/O Pioneers!/5.xml" />
+		</section>
+		<section type="1" name="Part II. Neighboring Fields">
+			<chapter num="6" title="Chapter I" location="C/Willa Cather/O Pioneers!/6.xml" />
+			<chapter num="7" title="Chapter II" location="C/Willa Cather/O Pioneers!/7.xml" />
+			<chapter num="8" title="Chapter III" location="C/Willa Cather/O Pioneers!/8.xml" />
+			<chapter num="9" title="Chapter IV" location="C/Willa Cather/O Pioneers!/9.xml" />
+			<chapter num="10" title="Chapter V" location="C/Willa Cather/O Pioneers!/10.xml" />
+			<chapter num="11" title="Chapter VI" location="C/Willa Cather/O Pioneers!/11.xml" />
+			<chapter num="12" title="Chapter VII" location="C/Willa Cather/O Pioneers!/12.xml" />
+			<chapter num="13" title="Chapter VIII" location="C/Willa Cather/O Pioneers!/13.xml" />
+			<chapter num="14" title="Chapter IX" location="C/Willa Cather/O Pioneers!/14.xml" />
+			<chapter num="15" title="Chapter X" location="C/Willa Cather/O Pioneers!/15.xml" />
+			<chapter num="16" title="Chapter XI" location="C/Willa Cather/O Pioneers!/16.xml" />
+			<chapter num="17" title="Chapter XII" location="C/Willa Cather/O Pioneers!/17.xml" />
+		</section>
+		<section type="1" name="Part III. Winter Memories">
+			<chapter num="18" title="Chapter I" location="C/Willa Cather/O Pioneers!/18.xml" />
+			<chapter num="19" title="Chapter II" location="C/Willa Cather/O Pioneers!/19.xml" />
+		</section>
+		<section type="1" name="Part IV. The White Mulberry Tree">
+			<chapter num="20" title="Chapter I" location="C/Willa Cather/O Pioneers!/20.xml" />
+			<chapter num="21" title="Chapter II" location="C/Willa Cather/O Pioneers!/21.xml" />
+			<chapter num="22" title="Chapter III" location="C/Willa Cather/O Pioneers!/22.xml" />
+			<chapter num="23" title="Chapter IV" location="C/Willa Cather/O Pioneers!/23.xml" />
+			<chapter num="24" title="Chapter V" location="C/Willa Cather/O Pioneers!/24.xml" />
+			<chapter num="25" title="Chapter VI" location="C/Willa Cather/O Pioneers!/25.xml" />
+			<chapter num="26" title="Chapter VII" location="C/Willa Cather/O Pioneers!/26.xml" />
+			<chapter num="27" title="Chapter VIII" location="C/Willa Cather/O Pioneers!/27.xml" />
+		</section>
+		<section type="1" name="Part V. Alexandra">
+			<chapter num="28" title="Chapter I" location="C/Willa Cather/O Pioneers!/28.xml" />
+			<chapter num="29" title="Chapter II" location="C/Willa Cather/O Pioneers!/29.xml" />
+			<chapter num="30" title="Chapter III" location="C/Willa Cather/O Pioneers!/30.xml" />
+		</section>
+</book>

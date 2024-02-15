@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="124" name="Rousseau, Jean Jacques" location="R/Jean Jacques Rousseau" />
+	<author aid="126" name="Robinson, Edwin Arlington" location="R/Edwin Arlington Robinson" />
+	<author aid="128" name="Radcliffe, Ann" location="R/Ann Radcliffe" />
+	<author aid="205" name="Russell, Bertrand" location="R/Bertrand Russell" />
+	<author aid="86" name="Reed, Myrtle" location="R/Myrtle Reed" />
+	<author aid="87" name="Rinehart, Mary Roberts" location="R/Mary Roberts Rinehart" />
+	<author aid="88" name="Rohmer, Sax" location="R/Sax Rohmer" />
+	<author aid="93" name="Reeve, Arthur B." location="R/Arthur B. Reeve" />
+	<author aid="242" name="Raine, William MacLeod" location="R/William MacLeod Raine" />
+	<author aid="243" name="Reade, Charles" location="R/Charles Reade" />
+	<author aid="250" name="Richmond, Grace S." location="R/Grace S. Richmond" />
+	<author aid="246" name="Ralphson, G. Harvey" location="R/G. Harvey Ralphson" />
+	<author aid="252" name="Rice, Alice Hegan" location="R/Alice Hegan Rice" />
+	<author aid="5006" name="Roe, Edward Payson" location="R/Edward Payson Roe" />
+	<author aid="256" name="Richards, Laura E." location="R/Laura E. Richards" />
+</authors>

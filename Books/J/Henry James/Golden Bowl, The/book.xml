@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40123" title="Golden Bowl, The" author="James, Henry" location="J/Henry James/Golden Bowl, The">
+
+	<section type="2" name="Volume 1">
+			<chapter num="1" title="Preface." location="J/Henry James/Golden Bowl, The/1.xml" />
+
+	</section>
+	<section type="2" name="Book First. The Prince">
+			<chapter num="2" title="Chapter I." location="J/Henry James/Golden Bowl, The/2.xml" />
+			<chapter num="3" title="Chapter II." location="J/Henry James/Golden Bowl, The/3.xml" />
+			<chapter num="4" title="Chapter III." location="J/Henry James/Golden Bowl, The/4.xml" />
+			<chapter num="5" title="Chapter IV." location="J/Henry James/Golden Bowl, The/5.xml" />
+			<chapter num="6" title="Chapter V." location="J/Henry James/Golden Bowl, The/6.xml" />
+			<chapter num="7" title="Chapter VI." location="J/Henry James/Golden Bowl, The/7.xml" />
+
+	</section>
+	<section type="2" name="Book Second">
+			<chapter num="8" title="Chapter I." location="J/Henry James/Golden Bowl, The/8.xml" />
+			<chapter num="9" title="Chapter II." location="J/Henry James/Golden Bowl, The/9.xml" />
+			<chapter num="10" title="Chapter III." location="J/Henry James/Golden Bowl, The/10.xml" />
+			<chapter num="11" title="Chapter IV." location="J/Henry James/Golden Bowl, The/11.xml" />
+			<chapter num="12" title="Chapter V." location="J/Henry James/Golden Bowl, The/12.xml" />
+			<chapter num="13" title="Chapter VI." location="J/Henry James/Golden Bowl, The/13.xml" />
+			<chapter num="14" title="Chapter VII." location="J/Henry James/Golden Bowl, The/14.xml" />
+
+	</section>
+	<section type="2" name="Book Third">
+			<chapter num="15" title="Chapter I." location="J/Henry James/Golden Bowl, The/15.xml" />
+			<chapter num="16" title="Chapter II." location="J/Henry James/Golden Bowl, The/16.xml" />
+			<chapter num="17" title="Chapter III." location="J/Henry James/Golden Bowl, The/17.xml" />
+			<chapter num="18" title="Chapter IV." location="J/Henry James/Golden Bowl, The/18.xml" />
+			<chapter num="19" title="Chapter V." location="J/Henry James/Golden Bowl, The/19.xml" />
+			<chapter num="20" title="Chapter VI." location="J/Henry James/Golden Bowl, The/20.xml" />
+			<chapter num="21" title="Chapter VII." location="J/Henry James/Golden Bowl, The/21.xml" />
+			<chapter num="22" title="Chapter VIII." location="J/Henry James/Golden Bowl, The/22.xml" />
+			<chapter num="23" title="Chapter IX." location="J/Henry James/Golden Bowl, The/23.xml" />
+			<chapter num="24" title="Chapter X." location="J/Henry James/Golden Bowl, The/24.xml" />
+			<chapter num="25" title="Chapter XI." location="J/Henry James/Golden Bowl, The/25.xml" />
+
+	</section>
+	<section type="2" name="Book Fourth. The Princess">
+			<chapter num="26" title="Chapter I." location="J/Henry James/Golden Bowl, The/26.xml" />
+			<chapter num="27" title="Chapter II." location="J/Henry James/Golden Bowl, The/27.xml" />
+			<chapter num="28" title="Chapter III." location="J/Henry James/Golden Bowl, The/28.xml" />
+			<chapter num="29" title="Chapter IV." location="J/Henry James/Golden Bowl, The/29.xml" />
+			<chapter num="30" title="Chapter V." location="J/Henry James/Golden Bowl, The/30.xml" />
+			<chapter num="31" title="Chapter VI." location="J/Henry James/Golden Bowl, The/31.xml" />
+			<chapter num="32" title="Chapter VII." location="J/Henry James/Golden Bowl, The/32.xml" />
+			<chapter num="33" title="Chapter VIII." location="J/Henry James/Golden Bowl, The/33.xml" />
+			<chapter num="34" title="Chapter IX." location="J/Henry James/Golden Bowl, The/34.xml" />
+			<chapter num="35" title="Chapter X." location="J/Henry James/Golden Bowl, The/35.xml" />
+
+	</section>
+	<section type="2" name="Book Fifth">
+			<chapter num="36" title="Chapter I." location="J/Henry James/Golden Bowl, The/36.xml" />
+			<chapter num="37" title="Chapter II." location="J/Henry James/Golden Bowl, The/37.xml" />
+			<chapter num="38" title="Chapter III." location="J/Henry James/Golden Bowl, The/38.xml" />
+			<chapter num="39" title="Chapter IV." location="J/Henry James/Golden Bowl, The/39.xml" />
+			<chapter num="40" title="Chapter V." location="J/Henry James/Golden Bowl, The/40.xml" />
+	</section>
+</book>

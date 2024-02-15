@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1414" title="Valley of the Moon, The" author="London, Jack" location="L/Jack London/Valley of the Moon, The">
+		<section type="1" name="Book I">
+			<chapter num="1" title="Chapter 1" location="L/Jack London/Valley of the Moon, The/1.xml" />
+			<chapter num="2" title="Chapter II" location="L/Jack London/Valley of the Moon, The/2.xml" />
+			<chapter num="3" title="Chapter III" location="L/Jack London/Valley of the Moon, The/3.xml" />
+			<chapter num="4" title="Chapter IV" location="L/Jack London/Valley of the Moon, The/4.xml" />
+			<chapter num="5" title="Chapter V" location="L/Jack London/Valley of the Moon, The/5.xml" />
+			<chapter num="6" title="Chapter VI" location="L/Jack London/Valley of the Moon, The/6.xml" />
+			<chapter num="7" title="Chapter VII" location="L/Jack London/Valley of the Moon, The/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="L/Jack London/Valley of the Moon, The/8.xml" />
+			<chapter num="9" title="Chapter IX" location="L/Jack London/Valley of the Moon, The/9.xml" />
+			<chapter num="10" title="Chapter X" location="L/Jack London/Valley of the Moon, The/10.xml" />
+			<chapter num="11" title="Chapter XI" location="L/Jack London/Valley of the Moon, The/11.xml" />
+			<chapter num="12" title="Chapter XII" location="L/Jack London/Valley of the Moon, The/12.xml" />
+			<chapter num="13" title="Chapter XIII" location="L/Jack London/Valley of the Moon, The/13.xml" />
+			<chapter num="14" title="Chapter XIV" location="L/Jack London/Valley of the Moon, The/14.xml" />
+			<chapter num="15" title="Chapter XV" location="L/Jack London/Valley of the Moon, The/15.xml" />
+		</section>
+		<section type="1" name="Book II">
+			<chapter num="16" title="Chapter I" location="L/Jack London/Valley of the Moon, The/16.xml" />
+			<chapter num="17" title="Chapter II" location="L/Jack London/Valley of the Moon, The/17.xml" />
+			<chapter num="18" title="Chapter III" location="L/Jack London/Valley of the Moon, The/18.xml" />
+			<chapter num="19" title="Chapter IV" location="L/Jack London/Valley of the Moon, The/19.xml" />
+			<chapter num="20" title="Chapter V" location="L/Jack London/Valley of the Moon, The/20.xml" />
+			<chapter num="21" title="Chapter VI" location="L/Jack London/Valley of the Moon, The/21.xml" />
+			<chapter num="22" title="Chapter VII" location="L/Jack London/Valley of the Moon, The/22.xml" />
+			<chapter num="23" title="Chapter VIII" location="L/Jack London/Valley of the Moon, The/23.xml" />
+			<chapter num="24" title="Chapter IX" location="L/Jack London/Valley of the Moon, The/24.xml" />
+			<chapter num="25" title="Chapter X" location="L/Jack London/Valley of the Moon, The/25.xml" />
+			<chapter num="26" title="Chapter XI" location="L/Jack London/Valley of the Moon, The/26.xml" />
+			<chapter num="27" title="Chapter XII" location="L/Jack London/Valley of the Moon, The/27.xml" />
+			<chapter num="28" title="Chapter XIII" location="L/Jack London/Valley of the Moon, The/28.xml" />
+			<chapter num="29" title="Chapter XIV" location="L/Jack London/Valley of the Moon, The/29.xml" />
+			<chapter num="30" title="Chapter XV" location="L/Jack London/Valley of the Moon, The/30.xml" />
+			<chapter num="31" title="Chapter XVI" location="L/Jack London/Valley of the Moon, The/31.xml" />
+			<chapter num="32" title="Chapter XVII" location="L/Jack London/Valley of the Moon, The/32.xml" />
+			<chapter num="33" title="Chapter XVIII" location="L/Jack London/Valley of the Moon, The/33.xml" />
+			<chapter num="34" title="Chapter XIX" location="L/Jack London/Valley of the Moon, The/34.xml" />
+		</section>
+		<section type="1" name="Book III">
+			<chapter num="35" title="Chapter I" location="L/Jack London/Valley of the Moon, The/35.xml" />
+			<chapter num="36" title="Chapter II" location="L/Jack London/Valley of the Moon, The/36.xml" />
+			<chapter num="37" title="Chapter III" location="L/Jack London/Valley of the Moon, The/37.xml" />
+			<chapter num="38" title="Chapter IV" location="L/Jack London/Valley of the Moon, The/38.xml" />
+			<chapter num="39" title="Chapter V" location="L/Jack London/Valley of the Moon, The/39.xml" />
+			<chapter num="40" title="Chapter VI" location="L/Jack London/Valley of the Moon, The/40.xml" />
+			<chapter num="41" title="Chapter VII" location="L/Jack London/Valley of the Moon, The/41.xml" />
+			<chapter num="42" title="Chapter VIII" location="L/Jack London/Valley of the Moon, The/42.xml" />
+			<chapter num="43" title="Chapter IX" location="L/Jack London/Valley of the Moon, The/43.xml" />
+			<chapter num="44" title="Chapter X" location="L/Jack London/Valley of the Moon, The/44.xml" />
+			<chapter num="45" title="Chapter XI" location="L/Jack London/Valley of the Moon, The/45.xml" />
+			<chapter num="46" title="Chapter XII" location="L/Jack London/Valley of the Moon, The/46.xml" />
+			<chapter num="47" title="Chapter XIII" location="L/Jack London/Valley of the Moon, The/47.xml" />
+			<chapter num="48" title="Chapter XIV" location="L/Jack London/Valley of the Moon, The/48.xml" />
+			<chapter num="49" title="Chapter XV" location="L/Jack London/Valley of the Moon, The/49.xml" />
+			<chapter num="50" title="Chapter XVI" location="L/Jack London/Valley of the Moon, The/50.xml" />
+			<chapter num="51" title="Chapter XVII" location="L/Jack London/Valley of the Moon, The/51.xml" />
+			<chapter num="52" title="Chapter XVIII" location="L/Jack London/Valley of the Moon, The/52.xml" />
+			<chapter num="53" title="Chapter XIX" location="L/Jack London/Valley of the Moon, The/53.xml" />
+			<chapter num="54" title="Chapter XX" location="L/Jack London/Valley of the Moon, The/54.xml" />
+			<chapter num="55" title="Chapter XXI" location="L/Jack London/Valley of the Moon, The/55.xml" />
+			<chapter num="56" title="Chapter XXII" location="L/Jack London/Valley of the Moon, The/56.xml" />
+		</section>
+</book>

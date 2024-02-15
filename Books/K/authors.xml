@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="160" name="Keats, John" location="K/John Keats" />
+	<author aid="201" name="Kafka, Franz" location="K/Franz Kafka" />
+	<author aid="202" name="Kingsley, Charles" location="K/Charles Kingsley" />
+	<author aid="214" name="Khayyam, Omar" location="K/Omar Khayyam" />
+	<author aid="50" name="Kipling, Rudyard" location="K/Rudyard Kipling" />
+	<author aid="238" name="Kyne, Peter B." location="K/Peter B. Kyne" />
+	<author aid="5004" name="Knibbs, Henry Herbert" location="K/Henry Herbert Knibbs" />
+	<author aid="262" name="King, Basil" location="K/Basil King" />
+</authors>

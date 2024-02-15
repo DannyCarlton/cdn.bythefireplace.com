@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="412" title="Idiot, The" author="Dostoevsky, Fyodor" location="D/Fyodor Dostoevsky/Idiot, The">
+		<section type="1" name="Part I">
+			<chapter num="1" title="Chapter I" location="D/Fyodor Dostoevsky/Idiot, The/1.xml" />
+			<chapter num="2" title="Chapter II" location="D/Fyodor Dostoevsky/Idiot, The/2.xml" />
+			<chapter num="3" title="Chapter III" location="D/Fyodor Dostoevsky/Idiot, The/3.xml" />
+			<chapter num="4" title="Chapter IV" location="D/Fyodor Dostoevsky/Idiot, The/4.xml" />
+			<chapter num="5" title="Chapter V" location="D/Fyodor Dostoevsky/Idiot, The/5.xml" />
+			<chapter num="6" title="Chapter VI" location="D/Fyodor Dostoevsky/Idiot, The/6.xml" />
+			<chapter num="7" title="Chapter VII" location="D/Fyodor Dostoevsky/Idiot, The/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="D/Fyodor Dostoevsky/Idiot, The/8.xml" />
+			<chapter num="9" title="Chapter IX" location="D/Fyodor Dostoevsky/Idiot, The/9.xml" />
+			<chapter num="10" title="Chapter X" location="D/Fyodor Dostoevsky/Idiot, The/10.xml" />
+			<chapter num="11" title="Chapter XI" location="D/Fyodor Dostoevsky/Idiot, The/11.xml" />
+			<chapter num="12" title="Chapter XII" location="D/Fyodor Dostoevsky/Idiot, The/12.xml" />
+			<chapter num="13" title="Chapter XIII" location="D/Fyodor Dostoevsky/Idiot, The/13.xml" />
+			<chapter num="14" title="Chapter XIV" location="D/Fyodor Dostoevsky/Idiot, The/14.xml" />
+			<chapter num="15" title="Chapter XV" location="D/Fyodor Dostoevsky/Idiot, The/15.xml" />
+			<chapter num="16" title="Chapter XVI" location="D/Fyodor Dostoevsky/Idiot, The/16.xml" />
+		</section>
+		<section type="1" name="Part II">
+			<chapter num="17" title="Chapter I" location="D/Fyodor Dostoevsky/Idiot, The/17.xml" />
+			<chapter num="18" title="Chapter II" location="D/Fyodor Dostoevsky/Idiot, The/18.xml" />
+			<chapter num="19" title="Chapter III" location="D/Fyodor Dostoevsky/Idiot, The/19.xml" />
+			<chapter num="20" title="Chapter IV" location="D/Fyodor Dostoevsky/Idiot, The/20.xml" />
+			<chapter num="21" title="Chapter V" location="D/Fyodor Dostoevsky/Idiot, The/21.xml" />
+			<chapter num="22" title="Chapter VI" location="D/Fyodor Dostoevsky/Idiot, The/22.xml" />
+			<chapter num="23" title="Chapter VII" location="D/Fyodor Dostoevsky/Idiot, The/23.xml" />
+			<chapter num="24" title="Chapter VIII" location="D/Fyodor Dostoevsky/Idiot, The/24.xml" />
+			<chapter num="25" title="Chapter IX" location="D/Fyodor Dostoevsky/Idiot, The/25.xml" />
+			<chapter num="26" title="Chapter X" location="D/Fyodor Dostoevsky/Idiot, The/26.xml" />
+			<chapter num="27" title="Chapter XI" location="D/Fyodor Dostoevsky/Idiot, The/27.xml" />
+			<chapter num="28" title="Chapter XII" location="D/Fyodor Dostoevsky/Idiot, The/28.xml" />
+		</section>
+		<section type="1" name="Part III">
+			<chapter num="29" title="Chapter I" location="D/Fyodor Dostoevsky/Idiot, The/29.xml" />
+			<chapter num="30" title="Chapter II" location="D/Fyodor Dostoevsky/Idiot, The/30.xml" />
+			<chapter num="31" title="Chapter III" location="D/Fyodor Dostoevsky/Idiot, The/31.xml" />
+			<chapter num="32" title="Chapter IV" location="D/Fyodor Dostoevsky/Idiot, The/32.xml" />
+			<chapter num="33" title="Chapter V" location="D/Fyodor Dostoevsky/Idiot, The/33.xml" />
+			<chapter num="34" title="Chapter VI" location="D/Fyodor Dostoevsky/Idiot, The/34.xml" />
+			<chapter num="35" title="Chapter VII" location="D/Fyodor Dostoevsky/Idiot, The/35.xml" />
+			<chapter num="36" title="Chapter VIII" location="D/Fyodor Dostoevsky/Idiot, The/36.xml" />
+			<chapter num="37" title="Chapter IX" location="D/Fyodor Dostoevsky/Idiot, The/37.xml" />
+			<chapter num="38" title="Chapter X" location="D/Fyodor Dostoevsky/Idiot, The/38.xml" />
+		</section>
+		<section type="1" name="Part IV">
+			<chapter num="39" title="Chapter I" location="D/Fyodor Dostoevsky/Idiot, The/39.xml" />
+			<chapter num="40" title="Chapter II" location="D/Fyodor Dostoevsky/Idiot, The/40.xml" />
+			<chapter num="41" title="Chapter III" location="D/Fyodor Dostoevsky/Idiot, The/41.xml" />
+			<chapter num="42" title="Chapter IV" location="D/Fyodor Dostoevsky/Idiot, The/42.xml" />
+			<chapter num="43" title="Chapter V" location="D/Fyodor Dostoevsky/Idiot, The/43.xml" />
+			<chapter num="44" title="Chapter VI" location="D/Fyodor Dostoevsky/Idiot, The/44.xml" />
+			<chapter num="45" title="Chapter VII" location="D/Fyodor Dostoevsky/Idiot, The/45.xml" />
+			<chapter num="46" title="Chapter VIII" location="D/Fyodor Dostoevsky/Idiot, The/46.xml" />
+			<chapter num="47" title="Chapter IX" location="D/Fyodor Dostoevsky/Idiot, The/47.xml" />
+			<chapter num="48" title="Chapter X" location="D/Fyodor Dostoevsky/Idiot, The/48.xml" />
+			<chapter num="49" title="Chapter XI" location="D/Fyodor Dostoevsky/Idiot, The/49.xml" />
+			<chapter num="50" title="Chapter XII" location="D/Fyodor Dostoevsky/Idiot, The/50.xml" />
+		</section>
+</book>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="108" title="Walden" author="Thoreau, Henry David" location="T/Henry David Thoreau/Walden">
+			<chapter num="1" title="1. Economy" location="T/Henry David Thoreau/Walden/1.xml" />
+			<chapter num="2" title="2. Where I Lived, and What I Lived For" location="T/Henry David Thoreau/Walden/2.xml" />
+			<chapter num="3" title="3. Reading" location="T/Henry David Thoreau/Walden/3.xml" />
+			<chapter num="4" title="4. Sounds" location="T/Henry David Thoreau/Walden/4.xml" />
+			<chapter num="5" title="5. Solitude" location="T/Henry David Thoreau/Walden/5.xml" />
+			<chapter num="6" title="6. Visitors" location="T/Henry David Thoreau/Walden/6.xml" />
+			<chapter num="7" title="7. The Bean-Field" location="T/Henry David Thoreau/Walden/7.xml" />
+			<chapter num="8" title="8. The Village" location="T/Henry David Thoreau/Walden/8.xml" />
+			<chapter num="9" title="9. The Ponds" location="T/Henry David Thoreau/Walden/9.xml" />
+			<chapter num="10" title="10. Baker Farm" location="T/Henry David Thoreau/Walden/10.xml" />
+			<chapter num="11" title="11. Higher Laws" location="T/Henry David Thoreau/Walden/11.xml" />
+			<chapter num="12" title="12. Brute Neighbors" location="T/Henry David Thoreau/Walden/12.xml" />
+			<chapter num="13" title="13. House-Warming" location="T/Henry David Thoreau/Walden/13.xml" />
+			<chapter num="14" title="14. Former Inhabitants and Winter Visitors" location="T/Henry David Thoreau/Walden/14.xml" />
+			<chapter num="15" title="15. Winter Animals" location="T/Henry David Thoreau/Walden/15.xml" />
+			<chapter num="16" title="16. The Pond in Winter" location="T/Henry David Thoreau/Walden/16.xml" />
+			<chapter num="17" title="17. Spring" location="T/Henry David Thoreau/Walden/17.xml" />
+			<chapter num="18" title="18. Conclusion" location="T/Henry David Thoreau/Walden/18.xml" />
+			<chapter num="19" title="On the Duty of Civil Disobedience" location="T/Henry David Thoreau/Walden/19.xml" />
+</book>

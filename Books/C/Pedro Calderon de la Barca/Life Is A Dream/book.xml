@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1383" title="Life Is A Dream" author="Calderon de la Barca, Pedro" location="C/Pedro Calderon de la Barca/Life Is A Dream">
+			<chapter num="1" title="Dramatis Personae" location="C/Pedro Calderon de la Barca/Life Is A Dream/1.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="2" title="Scene I" location="C/Pedro Calderon de la Barca/Life Is A Dream/2.xml" />
+			<chapter num="3" title="Scene II." location="C/Pedro Calderon de la Barca/Life Is A Dream/3.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="4" title="Scene I" location="C/Pedro Calderon de la Barca/Life Is A Dream/4.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="5" title="Scene I." location="C/Pedro Calderon de la Barca/Life Is A Dream/5.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="6" title="Scene I." location="C/Pedro Calderon de la Barca/Life Is A Dream/6.xml" />
+		</section>
+</book>

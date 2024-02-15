@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40280" title="Homeward Bound" author="Cooper, James Fenimore" location="C/James Fenimore Cooper/Homeward Bound">
+			<chapter num="1" title="Preface" location="C/James Fenimore Cooper/Homeward Bound/1.xml" />
+
+	<section type="2" name="Volume 1">
+			<chapter num="2" title="Chapter I" location="C/James Fenimore Cooper/Homeward Bound/2.xml" />
+			<chapter num="3" title="Chapter II" location="C/James Fenimore Cooper/Homeward Bound/3.xml" />
+			<chapter num="4" title="Chapter III" location="C/James Fenimore Cooper/Homeward Bound/4.xml" />
+			<chapter num="5" title="Chapter IV" location="C/James Fenimore Cooper/Homeward Bound/5.xml" />
+			<chapter num="6" title="Chapter V" location="C/James Fenimore Cooper/Homeward Bound/6.xml" />
+			<chapter num="7" title="Chapter VI" location="C/James Fenimore Cooper/Homeward Bound/7.xml" />
+			<chapter num="8" title="Chapter VII" location="C/James Fenimore Cooper/Homeward Bound/8.xml" />
+			<chapter num="9" title="Chapter VII" location="C/James Fenimore Cooper/Homeward Bound/9.xml" />
+			<chapter num="10" title="Chapter IX" location="C/James Fenimore Cooper/Homeward Bound/10.xml" />
+			<chapter num="11" title="Chapter X" location="C/James Fenimore Cooper/Homeward Bound/11.xml" />
+			<chapter num="12" title="Chapter XI" location="C/James Fenimore Cooper/Homeward Bound/12.xml" />
+			<chapter num="13" title="Chapter XII" location="C/James Fenimore Cooper/Homeward Bound/13.xml" />
+			<chapter num="14" title="Chapter XIII" location="C/James Fenimore Cooper/Homeward Bound/14.xml" />
+			<chapter num="15" title="Chapter XIV" location="C/James Fenimore Cooper/Homeward Bound/15.xml" />
+			<chapter num="16" title="Chapter XV" location="C/James Fenimore Cooper/Homeward Bound/16.xml" />
+			<chapter num="17" title="Chapter XVI" location="C/James Fenimore Cooper/Homeward Bound/17.xml" />
+			<chapter num="18" title="Chapter XVII" location="C/James Fenimore Cooper/Homeward Bound/18.xml" />
+
+	</section>
+	<section type="2" name="Volume 2">
+			<chapter num="19" title="Chapter I" location="C/James Fenimore Cooper/Homeward Bound/19.xml" />
+			<chapter num="20" title="Chapter II" location="C/James Fenimore Cooper/Homeward Bound/20.xml" />
+			<chapter num="21" title="Chapter III" location="C/James Fenimore Cooper/Homeward Bound/21.xml" />
+			<chapter num="22" title="Chapter IV" location="C/James Fenimore Cooper/Homeward Bound/22.xml" />
+			<chapter num="23" title="Chapter V" location="C/James Fenimore Cooper/Homeward Bound/23.xml" />
+			<chapter num="24" title="Chapter VI" location="C/James Fenimore Cooper/Homeward Bound/24.xml" />
+			<chapter num="25" title="Chapter VII" location="C/James Fenimore Cooper/Homeward Bound/25.xml" />
+			<chapter num="26" title="Chapter VIII" location="C/James Fenimore Cooper/Homeward Bound/26.xml" />
+			<chapter num="27" title="Chapter IX" location="C/James Fenimore Cooper/Homeward Bound/27.xml" />
+			<chapter num="28" title="Chapter X" location="C/James Fenimore Cooper/Homeward Bound/28.xml" />
+			<chapter num="29" title="Chapter XI" location="C/James Fenimore Cooper/Homeward Bound/29.xml" />
+			<chapter num="30" title="Chapter XII" location="C/James Fenimore Cooper/Homeward Bound/30.xml" />
+			<chapter num="31" title="Chapter XIII" location="C/James Fenimore Cooper/Homeward Bound/31.xml" />
+			<chapter num="32" title="Chapter XIV" location="C/James Fenimore Cooper/Homeward Bound/32.xml" />
+			<chapter num="33" title="Chapter XV" location="C/James Fenimore Cooper/Homeward Bound/33.xml" />
+			<chapter num="34" title="Chapter XVI" location="C/James Fenimore Cooper/Homeward Bound/34.xml" />
+			<chapter num="35" title="Chapter XVII" location="C/James Fenimore Cooper/Homeward Bound/35.xml" />
+	</section>
+</book>

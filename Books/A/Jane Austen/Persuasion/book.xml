@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="29" title="Persuasion" author="Austen, Jane" location="A/Jane Austen/Persuasion">
+			<chapter num="1" title="Chapter 1" location="A/Jane Austen/Persuasion/1.xml" />
+			<chapter num="2" title="Chapter 2" location="A/Jane Austen/Persuasion/2.xml" />
+			<chapter num="3" title="Chapter 3" location="A/Jane Austen/Persuasion/3.xml" />
+			<chapter num="4" title="Chapter 4" location="A/Jane Austen/Persuasion/4.xml" />
+			<chapter num="5" title="Chapter 5" location="A/Jane Austen/Persuasion/5.xml" />
+			<chapter num="6" title="Chapter 6" location="A/Jane Austen/Persuasion/6.xml" />
+			<chapter num="7" title="Chapter 7" location="A/Jane Austen/Persuasion/7.xml" />
+			<chapter num="8" title="Chapter 8" location="A/Jane Austen/Persuasion/8.xml" />
+			<chapter num="9" title="Chapter 9" location="A/Jane Austen/Persuasion/9.xml" />
+			<chapter num="10" title="Chapter 10" location="A/Jane Austen/Persuasion/10.xml" />
+			<chapter num="11" title="Chapter 11" location="A/Jane Austen/Persuasion/11.xml" />
+			<chapter num="12" title="Chapter 12" location="A/Jane Austen/Persuasion/12.xml" />
+			<chapter num="13" title="Chapter 13" location="A/Jane Austen/Persuasion/13.xml" />
+			<chapter num="14" title="Chapter 14" location="A/Jane Austen/Persuasion/14.xml" />
+			<chapter num="15" title="Chapter 15" location="A/Jane Austen/Persuasion/15.xml" />
+			<chapter num="16" title="Chapter 16" location="A/Jane Austen/Persuasion/16.xml" />
+			<chapter num="17" title="Chapter 17" location="A/Jane Austen/Persuasion/17.xml" />
+			<chapter num="18" title="Chapter 18" location="A/Jane Austen/Persuasion/18.xml" />
+			<chapter num="19" title="Chapter 19" location="A/Jane Austen/Persuasion/19.xml" />
+			<chapter num="20" title="Chapter 20" location="A/Jane Austen/Persuasion/20.xml" />
+			<chapter num="21" title="Chapter 21" location="A/Jane Austen/Persuasion/21.xml" />
+			<chapter num="22" title="Chapter 22" location="A/Jane Austen/Persuasion/22.xml" />
+			<chapter num="23" title="Chapter 23" location="A/Jane Austen/Persuasion/23.xml" />
+			<chapter num="24" title="Chapter 24" location="A/Jane Austen/Persuasion/24.xml" />
+</book>

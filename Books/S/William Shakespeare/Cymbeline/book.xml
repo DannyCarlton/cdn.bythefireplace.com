@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="888" title="Cymbeline" author="Shakespeare, William" location="S/William Shakespeare/Cymbeline">
+			<chapter num="1" title="Dramatis Personae" location="S/William Shakespeare/Cymbeline/1.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="2" title="Scene I." location="S/William Shakespeare/Cymbeline/2.xml" />
+			<chapter num="3" title="Scene II." location="S/William Shakespeare/Cymbeline/3.xml" />
+			<chapter num="4" title="Scene III." location="S/William Shakespeare/Cymbeline/4.xml" />
+			<chapter num="5" title="Scene IV." location="S/William Shakespeare/Cymbeline/5.xml" />
+			<chapter num="6" title="Scene V." location="S/William Shakespeare/Cymbeline/6.xml" />
+			<chapter num="7" title="Scene VI." location="S/William Shakespeare/Cymbeline/7.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="8" title="Scene I." location="S/William Shakespeare/Cymbeline/8.xml" />
+			<chapter num="9" title="Scene II." location="S/William Shakespeare/Cymbeline/9.xml" />
+			<chapter num="10" title="Scene III." location="S/William Shakespeare/Cymbeline/10.xml" />
+			<chapter num="11" title="Scene IV." location="S/William Shakespeare/Cymbeline/11.xml" />
+			<chapter num="12" title="Scene V." location="S/William Shakespeare/Cymbeline/12.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="13" title="Scene I." location="S/William Shakespeare/Cymbeline/13.xml" />
+			<chapter num="14" title="Scene II." location="S/William Shakespeare/Cymbeline/14.xml" />
+			<chapter num="15" title="Scene III." location="S/William Shakespeare/Cymbeline/15.xml" />
+			<chapter num="16" title="Scene IV." location="S/William Shakespeare/Cymbeline/16.xml" />
+			<chapter num="17" title="Scene V." location="S/William Shakespeare/Cymbeline/17.xml" />
+			<chapter num="18" title="Scene VI." location="S/William Shakespeare/Cymbeline/18.xml" />
+			<chapter num="19" title="Scene VII." location="S/William Shakespeare/Cymbeline/19.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="20" title="Scene I." location="S/William Shakespeare/Cymbeline/20.xml" />
+			<chapter num="21" title="Scene II." location="S/William Shakespeare/Cymbeline/21.xml" />
+			<chapter num="22" title="Scene III." location="S/William Shakespeare/Cymbeline/22.xml" />
+			<chapter num="23" title="Scene IV." location="S/William Shakespeare/Cymbeline/23.xml" />
+		</section>
+		<section type="1" name="ACT V">
+			<chapter num="24" title="Scene I." location="S/William Shakespeare/Cymbeline/24.xml" />
+			<chapter num="25" title="Scene II." location="S/William Shakespeare/Cymbeline/25.xml" />
+			<chapter num="26" title="Scene III." location="S/William Shakespeare/Cymbeline/26.xml" />
+			<chapter num="27" title="Scene IV." location="S/William Shakespeare/Cymbeline/27.xml" />
+			<chapter num="28" title="Scene V." location="S/William Shakespeare/Cymbeline/28.xml" />
+		</section>
+</book>

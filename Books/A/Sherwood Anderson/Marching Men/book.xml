@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2844" title="Marching Men" author="Anderson, Sherwood" location="A/Sherwood Anderson/Marching Men">
+		<section type="1" name="Book I">
+			<chapter num="1" title="Chapter I" location="A/Sherwood Anderson/Marching Men/1.xml" />
+			<chapter num="2" title="Chapter II" location="A/Sherwood Anderson/Marching Men/2.xml" />
+			<chapter num="3" title="Chapter III" location="A/Sherwood Anderson/Marching Men/3.xml" />
+			<chapter num="4" title="Chapter IV" location="A/Sherwood Anderson/Marching Men/4.xml" />
+		</section>
+		<section type="1" name="Book II">
+			<chapter num="5" title="Chapter I" location="A/Sherwood Anderson/Marching Men/5.xml" />
+			<chapter num="6" title="Chapter II" location="A/Sherwood Anderson/Marching Men/6.xml" />
+			<chapter num="7" title="Chapter III" location="A/Sherwood Anderson/Marching Men/7.xml" />
+			<chapter num="8" title="Chapter IV" location="A/Sherwood Anderson/Marching Men/8.xml" />
+			<chapter num="9" title="Chapter V" location="A/Sherwood Anderson/Marching Men/9.xml" />
+			<chapter num="10" title="Chapter VI" location="A/Sherwood Anderson/Marching Men/10.xml" />
+			<chapter num="11" title="Chapter VII" location="A/Sherwood Anderson/Marching Men/11.xml" />
+		</section>
+		<section type="1" name="Book III">
+			<chapter num="12" title="Chapter I" location="A/Sherwood Anderson/Marching Men/12.xml" />
+			<chapter num="13" title="Chapter II" location="A/Sherwood Anderson/Marching Men/13.xml" />
+			<chapter num="14" title="Chapter III" location="A/Sherwood Anderson/Marching Men/14.xml" />
+		</section>
+		<section type="1" name="Book IV">
+			<chapter num="15" title="Chapter I" location="A/Sherwood Anderson/Marching Men/15.xml" />
+			<chapter num="16" title="Chapter II" location="A/Sherwood Anderson/Marching Men/16.xml" />
+			<chapter num="17" title="Chapter III" location="A/Sherwood Anderson/Marching Men/17.xml" />
+			<chapter num="18" title="Chapter IV" location="A/Sherwood Anderson/Marching Men/18.xml" />
+			<chapter num="19" title="Chapter V" location="A/Sherwood Anderson/Marching Men/19.xml" />
+			<chapter num="20" title="Chapter VI" location="A/Sherwood Anderson/Marching Men/20.xml" />
+		</section>
+		<section type="1" name="Book V">
+			<chapter num="21" title="Chapter I" location="A/Sherwood Anderson/Marching Men/21.xml" />
+			<chapter num="22" title="Chapter II" location="A/Sherwood Anderson/Marching Men/22.xml" />
+			<chapter num="23" title="Chapter III" location="A/Sherwood Anderson/Marching Men/23.xml" />
+			<chapter num="24" title="Chapter IV" location="A/Sherwood Anderson/Marching Men/24.xml" />
+			<chapter num="25" title="Chapter V" location="A/Sherwood Anderson/Marching Men/25.xml" />
+			<chapter num="26" title="Chapter VI" location="A/Sherwood Anderson/Marching Men/26.xml" />
+			<chapter num="27" title="Chapter VII" location="A/Sherwood Anderson/Marching Men/27.xml" />
+		</section>
+		<section type="1" name="Book VI">
+			<chapter num="28" title="Chapter I" location="A/Sherwood Anderson/Marching Men/28.xml" />
+			<chapter num="29" title="Chapter II" location="A/Sherwood Anderson/Marching Men/29.xml" />
+			<chapter num="30" title="Chapter III" location="A/Sherwood Anderson/Marching Men/30.xml" />
+			<chapter num="31" title="Chapter IV" location="A/Sherwood Anderson/Marching Men/31.xml" />
+			<chapter num="32" title="Chapter V" location="A/Sherwood Anderson/Marching Men/32.xml" />
+			<chapter num="33" title="Chapter VI" location="A/Sherwood Anderson/Marching Men/33.xml" />
+		</section>
+		<section type="1" name="Book VII">
+			<chapter num="34" title="Chapter I" location="A/Sherwood Anderson/Marching Men/34.xml" />
+			<chapter num="35" title="Chapter II" location="A/Sherwood Anderson/Marching Men/35.xml" />
+		</section>
+</book>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2782" title="Twilight in Italy" author="Lawrence, D. H." location="L/D. H. Lawrence/Twilight in Italy">
+			<chapter num="1" title="The Crucifix Across the Mountains" location="L/D. H. Lawrence/Twilight in Italy/1.xml" />
+		<section type="1" name="On the Lago di Garda">
+			<chapter num="2" title="1. The Spinner and the Monks" location="L/D. H. Lawrence/Twilight in Italy/2.xml" />
+			<chapter num="3" title="2. The Lemon Gardens" location="L/D. H. Lawrence/Twilight in Italy/3.xml" />
+			<chapter num="4" title="3. The Theatre" location="L/D. H. Lawrence/Twilight in Italy/4.xml" />
+			<chapter num="5" title="4. San Gaudenzio" location="L/D. H. Lawrence/Twilight in Italy/5.xml" />
+			<chapter num="6" title="5. The Dance" location="L/D. H. Lawrence/Twilight in Italy/6.xml" />
+			<chapter num="7" title="6. Il Duro" location="L/D. H. Lawrence/Twilight in Italy/7.xml" />
+			<chapter num="8" title="7. John" location="L/D. H. Lawrence/Twilight in Italy/8.xml" />
+			<chapter num="9" title="Italians in Exile" location="L/D. H. Lawrence/Twilight in Italy/9.xml" />
+			<chapter num="10" title="The Return Journey" location="L/D. H. Lawrence/Twilight in Italy/10.xml" />
+		</section>
+</book>

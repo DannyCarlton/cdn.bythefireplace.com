@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="authors.xsd"?>
+<authors>
+	<author aid="220" name="Adams, Andy" location="A/Andy Adams" />
+	<author aid="112" name="Adams, Henry" location="A/Henry Adams" />
+	<author aid="216" name="Adams, Samuel Hopkins" location="A/Samuel Hopkins Adams" />
+	<author aid="78" name="Aesop, " location="A/Aesop" />
+	<author aid="3" name="Alcott, Louisa May" location="A/Louisa May Alcott" />
+	<author aid="164" name="Aldrich, Thomas Bailey" location="A/Thomas Bailey Aldrich" />
+	<author aid="159" name="Alger Jr., Horatio" location="A/Horatio Alger Jr" />
+	<author aid="265" name="Allen, Grant" location="A/Grant Allen" />
+	<author aid="195" name="Altsheler, Joseph A." location="A/Joseph A Altsheler" />
+	<author aid="44" name="Andersen, Hans Christian" location="A/Hans Christian Andersen" />
+	<author aid="273" name="Anderson, Robert Gordon" location="A/Robert Gordon Anderson" />
+	<author aid="266" name="Anderson, Sherwood" location="A/Sherwood Anderson" />
+	<author aid="231" name="Andreyev, Leonid N." location="A/Leonid N Andreyev" />
+	<author aid="149" name="Anonymous, " location="A/Anonymous" />
+	<author aid="83" name="Appleton, Victor" location="A/Victor Appleton" />
+	<author aid="209" name="Aristophanes, " location="A/Aristophanes" />
+	<author aid="264" name="Aristotle, " location="A/Aristotle" />
+	<author aid="204" name="Arthur, T.S." location="A/TS Arthur" />
+	<author aid="218" name="Atherton, Gertrude Franklin Horn" location="A/Gertrude Franklin Horn Atherton" />
+	<author aid="206" name="Augustine, Saint" location="A/Saint Augustine" />
+	<author aid="11" name="Austen, Jane" location="A/Jane Austen" />
+	<author aid="217" name="Bacheller, Irving" location="B/Irving Bacheller" />
+	<author aid="221" name="Bailey, Arthur Scott" location="B/Arthur Scott Bailey" />
+	<author aid="113" name="Balzac, Honore de" location="B/Honore de Balzac" />
+	<author aid="167" name="Bangs, John Kendrick" location="B/John Kendrick Bangs" />
+	<author aid="72" name="Barbour, Maynard" location="B/Maynard Barbour" />
+	<author aid="267" name="Barbour, Ralph Henry" location="B/Ralph Henry Barbour" />
+	<author aid="263" name="Barr, Amelia E." location="B/Amelia E Barr" />
+	<author aid="260" name="Barr, Robert" location="B/Robert Barr" />
+	<author aid="269" name="Barrie, James M." location="B/James M Barrie" />
+	<author aid="5000" name="Bates, William Horatio" location="B/William Horatio Bates" />
+	<author aid="6" name="Baum, L. Frank" location="B/L Frank Baum" />
+	<author aid="261" name="Beach, Rex Ellingwood" location="B/Rex Ellingwood Beach" />
+	<author aid="131" name="Bierce, Ambrose" location="B/Ambrose Bierce" />
+	<author aid="293" name="Bjoernson, Bjoernstjerne" location="B/Bjoernstjerne Bjoernson" />
+	<author aid="185" name="Black, William" location="B/William Black" />
+	<author aid="74" name="Blackmore, R. D." location="B/R D Blackmore" />
+	<author aid="323" name="Blackwood, Algernon" location="B/Algernon Blackwood" />
+	<author aid="63" name="Blake, William" location="B/William Blake" />
+	<author aid="549" name="Boldrewood, Rolf" location="B/Rolf Boldrewood" />
+	<author aid="96" name="Bower, B.M." location="B/BM Bower" />
+	<author aid="743" name="Brand, Max" location="B/Max Brand" />
+	<author aid="71" name="Bronte, Anne" location="B/Anne Bronte" />
+	<author aid="12" name="Bronte, Charlotte" location="B/Charlotte Bronte" />
+	<author aid="13" name="Bronte, Emily" location="B/Emily Bronte" />
+	<author aid="162" name="Browning, Elizabeth Barrett" location="B/Elizabeth Barrett Browning" />
+	<author aid="158" name="Buchan, John" location="B/John Buchan" />
+	<author aid="272" name="Bulfinch, Thomas" location="B/Thomas Bulfinch" />
+	<author aid="5015" name="Bulwer-Lytton, Edward" location="B/Edward Bulwer-Lytton" />
+	<author aid="5012" name="Bunyan, John" location="B/John Bunyan" />
+	<author aid="45" name="Burgess, Thornton W." location="B/Thornton W Burgess" />
+	<author aid="14" name="Burnett, Frances Hodgson" location="B/Frances Hodgson Burnett" />
+	<author aid="1" name="Burroughs, Edgar Rice" location="B/Edgar Rice Burroughs" />
+	<author aid="66" name="Butler, Samuel" location="B/Samuel Butler" />
+	<author aid="187" name="Calderon de la Barca, Pedro" location="C/Pedro Calderon de la Barca" />
+	<author aid="41" name="Carlyle, Thomas" location="C/Thomas Carlyle" />
+	<author aid="46" name="Carroll, Lewis" location="C/Lewis Carroll" />
+	<author aid="184" name="Castle, Egerton" location="C/Egerton Castle" />
+	<author aid="156" name="Cather, Willa" location="C/Willa Cather" />
+	<author aid="163" name="Cervantes, Miguel de" location="C/Miguel de Cervantes" />
+	<author aid="64" name="Chekhov, Anton" location="C/Anton Chekhov" />
+	<author aid="165" name="Chesnutt, Charles W." location="C/Charles W Chesnutt" />
+	<author aid="104" name="Chesterton, Gilbert K." location="C/Gilbert K Chesterton" />
+	<author aid="321" name="Chopin, Katherine" location="C/Katherine Chopin" />
+	<author aid="153" name="Christie, Agatha" location="C/Agatha Christie" />
+	<author aid="1193" name="Clarke, Marcus" location="C/Marcus Clarke" />
+	<author aid="347" name="Cody, H. A. " location="C/H A  Cody" />
+	<author aid="55" name="Coleridge, Samuel Taylor" location="C/Samuel Taylor Coleridge" />
+	<author aid="15" name="Collins, Wilkie" location="C/Wilkie Collins" />
+	<author aid="47" name="Collodi (Lorenzini), Carlo" location="C/Carlo Collodi (Lorenzini)" />
+	<author aid="196" name="Congreve, William" location="C/William Congreve" />
+	<author aid="177" name="Connell, Richard" location="C/Richard Connell" />
+	<author aid="157" name="Connor, Ralph" location="C/Ralph Connor" />
+	<author aid="16" name="Conrad, Joseph" location="C/Joseph Conrad" />
+	<author aid="73" name="Cooper, James Fenimore" location="C/James Fenimore Cooper" />
+	<author aid="141" name="Crawford, F. Marion" location="C/F Marion Crawford" />
+	<author aid="56" name="Dante, Alighieri" location="D/Alighieri Dante" />
+	<author aid="169" name="Darlington, Edgar B. P." location="D/Edgar B P Darlington" />
+	<author aid="42" name="Darwin, Charles" location="D/Charles Darwin" />
+	<author aid="125" name="Davis, Richard Harding" location="D/Richard Harding Davis" />
+	<author aid="2" name="Defoe, Daniel" location="D/Daniel Defoe" />
+	<author aid="334" name="Dell, Ethel M." location="D/Ethel M Dell" />
+	<author aid="17" name="Dickens, Charles" location="D/Charles Dickens" />
+	<author aid="161" name="Dickinson, Emily" location="D/Emily Dickinson" />
+	<author aid="18" name="Dostoevsky, Fyodor" location="D/Fyodor Dostoevsky" />
+	<author aid="19" name="Doyle, Arthur Conan" location="D/Arthur Conan Doyle" />
+	<author aid="144" name="Dryden, John" location="D/John Dryden" />
+	<author aid="20" name="Dumas, Alexandre" location="D/Alexandre Dumas" />
+	<author aid="189" name="Dunbar, Alice" location="D/Alice Dunbar" />
+	<author aid="245" name="Ebers, Georg" location="E/Georg Ebers" />
+	<author aid="117" name="Edgeworth, Maria" location="E/Maria Edgeworth" />
+	<author aid="67" name="Eliot, George" location="E/George Eliot" />
+	<author aid="7" name="Eliot, T.S." location="E/TS Eliot" />
+	<author aid="331" name="Emerson, Ralph Waldo" location="E/Ralph Waldo Emerson" />
+	<author aid="127" name="Farnol, Jeffrey" location="F/Jeffrey Farnol" />
+	<author aid="121" name="Ferber, Edna" location="F/Edna Ferber" />
+	<author aid="253" name="Finley, Martha" location="F/Martha Finley" />
+	<author aid="5010" name="Fitzgerald, F. Scott" location="F/F Scott Fitzgerald" />
+	<author aid="21" name="Flaubert, Gustave" location="F/Gustave Flaubert" />
+	<author aid="247" name="Fletcher, J. S." location="F/J S Fletcher" />
+	<author aid="257" name="Foote, Mary Hallock" location="F/Mary Hallock Foote" />
+	<author aid="81" name="Forster, E. M." location="F/E M Forster" />
+	<author aid="102" name="Fox Jr., John" location="F/John Fox Jr" />
+	<author aid="199" name="Franc, Anatole" location="F/Anatole Franc" />
+	<author aid="142" name="Freeman, Mary E. Wilkins" location="F/Mary E Wilkins Freeman" />
+	<author aid="251" name="Freeman, R. Austin" location="F/R Austin Freeman" />
+	<author aid="249" name="Frey, Hildegard G." location="F/Hildegard G Frey" />
+	<author aid="258" name="Fuller, Henry Blake" location="F/Henry Blake Fuller" />
+	<author aid="95" name="Gaboriau, Emile" location="G/Emile Gaboriau" />
+	<author aid="170" name="Galsworthy, John" location="G/John Galsworthy" />
+	<author aid="140" name="Gaskell, Elizabeth" location="G/Elizabeth Gaskell" />
+	<author aid="330" name="Gilman, Charlotte" location="G/Charlotte Gilman" />
+	<author aid="328" name="Glaspell, Susan" location="G/Susan Glaspell" />
+	<author aid="268" name="Glyn, Elinor" location="G/Elinor Glyn" />
+	<author aid="210" name="Goethe, Johann Wolfgang von" location="G/Johann Wolfgang von Goethe" />
+	<author aid="155" name="Gogol, Nikolai Vasilievich" location="G/Nikolai Vasilievich Gogol" />
+	<author aid="173" name="Goldsmith, Oliver" location="G/Oliver Goldsmith" />
+	<author aid="230" name="Gorky, Maxim" location="G/Maxim Gorky" />
+	<author aid="48" name="Grahame, Kenneth" location="G/Kenneth Grahame" />
+	<author aid="115" name="Green, Anna Katharine" location="G/Anna Katharine Green" />
+	<author aid="129" name="Gregory, Eliot" location="G/Eliot Gregory" />
+	<author aid="119" name="Grey, Zane" location="G/Zane Grey" />
+	<author aid="348" name="Griffiths, Arthur " location="G/Arthur  Griffiths" />
+	<author aid="133" name="Guest, Edgar A." location="G/Edgar A Guest" />
+	<author aid="22" name="Haggard, H. Rider" location="H/H Rider Haggard" />
+	<author aid="174" name="Hale, Edward Everett" location="H/Edward Everett Hale" />
+	<author aid="5003" name="Hancock, H. Irving" location="H/H Irving Hancock" />
+	<author aid="23" name="Hardy, Thomas" location="H/Thomas Hardy" />
+	<author aid="182" name="Harraden, Beatrice" location="H/Beatrice Harraden" />
+	<author aid="593" name="Harte, Bret" location="H/Bret Harte" />
+	<author aid="91" name="Hawthorne, Julian" location="H/Julian Hawthorne" />
+	<author aid="123" name="Henry, O" location="H/O Henry" />
+	<author aid="186" name="Henty, George Alfred" location="H/George Alfred Henty" />
+	<author aid="89" name="Holmes, Oliver Wendell" location="H/Oliver Wendell Holmes" />
+	<author aid="57" name="Homer, " location="H/Homer" />
+	<author aid="84" name="Hope, Anthony" location="H/Anthony Hope" />
+	<author aid="49" name="Hope, Laura Lee" location="H/Laura Lee Hope" />
+	<author aid="90" name="Hornung, E.W." location="H/EW Hornung" />
+	<author aid="5014" name="Howard, Robert E." location="H/Robert E Howard" />
+	<author aid="329" name="Howells, William D." location="H/William D Howells" />
+	<author aid="152" name="Hudson, W. H." location="H/W H Hudson" />
+	<author aid="68" name="Hugo, Victor" location="H/Victor Hugo" />
+	<author aid="92" name="Hume, Fergus" location="H/Fergus Hume" />
+	<author aid="171" name="Huxley, Aldous" location="H/Aldous Huxley" />
+	<author aid="193" name="Ibsen, Henrik" location="I/Henrik Ibsen" />
+	<author aid="60" name="Irving, Washington" location="I/Washington Irving" />
+	<author aid="61" name="Jacobs, W.W." location="J/WW Jacobs" />
+	<author aid="25" name="James, Henry" location="J/Henry James" />
+	<author aid="213" name="James, Montague Rhodes" location="J/Montague Rhodes James" />
+	<author aid="120" name="Jerome, Jerome K." location="J/Jerome K Jerome" />
+	<author aid="254" name="Johnston, Annie Fellows" location="J/Annie Fellows Johnston" />
+	<author aid="5011" name="Josephus, Flavius" location="J/Flavius Josephus" />
+	<author aid="85" name="Joyce, James" location="J/James Joyce" />
+	<author aid="201" name="Kafka, Franz" location="K/Franz Kafka" />
+	<author aid="160" name="Keats, John" location="K/John Keats" />
+	<author aid="214" name="Khayyam, Omar" location="K/Omar Khayyam" />
+	<author aid="262" name="King, Basil" location="K/Basil King" />
+	<author aid="202" name="Kingsley, Charles" location="K/Charles Kingsley" />
+	<author aid="50" name="Kipling, Rudyard" location="K/Rudyard Kipling" />
+	<author aid="5004" name="Knibbs, Henry Herbert" location="K/Henry Herbert Knibbs" />
+	<author aid="238" name="Kyne, Peter B." location="K/Peter B Kyne" />
+	<author aid="166" name="Lamb, Charles and Mary" location="L/Charles and Mary Lamb" />
+	<author aid="151" name="Lang, Andrew" location="L/Andrew Lang" />
+	<author aid="130" name="Lardner, Ring" location="L/Ring Lardner" />
+	<author aid="5008" name="Lawrence, Brother" location="L/Brother Lawrence" />
+	<author aid="150" name="Lawrence, D. H." location="L/D H Lawrence" />
+	<author aid="132" name="Lawson, Henry" location="L/Henry Lawson" />
+	<author aid="192" name="Leacock, Stephen" location="L/Stephen Leacock" />
+	<author aid="259" name="LeFanu, Joseph Sheridan" location="L/Joseph Sheridan LeFanu" />
+	<author aid="26" name="Leroux, Gaston" location="L/Gaston Leroux" />
+	<author aid="270" name="Lie, Jonas" location="L/Jonas Lie" />
+	<author aid="332" name="Lincoln, Abraham" location="L/Abraham Lincoln" />
+	<author aid="333" name="Lincoln, Joseph Crosby" location="L/Joseph Crosby Lincoln" />
+	<author aid="194" name="Lofting, Hugh" location="L/Hugh Lofting" />
+	<author aid="27" name="London, Jack" location="L/Jack London" />
+	<author aid="58" name="Longfellow, Henry Wadsworth" location="L/Henry Wadsworth Longfellow" />
+	<author aid="134" name="Lowell, Amy" location="L/Amy Lowell" />
+	<author aid="5" name="Luther, Martin" location="L/Martin Luther" />
+	<author aid="145" name="MacDonald, George" location="M/George MacDonald" />
+	<author aid="108" name="MacGrath, Harold" location="M/Harold MacGrath" />
+	<author aid="146" name="Machiavelli, Nicolo" location="M/Nicolo Machiavelli" />
+	<author aid="1216" name="Mansfield, Katherine" location="M/Katherine Mansfield" />
+	<author aid="139" name="Marlowe, Christopher" location="M/Christopher Marlowe" />
+	<author aid="5013" name="Marryat, Frederick" location="M/Frederick Marryat" />
+	<author aid="107" name="Marx, Karl" location="M/Karl Marx" />
+	<author aid="5002" name="Mason, A.E.W." location="M/AEW Mason" />
+	<author aid="110" name="Maugham, Somerset" location="M/Somerset Maugham" />
+	<author aid="105" name="Maupassant, Guy de" location="M/Guy de Maupassant" />
+	<author aid="345" name="Maurier, George du" location="M/George du Maurier" />
+	<author aid="109" name="McElroy, John" location="M/John McElroy" />
+	<author aid="77" name="Melville, Herman" location="M/Herman Melville" />
+	<author aid="5009" name="Meredith, George" location="M/George Meredith" />
+	<author aid="147" name="Millay, Edna St. Vincent" location="M/Edna St Vincent Millay" />
+	<author aid="65" name="Milton, John" location="M/John Milton" />
+	<author aid="0" name="Misc. Authors, " location="M/Misc Authors" />
+	<author aid="136" name="Moliere, Jean Baptiste Poquelin" location="M/Jean Baptiste Poquelin Moliere" />
+	<author aid="28" name="Montgomery, Lucy Maud" location="M/Lucy Maud Montgomery" />
+	<author aid="148" name="Morley, Christopher" location="M/Christopher Morley" />
+	<author aid="200" name="Munro, H. H. (Saki)" location="M/H H (Saki) Munro" />
+	<author aid="51" name="Nesbit, Edith" location="N/Edith Nesbit" />
+	<author aid="122" name="Norris, Frank" location="N/Frank Norris" />
+	<author aid="197" name="Norris, Kathleen Thompson" location="N/Kathleen Thompson Norris" />
+	<author aid="97" name="Oppenheim, E. Phillips" location="O/E Phillips Oppenheim" />
+	<author aid="98" name="Orczy, Baroness Emmuska" location="O/Baroness Emmuska Orczy" />
+	<author aid="5001" name="Orwell, George" location="O/George Orwell" />
+	<author aid="181" name="Ouida, " location="O/Ouida" />
+	<author aid="1000000" name="Our Father in Heaven, " location="O/Our Father in Heaven" />
+	<author aid="237" name="Packard, Frank L." location="P/Frank L Packard" />
+	<author aid="175" name="Page, Thomas Nelson" location="P/Thomas Nelson Page" />
+	<author aid="212" name="Parker, Gilbert" location="P/Gilbert Parker" />
+	<author aid="311" name="Parrish, Randall" location="P/Randall Parrish" />
+	<author aid="240" name="Patchin, Frank Gee" location="P/Frank Gee Patchin" />
+	<author aid="176" name="Paterson, Andrew Barton" location="P/Andrew Barton Paterson" />
+	<author aid="320" name="Peacock, Thomas Love" location="P/Thomas Love Peacock" />
+	<author aid="82" name="Peattie, Elia W." location="P/Elia W Peattie" />
+	<author aid="99" name="Pedler, Margaret" location="P/Margaret Pedler" />
+	<author aid="324" name="Penrose, Margaret" location="P/Margaret Penrose" />
+	<author aid="211" name="Perkins, Lucy Fitch" location="P/Lucy Fitch Perkins" />
+	<author aid="198" name="Phillips, David Graham" location="P/David Graham Phillips" />
+	<author aid="207" name="Plato, " location="P/Plato" />
+	<author aid="8" name="Poe, Edgar Allan" location="P/Edgar Allan Poe" />
+	<author aid="180" name="Porter, Eleanor H." location="P/Eleanor H Porter" />
+	<author aid="143" name="Post, Melville Davisson" location="P/Melville Davisson Post" />
+	<author aid="52" name="Potter, Beatrix" location="P/Beatrix Potter" />
+	<author aid="70" name="Pyle, Howard" location="P/Howard Pyle" />
+	<author aid="248" name="Quiller-Couch, Arthur" location="Q/Arthur Quiller-Couch" />
+	<author aid="128" name="Radcliffe, Ann" location="R/Ann Radcliffe" />
+	<author aid="242" name="Raine, William MacLeod" location="R/William MacLeod Raine" />
+	<author aid="246" name="Ralphson, G. Harvey" location="R/G Harvey Ralphson" />
+	<author aid="243" name="Reade, Charles" location="R/Charles Reade" />
+	<author aid="86" name="Reed, Myrtle" location="R/Myrtle Reed" />
+	<author aid="93" name="Reeve, Arthur B." location="R/Arthur B Reeve" />
+	<author aid="252" name="Rice, Alice Hegan" location="R/Alice Hegan Rice" />
+	<author aid="256" name="Richards, Laura E." location="R/Laura E Richards" />
+	<author aid="250" name="Richmond, Grace S." location="R/Grace S Richmond" />
+	<author aid="87" name="Rinehart, Mary Roberts" location="R/Mary Roberts Rinehart" />
+	<author aid="126" name="Robinson, Edwin Arlington" location="R/Edwin Arlington Robinson" />
+	<author aid="5006" name="Roe, Edward Payson" location="R/Edward Payson Roe" />
+	<author aid="88" name="Rohmer, Sax" location="R/Sax Rohmer" />
+	<author aid="124" name="Rousseau, Jean Jacques" location="R/Jean Jacques Rousseau" />
+	<author aid="205" name="Russell, Bertrand" location="R/Bertrand Russell" />
+	<author aid="640" name="Sabatini, Rafael" location="S/Rafael Sabatini" />
+	<author aid="693" name="Sanger, Margaret" location="S/Margaret Sanger" />
+	<author aid="76" name="Scott, Walter" location="S/Walter Scott" />
+	<author aid="69" name="Service, Robert" location="S/Robert Service" />
+	<author aid="29" name="Sewell, Anna" location="S/Anna Sewell" />
+	<author aid="215" name="Shakespeare, William" location="S/William Shakespeare" />
+	<author aid="154" name="Shaw, George Bernard" location="S/George Bernard Shaw" />
+	<author aid="5007" name="Sheldon, Charles M." location="S/Charles M Sheldon" />
+	<author aid="32" name="Shelley, Mary Wollstonecraft" location="S/Mary Wollstonecraft Shelley" />
+	<author aid="178" name="Sidney, Margaret" location="S/Margaret Sidney" />
+	<author aid="100" name="Sinclair, Upton" location="S/Upton Sinclair" />
+	<author aid="135" name="Smith, Adam" location="S/Adam Smith" />
+	<author aid="227" name="Sologub, Fyodor" location="S/Fyodor Sologub" />
+	<author aid="53" name="Spyri, Johanna" location="S/Johanna Spyri" />
+	<author aid="114" name="Stacpoole, Henry De Vere" location="S/Henry De Vere Stacpoole" />
+	<author aid="30" name="Stevenson, Robert Louis" location="S/Robert Louis Stevenson" />
+	<author aid="137" name="Stockton, Frank" location="S/Frank Stockton" />
+	<author aid="31" name="Stoker, Bram" location="S/Bram Stoker" />
+	<author aid="179" name="Stowe, Harriet Beecher" location="S/Harriet Beecher Stowe" />
+	<author aid="1626" name="Stratemeyer, Edward" location="S/Edward Stratemeyer" />
+	<author aid="191" name="Stratton-Porter, Gene" location="S/Gene Stratton-Porter" />
+	<author aid="4" name="Sun Tzu, " location="S/Sun Tzu" />
+	<author aid="33" name="Swift, Jonathan" location="S/Jonathan Swift" />
+	<author aid="168" name="Synge, J. M." location="S/J M Synge" />
+	<author aid="79" name="Tarkington, Booth" location="T/Booth Tarkington" />
+	<author aid="34" name="Taylor, Bayard" location="T/Bayard Taylor" />
+	<author aid="111" name="Teasdale, Sara" location="T/Sara Teasdale" />
+	<author aid="116" name="Tennyson, Lord Alfred" location="T/Lord Alfred Tennyson" />
+	<author aid="35" name="Thackary, William Makepeace" location="T/William Makepeace Thackary" />
+	<author aid="43" name="Thoreau, Henry David" location="T/Henry David Thoreau" />
+	<author aid="5005" name="Thorndyke, Russell" location="T/Russell Thorndyke" />
+	<author aid="36" name="Tolstoy, Leo" location="T/Leo Tolstoy" />
+	<author aid="94" name="Trollope, Anthony" location="T/Anthony Trollope" />
+	<author aid="172" name="Turgenev, Ivan S." location="T/Ivan S Turgenev" />
+	<author aid="37" name="Twain, Mark" location="T/Mark Twain" />
+	<author aid="118" name="Van Dyke, Henry" location="V/Henry Van Dyke" />
+	<author aid="236" name="Vance, Louis Joseph" location="V/Louis Joseph Vance" />
+	<author aid="38" name="Verne, Jules" location="V/Jules Verne" />
+	<author aid="59" name="Virgil, " location="V/Virgil" />
+	<author aid="222" name="von Arnim, Elizabeth" location="v/Elizabeth von Arnim" />
+	<author aid="101" name="Wallace, Edgar" location="W/Edgar Wallace" />
+	<author aid="103" name="Walpole, Horace" location="W/Horace Walpole" />
+	<author aid="346" name="Ward, Mrs. Humphry" location="W/Mrs Humphry Ward" />
+	<author aid="106" name="Washington, Booker T." location="W/Booker T Washington" />
+	<author aid="10" name="Wells, H.G." location="W/HG Wells" />
+	<author aid="188" name="Weyman, Stanley J." location="W/Stanley J Weyman" />
+	<author aid="39" name="Wharton, Edith" location="W/Edith Wharton" />
+	<author aid="190" name="White, Stewart Edward" location="W/Stewart Edward White" />
+	<author aid="54" name="Wiggin, Kate Douglas" location="W/Kate Douglas Wiggin" />
+	<author aid="62" name="Wilde, Oscar" location="W/Oscar Wilde" />
+	<author aid="343" name="Williams, Valentine" location="W/Valentine Williams" />
+	<author aid="183" name="Winter, John Strange" location="W/John Strange Winter" />
+	<author aid="75" name="Wodehouse, Pelham Grenville" location="W/Pelham Grenville Wodehouse" />
+	<author aid="40" name="Woolf, Virginia" location="W/Virginia Woolf" />
+	<author aid="342" name="Wright, Harold Bell" location="W/Harold Bell Wright" />
+	<author aid="208" name="Xenophon, " location="X/Xenophon" />
+	<author aid="80" name="Yonge, Charlotte M." location="Y/Charlotte M Yonge" />
+	<author aid="203" name="Zola, Emile" location="Z/Emile Zola" />
+</authors>

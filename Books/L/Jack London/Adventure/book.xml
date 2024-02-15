@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="703" title="Adventure" author="London, Jack" location="L/Jack London/Adventure">
+			<chapter num="1" title="Chapter I--Something to be Done" location="L/Jack London/Adventure/1.xml" />
+			<chapter num="2" title="Chapter II--Something is Done" location="L/Jack London/Adventure/2.xml" />
+			<chapter num="3" title="Chapter III--The Jessie" location="L/Jack London/Adventure/3.xml" />
+			<chapter num="4" title="Chapter IV--Joan Lackland" location="L/Jack London/Adventure/4.xml" />
+			<chapter num="5" title="Chapter V--She Would a Planter Be" location="L/Jack London/Adventure/5.xml" />
+			<chapter num="6" title="Chapter VI--Tempest" location="L/Jack London/Adventure/6.xml" />
+			<chapter num="7" title="Chapter VII--A Hard-Bitten Gang" location="L/Jack London/Adventure/7.xml" />
+			<chapter num="8" title="Chapter VIII--Local Colour" location="L/Jack London/Adventure/8.xml" />
+			<chapter num="9" title="Chapter IX--As Between a Man and a Woman" location="L/Jack London/Adventure/9.xml" />
+			<chapter num="10" title="Chapter X--A Message from Boucher" location="L/Jack London/Adventure/10.xml" />
+			<chapter num="11" title="Chapter XI--The Port Adams Crowd" location="L/Jack London/Adventure/11.xml" />
+			<chapter num="12" title="Chapter XII--Mr. Morgan and Mr. Raff" location="L/Jack London/Adventure/12.xml" />
+			<chapter num="13" title="Chapter XIII--The Logic of Youth" location="L/Jack London/Adventure/13.xml" />
+			<chapter num="14" title="Chapter XIV--The Martha" location="L/Jack London/Adventure/14.xml" />
+			<chapter num="15" title="Chapter XV--A Discourse on Manners" location="L/Jack London/Adventure/15.xml" />
+			<chapter num="16" title="Chapter XVI--The Girl Who Had Not Grown Up" location="L/Jack London/Adventure/16.xml" />
+			<chapter num="17" title="Chapter XVII--&quot;Your&quot; Miss Lackland" location="L/Jack London/Adventure/17.xml" />
+			<chapter num="18" title="Chapter XVIII--Making the Books Come True" location="L/Jack London/Adventure/18.xml" />
+			<chapter num="19" title="Chapter XIX--The Lost Toy" location="L/Jack London/Adventure/19.xml" />
+			<chapter num="20" title="Chapter XX--A Man-Talk" location="L/Jack London/Adventure/20.xml" />
+			<chapter num="21" title="Chapter XXI--Contraband" location="L/Jack London/Adventure/21.xml" />
+			<chapter num="22" title="Chapter XXII--Gogoomy Finishes Along Kwaque Altogether" location="L/Jack London/Adventure/22.xml" />
+			<chapter num="23" title="Chapter XXIII--A Message from the Bush" location="L/Jack London/Adventure/23.xml" />
+			<chapter num="24" title="Chapter XXIV--In the Bush" location="L/Jack London/Adventure/24.xml" />
+			<chapter num="25" title="Chapter XXV--The Head-Hunters" location="L/Jack London/Adventure/25.xml" />
+			<chapter num="26" title="Chapter XXVI--Burning Daylight" location="L/Jack London/Adventure/26.xml" />
+			<chapter num="27" title="Chapter XXVII--Modern Duelling" location="L/Jack London/Adventure/27.xml" />
+			<chapter num="28" title="Chapter XXVIII--Capitulation" location="L/Jack London/Adventure/28.xml" />
+</book>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1930" title="Letters From The Earth" author="Twain, Mark" location="T/Mark Twain/Letters From The Earth">
+			<chapter num="1" title="Prologue" location="T/Mark Twain/Letters From The Earth/1.xml" />
+			<chapter num="2" title="Satan's Letter" location="T/Mark Twain/Letters From The Earth/2.xml" />
+			<chapter num="3" title="Letter II" location="T/Mark Twain/Letters From The Earth/3.xml" />
+			<chapter num="4" title="Letter III" location="T/Mark Twain/Letters From The Earth/4.xml" />
+			<chapter num="5" title="Letter IV" location="T/Mark Twain/Letters From The Earth/5.xml" />
+			<chapter num="6" title="Letter V" location="T/Mark Twain/Letters From The Earth/6.xml" />
+			<chapter num="7" title="Letter VI" location="T/Mark Twain/Letters From The Earth/7.xml" />
+			<chapter num="8" title="Letter VII" location="T/Mark Twain/Letters From The Earth/8.xml" />
+			<chapter num="9" title="Letter VIII" location="T/Mark Twain/Letters From The Earth/9.xml" />
+			<chapter num="10" title="Letter IX" location="T/Mark Twain/Letters From The Earth/10.xml" />
+			<chapter num="11" title="Letter X" location="T/Mark Twain/Letters From The Earth/11.xml" />
+			<chapter num="12" title="Letter XI" location="T/Mark Twain/Letters From The Earth/12.xml" />
+</book>

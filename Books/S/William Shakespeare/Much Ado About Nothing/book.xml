@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="159" title="Much Ado About Nothing" author="Shakespeare, William" location="S/William Shakespeare/Much Ado About Nothing">
+			<chapter num="1" title="Dramatis Personae" location="S/William Shakespeare/Much Ado About Nothing/1.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="2" title="Scene 1" location="S/William Shakespeare/Much Ado About Nothing/2.xml" />
+			<chapter num="3" title="Scene 2" location="S/William Shakespeare/Much Ado About Nothing/3.xml" />
+			<chapter num="4" title="Scene 3" location="S/William Shakespeare/Much Ado About Nothing/4.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="5" title="Scene 1" location="S/William Shakespeare/Much Ado About Nothing/5.xml" />
+			<chapter num="6" title="Scene 2" location="S/William Shakespeare/Much Ado About Nothing/6.xml" />
+			<chapter num="7" title="Scene 3" location="S/William Shakespeare/Much Ado About Nothing/7.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="8" title="Scene 1" location="S/William Shakespeare/Much Ado About Nothing/8.xml" />
+			<chapter num="9" title="Scene 2" location="S/William Shakespeare/Much Ado About Nothing/9.xml" />
+			<chapter num="10" title="Scene 3" location="S/William Shakespeare/Much Ado About Nothing/10.xml" />
+			<chapter num="11" title="Scene 4" location="S/William Shakespeare/Much Ado About Nothing/11.xml" />
+			<chapter num="12" title="Scene 5" location="S/William Shakespeare/Much Ado About Nothing/12.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="13" title="Scene 1" location="S/William Shakespeare/Much Ado About Nothing/13.xml" />
+			<chapter num="14" title="Scene 2" location="S/William Shakespeare/Much Ado About Nothing/14.xml" />
+		</section>
+		<section type="1" name="ACT V">
+			<chapter num="15" title="Scene 1" location="S/William Shakespeare/Much Ado About Nothing/15.xml" />
+			<chapter num="16" title="Scene 2" location="S/William Shakespeare/Much Ado About Nothing/16.xml" />
+			<chapter num="17" title="Scene 3" location="S/William Shakespeare/Much Ado About Nothing/17.xml" />
+			<chapter num="18" title="Scene 4" location="S/William Shakespeare/Much Ado About Nothing/18.xml" />
+		</section>
+</book>

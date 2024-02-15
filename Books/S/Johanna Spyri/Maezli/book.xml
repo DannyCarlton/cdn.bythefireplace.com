@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2542" title="Maezli" author="Spyri, Johanna" location="S/Johanna Spyri/Maezli">
+			<chapter num="1" title="Foreword" location="S/Johanna Spyri/Maezli/1.xml" />
+			<chapter num="2" title="Chapter I. In Nolla" location="S/Johanna Spyri/Maezli/2.xml" />
+			<chapter num="3" title="Chapter II. Divers Worries" location="S/Johanna Spyri/Maezli/3.xml" />
+			<chapter num="4" title="Chapter III. Castle Wildenstein" location="S/Johanna Spyri/Maezli/4.xml" />
+			<chapter num="5" title="Chapter IV. An Unexpected Apparition" location="S/Johanna Spyri/Maezli/5.xml" />
+			<chapter num="6" title="Chapter V. Oppressive Air" location="S/Johanna Spyri/Maezli/6.xml" />
+			<chapter num="7" title="Chapter VI. New Friends" location="S/Johanna Spyri/Maezli/7.xml" />
+			<chapter num="8" title="Chapter VII. The Mother's Absence Has Consequences" location="S/Johanna Spyri/Maezli/8.xml" />
+			<chapter num="9" title="Chapter VIII. Maezli Pays Visits" location="S/Johanna Spyri/Maezli/9.xml" />
+			<chapter num="10" title="Chapter IX. In the Castle" location="S/Johanna Spyri/Maezli/10.xml" />
+</book>

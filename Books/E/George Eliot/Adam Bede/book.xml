@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="585" title="Adam Bede" author="Eliot, George" location="E/George Eliot/Adam Bede">
+		<section type="1" name="Book One.">
+			<chapter num="1" title="Chapter I. The Workshop" location="E/George Eliot/Adam Bede/1.xml" />
+			<chapter num="2" title="Chapter II. The Preaching" location="E/George Eliot/Adam Bede/2.xml" />
+			<chapter num="3" title="Chapter III. After the Preaching" location="E/George Eliot/Adam Bede/3.xml" />
+			<chapter num="4" title="Chapter IV. Home and Its Sorrows" location="E/George Eliot/Adam Bede/4.xml" />
+			<chapter num="5" title="Chapter V. The Rector" location="E/George Eliot/Adam Bede/5.xml" />
+			<chapter num="6" title="Chapter VI. The Hall Farm" location="E/George Eliot/Adam Bede/6.xml" />
+			<chapter num="7" title="Chapter VII. The Dairy" location="E/George Eliot/Adam Bede/7.xml" />
+			<chapter num="8" title="Chapter VIII. A Vocation" location="E/George Eliot/Adam Bede/8.xml" />
+			<chapter num="9" title="Chapter IX. Hetty's World" location="E/George Eliot/Adam Bede/9.xml" />
+			<chapter num="10" title="Chapter X. Dinah Visits Lisbeth" location="E/George Eliot/Adam Bede/10.xml" />
+			<chapter num="11" title="Chapter XI. In the Cottage" location="E/George Eliot/Adam Bede/11.xml" />
+			<chapter num="12" title="Chapter XII. In the Wood" location="E/George Eliot/Adam Bede/12.xml" />
+			<chapter num="13" title="Chapter XIII. Evening in the Wood" location="E/George Eliot/Adam Bede/13.xml" />
+			<chapter num="14" title="Chapter XIV. The Return Home" location="E/George Eliot/Adam Bede/14.xml" />
+			<chapter num="15" title="Chapter XV. The Two Bed-Chambers" location="E/George Eliot/Adam Bede/15.xml" />
+			<chapter num="16" title="Chapter XVI. Links" location="E/George Eliot/Adam Bede/16.xml" />
+		</section>
+		<section type="1" name="Book Two.">
+			<chapter num="17" title="Chapter XVII. In Which the Story Pauses a Little" location="E/George Eliot/Adam Bede/17.xml" />
+			<chapter num="18" title="Chapter XVIII. Church" location="E/George Eliot/Adam Bede/18.xml" />
+			<chapter num="19" title="Chapter XIX. Adam on a Working Day" location="E/George Eliot/Adam Bede/19.xml" />
+			<chapter num="20" title="Chapter XX. Adam Visits the Hall Farm" location="E/George Eliot/Adam Bede/20.xml" />
+			<chapter num="21" title="Chapter XXI. The Night-School and the Schoolmaster" location="E/George Eliot/Adam Bede/21.xml" />
+		</section>
+		<section type="1" name="Book Three.">
+			<chapter num="22" title="Chapter XXII. Going to the Birthday Feast" location="E/George Eliot/Adam Bede/22.xml" />
+			<chapter num="23" title="Chapter XXIII. Dinner-Time" location="E/George Eliot/Adam Bede/23.xml" />
+			<chapter num="24" title="Chapter XXIV. The Health-Drinking" location="E/George Eliot/Adam Bede/24.xml" />
+			<chapter num="25" title="Chapter XXV. The Games" location="E/George Eliot/Adam Bede/25.xml" />
+			<chapter num="26" title="Chapter XXVI. The Dance" location="E/George Eliot/Adam Bede/26.xml" />
+		</section>
+		<section type="1" name="Book Four.">
+			<chapter num="27" title="Chapter XXVII. A crisis" location="E/George Eliot/Adam Bede/27.xml" />
+			<chapter num="28" title="Chapter XXVIII. A Dilemma" location="E/George Eliot/Adam Bede/28.xml" />
+			<chapter num="29" title="Chapter XXIX. The Next Morning" location="E/George Eliot/Adam Bede/29.xml" />
+			<chapter num="30" title="Chapter XXX. The Delivery of the Letter" location="E/George Eliot/Adam Bede/30.xml" />
+			<chapter num="31" title="Chapter XXXI. In Hetty's Bed-Chamber" location="E/George Eliot/Adam Bede/31.xml" />
+			<chapter num="32" title="Chapter XXXII. Mrs. Poyser &quot;Has Her Say Out&quot;" location="E/George Eliot/Adam Bede/32.xml" />
+			<chapter num="33" title="Chapter XXXIII. More Links" location="E/George Eliot/Adam Bede/33.xml" />
+			<chapter num="34" title="Chapter XXXIV. The Betrothal" location="E/George Eliot/Adam Bede/34.xml" />
+			<chapter num="35" title="Chapter XXXV. The Hidden Dread" location="E/George Eliot/Adam Bede/35.xml" />
+		</section>
+		<section type="1" name="Book Five.">
+			<chapter num="36" title="Chapter XXXVI. The Journey of Hope" location="E/George Eliot/Adam Bede/36.xml" />
+			<chapter num="37" title="Chapter XXXVII. The Journey in Despair" location="E/George Eliot/Adam Bede/37.xml" />
+			<chapter num="38" title="Chapter XXXVIII. The Quest" location="E/George Eliot/Adam Bede/38.xml" />
+			<chapter num="39" title="Chapter XXXIX. The Tidings" location="E/George Eliot/Adam Bede/39.xml" />
+			<chapter num="40" title="Chapter XL. The Bitter Waters Spread" location="E/George Eliot/Adam Bede/40.xml" />
+			<chapter num="41" title="Chapter XLI. The Eve of the Trial" location="E/George Eliot/Adam Bede/41.xml" />
+			<chapter num="42" title="Chapter XLII. The Morning of the Trial" location="E/George Eliot/Adam Bede/42.xml" />
+			<chapter num="43" title="Chapter XLIII. The Verdict" location="E/George Eliot/Adam Bede/43.xml" />
+			<chapter num="44" title="Chapter XLIV. Arthur's Return" location="E/George Eliot/Adam Bede/44.xml" />
+			<chapter num="45" title="Chapter XLV. In the Prison" location="E/George Eliot/Adam Bede/45.xml" />
+			<chapter num="46" title="Chapter XLVI. The Hours of Suspense" location="E/George Eliot/Adam Bede/46.xml" />
+			<chapter num="47" title="Chapter XLVII. The Last Moment" location="E/George Eliot/Adam Bede/47.xml" />
+			<chapter num="48" title="Chapter XLVIII. A nother Meeting in the Wood" location="E/George Eliot/Adam Bede/48.xml" />
+		</section>
+		<section type="1" name="Book Six.">
+			<chapter num="49" title="Chapter XLIX. At the Hall Farm" location="E/George Eliot/Adam Bede/49.xml" />
+			<chapter num="50" title="Chapter L. In the Cottage" location="E/George Eliot/Adam Bede/50.xml" />
+			<chapter num="51" title="Chapter LI. Sunday Morning" location="E/George Eliot/Adam Bede/51.xml" />
+			<chapter num="52" title="Chapter LII. Adam and Dinah" location="E/George Eliot/Adam Bede/52.xml" />
+			<chapter num="53" title="Chapter LIII. The Harvest Supper" location="E/George Eliot/Adam Bede/53.xml" />
+			<chapter num="54" title="Chapter LIV. The Meeting on the Hill" location="E/George Eliot/Adam Bede/54.xml" />
+			<chapter num="55" title="Epilogue" location="E/George Eliot/Adam Bede/55.xml" />
+		</section>
+</book>

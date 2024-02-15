@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40116" title="Bundle of Letters, A" author="James, Henry" location="J/Henry James/Bundle of Letters, A">
+			<chapter num="1" title="Chapter I." location="J/Henry James/Bundle of Letters, A/1.xml" />
+			<chapter num="2" title="Chapter II." location="J/Henry James/Bundle of Letters, A/2.xml" />
+			<chapter num="3" title="Chapter III." location="J/Henry James/Bundle of Letters, A/3.xml" />
+			<chapter num="4" title="Chapter IV." location="J/Henry James/Bundle of Letters, A/4.xml" />
+			<chapter num="5" title="Chapter V." location="J/Henry James/Bundle of Letters, A/5.xml" />
+			<chapter num="6" title="Chapter VI." location="J/Henry James/Bundle of Letters, A/6.xml" />
+			<chapter num="7" title="Chapter VII." location="J/Henry James/Bundle of Letters, A/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="J/Henry James/Bundle of Letters, A/8.xml" />
+			<chapter num="9" title="Chapter IX." location="J/Henry James/Bundle of Letters, A/9.xml" />
+</book>

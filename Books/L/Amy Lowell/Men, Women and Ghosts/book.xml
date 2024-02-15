@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1338" title="Men, Women and Ghosts" author="Lowell, Amy" location="L/Amy Lowell/Men, Women and Ghosts">
+		<section type="1" name="Figurines in Old Saxe">
+			<chapter num="1" title="Patterns" location="L/Amy Lowell/Men, Women and Ghosts/1.xml" />
+			<chapter num="2" title="Pickthorn Manor" location="L/Amy Lowell/Men, Women and Ghosts/2.xml" />
+			<chapter num="3" title="The Cremona Violin" location="L/Amy Lowell/Men, Women and Ghosts/3.xml" />
+			<chapter num="4" title="The Cross-Roads" location="L/Amy Lowell/Men, Women and Ghosts/4.xml" />
+			<chapter num="5" title="A Roxbury Garden" location="L/Amy Lowell/Men, Women and Ghosts/5.xml" />
+			<chapter num="6" title="1777" location="L/Amy Lowell/Men, Women and Ghosts/6.xml" />
+		</section>
+		<section type="1" name="Bronze Tablets">
+			<chapter num="7" title="The Fruit Shop" location="L/Amy Lowell/Men, Women and Ghosts/7.xml" />
+			<chapter num="8" title="Malmaison" location="L/Amy Lowell/Men, Women and Ghosts/8.xml" />
+			<chapter num="9" title="The Hammers" location="L/Amy Lowell/Men, Women and Ghosts/9.xml" />
+			<chapter num="10" title="Two Travellers in the Place Vendome" location="L/Amy Lowell/Men, Women and Ghosts/10.xml" />
+		</section>
+		<section type="1" name="War Pictures">
+			<chapter num="11" title="The Allies" location="L/Amy Lowell/Men, Women and Ghosts/11.xml" />
+			<chapter num="12" title="The Bombardment" location="L/Amy Lowell/Men, Women and Ghosts/12.xml" />
+			<chapter num="13" title="Lead Soldiers" location="L/Amy Lowell/Men, Women and Ghosts/13.xml" />
+			<chapter num="14" title="The Painter on Silk" location="L/Amy Lowell/Men, Women and Ghosts/14.xml" />
+			<chapter num="15" title="A Ballad of Footmen" location="L/Amy Lowell/Men, Women and Ghosts/15.xml" />
+		</section>
+		<section type="1" name="The Overgrown Pasture">
+			<chapter num="16" title="Reaping" location="L/Amy Lowell/Men, Women and Ghosts/16.xml" />
+			<chapter num="17" title="Off the Turnpike" location="L/Amy Lowell/Men, Women and Ghosts/17.xml" />
+			<chapter num="18" title="The Grocery" location="L/Amy Lowell/Men, Women and Ghosts/18.xml" />
+			<chapter num="19" title="Number 3 on the Docket" location="L/Amy Lowell/Men, Women and Ghosts/19.xml" />
+		</section>
+		<section type="1" name="Clocks Tick a Century">
+			<chapter num="20" title="Nightmare:  A Tale for an Autumn Evening" location="L/Amy Lowell/Men, Women and Ghosts/20.xml" />
+			<chapter num="21" title="The Paper Windmill" location="L/Amy Lowell/Men, Women and Ghosts/21.xml" />
+			<chapter num="22" title="The Red Lacquer Music-Stand" location="L/Amy Lowell/Men, Women and Ghosts/22.xml" />
+			<chapter num="23" title="Spring Day" location="L/Amy Lowell/Men, Women and Ghosts/23.xml" />
+			<chapter num="24" title="The Dinner-Party" location="L/Amy Lowell/Men, Women and Ghosts/24.xml" />
+			<chapter num="25" title="Stravinsky's Three Pieces &quot;Grotesques&quot;, for String Quartet" location="L/Amy Lowell/Men, Women and Ghosts/25.xml" />
+			<chapter num="26" title="Towns in Colour" location="L/Amy Lowell/Men, Women and Ghosts/26.xml" />
+		</section>
+</book>

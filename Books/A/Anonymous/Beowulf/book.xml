@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="901" title="Beowulf" author="Anonymous, " location="A/ Anonymous/Beowulf">
+			<chapter num="1" title="Prelude of the Founder of the Danish House" location="A/ Anonymous/Beowulf/1.xml" />
+			<chapter num="2" title="Episodes I to X" location="A/ Anonymous/Beowulf/2.xml" />
+			<chapter num="3" title="Episodes XI to XX" location="A/ Anonymous/Beowulf/3.xml" />
+			<chapter num="4" title="Episodes XXI to XXX" location="A/ Anonymous/Beowulf/4.xml" />
+			<chapter num="5" title="Episodes XXXI to XL" location="A/ Anonymous/Beowulf/5.xml" />
+			<chapter num="6" title="Episodes XLI to XLIII" location="A/ Anonymous/Beowulf/6.xml" />
+</book>

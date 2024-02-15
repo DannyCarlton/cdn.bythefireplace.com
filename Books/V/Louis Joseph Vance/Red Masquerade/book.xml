@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2239" title="Red Masquerade" author="Vance, Louis Joseph" location="V/Louis Joseph Vance/Red Masquerade">
+		<section type="1" name="Book I. A Chapter from the Youth of Monsieur Michael Lanyard">
+			<chapter num="1" title="I. Plebeian and Prince" location="V/Louis Joseph Vance/Red Masquerade/1.xml" />
+			<chapter num="2" title="II. The Princess Sofia" location="V/Louis Joseph Vance/Red Masquerade/2.xml" />
+			<chapter num="3" title="III. Monsieur Quixote" location="V/Louis Joseph Vance/Red Masquerade/3.xml" />
+			<chapter num="4" title="IV. The Fool and His Money" location="V/Louis Joseph Vance/Red Masquerade/4.xml" />
+			<chapter num="5" title="V. Impostor" location="V/Louis Joseph Vance/Red Masquerade/5.xml" />
+			<chapter num="6" title="VI. Therese" location="V/Louis Joseph Vance/Red Masquerade/6.xml" />
+			<chapter num="7" title="VII. Family Reunion" location="V/Louis Joseph Vance/Red Masquerade/7.xml" />
+			<chapter num="8" title="VIII. Greek vs. Greek" location="V/Louis Joseph Vance/Red Masquerade/8.xml" />
+			<chapter num="9" title="IX. Paid in Full" location="V/Louis Joseph Vance/Red Masquerade/9.xml" />
+		</section>
+		<section type="1" name="Book II. The Lone Wolf's Daughter">
+			<chapter num="10" title="I. The Girl Sofia" location="V/Louis Joseph Vance/Red Masquerade/10.xml" />
+			<chapter num="11" title="II. Masks and Faces" location="V/Louis Joseph Vance/Red Masquerade/11.xml" />
+			<chapter num="12" title="III. The Agony Column" location="V/Louis Joseph Vance/Red Masquerade/12.xml" />
+			<chapter num="13" title="IV. Mutiny" location="V/Louis Joseph Vance/Red Masquerade/13.xml" />
+			<chapter num="14" title="V. House of the Wolf" location="V/Louis Joseph Vance/Red Masquerade/14.xml" />
+			<chapter num="15" title="VI. The Mummer" location="V/Louis Joseph Vance/Red Masquerade/15.xml" />
+			<chapter num="16" title="VII. The Fantastics" location="V/Louis Joseph Vance/Red Masquerade/16.xml" />
+			<chapter num="17" title="VIII. Council of the Godless" location="V/Louis Joseph Vance/Red Masquerade/17.xml" />
+			<chapter num="18" title="IX. Mrs. Waring" location="V/Louis Joseph Vance/Red Masquerade/18.xml" />
+			<chapter num="19" title="X. Victor Et Al" location="V/Louis Joseph Vance/Red Masquerade/19.xml" />
+			<chapter num="20" title="XI. Heartbreak" location="V/Louis Joseph Vance/Red Masquerade/20.xml" />
+			<chapter num="21" title="XII. Suspect" location="V/Louis Joseph Vance/Red Masquerade/21.xml" />
+			<chapter num="22" title="XIII. The Turnip" location="V/Louis Joseph Vance/Red Masquerade/22.xml" />
+			<chapter num="23" title="XIV. Conference of the Damned" location="V/Louis Joseph Vance/Red Masquerade/23.xml" />
+			<chapter num="24" title="XV. Intuition" location="V/Louis Joseph Vance/Red Masquerade/24.xml" />
+			<chapter num="25" title="XVI. The Crystal" location="V/Louis Joseph Vance/Red Masquerade/25.xml" />
+			<chapter num="26" title="XVII. The Raised Cheque" location="V/Louis Joseph Vance/Red Masquerade/26.xml" />
+			<chapter num="27" title="XVIII. Ordeal" location="V/Louis Joseph Vance/Red Masquerade/27.xml" />
+			<chapter num="28" title="XIX. Unmasking" location="V/Louis Joseph Vance/Red Masquerade/28.xml" />
+			<chapter num="29" title="XX. The Devil to Pay" location="V/Louis Joseph Vance/Red Masquerade/29.xml" />
+			<chapter num="30" title="XXI. Ventre a Terre" location="V/Louis Joseph Vance/Red Masquerade/30.xml" />
+			<chapter num="31" title="XXII. The Seven Brass Hinges" location="V/Louis Joseph Vance/Red Masquerade/31.xml" />
+		</section>
+</book>

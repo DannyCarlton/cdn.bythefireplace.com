@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1129" title="Pericles, Prince of Tyre" author="Shakespeare, William" location="S/William Shakespeare/Pericles, Prince of Tyre">
+			<chapter num="1" title="Dramatis Personae" location="S/William Shakespeare/Pericles, Prince of Tyre/1.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="2" title="Before the palace of Antioch" location="S/William Shakespeare/Pericles, Prince of Tyre/2.xml" />
+			<chapter num="3" title="Scene I." location="S/William Shakespeare/Pericles, Prince of Tyre/3.xml" />
+			<chapter num="4" title="Scene II." location="S/William Shakespeare/Pericles, Prince of Tyre/4.xml" />
+			<chapter num="5" title="Scene III." location="S/William Shakespeare/Pericles, Prince of Tyre/5.xml" />
+			<chapter num="6" title="Scene IV." location="S/William Shakespeare/Pericles, Prince of Tyre/6.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="7" title="Enter Gower" location="S/William Shakespeare/Pericles, Prince of Tyre/7.xml" />
+			<chapter num="8" title="Scene I." location="S/William Shakespeare/Pericles, Prince of Tyre/8.xml" />
+			<chapter num="9" title="Scene II." location="S/William Shakespeare/Pericles, Prince of Tyre/9.xml" />
+			<chapter num="10" title="Scene III." location="S/William Shakespeare/Pericles, Prince of Tyre/10.xml" />
+			<chapter num="11" title="Scene IV." location="S/William Shakespeare/Pericles, Prince of Tyre/11.xml" />
+			<chapter num="12" title="Scene V." location="S/William Shakespeare/Pericles, Prince of Tyre/12.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="13" title="Enter Gower" location="S/William Shakespeare/Pericles, Prince of Tyre/13.xml" />
+			<chapter num="14" title="Scene I." location="S/William Shakespeare/Pericles, Prince of Tyre/14.xml" />
+			<chapter num="15" title="Scene II." location="S/William Shakespeare/Pericles, Prince of Tyre/15.xml" />
+			<chapter num="16" title="Scene III." location="S/William Shakespeare/Pericles, Prince of Tyre/16.xml" />
+			<chapter num="17" title="Scene IV." location="S/William Shakespeare/Pericles, Prince of Tyre/17.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="18" title="Enter Gower" location="S/William Shakespeare/Pericles, Prince of Tyre/18.xml" />
+			<chapter num="19" title="Scene I." location="S/William Shakespeare/Pericles, Prince of Tyre/19.xml" />
+			<chapter num="20" title="Scene II." location="S/William Shakespeare/Pericles, Prince of Tyre/20.xml" />
+			<chapter num="21" title="Scene III." location="S/William Shakespeare/Pericles, Prince of Tyre/21.xml" />
+			<chapter num="22" title="Scene IV." location="S/William Shakespeare/Pericles, Prince of Tyre/22.xml" />
+			<chapter num="23" title="Scene V." location="S/William Shakespeare/Pericles, Prince of Tyre/23.xml" />
+			<chapter num="24" title="Scene VI." location="S/William Shakespeare/Pericles, Prince of Tyre/24.xml" />
+		</section>
+		<section type="1" name="ACT V">
+			<chapter num="25" title="Enter Gower" location="S/William Shakespeare/Pericles, Prince of Tyre/25.xml" />
+			<chapter num="26" title="Scene I." location="S/William Shakespeare/Pericles, Prince of Tyre/26.xml" />
+			<chapter num="27" title="Scene II." location="S/William Shakespeare/Pericles, Prince of Tyre/27.xml" />
+			<chapter num="28" title="Scene III." location="S/William Shakespeare/Pericles, Prince of Tyre/28.xml" />
+		</section>
+</book>

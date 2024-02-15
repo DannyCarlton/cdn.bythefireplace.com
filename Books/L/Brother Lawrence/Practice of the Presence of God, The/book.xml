@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40321" title="Practice of the Presence of God, The" author="Lawrence, Brother" location="L/Brother Lawrence/Practice of the Presence of God, The">
+			<chapter num="0" title="Preface" location="L/Brother Lawrence/Practice of the Presence of God, The/0.xml" />
+
+	<section type="2" name="Conversations">
+			<chapter num="1" title="First Conversation" location="L/Brother Lawrence/Practice of the Presence of God, The/1.xml" />
+			<chapter num="2" title="Second Conversation" location="L/Brother Lawrence/Practice of the Presence of God, The/2.xml" />
+			<chapter num="3" title="Third Conversation" location="L/Brother Lawrence/Practice of the Presence of God, The/3.xml" />
+			<chapter num="4" title="Fourth Conversation" location="L/Brother Lawrence/Practice of the Presence of God, The/4.xml" />
+
+	</section>
+	<section type="2" name="Letters">
+			<chapter num="5" title="First Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/5.xml" />
+			<chapter num="6" title="Second Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/6.xml" />
+			<chapter num="7" title="Third Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/7.xml" />
+			<chapter num="8" title="Fourth Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/8.xml" />
+			<chapter num="9" title="Fifth Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/9.xml" />
+			<chapter num="10" title="Sixth Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/10.xml" />
+			<chapter num="11" title="Seventh Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/11.xml" />
+			<chapter num="12" title="Eighth Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/12.xml" />
+			<chapter num="13" title="Ninth Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/13.xml" />
+			<chapter num="14" title="Tenth Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/14.xml" />
+			<chapter num="15" title="Eleventh Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/15.xml" />
+			<chapter num="16" title="Twelfth Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/16.xml" />
+			<chapter num="17" title="Thirteenth Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/17.xml" />
+			<chapter num="18" title="Fourteenth Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/18.xml" />
+			<chapter num="19" title="Fifteenth Letter" location="L/Brother Lawrence/Practice of the Presence of God, The/19.xml" />
+			<chapter num="20" title="Apendix" location="L/Brother Lawrence/Practice of the Presence of God, The/20.xml" />
+	</section>
+</book>

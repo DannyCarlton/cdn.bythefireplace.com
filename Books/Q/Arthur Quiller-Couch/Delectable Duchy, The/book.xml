@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2443" title="Delectable Duchy, The" author="Quiller-Couch, Arthur" location="Q/Arthur Quiller-Couch/Delectable Duchy, The">
+			<chapter num="1" title="Prologue." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/1.xml" />
+			<chapter num="2" title="The Spinster's Maying." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/2.xml" />
+			<chapter num="3" title="Daphnis." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/3.xml" />
+			<chapter num="4" title="When the Sap Rose. A Fantasia." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/4.xml" />
+			<chapter num="5" title="The Paupers" location="Q/Arthur Quiller-Couch/Delectable Duchy, The/5.xml" />
+			<chapter num="6" title="Cuckoo Valley Railway" location="Q/Arthur Quiller-Couch/Delectable Duchy, The/6.xml" />
+			<chapter num="7" title="The Conspiracy Aboard the Midas." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/7.xml" />
+		<section type="1" name="Legends of St. Piran.">
+			<chapter num="8" title="I.--Saint Piran and the Millstone." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/8.xml" />
+			<chapter num="9" title="II.--Saint Piran and the Visitation." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/9.xml" />
+		</section>
+		<section type="1" name="In the Train.">
+			<chapter num="10" title="I.--Punch's Understudy." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/10.xml" />
+			<chapter num="11" title="II.--A Corrected Contempt." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/11.xml" />
+			<chapter num="12" title="Woon Gate." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/12.xml" />
+		</section>
+		<section type="1" name="From a Cottage in Gantick.">
+			<chapter num="13" title="I.--The Mourner's Horse." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/13.xml" />
+			<chapter num="14" title="II.--Silhouettes." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/14.xml" />
+			<chapter num="15" title="The Drawn Blind." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/15.xml" />
+			<chapter num="16" title="A Golden Wedding." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/16.xml" />
+			<chapter num="17" title="School Friends." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/17.xml" />
+		</section>
+		<section type="1" name="Parents and Children.">
+			<chapter num="18" title="I.--The Family Bible" location="Q/Arthur Quiller-Couch/Delectable Duchy, The/18.xml" />
+			<chapter num="19" title="II.--Boanerges." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/19.xml" />
+			<chapter num="20" title="Two Monuments." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/20.xml" />
+			<chapter num="21" title="Egg-Stealing." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/21.xml" />
+			<chapter num="22" title="Seven-An'-Six." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/22.xml" />
+			<chapter num="23" title="The Regent's Wager." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/23.xml" />
+			<chapter num="24" title="Love of Naomi." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/24.xml" />
+		</section>
+		<section type="1" name="The Prince of Abyssinia's Post-Bag.">
+			<chapter num="25" title="I.--An Interruption:" location="Q/Arthur Quiller-Couch/Delectable Duchy, The/25.xml" />
+			<chapter num="26" title="II.--The Great Fire on Freethy's Quay." location="Q/Arthur Quiller-Couch/Delectable Duchy, The/26.xml" />
+		</section>
+</book>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1387" title="Arrow of Gold, The" author="Conrad, Joseph" location="C/Joseph Conrad/Arrow of Gold, The">
+			<chapter num="1" title="First Note" location="C/Joseph Conrad/Arrow of Gold, The/1.xml" />
+		<section type="1" name="Part One">
+			<chapter num="2" title="Chapter I" location="C/Joseph Conrad/Arrow of Gold, The/2.xml" />
+			<chapter num="3" title="Chapter II" location="C/Joseph Conrad/Arrow of Gold, The/3.xml" />
+			<chapter num="4" title="Chapter III" location="C/Joseph Conrad/Arrow of Gold, The/4.xml" />
+		</section>
+		<section type="1" name="Part Two">
+			<chapter num="5" title="Chapter I" location="C/Joseph Conrad/Arrow of Gold, The/5.xml" />
+			<chapter num="6" title="Chapter II" location="C/Joseph Conrad/Arrow of Gold, The/6.xml" />
+			<chapter num="7" title="Chapter III" location="C/Joseph Conrad/Arrow of Gold, The/7.xml" />
+			<chapter num="8" title="Chapter IV" location="C/Joseph Conrad/Arrow of Gold, The/8.xml" />
+		</section>
+		<section type="1" name="Part Three">
+			<chapter num="9" title="Chapter I" location="C/Joseph Conrad/Arrow of Gold, The/9.xml" />
+			<chapter num="10" title="Chapter II" location="C/Joseph Conrad/Arrow of Gold, The/10.xml" />
+			<chapter num="11" title="Chapter III" location="C/Joseph Conrad/Arrow of Gold, The/11.xml" />
+			<chapter num="12" title="Chapter IV" location="C/Joseph Conrad/Arrow of Gold, The/12.xml" />
+		</section>
+		<section type="1" name="Part Four">
+			<chapter num="13" title="Chapter I" location="C/Joseph Conrad/Arrow of Gold, The/13.xml" />
+			<chapter num="14" title="Chapter II" location="C/Joseph Conrad/Arrow of Gold, The/14.xml" />
+			<chapter num="15" title="Chapter III" location="C/Joseph Conrad/Arrow of Gold, The/15.xml" />
+			<chapter num="16" title="Chapter IV" location="C/Joseph Conrad/Arrow of Gold, The/16.xml" />
+			<chapter num="17" title="Chapter V" location="C/Joseph Conrad/Arrow of Gold, The/17.xml" />
+		</section>
+		<section type="1" name="Part Five">
+			<chapter num="18" title="Chapter I" location="C/Joseph Conrad/Arrow of Gold, The/18.xml" />
+			<chapter num="19" title="Chapter II" location="C/Joseph Conrad/Arrow of Gold, The/19.xml" />
+			<chapter num="20" title="Chapter III" location="C/Joseph Conrad/Arrow of Gold, The/20.xml" />
+			<chapter num="21" title="Chapter IV" location="C/Joseph Conrad/Arrow of Gold, The/21.xml" />
+			<chapter num="22" title="Chapter V" location="C/Joseph Conrad/Arrow of Gold, The/22.xml" />
+			<chapter num="23" title="Chapter VI" location="C/Joseph Conrad/Arrow of Gold, The/23.xml" />
+			<chapter num="24" title="Chapter VII" location="C/Joseph Conrad/Arrow of Gold, The/24.xml" />
+			<chapter num="25" title="Chapter VIII" location="C/Joseph Conrad/Arrow of Gold, The/25.xml" />
+			<chapter num="26" title="Second Note" location="C/Joseph Conrad/Arrow of Gold, The/26.xml" />
+		</section>
+</book>

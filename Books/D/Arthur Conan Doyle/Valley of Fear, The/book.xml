@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1470" title="Valley of Fear, The" author="Doyle, Arthur Conan" location="D/Arthur Conan Doyle/Valley of Fear, The">
+		<section type="1" name="Part 1 - The Tragedy of Birlstone">
+			<chapter num="1" title="Chapter 1 - The Warning" location="D/Arthur Conan Doyle/Valley of Fear, The/1.xml" />
+			<chapter num="2" title="Chapter 2 - Sherlock Holmes Discourses" location="D/Arthur Conan Doyle/Valley of Fear, The/2.xml" />
+			<chapter num="3" title="Chapter 3 - The Tragedy of Birlstone" location="D/Arthur Conan Doyle/Valley of Fear, The/3.xml" />
+			<chapter num="4" title="Chapter 4 - Darkness" location="D/Arthur Conan Doyle/Valley of Fear, The/4.xml" />
+			<chapter num="5" title="Chapter 5 - The People of the Drama" location="D/Arthur Conan Doyle/Valley of Fear, The/5.xml" />
+			<chapter num="6" title="Chapter 6 - A Dawning Light" location="D/Arthur Conan Doyle/Valley of Fear, The/6.xml" />
+			<chapter num="7" title="Chapter 7 - The Solution" location="D/Arthur Conan Doyle/Valley of Fear, The/7.xml" />
+		</section>
+		<section type="1" name="Part 2 - The Scowrers">
+			<chapter num="8" title="Chapter 1 - The Man" location="D/Arthur Conan Doyle/Valley of Fear, The/8.xml" />
+			<chapter num="9" title="Chapter 2 - The Bodymaster" location="D/Arthur Conan Doyle/Valley of Fear, The/9.xml" />
+			<chapter num="10" title="Chapter 3 - Lodge 341, Vermissa" location="D/Arthur Conan Doyle/Valley of Fear, The/10.xml" />
+			<chapter num="11" title="Chapter 4 - The Valley of Fear" location="D/Arthur Conan Doyle/Valley of Fear, The/11.xml" />
+			<chapter num="12" title="Chapter 5 - The Darkest Hour" location="D/Arthur Conan Doyle/Valley of Fear, The/12.xml" />
+			<chapter num="13" title="Chapter 6 - Danger" location="D/Arthur Conan Doyle/Valley of Fear, The/13.xml" />
+			<chapter num="14" title="Chapter 7 - The Trapping of Birdy Edwards" location="D/Arthur Conan Doyle/Valley of Fear, The/14.xml" />
+			<chapter num="15" title="Epilogue" location="D/Arthur Conan Doyle/Valley of Fear, The/15.xml" />
+		</section>
+</book>

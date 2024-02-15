@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="784" title="Amphitryon" author="Moliere, Jean Baptiste Poquelin" location="M/Jean Baptiste Poquelin Moliere/Amphitryon">
+			<chapter num="1" title="Prologue" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/1.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="2" title="Scene I" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/2.xml" />
+			<chapter num="3" title="Scene II" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/3.xml" />
+			<chapter num="4" title="Scene III" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/4.xml" />
+			<chapter num="5" title="Scene IV" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/5.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="6" title="Scene I" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/6.xml" />
+			<chapter num="7" title="Scene II" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/7.xml" />
+			<chapter num="8" title="Scene III" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/8.xml" />
+			<chapter num="9" title="Scene IV" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/9.xml" />
+			<chapter num="10" title="Scene V" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/10.xml" />
+			<chapter num="11" title="Scene VI" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/11.xml" />
+			<chapter num="12" title="Scene VII" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/12.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="13" title="Scene I" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/13.xml" />
+			<chapter num="14" title="Scene II" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/14.xml" />
+			<chapter num="15" title="Scene III" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/15.xml" />
+			<chapter num="16" title="Scene IV" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/16.xml" />
+			<chapter num="17" title="Scene V" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/17.xml" />
+			<chapter num="18" title="Scene VI" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/18.xml" />
+			<chapter num="19" title="Scene VII" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/19.xml" />
+			<chapter num="20" title="Scene VIII" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/20.xml" />
+			<chapter num="21" title="Scene IX" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/21.xml" />
+			<chapter num="22" title="Scene X" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/22.xml" />
+		</section>
+</book>

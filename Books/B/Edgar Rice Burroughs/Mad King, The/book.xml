@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40011" title="Mad King, The" author="Burroughs, Edgar Rice" location="B/Edgar Rice Burroughs/Mad King, The">
+
+	<section type="2" name="Part I">
+			<chapter num="1" title="I. A Runaway Horse" location="B/Edgar Rice Burroughs/Mad King, The/1.xml" />
+			<chapter num="2" title="II. Over the Precipice" location="B/Edgar Rice Burroughs/Mad King, The/2.xml" />
+			<chapter num="3" title="III. An Angry King" location="B/Edgar Rice Burroughs/Mad King, The/3.xml" />
+			<chapter num="4" title="IV. Barney Finds a Friend" location="B/Edgar Rice Burroughs/Mad King, The/4.xml" />
+			<chapter num="5" title="V. The Escape" location="B/Edgar Rice Burroughs/Mad King, The/5.xml" />
+			<chapter num="6" title="VI. A King's Ransom" location="B/Edgar Rice Burroughs/Mad King, The/6.xml" />
+			<chapter num="7" title="VII. The Real Leopold" location="B/Edgar Rice Burroughs/Mad King, The/7.xml" />
+			<chapter num="8" title="VIII. The Coronation Day" location="B/Edgar Rice Burroughs/Mad King, The/8.xml" />
+			<chapter num="9" title="IX. The King's Guests" location="B/Edgar Rice Burroughs/Mad King, The/9.xml" />
+			<chapter num="10" title="X. On the Battlefield" location="B/Edgar Rice Burroughs/Mad King, The/10.xml" />
+			<chapter num="11" title="XI. A Timely Intervention" location="B/Edgar Rice Burroughs/Mad King, The/11.xml" />
+			<chapter num="12" title="XII. The Gratitude of a King" location="B/Edgar Rice Burroughs/Mad King, The/12.xml" />
+
+	</section>
+	<section type="2" name="Part Ii">
+			<chapter num="13" title="I. Barney Returns to Lutha" location="B/Edgar Rice Burroughs/Mad King, The/13.xml" />
+			<chapter num="14" title="II. Condemned to Death" location="B/Edgar Rice Burroughs/Mad King, The/14.xml" />
+			<chapter num="15" title="III. Before the Firing Squad" location="B/Edgar Rice Burroughs/Mad King, The/15.xml" />
+			<chapter num="16" title="IV. A Race to Lutha" location="B/Edgar Rice Burroughs/Mad King, The/16.xml" />
+			<chapter num="17" title="V. The Traitor King" location="B/Edgar Rice Burroughs/Mad King, The/17.xml" />
+			<chapter num="18" title="VI. A Trap Is Sprung" location="B/Edgar Rice Burroughs/Mad King, The/18.xml" />
+			<chapter num="19" title="VII. Barney to the Rescue" location="B/Edgar Rice Burroughs/Mad King, The/19.xml" />
+			<chapter num="20" title="VIII. An Adventurous Day" location="B/Edgar Rice Burroughs/Mad King, The/20.xml" />
+			<chapter num="21" title="IX. The Capture" location="B/Edgar Rice Burroughs/Mad King, The/21.xml" />
+			<chapter num="22" title="X. A New King in Lutha" location="B/Edgar Rice Burroughs/Mad King, The/22.xml" />
+			<chapter num="23" title="XI. The Battle" location="B/Edgar Rice Burroughs/Mad King, The/23.xml" />
+			<chapter num="24" title="XII. Leopold Waits for Dawn" location="B/Edgar Rice Burroughs/Mad King, The/24.xml" />
+			<chapter num="25" title="XIII. The Two Kings" location="B/Edgar Rice Burroughs/Mad King, The/25.xml" />
+			<chapter num="26" title="XIV. &quot;The King's Will Is Law&quot;" location="B/Edgar Rice Burroughs/Mad King, The/26.xml" />
+			<chapter num="27" title="XV. Maenck Blunders" location="B/Edgar Rice Burroughs/Mad King, The/27.xml" />
+			<chapter num="28" title="XVI. King of Lutha" location="B/Edgar Rice Burroughs/Mad King, The/28.xml" />
+	</section>
+</book>

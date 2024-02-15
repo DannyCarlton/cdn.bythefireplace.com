@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40302" title="Spy, The" author="Cooper, James Fenimore" location="C/James Fenimore Cooper/Spy, The">
+			<chapter num="1" title="Preface" location="C/James Fenimore Cooper/Spy, The/1.xml" />
+
+	<section type="2" name="Volume 1">
+			<chapter num="2" title="Chapter I" location="C/James Fenimore Cooper/Spy, The/2.xml" />
+			<chapter num="3" title="Chapter II" location="C/James Fenimore Cooper/Spy, The/3.xml" />
+			<chapter num="4" title="Chapter III" location="C/James Fenimore Cooper/Spy, The/4.xml" />
+			<chapter num="5" title="Chapter IV" location="C/James Fenimore Cooper/Spy, The/5.xml" />
+			<chapter num="6" title="Chapter V" location="C/James Fenimore Cooper/Spy, The/6.xml" />
+			<chapter num="7" title="Chapter VI" location="C/James Fenimore Cooper/Spy, The/7.xml" />
+			<chapter num="8" title="Chapter VII" location="C/James Fenimore Cooper/Spy, The/8.xml" />
+			<chapter num="9" title="Chapter VIII" location="C/James Fenimore Cooper/Spy, The/9.xml" />
+			<chapter num="10" title="Chapter IX" location="C/James Fenimore Cooper/Spy, The/10.xml" />
+			<chapter num="11" title="Chapter X" location="C/James Fenimore Cooper/Spy, The/11.xml" />
+			<chapter num="12" title="Chapter XI" location="C/James Fenimore Cooper/Spy, The/12.xml" />
+			<chapter num="13" title="Chapter XII" location="C/James Fenimore Cooper/Spy, The/13.xml" />
+			<chapter num="14" title="Chapter XIII" location="C/James Fenimore Cooper/Spy, The/14.xml" />
+			<chapter num="15" title="Chapter XIV" location="C/James Fenimore Cooper/Spy, The/15.xml" />
+			<chapter num="16" title="Chapter XV" location="C/James Fenimore Cooper/Spy, The/16.xml" />
+			<chapter num="17" title="Chapter XVI" location="C/James Fenimore Cooper/Spy, The/17.xml" />
+
+	</section>
+	<section type="2" name="Volume 2">
+			<chapter num="18" title="Chapter I" location="C/James Fenimore Cooper/Spy, The/18.xml" />
+			<chapter num="19" title="Chapter II" location="C/James Fenimore Cooper/Spy, The/19.xml" />
+			<chapter num="20" title="Chapter III" location="C/James Fenimore Cooper/Spy, The/20.xml" />
+			<chapter num="21" title="Chapter IV" location="C/James Fenimore Cooper/Spy, The/21.xml" />
+			<chapter num="22" title="Chapter V" location="C/James Fenimore Cooper/Spy, The/22.xml" />
+			<chapter num="23" title="Chapter VI" location="C/James Fenimore Cooper/Spy, The/23.xml" />
+			<chapter num="24" title="Chapter VII" location="C/James Fenimore Cooper/Spy, The/24.xml" />
+			<chapter num="25" title="Chapter VIII" location="C/James Fenimore Cooper/Spy, The/25.xml" />
+			<chapter num="26" title="Chapter IX" location="C/James Fenimore Cooper/Spy, The/26.xml" />
+			<chapter num="27" title="Chapter X" location="C/James Fenimore Cooper/Spy, The/27.xml" />
+			<chapter num="28" title="Chapter XI" location="C/James Fenimore Cooper/Spy, The/28.xml" />
+			<chapter num="29" title="Chapter XII" location="C/James Fenimore Cooper/Spy, The/29.xml" />
+			<chapter num="30" title="Chapter XIII" location="C/James Fenimore Cooper/Spy, The/30.xml" />
+			<chapter num="31" title="Chapter XIV" location="C/James Fenimore Cooper/Spy, The/31.xml" />
+			<chapter num="32" title="Chapter XV" location="C/James Fenimore Cooper/Spy, The/32.xml" />
+			<chapter num="33" title="Chapter XVI" location="C/James Fenimore Cooper/Spy, The/33.xml" />
+			<chapter num="34" title="Chapter XVII" location="C/James Fenimore Cooper/Spy, The/34.xml" />
+			<chapter num="35" title="Chapter XVIII" location="C/James Fenimore Cooper/Spy, The/35.xml" />
+			<chapter num="36" title="Chapter XIX" location="C/James Fenimore Cooper/Spy, The/36.xml" />
+	</section>
+</book>

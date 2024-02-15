@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2273" title="Adventures of Jimmie Dale, The" author="Packard, Frank L." location="P/Frank L. Packard/Adventures of Jimmie Dale, The">
+		<section type="1" name="Part One: The Man in the Case">
+			<chapter num="1" title="Chapter I. The Gray Seal" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/1.xml" />
+			<chapter num="2" title="Chapter II. By Proxy" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/2.xml" />
+			<chapter num="3" title="Chapter III. The Mother Lode" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/3.xml" />
+			<chapter num="4" title="Chapter IV. The Counterfeit Five" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/4.xml" />
+			<chapter num="5" title="Chapter V. The Affair of the Pushcart Man" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/5.xml" />
+			<chapter num="6" title="Chapter VI. Devil's Work" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/6.xml" />
+			<chapter num="7" title="Chapter VII. The Thief" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/7.xml" />
+			<chapter num="8" title="Chapter VIII. The Man Higher Up" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/8.xml" />
+			<chapter num="9" title="Chapter IX. Two Crooks and a Knave" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/9.xml" />
+			<chapter num="10" title="Chapter X. The Alibi" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/10.xml" />
+			<chapter num="11" title="Chapter XI. The Stool-Pigeon" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/11.xml" />
+		</section>
+		<section type="1" name="Part Two: The Woman in the Case">
+			<chapter num="12" title="Chapter I. Below the Dead Line" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/12.xml" />
+			<chapter num="13" title="Chapter II. The Call to Arms" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/13.xml" />
+			<chapter num="14" title="Chapter III. The Crime Club" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/14.xml" />
+			<chapter num="15" title="Chapter IV. The Innocent Bystander" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/15.xml" />
+			<chapter num="16" title="Chapter V. On Guard" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/16.xml" />
+			<chapter num="17" title="Chapter VI. The Trap" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/17.xml" />
+			<chapter num="18" title="Chapter VII. The &quot;Hour&quot;" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/18.xml" />
+			<chapter num="19" title="Chapter VIII. The Tocsin" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/19.xml" />
+			<chapter num="20" title="Chapter IX. The Tocsin's Story" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/20.xml" />
+			<chapter num="21" title="Chapter X. Silver Mag" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/21.xml" />
+			<chapter num="22" title="Chapter XI. The Magpie" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/22.xml" />
+			<chapter num="23" title="Chapter XII. John Johansson--Four-Two-Eight" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/23.xml" />
+			<chapter num="24" title="Chapter XIII. The Only Way" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/24.xml" />
+			<chapter num="25" title="Chapter XIV. Out of the Darkness" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/25.xml" />
+			<chapter num="26" title="Chapter XV. Retribution" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/26.xml" />
+			<chapter num="27" title="Chapter XVI. &quot;Death to the Gray Seal!&quot;" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/27.xml" />
+		</section>
+</book>

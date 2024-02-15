@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1542" title="Arizona Nights" author="White, Stewart Edward" location="W/Stewart Edward White/Arizona Nights">
+		<section type="1" name="Part I">
+			<chapter num="1" title="Chapter One. The Ole Virginia" location="W/Stewart Edward White/Arizona Nights/1.xml" />
+			<chapter num="2" title="Chapter Two. The Emigrants" location="W/Stewart Edward White/Arizona Nights/2.xml" />
+			<chapter num="3" title="Chapter Three. The Remittance Man" location="W/Stewart Edward White/Arizona Nights/3.xml" />
+			<chapter num="4" title="Chapter Four. The Cattle Rustlers" location="W/Stewart Edward White/Arizona Nights/4.xml" />
+			<chapter num="5" title="Chapter Five. The Drive" location="W/Stewart Edward White/Arizona Nights/5.xml" />
+			<chapter num="6" title="Chapter Six. Cutting Out" location="W/Stewart Edward White/Arizona Nights/6.xml" />
+			<chapter num="7" title="Chapter Seven. A Corner in Horses" location="W/Stewart Edward White/Arizona Nights/7.xml" />
+			<chapter num="8" title="Chapter Eight. The Corral Branding" location="W/Stewart Edward White/Arizona Nights/8.xml" />
+			<chapter num="9" title="Chapter Nine. The Old Timer" location="W/Stewart Edward White/Arizona Nights/9.xml" />
+			<chapter num="10" title="Chapter Ten. The Texas Rangers" location="W/Stewart Edward White/Arizona Nights/10.xml" />
+			<chapter num="11" title="Chapter Eleven. The Sailor With One Hand" location="W/Stewart Edward White/Arizona Nights/11.xml" />
+			<chapter num="12" title="Chapter Twelve. The Murder on the Beach" location="W/Stewart Edward White/Arizona Nights/12.xml" />
+			<chapter num="13" title="Chapter Thirteen. Buried Treasure" location="W/Stewart Edward White/Arizona Nights/13.xml" />
+			<chapter num="14" title="Chapter Fourteen. The Chewed Sugar Cane" location="W/Stewart Edward White/Arizona Nights/14.xml" />
+			<chapter num="15" title="Chapter Fifteen. The Calabash Stew" location="W/Stewart Edward White/Arizona Nights/15.xml" />
+			<chapter num="16" title="Chapter Sixteen. The Honk-Honk Breed" location="W/Stewart Edward White/Arizona Nights/16.xml" />
+		</section>
+		<section type="1" name="Part II. The Two Gun Man">
+			<chapter num="17" title="Chapter One. The Cattle Rustlers" location="W/Stewart Edward White/Arizona Nights/17.xml" />
+			<chapter num="18" title="Chapter Two. The Man With Nerve" location="W/Stewart Edward White/Arizona Nights/18.xml" />
+			<chapter num="19" title="Chapter Three. The Agreement" location="W/Stewart Edward White/Arizona Nights/19.xml" />
+			<chapter num="20" title="Chapter Four. The Accomplishment" location="W/Stewart Edward White/Arizona Nights/20.xml" />
+		</section>
+		<section type="1" name="Part III. The Rawhide">
+			<chapter num="21" title="Chapter One. The Passing of the Colt's Forty-Five" location="W/Stewart Edward White/Arizona Nights/21.xml" />
+			<chapter num="22" title="Chapter Two. The Shapes of Illusion" location="W/Stewart Edward White/Arizona Nights/22.xml" />
+			<chapter num="23" title="Chapter Three. The Paper a Year Old" location="W/Stewart Edward White/Arizona Nights/23.xml" />
+			<chapter num="24" title="Chapter Four. Dreams" location="W/Stewart Edward White/Arizona Nights/24.xml" />
+			<chapter num="25" title="Chapter Five. The Arrival" location="W/Stewart Edward White/Arizona Nights/25.xml" />
+			<chapter num="26" title="Chapter Six. The Wagon Tire" location="W/Stewart Edward White/Arizona Nights/26.xml" />
+			<chapter num="27" title="Chapter Seven. Estrella" location="W/Stewart Edward White/Arizona Nights/27.xml" />
+			<chapter num="28" title="Chapter Eight. The Round-Up" location="W/Stewart Edward White/Arizona Nights/28.xml" />
+			<chapter num="29" title="Chapter Nine. The Long Trail" location="W/Stewart Edward White/Arizona Nights/29.xml" />
+			<chapter num="30" title="Chapter Ten. The Discovery" location="W/Stewart Edward White/Arizona Nights/30.xml" />
+			<chapter num="31" title="Chapter Eleven. The Capture" location="W/Stewart Edward White/Arizona Nights/31.xml" />
+			<chapter num="32" title="Chapter Twelve. In the Arroyo" location="W/Stewart Edward White/Arizona Nights/32.xml" />
+			<chapter num="33" title="Chapter Thirteen. The Rawhide" location="W/Stewart Edward White/Arizona Nights/33.xml" />
+			<chapter num="34" title="Chapter Fourteen. The Desert" location="W/Stewart Edward White/Arizona Nights/34.xml" />
+		</section>
+</book>

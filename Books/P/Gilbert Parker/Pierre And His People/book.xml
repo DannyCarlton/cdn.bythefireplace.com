@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1825" title="Pierre And His People" author="Parker, Gilbert" location="P/Gilbert Parker/Pierre And His People">
+			<chapter num="1" title="General Introduction" location="P/Gilbert Parker/Pierre And His People/1.xml" />
+			<chapter num="2" title="Introduction" location="P/Gilbert Parker/Pierre And His People/2.xml" />
+			<chapter num="3" title="Note" location="P/Gilbert Parker/Pierre And His People/3.xml" />
+		<section type="1" name="Volume I">
+			<chapter num="4" title="The Patrol of the Cypress Hills" location="P/Gilbert Parker/Pierre And His People/4.xml" />
+			<chapter num="5" title="God's Garrison" location="P/Gilbert Parker/Pierre And His People/5.xml" />
+			<chapter num="6" title="A Hazard of the North" location="P/Gilbert Parker/Pierre And His People/6.xml" />
+		</section>
+		<section type="1" name="Volume II">
+			<chapter num="7" title="A Prairie Vagabond" location="P/Gilbert Parker/Pierre And His People/7.xml" />
+			<chapter num="8" title="She of the Triple Chevron" location="P/Gilbert Parker/Pierre And His People/8.xml" />
+			<chapter num="9" title="Three Outlaws" location="P/Gilbert Parker/Pierre And His People/9.xml" />
+		</section>
+		<section type="1" name="Volume III">
+			<chapter num="10" title="Shon McGann's Tobogan Ride" location="P/Gilbert Parker/Pierre And His People/10.xml" />
+			<chapter num="11" title="Pere Champagne" location="P/Gilbert Parker/Pierre And His People/11.xml" />
+			<chapter num="12" title="The Scarlet Hunter" location="P/Gilbert Parker/Pierre And His People/12.xml" />
+			<chapter num="13" title="The Stone" location="P/Gilbert Parker/Pierre And His People/13.xml" />
+		</section>
+		<section type="1" name="Volume IV">
+			<chapter num="14" title="The Tall Master" location="P/Gilbert Parker/Pierre And His People/14.xml" />
+			<chapter num="15" title="The Crimson Flag" location="P/Gilbert Parker/Pierre And His People/15.xml" />
+			<chapter num="16" title="The Flood" location="P/Gilbert Parker/Pierre And His People/16.xml" />
+			<chapter num="17" title="In Pipi Valley" location="P/Gilbert Parker/Pierre And His People/17.xml" />
+		</section>
+		<section type="1" name="Volume V">
+			<chapter num="18" title="Antoine and Angelique" location="P/Gilbert Parker/Pierre And His People/18.xml" />
+			<chapter num="19" title="The Cipher" location="P/Gilbert Parker/Pierre And His People/19.xml" />
+			<chapter num="20" title="A Tragedy of Nobodies" location="P/Gilbert Parker/Pierre And His People/20.xml" />
+			<chapter num="21" title="A Sanctuary of the Plains" location="P/Gilbert Parker/Pierre And His People/21.xml" />
+		</section>
+</book>

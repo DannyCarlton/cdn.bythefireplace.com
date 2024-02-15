@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1795" title="Ion" author="Plato, " location="P/ Plato/Ion">
+			<chapter num="1" title="Introduction." location="P/ Plato/Ion/1.xml" />
+			<chapter num="2" title="Ion" location="P/ Plato/Ion/2.xml" />
+</book>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1957" title="Rosmersholm" author="Ibsen, Henrik" location="I/Henrik Ibsen/Rosmersholm">
+			<chapter num="1" title="Dramatis Personae" location="I/Henrik Ibsen/Rosmersholm/1.xml" />
+			<chapter num="2" title="ACT 1" location="I/Henrik Ibsen/Rosmersholm/2.xml" />
+			<chapter num="3" title="ACT II" location="I/Henrik Ibsen/Rosmersholm/3.xml" />
+			<chapter num="4" title="ACT III" location="I/Henrik Ibsen/Rosmersholm/4.xml" />
+			<chapter num="5" title="ACT IV" location="I/Henrik Ibsen/Rosmersholm/5.xml" />
+</book>

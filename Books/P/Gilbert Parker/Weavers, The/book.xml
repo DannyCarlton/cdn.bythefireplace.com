@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2865" title="Weavers, The" author="Parker, Gilbert" location="P/Gilbert Parker/Weavers, The">
+			<chapter num="1" title="Introduction" location="P/Gilbert Parker/Weavers, The/1.xml" />
+		<section type="1" name="Book I">
+			<chapter num="2" title="Chapter I. As the Spirit Moved" location="P/Gilbert Parker/Weavers, The/2.xml" />
+			<chapter num="3" title="Chapter II. The Gates of the World" location="P/Gilbert Parker/Weavers, The/3.xml" />
+			<chapter num="4" title="Chapter III. Banished" location="P/Gilbert Parker/Weavers, The/4.xml" />
+			<chapter num="5" title="Chapter IV. The Call" location="P/Gilbert Parker/Weavers, The/5.xml" />
+		</section>
+		<section type="1" name="Book II">
+			<chapter num="6" title="Chapter V. The Wider Way" location="P/Gilbert Parker/Weavers, The/6.xml" />
+			<chapter num="7" title="Chapter VI. &quot;Hast Thou Never Killed a Man?&quot;" location="P/Gilbert Parker/Weavers, The/7.xml" />
+			<chapter num="8" title="Chapter VII. The Compact" location="P/Gilbert Parker/Weavers, The/8.xml" />
+			<chapter num="9" title="Chapter VIII. For His Soul's Sake and the Land's Sake" location="P/Gilbert Parker/Weavers, The/9.xml" />
+			<chapter num="10" title="Chapter IX. The Letter, the Night, and the Woman" location="P/Gilbert Parker/Weavers, The/10.xml" />
+			<chapter num="11" title="Chapter X. The Four Who Knew" location="P/Gilbert Parker/Weavers, The/11.xml" />
+			<chapter num="12" title="Chapter XI. Against the Hour of Midnight" location="P/Gilbert Parker/Weavers, The/12.xml" />
+			<chapter num="13" title="Chapter XII. The Jehad and the Lions" location="P/Gilbert Parker/Weavers, The/13.xml" />
+			<chapter num="14" title="Chapter XIII. Achmet the Ropemaker Strikes" location="P/Gilbert Parker/Weavers, The/14.xml" />
+			<chapter num="15" title="Chapter XIV. Beyond the Pale" location="P/Gilbert Parker/Weavers, The/15.xml" />
+		</section>
+		<section type="1" name="Book III">
+			<chapter num="16" title="Chapter XV. Soolsby's Hand Upon the Curtain" location="P/Gilbert Parker/Weavers, The/16.xml" />
+			<chapter num="17" title="Chapter XVI. The Debt and the Accounting" location="P/Gilbert Parker/Weavers, The/17.xml" />
+			<chapter num="18" title="Chapter XVII. The Woman of the Cross-Roads" location="P/Gilbert Parker/Weavers, The/18.xml" />
+			<chapter num="19" title="Chapter XVIII. Time, the Idol-Breaker" location="P/Gilbert Parker/Weavers, The/19.xml" />
+			<chapter num="20" title="Chapter XIX. Sharper Than a Sword" location="P/Gilbert Parker/Weavers, The/20.xml" />
+			<chapter num="21" title="Chapter XX. Each After His Own Order" location="P/Gilbert Parker/Weavers, The/21.xml" />
+			<chapter num="22" title="Chapter XXI. &quot;There is Nothing Hidden Which Shall not be Revealed&quot;" location="P/Gilbert Parker/Weavers, The/22.xml" />
+			<chapter num="23" title="Chapter XXII. As in a Glass Darkly" location="P/Gilbert Parker/Weavers, The/23.xml" />
+			<chapter num="24" title="Chapter XXIII. The Tents of Cushan" location="P/Gilbert Parker/Weavers, The/24.xml" />
+			<chapter num="25" title="Chapter XXIV. The Questioner" location="P/Gilbert Parker/Weavers, The/25.xml" />
+			<chapter num="26" title="Chapter XXV. The Voice Through the Door" location="P/Gilbert Parker/Weavers, The/26.xml" />
+			<chapter num="27" title="Chapter XXVI. &quot;I Owe You Nothing&quot;" location="P/Gilbert Parker/Weavers, The/27.xml" />
+			<chapter num="28" title="Chapter XXVII. The Awakening" location="P/Gilbert Parker/Weavers, The/28.xml" />
+		</section>
+		<section type="1" name="Book IV">
+			<chapter num="29" title="Chapter XXVIII. Nahoum Turns the Screw" location="P/Gilbert Parker/Weavers, The/29.xml" />
+			<chapter num="30" title="Chapter XXIX. The Recoil" location="P/Gilbert Parker/Weavers, The/30.xml" />
+			<chapter num="31" title="Chapter XXX. Lacey Moves" location="P/Gilbert Parker/Weavers, The/31.xml" />
+			<chapter num="32" title="Chapter XXXI. The Struggle in the Desert" location="P/Gilbert Parker/Weavers, The/32.xml" />
+			<chapter num="33" title="Chapter XXXII. Forty Stripes Save One" location="P/Gilbert Parker/Weavers, The/33.xml" />
+			<chapter num="34" title="Chapter XXXIII. The Dark Indenture" location="P/Gilbert Parker/Weavers, The/34.xml" />
+			<chapter num="35" title="Chapter XXXIV. Nahoum Drops the Mask" location="P/Gilbert Parker/Weavers, The/35.xml" />
+		</section>
+		<section type="1" name="Book V">
+			<chapter num="36" title="Chapter XXXV. The Flight of the Wounded" location="P/Gilbert Parker/Weavers, The/36.xml" />
+			<chapter num="37" title="Chapter XXXVI. &quot;Is it Always So--in Life?&quot;" location="P/Gilbert Parker/Weavers, The/37.xml" />
+			<chapter num="38" title="Chapter XXXVII. The Flying Shuttle" location="P/Gilbert Parker/Weavers, The/38.xml" />
+			<chapter num="39" title="Chapter XXXVIII. Jasper Kimber Speaks" location="P/Gilbert Parker/Weavers, The/39.xml" />
+			<chapter num="40" title="Chapter XXXIX. Faith Journeys to London" location="P/Gilbert Parker/Weavers, The/40.xml" />
+		</section>
+		<section type="1" name="Book VI">
+			<chapter num="41" title="Chapter XL. Hylda Seeks Nahoum" location="P/Gilbert Parker/Weavers, The/41.xml" />
+			<chapter num="42" title="Chapter XLI. In the Land of Shinar" location="P/Gilbert Parker/Weavers, The/42.xml" />
+			<chapter num="43" title="Chapter XLII. The Loom of Destiny" location="P/Gilbert Parker/Weavers, The/43.xml" />
+			<chapter num="44" title="Glossary" location="P/Gilbert Parker/Weavers, The/44.xml" />
+		</section>
+</book>

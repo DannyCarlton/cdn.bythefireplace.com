@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="128" title="Hunting of the Snark, The" author="Carroll, Lewis" location="C/Lewis Carroll/Hunting of the Snark, The">
+			<chapter num="1" title="Fit the First" location="C/Lewis Carroll/Hunting of the Snark, The/1.xml" />
+			<chapter num="2" title="Fit the Second" location="C/Lewis Carroll/Hunting of the Snark, The/2.xml" />
+			<chapter num="3" title="Fit the Third" location="C/Lewis Carroll/Hunting of the Snark, The/3.xml" />
+			<chapter num="4" title="Fit the Fourth" location="C/Lewis Carroll/Hunting of the Snark, The/4.xml" />
+			<chapter num="5" title="Fit the Fifth" location="C/Lewis Carroll/Hunting of the Snark, The/5.xml" />
+			<chapter num="6" title="Fit the Sixth" location="C/Lewis Carroll/Hunting of the Snark, The/6.xml" />
+			<chapter num="7" title="Fit the Seventh" location="C/Lewis Carroll/Hunting of the Snark, The/7.xml" />
+			<chapter num="8" title="Fit the Eighth" location="C/Lewis Carroll/Hunting of the Snark, The/8.xml" />
+</book>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40351" title="To-Morrow" author="Edgeworth, Maria" location="E/Maria Edgeworth/To-Morrow">
+			<chapter num="1" title="Chapter I" location="E/Maria Edgeworth/To-Morrow/1.xml" />
+			<chapter num="2" title="Chapter II" location="E/Maria Edgeworth/To-Morrow/2.xml" />
+			<chapter num="3" title="Chapter III" location="E/Maria Edgeworth/To-Morrow/3.xml" />
+			<chapter num="4" title="Chapter IV" location="E/Maria Edgeworth/To-Morrow/4.xml" />
+			<chapter num="5" title="Chapter V" location="E/Maria Edgeworth/To-Morrow/5.xml" />
+			<chapter num="6" title="Chapter VI" location="E/Maria Edgeworth/To-Morrow/6.xml" />
+</book>

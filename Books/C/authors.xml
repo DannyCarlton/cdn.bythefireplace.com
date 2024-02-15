@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="104" name="Chesterton, Gilbert K." location="C/Gilbert K. Chesterton" />
+	<author aid="141" name="Crawford, F. Marion" location="C/F. Marion Crawford" />
+	<author aid="15" name="Collins, Wilkie" location="C/Wilkie Collins" />
+	<author aid="153" name="Christie, Agatha" location="C/Agatha Christie" />
+	<author aid="156" name="Cather, Willa" location="C/Willa Cather" />
+	<author aid="157" name="Connor, Ralph" location="C/Ralph Connor" />
+	<author aid="16" name="Conrad, Joseph" location="C/Joseph Conrad" />
+	<author aid="163" name="Cervantes, Miguel de" location="C/Miguel de Cervantes" />
+	<author aid="165" name="Chesnutt, Charles W." location="C/Charles W. Chesnutt" />
+	<author aid="177" name="Connell, Richard" location="C/Richard Connell" />
+	<author aid="184" name="Castle, Egerton" location="C/Egerton Castle" />
+	<author aid="187" name="Calderon de la Barca, Pedro" location="C/Pedro Calderon de la Barca" />
+	<author aid="196" name="Congreve, William" location="C/William Congreve" />
+	<author aid="41" name="Carlyle, Thomas" location="C/Thomas Carlyle" />
+	<author aid="46" name="Carroll, Lewis" location="C/Lewis Carroll" />
+	<author aid="47" name="Collodi (Lorenzini), Carlo" location="C/Carlo Collodi (Lorenzini)" />
+	<author aid="55" name="Coleridge, Samuel Taylor" location="C/Samuel Taylor Coleridge" />
+	<author aid="64" name="Chekhov, Anton" location="C/Anton Chekhov" />
+	<author aid="73" name="Cooper, James Fenimore" location="C/James Fenimore Cooper" />
+	<author aid="1193" name="Clarke, Marcus" location="C/Marcus Clarke" />
+	<author aid="321" name="Chopin, Katherine" location="C/Katherine Chopin" />
+	<author aid="347" name="Cody, H. A. " location="C/H. A.  Cody" />
+</authors>

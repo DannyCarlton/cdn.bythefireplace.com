@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="book">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Volume_I">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="chapter" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="num" type="xs:integer" use="required" />
+									<xs:attribute name="title" use="required" />
+									<xs:attribute name="location" use="required" />
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Volume_II">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="chapter" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="num" type="xs:integer" use="required" />
+									<xs:attribute name="title" use="required" />
+									<xs:attribute name="location" use="required" />
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Volume_III">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="chapter" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="num" type="xs:integer" use="required" />
+									<xs:attribute name="title" use="required" />
+									<xs:attribute name="location" use="required" />
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="bid" type="xs:integer" use="required" />
+			<xs:attribute name="title" use="required" />
+			<xs:attribute name="author" use="required" />
+			<xs:attribute name="location" use="required" />
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

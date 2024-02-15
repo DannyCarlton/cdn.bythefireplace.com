@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1789" title="Phaedo" author="Plato, " location="P/ Plato/Phaedo">
+			<chapter num="1" title="Introduction." location="P/ Plato/Phaedo/1.xml" />
+			<chapter num="2" title="Phaedo" location="P/ Plato/Phaedo/2.xml" />
+			<chapter num="3" title="Phaedo (cont'd)" location="P/ Plato/Phaedo/3.xml" />
+			<chapter num="4" title="Phaedo (cont'd)" location="P/ Plato/Phaedo/4.xml" />
+</book>

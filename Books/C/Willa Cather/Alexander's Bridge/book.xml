@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1043" title="Alexander's Bridge" author="Cather, Willa" location="C/Willa Cather/Alexander's Bridge">
+			<chapter num="1" title="Chapter I" location="C/Willa Cather/Alexander's Bridge/1.xml" />
+			<chapter num="2" title="Chapter II" location="C/Willa Cather/Alexander's Bridge/2.xml" />
+			<chapter num="3" title="Chapter III" location="C/Willa Cather/Alexander's Bridge/3.xml" />
+			<chapter num="4" title="Chapter IV" location="C/Willa Cather/Alexander's Bridge/4.xml" />
+			<chapter num="5" title="Chapter V" location="C/Willa Cather/Alexander's Bridge/5.xml" />
+			<chapter num="6" title="Chapter VI" location="C/Willa Cather/Alexander's Bridge/6.xml" />
+			<chapter num="7" title="Chapter VII" location="C/Willa Cather/Alexander's Bridge/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="C/Willa Cather/Alexander's Bridge/8.xml" />
+			<chapter num="9" title="Chapter IX" location="C/Willa Cather/Alexander's Bridge/9.xml" />
+			<chapter num="10" title="Chapter X" location="C/Willa Cather/Alexander's Bridge/10.xml" />
+			<chapter num="11" title="Epilogue" location="C/Willa Cather/Alexander's Bridge/11.xml" />
+</book>

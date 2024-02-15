@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1920" title="Judgment House, The" author="Parker, Gilbert" location="P/Gilbert Parker/Judgment House, The">
+		<section type="1" name="Book I">
+			<chapter num="1" title="Chapter I. The Jasmine Flower" location="P/Gilbert Parker/Judgment House, The/1.xml" />
+			<chapter num="2" title="Chapter II. The Underground World" location="P/Gilbert Parker/Judgment House, The/2.xml" />
+			<chapter num="3" title="Chapter III. A Daughter of Tyre" location="P/Gilbert Parker/Judgment House, The/3.xml" />
+			<chapter num="4" title="Chapter IV. The Partners Meet" location="P/Gilbert Parker/Judgment House, The/4.xml" />
+			<chapter num="5" title="Chapter V. A Woman Tells Her Story" location="P/Gilbert Parker/Judgment House, The/5.xml" />
+			<chapter num="6" title="Chapter VI. Within the Power-House" location="P/Gilbert Parker/Judgment House, The/6.xml" />
+		</section>
+		<section type="1" name="Book II">
+			<chapter num="7" title="Chapter VII. Three Years Later" location="P/Gilbert Parker/Judgment House, The/7.xml" />
+			<chapter num="8" title="Chapter VIII. &quot;He Shall Not Treat Me So&quot;" location="P/Gilbert Parker/Judgment House, The/8.xml" />
+			<chapter num="9" title="Chapter IX. The Appian Way" location="P/Gilbert Parker/Judgment House, The/9.xml" />
+			<chapter num="10" title="Chapter X. An Arrow Finds a Breast" location="P/Gilbert Parker/Judgment House, The/10.xml" />
+			<chapter num="11" title="Chapter XI. In Wales, Where Jigger Plays His Part" location="P/Gilbert Parker/Judgment House, The/11.xml" />
+			<chapter num="12" title="Chapter XII. The Key in the Lock" location="P/Gilbert Parker/Judgment House, The/12.xml" />
+			<chapter num="13" title="Chapter XIII. &quot;I Will Not Sing&quot;" location="P/Gilbert Parker/Judgment House, The/13.xml" />
+			<chapter num="14" title="Chapter XIV. The Baas" location="P/Gilbert Parker/Judgment House, The/14.xml" />
+		</section>
+		<section type="1" name="Book III">
+			<chapter num="15" title="Chapter XV. The World Well Lost" location="P/Gilbert Parker/Judgment House, The/15.xml" />
+			<chapter num="16" title="Chapter XVI. The Coming of the Baas" location="P/Gilbert Parker/Judgment House, The/16.xml" />
+			<chapter num="17" title="Chapter XVII. Is There No Help For These Things?" location="P/Gilbert Parker/Judgment House, The/17.xml" />
+			<chapter num="18" title="Chapter XVIII. Landrassy's Last Stroke" location="P/Gilbert Parker/Judgment House, The/18.xml" />
+			<chapter num="19" title="Chapter XIX. To-Morrow . . . Prepare!" location="P/Gilbert Parker/Judgment House, The/19.xml" />
+			<chapter num="20" title="Chapter XX. The Furnace Door" location="P/Gilbert Parker/Judgment House, The/20.xml" />
+			<chapter num="21" title="Chapter XXI. The Burning Fiery Furnace" location="P/Gilbert Parker/Judgment House, The/21.xml" />
+			<chapter num="22" title="Chapter XXII. In Which Fellowes Goes a Journey" location="P/Gilbert Parker/Judgment House, The/22.xml" />
+			<chapter num="23" title="Chapter XXIII. &quot;More Was Lost at Mohacksfield&quot;" location="P/Gilbert Parker/Judgment House, The/23.xml" />
+			<chapter num="24" title="Chapter XXIV. One Who Came Searching" location="P/Gilbert Parker/Judgment House, The/24.xml" />
+			<chapter num="25" title="Chapter XXV. Wherein the Lost is Found" location="P/Gilbert Parker/Judgment House, The/25.xml" />
+			<chapter num="26" title="Chapter XXVI. Jasmine's Letter" location="P/Gilbert Parker/Judgment House, The/26.xml" />
+			<chapter num="27" title="Chapter XXVII. Krool" location="P/Gilbert Parker/Judgment House, The/27.xml" />
+			<chapter num="28" title="Chapter XXVIII. &quot;The Battle Cry of Freedom&quot;" location="P/Gilbert Parker/Judgment House, The/28.xml" />
+		</section>
+		<section type="1" name="Book IV">
+			<chapter num="29" title="Chapter XXIX. The Menace of the Mountain" location="P/Gilbert Parker/Judgment House, The/29.xml" />
+			<chapter num="30" title="Chapter XXX. &quot;And Never the Twain Shall Meet!&quot;" location="P/Gilbert Parker/Judgment House, The/30.xml" />
+			<chapter num="31" title="Chapter XXXI. The Grey Horse and Its Rider" location="P/Gilbert Parker/Judgment House, The/31.xml" />
+			<chapter num="32" title="Chapter XXXII. The World's Foundling" location="P/Gilbert Parker/Judgment House, The/32.xml" />
+			<chapter num="33" title="Chapter XXXIII. &quot;Alamachtig!&quot;" location="P/Gilbert Parker/Judgment House, The/33.xml" />
+			<chapter num="34" title="Chapter XXXIV. &quot;The Alpine Fellow&quot;" location="P/Gilbert Parker/Judgment House, The/34.xml" />
+			<chapter num="35" title="Chapter XXXV. At Brinkwort's Farm" location="P/Gilbert Parker/Judgment House, The/35.xml" />
+			<chapter num="36" title="Chapter XXXVI. Springs of Healing" location="P/Gilbert Parker/Judgment House, The/36.xml" />
+			<chapter num="37" title="Chapter XXXVII. Under the Gun" location="P/Gilbert Parker/Judgment House, The/37.xml" />
+			<chapter num="38" title="Chapter XXXVIII. &quot;Pheidippides&quot;" location="P/Gilbert Parker/Judgment House, The/38.xml" />
+			<chapter num="39" title="Chapter XXXIX. &quot;The Road is Clear&quot;" location="P/Gilbert Parker/Judgment House, The/39.xml" />
+			<chapter num="40" title="Glossary" location="P/Gilbert Parker/Judgment House, The/40.xml" />
+		</section>
+</book>

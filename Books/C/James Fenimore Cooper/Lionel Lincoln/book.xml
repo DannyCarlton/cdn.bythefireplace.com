@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40282" title="Lionel Lincoln" author="Cooper, James Fenimore" location="C/James Fenimore Cooper/Lionel Lincoln">
+			<chapter num="1" title="Preface" location="C/James Fenimore Cooper/Lionel Lincoln/1.xml" />
+			<chapter num="2" title="Preface to Lionel Lincoln" location="C/James Fenimore Cooper/Lionel Lincoln/2.xml" />
+
+	<section type="2" name="Volume 1">
+			<chapter num="3" title="Chapter I" location="C/James Fenimore Cooper/Lionel Lincoln/3.xml" />
+			<chapter num="4" title="Chapter II" location="C/James Fenimore Cooper/Lionel Lincoln/4.xml" />
+			<chapter num="5" title="Chapter III" location="C/James Fenimore Cooper/Lionel Lincoln/5.xml" />
+			<chapter num="6" title="Chapter IV" location="C/James Fenimore Cooper/Lionel Lincoln/6.xml" />
+			<chapter num="7" title="Chapter V" location="C/James Fenimore Cooper/Lionel Lincoln/7.xml" />
+			<chapter num="8" title="Chapter VI" location="C/James Fenimore Cooper/Lionel Lincoln/8.xml" />
+			<chapter num="9" title="Chapter VII" location="C/James Fenimore Cooper/Lionel Lincoln/9.xml" />
+			<chapter num="10" title="Chapter VIII" location="C/James Fenimore Cooper/Lionel Lincoln/10.xml" />
+			<chapter num="11" title="Chapter IX" location="C/James Fenimore Cooper/Lionel Lincoln/11.xml" />
+			<chapter num="12" title="Chapter X" location="C/James Fenimore Cooper/Lionel Lincoln/12.xml" />
+			<chapter num="13" title="Chapter XI" location="C/James Fenimore Cooper/Lionel Lincoln/13.xml" />
+			<chapter num="14" title="Chapter XII" location="C/James Fenimore Cooper/Lionel Lincoln/14.xml" />
+			<chapter num="15" title="Chapter XIII" location="C/James Fenimore Cooper/Lionel Lincoln/15.xml" />
+			<chapter num="16" title="Chapter XIV" location="C/James Fenimore Cooper/Lionel Lincoln/16.xml" />
+			<chapter num="17" title="Chapter XV" location="C/James Fenimore Cooper/Lionel Lincoln/17.xml" />
+			<chapter num="18" title="Chapter XVI" location="C/James Fenimore Cooper/Lionel Lincoln/18.xml" />
+
+	</section>
+	<section type="2" name="Volume 2">
+			<chapter num="19" title="Chapter I" location="C/James Fenimore Cooper/Lionel Lincoln/19.xml" />
+			<chapter num="20" title="Chapter II" location="C/James Fenimore Cooper/Lionel Lincoln/20.xml" />
+			<chapter num="21" title="Chapter III" location="C/James Fenimore Cooper/Lionel Lincoln/21.xml" />
+			<chapter num="22" title="Chapter IV" location="C/James Fenimore Cooper/Lionel Lincoln/22.xml" />
+			<chapter num="23" title="Chapter V" location="C/James Fenimore Cooper/Lionel Lincoln/23.xml" />
+			<chapter num="24" title="Chapter VI" location="C/James Fenimore Cooper/Lionel Lincoln/24.xml" />
+			<chapter num="25" title="Chapter VII" location="C/James Fenimore Cooper/Lionel Lincoln/25.xml" />
+			<chapter num="26" title="Chapter VIII" location="C/James Fenimore Cooper/Lionel Lincoln/26.xml" />
+			<chapter num="27" title="Chapter IX" location="C/James Fenimore Cooper/Lionel Lincoln/27.xml" />
+			<chapter num="28" title="Chapter X" location="C/James Fenimore Cooper/Lionel Lincoln/28.xml" />
+			<chapter num="29" title="Chapter XI" location="C/James Fenimore Cooper/Lionel Lincoln/29.xml" />
+			<chapter num="30" title="Chapter XII" location="C/James Fenimore Cooper/Lionel Lincoln/30.xml" />
+			<chapter num="31" title="Chapter XIII" location="C/James Fenimore Cooper/Lionel Lincoln/31.xml" />
+			<chapter num="32" title="Chapter XIV" location="C/James Fenimore Cooper/Lionel Lincoln/32.xml" />
+			<chapter num="33" title="Chapter XV" location="C/James Fenimore Cooper/Lionel Lincoln/33.xml" />
+			<chapter num="34" title="Chapter XVI" location="C/James Fenimore Cooper/Lionel Lincoln/34.xml" />
+			<chapter num="35" title="Chapter XVII" location="C/James Fenimore Cooper/Lionel Lincoln/35.xml" />
+			<chapter num="36" title="Chapter XVIII" location="C/James Fenimore Cooper/Lionel Lincoln/36.xml" />
+	</section>
+</book>

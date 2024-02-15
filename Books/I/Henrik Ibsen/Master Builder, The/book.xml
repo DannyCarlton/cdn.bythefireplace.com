@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2107" title="Master Builder, The" author="Ibsen, Henrik" location="I/Henrik Ibsen/Master Builder, The">
+			<chapter num="1" title="Introduction." location="I/Henrik Ibsen/Master Builder, The/1.xml" />
+			<chapter num="2" title="Characters." location="I/Henrik Ibsen/Master Builder, The/2.xml" />
+			<chapter num="3" title="Act First." location="I/Henrik Ibsen/Master Builder, The/3.xml" />
+			<chapter num="4" title="Act Second." location="I/Henrik Ibsen/Master Builder, The/4.xml" />
+			<chapter num="5" title="Act Third." location="I/Henrik Ibsen/Master Builder, The/5.xml" />
+</book>

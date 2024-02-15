@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="956" title="Sea-Gull, The" author="Chekhov, Anton" location="C/Anton Chekhov/Sea-Gull, The">
+			<chapter num="1" title="Characters" location="C/Anton Chekhov/Sea-Gull, The/1.xml" />
+			<chapter num="2" title="ACT I" location="C/Anton Chekhov/Sea-Gull, The/2.xml" />
+			<chapter num="3" title="ACT II" location="C/Anton Chekhov/Sea-Gull, The/3.xml" />
+			<chapter num="4" title="ACT III" location="C/Anton Chekhov/Sea-Gull, The/4.xml" />
+			<chapter num="5" title="ACT IV" location="C/Anton Chekhov/Sea-Gull, The/5.xml" />
+</book>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="414" title="Notes from the Underground" author="Dostoevsky, Fyodor" location="D/Fyodor Dostoevsky/Notes from the Underground">
+		<section type="1" name="Part I">
+			<chapter num="1" title="Underground" location="D/Fyodor Dostoevsky/Notes from the Underground/1.xml" />
+			<chapter num="2" title="Chapter I" location="D/Fyodor Dostoevsky/Notes from the Underground/2.xml" />
+			<chapter num="3" title="Chapter II" location="D/Fyodor Dostoevsky/Notes from the Underground/3.xml" />
+			<chapter num="4" title="Chapter III" location="D/Fyodor Dostoevsky/Notes from the Underground/4.xml" />
+			<chapter num="5" title="Chapter IV" location="D/Fyodor Dostoevsky/Notes from the Underground/5.xml" />
+			<chapter num="6" title="Chapter V" location="D/Fyodor Dostoevsky/Notes from the Underground/6.xml" />
+			<chapter num="7" title="Chapter VI" location="D/Fyodor Dostoevsky/Notes from the Underground/7.xml" />
+			<chapter num="8" title="Chapter VII" location="D/Fyodor Dostoevsky/Notes from the Underground/8.xml" />
+			<chapter num="9" title="Chapter VIII" location="D/Fyodor Dostoevsky/Notes from the Underground/9.xml" />
+			<chapter num="10" title="Chapter IX" location="D/Fyodor Dostoevsky/Notes from the Underground/10.xml" />
+			<chapter num="11" title="Chapter X" location="D/Fyodor Dostoevsky/Notes from the Underground/11.xml" />
+			<chapter num="12" title="Chapter XI" location="D/Fyodor Dostoevsky/Notes from the Underground/12.xml" />
+		</section>
+		<section type="1" name="Part II">
+			<chapter num="13" title="A Propos of the Wet Snow" location="D/Fyodor Dostoevsky/Notes from the Underground/13.xml" />
+			<chapter num="14" title="Chapter I" location="D/Fyodor Dostoevsky/Notes from the Underground/14.xml" />
+			<chapter num="15" title="Chapter II" location="D/Fyodor Dostoevsky/Notes from the Underground/15.xml" />
+			<chapter num="16" title="Chapter III" location="D/Fyodor Dostoevsky/Notes from the Underground/16.xml" />
+			<chapter num="17" title="Chapter IV" location="D/Fyodor Dostoevsky/Notes from the Underground/17.xml" />
+			<chapter num="18" title="Chapter V" location="D/Fyodor Dostoevsky/Notes from the Underground/18.xml" />
+			<chapter num="19" title="Chapter VI" location="D/Fyodor Dostoevsky/Notes from the Underground/19.xml" />
+			<chapter num="20" title="Chapter VII" location="D/Fyodor Dostoevsky/Notes from the Underground/20.xml" />
+			<chapter num="21" title="Chapter VIII" location="D/Fyodor Dostoevsky/Notes from the Underground/21.xml" />
+			<chapter num="22" title="Chapter IX" location="D/Fyodor Dostoevsky/Notes from the Underground/22.xml" />
+			<chapter num="23" title="Chapter X" location="D/Fyodor Dostoevsky/Notes from the Underground/23.xml" />
+		</section>
+</book>

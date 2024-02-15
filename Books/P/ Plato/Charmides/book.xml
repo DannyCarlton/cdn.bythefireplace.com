@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2116" title="Charmides" author="Plato, " location="P/ Plato/Charmides">
+			<chapter num="1" title="Preface to the First Edition." location="P/ Plato/Charmides/1.xml" />
+			<chapter num="2" title="Preface to the Second and Third Editions." location="P/ Plato/Charmides/2.xml" />
+			<chapter num="3" title="Introduction." location="P/ Plato/Charmides/3.xml" />
+			<chapter num="4" title="Charmides, or Temperance" location="P/ Plato/Charmides/4.xml" />
+</book>

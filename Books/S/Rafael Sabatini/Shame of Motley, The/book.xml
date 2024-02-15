@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40187" title="Shame of Motley, The" author="Sabatini, Rafael" location="S/Rafael Sabatini/Shame of Motley, The">
+
+	<section type="2" name="Part I. Flower of the Quince">
+			<chapter num="1" title="Chapter I. The Cardinal of Valencia" location="S/Rafael Sabatini/Shame of Motley, The/1.xml" />
+			<chapter num="2" title="Chapter II. The Liveries of Santafior" location="S/Rafael Sabatini/Shame of Motley, The/2.xml" />
+			<chapter num="3" title="Chapter III. Madonna Paola" location="S/Rafael Sabatini/Shame of Motley, The/3.xml" />
+			<chapter num="4" title="Chapter IV. The Cozening of Ramiro" location="S/Rafael Sabatini/Shame of Motley, The/4.xml" />
+			<chapter num="5" title="Chapter V. Madonna's Ingratitude" location="S/Rafael Sabatini/Shame of Motley, The/5.xml" />
+			<chapter num="6" title="Chapter VI. Fool's Luck" location="S/Rafael Sabatini/Shame of Motley, The/6.xml" />
+			<chapter num="7" title="Chapter VII. The Summons From Rome" location="S/Rafael Sabatini/Shame of Motley, The/7.xml" />
+			<chapter num="8" title="Chapter VIII. &quot;Mene, Mene, Tekel, Upharsin&quot;" location="S/Rafael Sabatini/Shame of Motley, The/8.xml" />
+			<chapter num="9" title="Chapter IX. The Fool-at-arms" location="S/Rafael Sabatini/Shame of Motley, The/9.xml" />
+			<chapter num="10" title="Chapter X. The Fall of Pesaro" location="S/Rafael Sabatini/Shame of Motley, The/10.xml" />
+
+	</section>
+	<section type="2" name="Part II. The Ogre of Cesena">
+			<chapter num="11" title="Chapter XI. Madonna's Summons" location="S/Rafael Sabatini/Shame of Motley, The/11.xml" />
+			<chapter num="12" title="Chapter XII. The Governor of Cesena" location="S/Rafael Sabatini/Shame of Motley, The/12.xml" />
+			<chapter num="13" title="Chapter XIII. Poison" location="S/Rafael Sabatini/Shame of Motley, The/13.xml" />
+			<chapter num="14" title="Chapter XIV. Requiescat!" location="S/Rafael Sabatini/Shame of Motley, The/14.xml" />
+			<chapter num="15" title="Chapter XV. An Ill Encounter" location="S/Rafael Sabatini/Shame of Motley, The/15.xml" />
+			<chapter num="16" title="Chapter XVI. In the Citadel of Cesena" location="S/Rafael Sabatini/Shame of Motley, The/16.xml" />
+			<chapter num="17" title="Chapter XVII. The Seneschal" location="S/Rafael Sabatini/Shame of Motley, The/17.xml" />
+			<chapter num="18" title="Chapter XVIII. The Letter" location="S/Rafael Sabatini/Shame of Motley, The/18.xml" />
+			<chapter num="19" title="Chapter XIX. Doomed" location="S/Rafael Sabatini/Shame of Motley, The/19.xml" />
+			<chapter num="20" title="Chapter XX. The Sunset" location="S/Rafael Sabatini/Shame of Motley, The/20.xml" />
+			<chapter num="21" title="Chapter XXI. Ave Caesar!" location="S/Rafael Sabatini/Shame of Motley, The/21.xml" />
+	</section>
+</book>

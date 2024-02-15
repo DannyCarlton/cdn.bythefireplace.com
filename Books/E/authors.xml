@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="117" name="Edgeworth, Maria" location="E/Maria Edgeworth" />
+	<author aid="67" name="Eliot, George" location="E/George Eliot" />
+	<author aid="7" name="Eliot, T.S." location="E/T.S. Eliot" />
+	<author aid="245" name="Ebers, Georg" location="E/Georg Ebers" />
+	<author aid="331" name="Emerson, Ralph Waldo" location="E/Ralph Waldo Emerson" />
+</authors>

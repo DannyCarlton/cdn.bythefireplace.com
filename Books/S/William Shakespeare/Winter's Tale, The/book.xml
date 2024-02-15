@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="164" title="Winter's Tale, The" author="Shakespeare, William" location="S/William Shakespeare/Winter's Tale, The">
+			<chapter num="1" title="Dramatis Personae" location="S/William Shakespeare/Winter's Tale, The/1.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="2" title="Scene 1" location="S/William Shakespeare/Winter's Tale, The/2.xml" />
+			<chapter num="3" title="Scene 2" location="S/William Shakespeare/Winter's Tale, The/3.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="4" title="Scene 1" location="S/William Shakespeare/Winter's Tale, The/4.xml" />
+			<chapter num="5" title="Scene 2" location="S/William Shakespeare/Winter's Tale, The/5.xml" />
+			<chapter num="6" title="Scene 3" location="S/William Shakespeare/Winter's Tale, The/6.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="7" title="Scene 1" location="S/William Shakespeare/Winter's Tale, The/7.xml" />
+			<chapter num="8" title="Scene 2" location="S/William Shakespeare/Winter's Tale, The/8.xml" />
+			<chapter num="9" title="Scene 3" location="S/William Shakespeare/Winter's Tale, The/9.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="10" title="Scene 1" location="S/William Shakespeare/Winter's Tale, The/10.xml" />
+			<chapter num="11" title="Scene 2" location="S/William Shakespeare/Winter's Tale, The/11.xml" />
+			<chapter num="12" title="Scene 3" location="S/William Shakespeare/Winter's Tale, The/12.xml" />
+			<chapter num="13" title="Scene 4" location="S/William Shakespeare/Winter's Tale, The/13.xml" />
+		</section>
+		<section type="1" name="ACT V">
+			<chapter num="14" title="Scene 1" location="S/William Shakespeare/Winter's Tale, The/14.xml" />
+			<chapter num="15" title="Scene 2" location="S/William Shakespeare/Winter's Tale, The/15.xml" />
+			<chapter num="16" title="Scene 3" location="S/William Shakespeare/Winter's Tale, The/16.xml" />
+		</section>
+</book>

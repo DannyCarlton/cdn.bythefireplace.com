@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40192" title="Trampling of the Lilies, The" author="Sabatini, Rafael" location="S/Rafael Sabatini/Trampling of the Lilies, The">
+
+	<section type="2" name="Part I. The Old Rule">
+			<chapter num="1" title="Chapter I. Monsieur the Secretary" location="S/Rafael Sabatini/Trampling of the Lilies, The/1.xml" />
+			<chapter num="2" title="Chapter II. Lords of Life and Death" location="S/Rafael Sabatini/Trampling of the Lilies, The/2.xml" />
+			<chapter num="3" title="Chapter III. The Word of Bellecour" location="S/Rafael Sabatini/Trampling of the Lilies, The/3.xml" />
+			<chapter num="4" title="Chapter IV. The Disciples of Rousseau" location="S/Rafael Sabatini/Trampling of the Lilies, The/4.xml" />
+
+	</section>
+	<section type="2" name="Part II. The New Rule">
+			<chapter num="5" title="Chapter V. The Sheep Turned Wolves" location="S/Rafael Sabatini/Trampling of the Lilies, The/5.xml" />
+			<chapter num="6" title="Chapter VI. The Citizen Commissioner" location="S/Rafael Sabatini/Trampling of the Lilies, The/6.xml" />
+			<chapter num="7" title="Chapter VII. La Boulaye Discharges a Debt" location="S/Rafael Sabatini/Trampling of the Lilies, The/7.xml" />
+			<chapter num="8" title="Chapter VIII. The Invalids At Boisvert" location="S/Rafael Sabatini/Trampling of the Lilies, The/8.xml" />
+			<chapter num="9" title="Chapter IX. The Captives" location="S/Rafael Sabatini/Trampling of the Lilies, The/9.xml" />
+			<chapter num="10" title="Chapter X. The Baiser Lamourette" location="S/Rafael Sabatini/Trampling of the Lilies, The/10.xml" />
+			<chapter num="11" title="Chapter XI. The Escape" location="S/Rafael Sabatini/Trampling of the Lilies, The/11.xml" />
+			<chapter num="12" title="Chapter XII. The Awakening" location="S/Rafael Sabatini/Trampling of the Lilies, The/12.xml" />
+			<chapter num="13" title="Chapter XIII. The Road to Liege" location="S/Rafael Sabatini/Trampling of the Lilies, The/13.xml" />
+			<chapter num="14" title="Chapter XIV. The Courier" location="S/Rafael Sabatini/Trampling of the Lilies, The/14.xml" />
+			<chapter num="15" title="Chapter XV. La Boulaye Baits His Hook" location="S/Rafael Sabatini/Trampling of the Lilies, The/15.xml" />
+
+	</section>
+	<section type="2" name="Part III. The Everlasting Rule">
+			<chapter num="16" title="Chapter XVI. Cecile Deshaix" location="S/Rafael Sabatini/Trampling of the Lilies, The/16.xml" />
+			<chapter num="17" title="Chapter XVII. La Boulaye's Promise" location="S/Rafael Sabatini/Trampling of the Lilies, The/17.xml" />
+			<chapter num="18" title="Chapter XVIII. The Incorruptible" location="S/Rafael Sabatini/Trampling of the Lilies, The/18.xml" />
+			<chapter num="19" title="Chapter XIX. The Theft" location="S/Rafael Sabatini/Trampling of the Lilies, The/19.xml" />
+			<chapter num="20" title="Chapter XX. The Gratitude of Ombreval" location="S/Rafael Sabatini/Trampling of the Lilies, The/20.xml" />
+			<chapter num="21" title="Chapter XXI. The Arrest" location="S/Rafael Sabatini/Trampling of the Lilies, The/21.xml" />
+			<chapter num="22" title="Chapter XXII. The Tribunal" location="S/Rafael Sabatini/Trampling of the Lilies, The/22.xml" />
+			<chapter num="23" title="Chapter XXIII. The Conciergerie" location="S/Rafael Sabatini/Trampling of the Lilies, The/23.xml" />
+	</section>
+</book>

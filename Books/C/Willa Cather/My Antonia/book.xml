@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1050" title="My Antonia" author="Cather, Willa" location="C/Willa Cather/My Antonia">
+			<chapter num="1" title="Introduction" location="C/Willa Cather/My Antonia/1.xml" />
+		<section type="1" name="Book I. The Shimerdas">
+			<chapter num="2" title="Chapter I" location="C/Willa Cather/My Antonia/2.xml" />
+			<chapter num="3" title="Chapter II" location="C/Willa Cather/My Antonia/3.xml" />
+			<chapter num="4" title="Chapter III" location="C/Willa Cather/My Antonia/4.xml" />
+			<chapter num="5" title="Chapter IV" location="C/Willa Cather/My Antonia/5.xml" />
+			<chapter num="6" title="Chapter V" location="C/Willa Cather/My Antonia/6.xml" />
+			<chapter num="7" title="Chapter VI" location="C/Willa Cather/My Antonia/7.xml" />
+			<chapter num="8" title="Chapter VII" location="C/Willa Cather/My Antonia/8.xml" />
+			<chapter num="9" title="Chapter VIII" location="C/Willa Cather/My Antonia/9.xml" />
+			<chapter num="10" title="Chapter IX" location="C/Willa Cather/My Antonia/10.xml" />
+			<chapter num="11" title="Chapter X" location="C/Willa Cather/My Antonia/11.xml" />
+			<chapter num="12" title="Chapter XI" location="C/Willa Cather/My Antonia/12.xml" />
+			<chapter num="13" title="Chapter XII" location="C/Willa Cather/My Antonia/13.xml" />
+			<chapter num="14" title="Chapter XIII" location="C/Willa Cather/My Antonia/14.xml" />
+			<chapter num="15" title="Chapter XIV" location="C/Willa Cather/My Antonia/15.xml" />
+			<chapter num="16" title="Chapter XV" location="C/Willa Cather/My Antonia/16.xml" />
+			<chapter num="17" title="Chapter XVI" location="C/Willa Cather/My Antonia/17.xml" />
+			<chapter num="18" title="Chapter XVII" location="C/Willa Cather/My Antonia/18.xml" />
+			<chapter num="19" title="Chapter XVIII" location="C/Willa Cather/My Antonia/19.xml" />
+			<chapter num="20" title="Chapter XIX" location="C/Willa Cather/My Antonia/20.xml" />
+		</section>
+		<section type="1" name="Book II. The Hired Girls">
+			<chapter num="21" title="Chapter I" location="C/Willa Cather/My Antonia/21.xml" />
+			<chapter num="22" title="Chapter II" location="C/Willa Cather/My Antonia/22.xml" />
+			<chapter num="23" title="Chapter III" location="C/Willa Cather/My Antonia/23.xml" />
+			<chapter num="24" title="Chapter IV" location="C/Willa Cather/My Antonia/24.xml" />
+			<chapter num="25" title="Chapter V" location="C/Willa Cather/My Antonia/25.xml" />
+			<chapter num="26" title="Chapter VI" location="C/Willa Cather/My Antonia/26.xml" />
+			<chapter num="27" title="Chapter VII" location="C/Willa Cather/My Antonia/27.xml" />
+			<chapter num="28" title="Chapter VIII" location="C/Willa Cather/My Antonia/28.xml" />
+			<chapter num="29" title="Chapter IX" location="C/Willa Cather/My Antonia/29.xml" />
+			<chapter num="30" title="Chapter X" location="C/Willa Cather/My Antonia/30.xml" />
+			<chapter num="31" title="Chapter XI" location="C/Willa Cather/My Antonia/31.xml" />
+			<chapter num="32" title="Chapter XII" location="C/Willa Cather/My Antonia/32.xml" />
+			<chapter num="33" title="Chapter XIII" location="C/Willa Cather/My Antonia/33.xml" />
+			<chapter num="34" title="Chapter XIV" location="C/Willa Cather/My Antonia/34.xml" />
+			<chapter num="35" title="Chapter XV" location="C/Willa Cather/My Antonia/35.xml" />
+		</section>
+		<section type="1" name="Book III. Lena Lingard">
+			<chapter num="36" title="Chapter I" location="C/Willa Cather/My Antonia/36.xml" />
+			<chapter num="37" title="Chapter II" location="C/Willa Cather/My Antonia/37.xml" />
+			<chapter num="38" title="Chapter III" location="C/Willa Cather/My Antonia/38.xml" />
+			<chapter num="39" title="Chapter IV" location="C/Willa Cather/My Antonia/39.xml" />
+		</section>
+		<section type="1" name="Book IV. The Pioneer Woman's Story">
+			<chapter num="40" title="Chapter I" location="C/Willa Cather/My Antonia/40.xml" />
+			<chapter num="41" title="Chapter II" location="C/Willa Cather/My Antonia/41.xml" />
+			<chapter num="42" title="Chapter III" location="C/Willa Cather/My Antonia/42.xml" />
+			<chapter num="43" title="Chapter IV" location="C/Willa Cather/My Antonia/43.xml" />
+		</section>
+		<section type="1" name="Book V. Cuzak's Boys">
+			<chapter num="44" title="Chapter I" location="C/Willa Cather/My Antonia/44.xml" />
+			<chapter num="45" title="Chapter II" location="C/Willa Cather/My Antonia/45.xml" />
+			<chapter num="46" title="Chapter III" location="C/Willa Cather/My Antonia/46.xml" />
+		</section>
+</book>

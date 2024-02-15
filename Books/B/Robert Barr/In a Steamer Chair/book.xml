@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2800" title="In a Steamer Chair" author="Barr, Robert" location="B/Robert Barr/In a Steamer Chair">
+			<chapter num="1" title="The First Day." location="B/Robert Barr/In a Steamer Chair/1.xml" />
+			<chapter num="2" title="Second Day." location="B/Robert Barr/In a Steamer Chair/2.xml" />
+			<chapter num="3" title="Third Day." location="B/Robert Barr/In a Steamer Chair/3.xml" />
+			<chapter num="4" title="Fourth Day." location="B/Robert Barr/In a Steamer Chair/4.xml" />
+			<chapter num="5" title="Fifth Day." location="B/Robert Barr/In a Steamer Chair/5.xml" />
+			<chapter num="6" title="Sixth Day." location="B/Robert Barr/In a Steamer Chair/6.xml" />
+			<chapter num="7" title="Seventh Day." location="B/Robert Barr/In a Steamer Chair/7.xml" />
+			<chapter num="8" title="Eighth Day." location="B/Robert Barr/In a Steamer Chair/8.xml" />
+			<chapter num="9" title="Ninth Day." location="B/Robert Barr/In a Steamer Chair/9.xml" />
+</book>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="763" title="Life of Timon of Athens, The" author="Shakespeare, William" location="S/William Shakespeare/Life of Timon of Athens, The">
+			<chapter num="1" title="Dramatis Personae" location="S/William Shakespeare/Life of Timon of Athens, The/1.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="2" title="Scene I." location="S/William Shakespeare/Life of Timon of Athens, The/2.xml" />
+			<chapter num="3" title="Scene II." location="S/William Shakespeare/Life of Timon of Athens, The/3.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="4" title="Scene I." location="S/William Shakespeare/Life of Timon of Athens, The/4.xml" />
+			<chapter num="5" title="Scene II." location="S/William Shakespeare/Life of Timon of Athens, The/5.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="6" title="Scene I." location="S/William Shakespeare/Life of Timon of Athens, The/6.xml" />
+			<chapter num="7" title="Scene II." location="S/William Shakespeare/Life of Timon of Athens, The/7.xml" />
+			<chapter num="8" title="Scene III." location="S/William Shakespeare/Life of Timon of Athens, The/8.xml" />
+			<chapter num="9" title="Scene IV." location="S/William Shakespeare/Life of Timon of Athens, The/9.xml" />
+			<chapter num="10" title="Scene V." location="S/William Shakespeare/Life of Timon of Athens, The/10.xml" />
+			<chapter num="11" title="Scene VI." location="S/William Shakespeare/Life of Timon of Athens, The/11.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="12" title="Scene I." location="S/William Shakespeare/Life of Timon of Athens, The/12.xml" />
+			<chapter num="13" title="Scene II." location="S/William Shakespeare/Life of Timon of Athens, The/13.xml" />
+			<chapter num="14" title="Scene III." location="S/William Shakespeare/Life of Timon of Athens, The/14.xml" />
+		</section>
+		<section type="1" name="ACT V">
+			<chapter num="15" title="Scene I." location="S/William Shakespeare/Life of Timon of Athens, The/15.xml" />
+			<chapter num="16" title="Scene II." location="S/William Shakespeare/Life of Timon of Athens, The/16.xml" />
+			<chapter num="17" title="Scene III." location="S/William Shakespeare/Life of Timon of Athens, The/17.xml" />
+			<chapter num="18" title="Scene IV." location="S/William Shakespeare/Life of Timon of Athens, The/18.xml" />
+		</section>
+</book>

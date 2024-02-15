@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1281" title="Life's Little Ironies" author="Hardy, Thomas" location="H/Thomas Hardy/Life's Little Ironies">
+		<section type="1" name="The Son's Veto">
+			<chapter num="1" title="Chapter I" location="H/Thomas Hardy/Life's Little Ironies/1.xml" />
+			<chapter num="2" title="Chapter II" location="H/Thomas Hardy/Life's Little Ironies/2.xml" />
+			<chapter num="3" title="Chapter III" location="H/Thomas Hardy/Life's Little Ironies/3.xml" />
+		</section>
+		<section type="1" name="For Conscience' Sake">
+			<chapter num="4" title="Chapter I" location="H/Thomas Hardy/Life's Little Ironies/4.xml" />
+			<chapter num="5" title="Chapter II" location="H/Thomas Hardy/Life's Little Ironies/5.xml" />
+			<chapter num="6" title="Chapter III" location="H/Thomas Hardy/Life's Little Ironies/6.xml" />
+		</section>
+		<section type="1" name="A Tragedy of Two Ambitions">
+			<chapter num="7" title="Chapter I" location="H/Thomas Hardy/Life's Little Ironies/7.xml" />
+			<chapter num="8" title="Chapter II" location="H/Thomas Hardy/Life's Little Ironies/8.xml" />
+			<chapter num="9" title="Chapter III" location="H/Thomas Hardy/Life's Little Ironies/9.xml" />
+			<chapter num="10" title="Chapter IV" location="H/Thomas Hardy/Life's Little Ironies/10.xml" />
+			<chapter num="11" title="Chapter V" location="H/Thomas Hardy/Life's Little Ironies/11.xml" />
+		</section>
+		<section type="1" name="On the Western Circuit">
+			<chapter num="12" title="Chapter I" location="H/Thomas Hardy/Life's Little Ironies/12.xml" />
+			<chapter num="13" title="Chapter II" location="H/Thomas Hardy/Life's Little Ironies/13.xml" />
+			<chapter num="14" title="Chapter III" location="H/Thomas Hardy/Life's Little Ironies/14.xml" />
+			<chapter num="15" title="Chapter IV" location="H/Thomas Hardy/Life's Little Ironies/15.xml" />
+			<chapter num="16" title="Chapter V" location="H/Thomas Hardy/Life's Little Ironies/16.xml" />
+			<chapter num="17" title="Chapter VI" location="H/Thomas Hardy/Life's Little Ironies/17.xml" />
+		</section>
+		<section type="1" name="To Please His Wife">
+			<chapter num="18" title="Chapter I" location="H/Thomas Hardy/Life's Little Ironies/18.xml" />
+			<chapter num="19" title="Chapter II" location="H/Thomas Hardy/Life's Little Ironies/19.xml" />
+			<chapter num="20" title="Chapter III" location="H/Thomas Hardy/Life's Little Ironies/20.xml" />
+		</section>
+		<section type="1" name="The Melancholy Hussar of the German Legion">
+			<chapter num="21" title="Chapter I" location="H/Thomas Hardy/Life's Little Ironies/21.xml" />
+			<chapter num="22" title="Chapter II" location="H/Thomas Hardy/Life's Little Ironies/22.xml" />
+			<chapter num="23" title="Chapter III" location="H/Thomas Hardy/Life's Little Ironies/23.xml" />
+			<chapter num="24" title="Chapter IV" location="H/Thomas Hardy/Life's Little Ironies/24.xml" />
+			<chapter num="25" title="Netty Sargent's Copyhold" location="H/Thomas Hardy/Life's Little Ironies/25.xml" />
+		</section>
+</book>

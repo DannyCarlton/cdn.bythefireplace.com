@@ -1,0 +1,35 @@
+ï»¿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40385" title="Wanderer's Necklace, The" author="Haggard, H. Rider" location="H/H. Rider Haggard/Wanderer's Necklace, The">
+			<chapter num="1" title="Dedication" location="H/H. Rider Haggard/Wanderer's Necklace, The/1.xml" />
+			<chapter num="2" title="Note by the Editor" location="H/H. Rider Haggard/Wanderer's Necklace, The/2.xml" />
+
+	<section type="2" name="Book I. Aar">
+			<chapter num="3" title="Chapter I. The Betrothal of Olaf" location="H/H. Rider Haggard/Wanderer's Necklace, The/3.xml" />
+			<chapter num="4" title="Chapter II. The Slaying of the Bear" location="H/H. Rider Haggard/Wanderer's Necklace, The/4.xml" />
+			<chapter num="5" title="Chapter III. The Wanderer's Necklace" location="H/H. Rider Haggard/Wanderer's Necklace, The/5.xml" />
+			<chapter num="6" title="Chapter IV. Iduna Wears the Necklace" location="H/H. Rider Haggard/Wanderer's Necklace, The/6.xml" />
+			<chapter num="7" title="Chapter V. The Battle on the Sea" location="H/H. Rider Haggard/Wanderer's Necklace, The/7.xml" />
+			<chapter num="8" title="Chapter VI. How Olaf Fought With Odin" location="H/H. Rider Haggard/Wanderer's Necklace, The/8.xml" />
+
+	</section>
+	<section type="2" name="Book II. Byzantium">
+			<chapter num="9" title="Chapter I. Irene, Empress of the Earth" location="H/H. Rider Haggard/Wanderer's Necklace, The/9.xml" />
+			<chapter num="10" title="Chapter II. The Blind CÆsar" location="H/H. Rider Haggard/Wanderer's Necklace, The/10.xml" />
+			<chapter num="11" title="Chapter III. Mother and Son" location="H/H. Rider Haggard/Wanderer's Necklace, The/11.xml" />
+			<chapter num="12" title="Chapter IV. Olaf Offers His Sword" location="H/H. Rider Haggard/Wanderer's Necklace, The/12.xml" />
+			<chapter num="13" title="Chapter V. Ave Post Secula" location="H/H. Rider Haggard/Wanderer's Necklace, The/13.xml" />
+			<chapter num="14" title="Chapter VI. Heliodore" location="H/H. Rider Haggard/Wanderer's Necklace, The/14.xml" />
+			<chapter num="15" title="Chapter VII. Victory Or Valhalla!" location="H/H. Rider Haggard/Wanderer's Necklace, The/15.xml" />
+			<chapter num="16" title="Chapter VIII. The Trial of Olaf" location="H/H. Rider Haggard/Wanderer's Necklace, The/16.xml" />
+			<chapter num="17" title="Chapter IX. The Hall of the Pit" location="H/H. Rider Haggard/Wanderer's Necklace, The/17.xml" />
+			<chapter num="18" title="Chapter X. Olaf Gives Judgment" location="H/H. Rider Haggard/Wanderer's Necklace, The/18.xml" />
+
+	</section>
+	<section type="2" name="Book III. Egypt">
+			<chapter num="19" title="Chapter I. Tidings From Egypt" location="H/H. Rider Haggard/Wanderer's Necklace, The/19.xml" />
+			<chapter num="20" title="Chapter II. The Statues by the Nile" location="H/H. Rider Haggard/Wanderer's Necklace, The/20.xml" />
+			<chapter num="21" title="Chapter III. The Valley of the Dead Kings" location="H/H. Rider Haggard/Wanderer's Necklace, The/21.xml" />
+			<chapter num="22" title="Chapter IV. The Caliph Harun" location="H/H. Rider Haggard/Wanderer's Necklace, The/22.xml" />
+			<chapter num="23" title="Chapter V. Irene's Prayer" location="H/H. Rider Haggard/Wanderer's Necklace, The/23.xml" />
+	</section>
+</book>

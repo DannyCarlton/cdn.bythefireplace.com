@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2851" title="Hohenzollerns in America, The" author="Leacock, Stephen" location="L/Stephen Leacock/Hohenzollerns in America, The">
+		<section type="1" name="I.--The Hohenzollerns in America">
+			<chapter num="1" title="Preface" location="L/Stephen Leacock/Hohenzollerns in America, The/1.xml" />
+			<chapter num="2" title="Chapter I" location="L/Stephen Leacock/Hohenzollerns in America, The/2.xml" />
+			<chapter num="3" title="Chapter II" location="L/Stephen Leacock/Hohenzollerns in America, The/3.xml" />
+			<chapter num="4" title="Chapter III" location="L/Stephen Leacock/Hohenzollerns in America, The/4.xml" />
+			<chapter num="5" title="Chapter IV" location="L/Stephen Leacock/Hohenzollerns in America, The/5.xml" />
+			<chapter num="6" title="Chapter V" location="L/Stephen Leacock/Hohenzollerns in America, The/6.xml" />
+			<chapter num="7" title="Chapter VI" location="L/Stephen Leacock/Hohenzollerns in America, The/7.xml" />
+			<chapter num="8" title="II.--With the Bolsheviks in Berlin" location="L/Stephen Leacock/Hohenzollerns in America, The/8.xml" />
+			<chapter num="9" title="III.--Afternoon Tea with the Sultan" location="L/Stephen Leacock/Hohenzollerns in America, The/9.xml" />
+		</section>
+		<section type="1" name="IV.--Echoes of the War">
+			<chapter num="10" title="1.--The Boy Who Came Back" location="L/Stephen Leacock/Hohenzollerns in America, The/10.xml" />
+			<chapter num="11" title="2.--The War Sacrifices of Mr. Spugg" location="L/Stephen Leacock/Hohenzollerns in America, The/11.xml" />
+			<chapter num="12" title="3.--If Germany Had Won" location="L/Stephen Leacock/Hohenzollerns in America, The/12.xml" />
+			<chapter num="13" title="4.--War and Peace at the Galaxy Club" location="L/Stephen Leacock/Hohenzollerns in America, The/13.xml" />
+			<chapter num="14" title="5.--The War News as I Remember it" location="L/Stephen Leacock/Hohenzollerns in America, The/14.xml" />
+			<chapter num="15" title="6.--Some Just Complaints About the War" location="L/Stephen Leacock/Hohenzollerns in America, The/15.xml" />
+			<chapter num="16" title="7.--Some Startling Side Effects of the War" location="L/Stephen Leacock/Hohenzollerns in America, The/16.xml" />
+		</section>
+		<section type="1" name="V.--Other Impossibilities">
+			<chapter num="17" title="1.--The Art of Conversation" location="L/Stephen Leacock/Hohenzollerns in America, The/17.xml" />
+			<chapter num="18" title="2.--Heroes and Heroines" location="L/Stephen Leacock/Hohenzollerns in America, The/18.xml" />
+			<chapter num="19" title="3.--The Discovery of America; Being Done into Moving Pictures and Out Again" location="L/Stephen Leacock/Hohenzollerns in America, The/19.xml" />
+			<chapter num="20" title="4.--Politics from Within" location="L/Stephen Leacock/Hohenzollerns in America, The/20.xml" />
+			<chapter num="21" title="5.--The Lost Illusions of Mr. Sims" location="L/Stephen Leacock/Hohenzollerns in America, The/21.xml" />
+			<chapter num="22" title="6.--Fetching the Doctor: From Recollections of Childhood in the Canadian Countryside" location="L/Stephen Leacock/Hohenzollerns in America, The/22.xml" />
+		</section>
+</book>

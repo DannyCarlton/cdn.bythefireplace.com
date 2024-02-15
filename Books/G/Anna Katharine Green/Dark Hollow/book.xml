@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2347" title="Dark Hollow" author="Green, Anna Katharine" location="G/Anna Katharine Green/Dark Hollow">
+		<section type="1" name="Book I. The Woman in Purple">
+			<chapter num="1" title="I. Where is Bela?" location="G/Anna Katharine Green/Dark Hollow/1.xml" />
+			<chapter num="2" title="II. Was He Living?--Was He Dead?" location="G/Anna Katharine Green/Dark Hollow/2.xml" />
+			<chapter num="3" title="III. Bela the Redoubtable" location="G/Anna Katharine Green/Dark Hollow/3.xml" />
+			<chapter num="4" title="IV. &quot;And Where Was I When All this Happened?&quot;" location="G/Anna Katharine Green/Dark Hollow/4.xml" />
+			<chapter num="5" title="V. &quot;She Wore Purple&quot;" location="G/Anna Katharine Green/Dark Hollow/5.xml" />
+			<chapter num="6" title="VI. Across the Bridge" location="G/Anna Katharine Green/Dark Hollow/6.xml" />
+			<chapter num="7" title="VII. With Her Veil Down" location="G/Anna Katharine Green/Dark Hollow/7.xml" />
+			<chapter num="8" title="VIII. With Her Veil Lifted" location="G/Anna Katharine Green/Dark Hollow/8.xml" />
+			<chapter num="9" title="IX. Excerpts" location="G/Anna Katharine Green/Dark Hollow/9.xml" />
+			<chapter num="10" title="X. The Shadow" location="G/Anna Katharine Green/Dark Hollow/10.xml" />
+			<chapter num="11" title="XI. &quot;I Will Think About It&quot;" location="G/Anna Katharine Green/Dark Hollow/11.xml" />
+			<chapter num="12" title="XII. Sounds in the Night" location="G/Anna Katharine Green/Dark Hollow/12.xml" />
+		</section>
+		<section type="1" name="Book II. The House and the Room">
+			<chapter num="13" title="XIII. A Bit of Steel" location="G/Anna Katharine Green/Dark Hollow/13.xml" />
+			<chapter num="14" title="XIV. All is Clear" location="G/Anna Katharine Green/Dark Hollow/14.xml" />
+			<chapter num="15" title="XV. The Picture" location="G/Anna Katharine Green/Dark Hollow/15.xml" />
+			<chapter num="16" title="XVI. &quot;Don't! Don't!&quot;" location="G/Anna Katharine Green/Dark Hollow/16.xml" />
+			<chapter num="17" title="XVII. Unwelcome Truths" location="G/Anna Katharine Green/Dark Hollow/17.xml" />
+			<chapter num="18" title="XVIII. Reflections" location="G/Anna Katharine Green/Dark Hollow/18.xml" />
+			<chapter num="19" title="XIX. Alanson Black" location="G/Anna Katharine Green/Dark Hollow/19.xml" />
+			<chapter num="20" title="XX. What Had Made the Change?" location="G/Anna Katharine Green/Dark Hollow/20.xml" />
+			<chapter num="21" title="XXI. In the Court Room" location="G/Anna Katharine Green/Dark Hollow/21.xml" />
+			<chapter num="22" title="XXII. Before the Gates" location="G/Anna Katharine Green/Dark Hollow/22.xml" />
+			<chapter num="23" title="XXIII. The Misfortunes of My House" location="G/Anna Katharine Green/Dark Hollow/23.xml" />
+			<chapter num="24" title="XXIV. One Secret Less" location="G/Anna Katharine Green/Dark Hollow/24.xml" />
+			<chapter num="25" title="XXV. &quot;What Do You Think of Him Now?&quot;" location="G/Anna Katharine Green/Dark Hollow/25.xml" />
+			<chapter num="26" title="XXVI. The Telegram" location="G/Anna Katharine Green/Dark Hollow/26.xml" />
+		</section>
+		<section type="1" name="Book III. The Door of Mystery">
+			<chapter num="27" title="XXVII. He Must Be Found" location="G/Anna Katharine Green/Dark Hollow/27.xml" />
+			<chapter num="28" title="XXVIII. The First Effort" location="G/Anna Katharine Green/Dark Hollow/28.xml" />
+			<chapter num="29" title="XXIX. &quot;There is But One Thing to Do&quot;" location="G/Anna Katharine Green/Dark Hollow/29.xml" />
+			<chapter num="30" title="XXX. Tempest Lodge" location="G/Anna Katharine Green/Dark Hollow/30.xml" />
+			<chapter num="31" title="XXXI. Escape" location="G/Anna Katharine Green/Dark Hollow/31.xml" />
+			<chapter num="32" title="XXXII. The Vigil" location="G/Anna Katharine Green/Dark Hollow/32.xml" />
+			<chapter num="33" title="XXXIII. The Curtain Lifted" location="G/Anna Katharine Green/Dark Hollow/33.xml" />
+			<chapter num="34" title="XXXIV. Dark Hollow" location="G/Anna Katharine Green/Dark Hollow/34.xml" />
+			<chapter num="35" title="XXXV. Sunset" location="G/Anna Katharine Green/Dark Hollow/35.xml" />
+		</section>
+</book>

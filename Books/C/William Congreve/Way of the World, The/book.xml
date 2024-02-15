@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1566" title="Way of the World, The" author="Congreve, William" location="C/William Congreve/Way of the World, The">
+			<chapter num="1" title="Prologue--Spoken by Mr. Betterton." location="C/William Congreve/Way of the World, The/1.xml" />
+			<chapter num="2" title="Dramatis Personae." location="C/William Congreve/Way of the World, The/2.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="3" title="Scene I." location="C/William Congreve/Way of the World, The/3.xml" />
+			<chapter num="4" title="Scene II." location="C/William Congreve/Way of the World, The/4.xml" />
+			<chapter num="5" title="Scene III." location="C/William Congreve/Way of the World, The/5.xml" />
+			<chapter num="6" title="Scene IV." location="C/William Congreve/Way of the World, The/6.xml" />
+			<chapter num="7" title="Scene V." location="C/William Congreve/Way of the World, The/7.xml" />
+			<chapter num="8" title="Scene VI." location="C/William Congreve/Way of the World, The/8.xml" />
+			<chapter num="9" title="Scene VII." location="C/William Congreve/Way of the World, The/9.xml" />
+			<chapter num="10" title="Scene VIII." location="C/William Congreve/Way of the World, The/10.xml" />
+			<chapter num="11" title="Scene IX." location="C/William Congreve/Way of the World, The/11.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="12" title="Scene I." location="C/William Congreve/Way of the World, The/12.xml" />
+			<chapter num="13" title="Scene II." location="C/William Congreve/Way of the World, The/13.xml" />
+			<chapter num="14" title="Scene III." location="C/William Congreve/Way of the World, The/14.xml" />
+			<chapter num="15" title="Scene IV." location="C/William Congreve/Way of the World, The/15.xml" />
+			<chapter num="16" title="Scene V." location="C/William Congreve/Way of the World, The/16.xml" />
+			<chapter num="17" title="Scene VI." location="C/William Congreve/Way of the World, The/17.xml" />
+			<chapter num="18" title="Scene VII." location="C/William Congreve/Way of the World, The/18.xml" />
+			<chapter num="19" title="Scene VIII." location="C/William Congreve/Way of the World, The/19.xml" />
+			<chapter num="20" title="Scene IX." location="C/William Congreve/Way of the World, The/20.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="21" title="Scene I." location="C/William Congreve/Way of the World, The/21.xml" />
+			<chapter num="22" title="Scene II." location="C/William Congreve/Way of the World, The/22.xml" />
+			<chapter num="23" title="Scene III." location="C/William Congreve/Way of the World, The/23.xml" />
+			<chapter num="24" title="Scene IV." location="C/William Congreve/Way of the World, The/24.xml" />
+			<chapter num="25" title="Scene V." location="C/William Congreve/Way of the World, The/25.xml" />
+			<chapter num="26" title="Scene VI." location="C/William Congreve/Way of the World, The/26.xml" />
+			<chapter num="27" title="Scene VII." location="C/William Congreve/Way of the World, The/27.xml" />
+			<chapter num="28" title="Scene VIII." location="C/William Congreve/Way of the World, The/28.xml" />
+			<chapter num="29" title="Scene IX." location="C/William Congreve/Way of the World, The/29.xml" />
+			<chapter num="30" title="Scene X." location="C/William Congreve/Way of the World, The/30.xml" />
+			<chapter num="31" title="Scene XI." location="C/William Congreve/Way of the World, The/31.xml" />
+			<chapter num="32" title="Scene XII." location="C/William Congreve/Way of the World, The/32.xml" />
+			<chapter num="33" title="Scene XIII." location="C/William Congreve/Way of the World, The/33.xml" />
+			<chapter num="34" title="Scene XIV." location="C/William Congreve/Way of the World, The/34.xml" />
+			<chapter num="35" title="Scene XV." location="C/William Congreve/Way of the World, The/35.xml" />
+			<chapter num="36" title="Scene XVI." location="C/William Congreve/Way of the World, The/36.xml" />
+			<chapter num="37" title="Scene XVII." location="C/William Congreve/Way of the World, The/37.xml" />
+			<chapter num="38" title="Scene XVIII." location="C/William Congreve/Way of the World, The/38.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="39" title="Scene I." location="C/William Congreve/Way of the World, The/39.xml" />
+			<chapter num="40" title="Scene II." location="C/William Congreve/Way of the World, The/40.xml" />
+			<chapter num="41" title="Scene III." location="C/William Congreve/Way of the World, The/41.xml" />
+			<chapter num="42" title="Scene IV." location="C/William Congreve/Way of the World, The/42.xml" />
+			<chapter num="43" title="Scene V." location="C/William Congreve/Way of the World, The/43.xml" />
+			<chapter num="44" title="Scene VI." location="C/William Congreve/Way of the World, The/44.xml" />
+			<chapter num="45" title="Scene VII." location="C/William Congreve/Way of the World, The/45.xml" />
+			<chapter num="46" title="Scene VIII." location="C/William Congreve/Way of the World, The/46.xml" />
+			<chapter num="47" title="Scene IX." location="C/William Congreve/Way of the World, The/47.xml" />
+			<chapter num="48" title="Scene X." location="C/William Congreve/Way of the World, The/48.xml" />
+			<chapter num="49" title="Scene XI." location="C/William Congreve/Way of the World, The/49.xml" />
+			<chapter num="50" title="Scene XII." location="C/William Congreve/Way of the World, The/50.xml" />
+			<chapter num="51" title="Scene XIII." location="C/William Congreve/Way of the World, The/51.xml" />
+			<chapter num="52" title="Scene XIV." location="C/William Congreve/Way of the World, The/52.xml" />
+			<chapter num="53" title="Scene XV." location="C/William Congreve/Way of the World, The/53.xml" />
+		</section>
+		<section type="1" name="ACT V">
+			<chapter num="54" title="Scene I." location="C/William Congreve/Way of the World, The/54.xml" />
+			<chapter num="55" title="Scene II." location="C/William Congreve/Way of the World, The/55.xml" />
+			<chapter num="56" title="Scene III." location="C/William Congreve/Way of the World, The/56.xml" />
+			<chapter num="57" title="Scene IV." location="C/William Congreve/Way of the World, The/57.xml" />
+			<chapter num="58" title="Scene V." location="C/William Congreve/Way of the World, The/58.xml" />
+			<chapter num="59" title="Scene VI." location="C/William Congreve/Way of the World, The/59.xml" />
+			<chapter num="60" title="Scene VII." location="C/William Congreve/Way of the World, The/60.xml" />
+			<chapter num="61" title="Scene VIII." location="C/William Congreve/Way of the World, The/61.xml" />
+			<chapter num="62" title="Scene IX." location="C/William Congreve/Way of the World, The/62.xml" />
+			<chapter num="63" title="Scene X." location="C/William Congreve/Way of the World, The/63.xml" />
+			<chapter num="64" title="Scene XI." location="C/William Congreve/Way of the World, The/64.xml" />
+			<chapter num="65" title="Scene XII." location="C/William Congreve/Way of the World, The/65.xml" />
+			<chapter num="66" title="Scene XIII." location="C/William Congreve/Way of the World, The/66.xml" />
+			<chapter num="67" title="Scene the Last." location="C/William Congreve/Way of the World, The/67.xml" />
+			<chapter num="68" title="Epilogue--Spoken by Mrs. Bracegirdle." location="C/William Congreve/Way of the World, The/68.xml" />
+		</section>
+</book>

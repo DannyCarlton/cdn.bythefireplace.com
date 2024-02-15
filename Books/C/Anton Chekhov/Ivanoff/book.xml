@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="783" title="Ivanoff" author="Chekhov, Anton" location="C/Anton Chekhov/Ivanoff">
+			<chapter num="1" title="Characters" location="C/Anton Chekhov/Ivanoff/1.xml" />
+			<chapter num="2" title="ACT I" location="C/Anton Chekhov/Ivanoff/2.xml" />
+			<chapter num="3" title="ACT II" location="C/Anton Chekhov/Ivanoff/3.xml" />
+			<chapter num="4" title="ACT III" location="C/Anton Chekhov/Ivanoff/4.xml" />
+			<chapter num="5" title="ACT IV" location="C/Anton Chekhov/Ivanoff/5.xml" />
+</book>

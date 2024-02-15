@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="89" title="Gulliver's Travels" author="Swift, Jonathan" location="S/Jonathan Swift/Gulliver's Travels">
+			<chapter num="1" title="A Letter From Captain Gulliver to His Cousin Sympson" location="S/Jonathan Swift/Gulliver's Travels/1.xml" />
+		<section type="1" name="Part I: A Voyage to Lilliput">
+			<chapter num="2" title="Chapter 1" location="S/Jonathan Swift/Gulliver's Travels/2.xml" />
+			<chapter num="3" title="Chapter II." location="S/Jonathan Swift/Gulliver's Travels/3.xml" />
+			<chapter num="4" title="Chapter III." location="S/Jonathan Swift/Gulliver's Travels/4.xml" />
+			<chapter num="5" title="Chapter IV." location="S/Jonathan Swift/Gulliver's Travels/5.xml" />
+			<chapter num="6" title="Chapter V." location="S/Jonathan Swift/Gulliver's Travels/6.xml" />
+			<chapter num="7" title="Chapter VI." location="S/Jonathan Swift/Gulliver's Travels/7.xml" />
+			<chapter num="8" title="Chapter VII." location="S/Jonathan Swift/Gulliver's Travels/8.xml" />
+			<chapter num="9" title="Chapter VIII." location="S/Jonathan Swift/Gulliver's Travels/9.xml" />
+		</section>
+		<section type="1" name="Part II: A Voyage to Brobdingnag">
+			<chapter num="10" title="Chapter I." location="S/Jonathan Swift/Gulliver's Travels/10.xml" />
+			<chapter num="11" title="Chapter II." location="S/Jonathan Swift/Gulliver's Travels/11.xml" />
+			<chapter num="12" title="Chapter III." location="S/Jonathan Swift/Gulliver's Travels/12.xml" />
+			<chapter num="13" title="Chapter IV." location="S/Jonathan Swift/Gulliver's Travels/13.xml" />
+			<chapter num="14" title="Chapter V." location="S/Jonathan Swift/Gulliver's Travels/14.xml" />
+			<chapter num="15" title="Chapter VI." location="S/Jonathan Swift/Gulliver's Travels/15.xml" />
+			<chapter num="16" title="Chapter VII." location="S/Jonathan Swift/Gulliver's Travels/16.xml" />
+			<chapter num="17" title="Chapter VIII." location="S/Jonathan Swift/Gulliver's Travels/17.xml" />
+		</section>
+		<section type="1" name="Part III: A Voyage to Laputa, Balnibarbi, Luggnagg, Glubbdubdrib, and Japan.">
+			<chapter num="18" title="Chapter I." location="S/Jonathan Swift/Gulliver's Travels/18.xml" />
+			<chapter num="19" title="Chapter II." location="S/Jonathan Swift/Gulliver's Travels/19.xml" />
+			<chapter num="20" title="Chapter III." location="S/Jonathan Swift/Gulliver's Travels/20.xml" />
+			<chapter num="21" title="Chapter IV." location="S/Jonathan Swift/Gulliver's Travels/21.xml" />
+		</section>
+		<section type="1" name="Part III: A Voyage to Laputa, Balnibarbi, Luggnagg, Glubbdubdrib, and Japan">
+			<chapter num="22" title="Chapter V." location="S/Jonathan Swift/Gulliver's Travels/22.xml" />
+			<chapter num="23" title="Chapter VI." location="S/Jonathan Swift/Gulliver's Travels/23.xml" />
+			<chapter num="24" title="Chapter VII." location="S/Jonathan Swift/Gulliver's Travels/24.xml" />
+			<chapter num="25" title="Chapter VIII." location="S/Jonathan Swift/Gulliver's Travels/25.xml" />
+			<chapter num="26" title="Chapter IX." location="S/Jonathan Swift/Gulliver's Travels/26.xml" />
+			<chapter num="27" title="Chapter X." location="S/Jonathan Swift/Gulliver's Travels/27.xml" />
+			<chapter num="28" title="Chapter XI." location="S/Jonathan Swift/Gulliver's Travels/28.xml" />
+		</section>
+		<section type="1" name="Part IV: A Voyage to the Country of the Houyhnhnms">
+			<chapter num="29" title="Chapter I." location="S/Jonathan Swift/Gulliver's Travels/29.xml" />
+			<chapter num="30" title="Chapter II." location="S/Jonathan Swift/Gulliver's Travels/30.xml" />
+			<chapter num="31" title="Chapter III." location="S/Jonathan Swift/Gulliver's Travels/31.xml" />
+			<chapter num="32" title="Chapter IV." location="S/Jonathan Swift/Gulliver's Travels/32.xml" />
+			<chapter num="33" title="Chapter V." location="S/Jonathan Swift/Gulliver's Travels/33.xml" />
+			<chapter num="34" title="Chapter VI." location="S/Jonathan Swift/Gulliver's Travels/34.xml" />
+			<chapter num="35" title="Chapter VII." location="S/Jonathan Swift/Gulliver's Travels/35.xml" />
+			<chapter num="36" title="Chapter VIII." location="S/Jonathan Swift/Gulliver's Travels/36.xml" />
+			<chapter num="37" title="Chapter IX." location="S/Jonathan Swift/Gulliver's Travels/37.xml" />
+			<chapter num="38" title="Chapter X." location="S/Jonathan Swift/Gulliver's Travels/38.xml" />
+			<chapter num="39" title="Chapter XI." location="S/Jonathan Swift/Gulliver's Travels/39.xml" />
+			<chapter num="40" title="Chapter XII." location="S/Jonathan Swift/Gulliver's Travels/40.xml" />
+		</section>
+</book>

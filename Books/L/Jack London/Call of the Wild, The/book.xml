@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="73" title="Call of the Wild, The" author="London, Jack" location="L/Jack London/Call of the Wild, The">
+			<chapter num="1" title="Chapter I. Into the Primitive" location="L/Jack London/Call of the Wild, The/1.xml" />
+			<chapter num="2" title="Chapter II. The Law of Club and Fang" location="L/Jack London/Call of the Wild, The/2.xml" />
+			<chapter num="3" title="Chapter III . The Dominant Primordial Beast" location="L/Jack London/Call of the Wild, The/3.xml" />
+			<chapter num="4" title="Chapter IV . Who Has Won to Mastership" location="L/Jack London/Call of the Wild, The/4.xml" />
+			<chapter num="5" title="Chapter V. The Toil of Trace and Trail" location="L/Jack London/Call of the Wild, The/5.xml" />
+			<chapter num="6" title="Chapter VI. For the Love of a Man" location="L/Jack London/Call of the Wild, The/6.xml" />
+			<chapter num="7" title="Chapter VII. The Sounding of the Call" location="L/Jack London/Call of the Wild, The/7.xml" />
+</book>

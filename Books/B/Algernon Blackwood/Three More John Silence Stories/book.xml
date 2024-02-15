@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="3020" title="Three More John Silence Stories" author="Blackwood, Algernon" location="B/Algernon Blackwood/Three More John Silence Stories">
+			<chapter num="1" title="Case I: Secret Worship" location="B/Algernon Blackwood/Three More John Silence Stories/1.xml" />
+		<section type="1" name="Case II: The Camp of the Dog">
+			<chapter num="2" title="Chapter I" location="B/Algernon Blackwood/Three More John Silence Stories/2.xml" />
+			<chapter num="3" title="Chapter II" location="B/Algernon Blackwood/Three More John Silence Stories/3.xml" />
+			<chapter num="4" title="Chapter III" location="B/Algernon Blackwood/Three More John Silence Stories/4.xml" />
+			<chapter num="5" title="Chapter IV" location="B/Algernon Blackwood/Three More John Silence Stories/5.xml" />
+			<chapter num="6" title="Chapter V" location="B/Algernon Blackwood/Three More John Silence Stories/6.xml" />
+			<chapter num="7" title="Case III: A Victim of Higher Space" location="B/Algernon Blackwood/Three More John Silence Stories/7.xml" />
+		</section>
+</book>

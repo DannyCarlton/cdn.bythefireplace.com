@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="193" name="Ibsen, Henrik" location="I/Henrik Ibsen" />
+	<author aid="60" name="Irving, Washington" location="I/Washington Irving" />
+</authors>

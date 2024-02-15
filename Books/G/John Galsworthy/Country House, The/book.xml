@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1304" title="Country House, The" author="Galsworthy, John" location="G/John Galsworthy/Country House, The">
+		<section type="1" name="Part I">
+			<chapter num="1" title="Chapter I. A Party at Worsted Skeynes" location="G/John Galsworthy/Country House, The/1.xml" />
+			<chapter num="2" title="Chapter II. The Covert Shoot" location="G/John Galsworthy/Country House, The/2.xml" />
+			<chapter num="3" title="Chapter III. The Blissful Hour" location="G/John Galsworthy/Country House, The/3.xml" />
+			<chapter num="4" title="Chapter IV. The Happy Hunting-Ground" location="G/John Galsworthy/Country House, The/4.xml" />
+			<chapter num="5" title="Chapter V. Mrs. Pendyce's Dance" location="G/John Galsworthy/Country House, The/5.xml" />
+			<chapter num="6" title="Chapter VI. Influence of the Reverend Hussell Barter" location="G/John Galsworthy/Country House, The/6.xml" />
+			<chapter num="7" title="Chapter VII. Sabbath at Worsted Skeynes" location="G/John Galsworthy/Country House, The/7.xml" />
+			<chapter num="8" title="Chapter VIII. Gregory Vigil Proposes" location="G/John Galsworthy/Country House, The/8.xml" />
+			<chapter num="9" title="Chapter IX. Mr. Paramor Disposes" location="G/John Galsworthy/Country House, The/9.xml" />
+			<chapter num="10" title="Chapter X. At Blafard's" location="G/John Galsworthy/Country House, The/10.xml" />
+		</section>
+		<section type="1" name="Part II">
+			<chapter num="11" title="Chapter I. Gregory Reopens the Campaign" location="G/John Galsworthy/Country House, The/11.xml" />
+			<chapter num="12" title="Chapter II. Continued Influence of the Reverend Hussell Barter" location="G/John Galsworthy/Country House, The/12.xml" />
+			<chapter num="13" title="Chapter III. The Sinister Night" location="G/John Galsworthy/Country House, The/13.xml" />
+			<chapter num="14" title="Chapter IV. Mr. Pendyce's Head" location="G/John Galsworthy/Country House, The/14.xml" />
+			<chapter num="15" title="Chapter V. Rector and Squire" location="G/John Galsworthy/Country House, The/15.xml" />
+			<chapter num="16" title="Chapter VI. The Park" location="G/John Galsworthy/Country House, The/16.xml" />
+			<chapter num="17" title="Chapter VII. Doubtful Position at Worsted Skeynes" location="G/John Galsworthy/Country House, The/17.xml" />
+			<chapter num="18" title="Chapter VIII. Council at Worsted Skeynes" location="G/John Galsworthy/Country House, The/18.xml" />
+			<chapter num="19" title="Chapter IX. Definition of &quot;Pendycitis&quot;" location="G/John Galsworthy/Country House, The/19.xml" />
+			<chapter num="20" title="Chapter X. George Goes for the Gloves" location="G/John Galsworthy/Country House, The/20.xml" />
+			<chapter num="21" title="Chapter XI. Mr. Barter Takes a Walk" location="G/John Galsworthy/Country House, The/21.xml" />
+			<chapter num="22" title="Chapter XII. The Squire Makes Up His Mind" location="G/John Galsworthy/Country House, The/22.xml" />
+		</section>
+		<section type="1" name="Part III">
+			<chapter num="23" title="Chapter I. Mrs. Pendyce's Odyssey" location="G/John Galsworthy/Country House, The/23.xml" />
+			<chapter num="24" title="Chapter II. The Son and the Mother" location="G/John Galsworthy/Country House, The/24.xml" />
+			<chapter num="25" title="Chapter III. Mrs. Bellew Squares Her Accounts" location="G/John Galsworthy/Country House, The/25.xml" />
+			<chapter num="26" title="Chapter IV. Mrs. Pendyce's Inspiration" location="G/John Galsworthy/Country House, The/26.xml" />
+			<chapter num="27" title="Chapter V. The Mother and the Son" location="G/John Galsworthy/Country House, The/27.xml" />
+			<chapter num="28" title="Chapter VI. Gregory Looks at the Sky" location="G/John Galsworthy/Country House, The/28.xml" />
+			<chapter num="29" title="Chapter VII. Tour with the Spaniel John" location="G/John Galsworthy/Country House, The/29.xml" />
+			<chapter num="30" title="Chapter VIII. Acute Attack of 'Pendycitis'" location="G/John Galsworthy/Country House, The/30.xml" />
+			<chapter num="31" title="Chapter IX. Bellew Bows to a Lady" location="G/John Galsworthy/Country House, The/31.xml" />
+		</section>
+</book>

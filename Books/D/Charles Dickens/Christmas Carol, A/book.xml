@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="50" title="Christmas Carol, A" author="Dickens, Charles" location="D/Charles Dickens/Christmas Carol, A">
+			<chapter num="1" title="Stave 1:  Marley's Ghost" location="D/Charles Dickens/Christmas Carol, A/1.xml" />
+			<chapter num="2" title="Stave 2:  The First of the Three Spirits" location="D/Charles Dickens/Christmas Carol, A/2.xml" />
+			<chapter num="3" title="Stave 3:  The Second of the Three Spirits" location="D/Charles Dickens/Christmas Carol, A/3.xml" />
+			<chapter num="4" title="Stave 4:  The Last of the Spirits" location="D/Charles Dickens/Christmas Carol, A/4.xml" />
+			<chapter num="5" title="Stave 5:  The End of It" location="D/Charles Dickens/Christmas Carol, A/5.xml" />
+</book>

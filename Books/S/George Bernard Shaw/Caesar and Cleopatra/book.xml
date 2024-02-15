@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="955" title="Caesar and Cleopatra" author="Shaw, George Bernard" location="S/George Bernard Shaw/Caesar and Cleopatra">
+			<chapter num="1" title="ACT I" location="S/George Bernard Shaw/Caesar and Cleopatra/1.xml" />
+			<chapter num="2" title="ACT II" location="S/George Bernard Shaw/Caesar and Cleopatra/2.xml" />
+			<chapter num="3" title="ACT III" location="S/George Bernard Shaw/Caesar and Cleopatra/3.xml" />
+			<chapter num="4" title="ACT IV" location="S/George Bernard Shaw/Caesar and Cleopatra/4.xml" />
+			<chapter num="5" title="ACT V" location="S/George Bernard Shaw/Caesar and Cleopatra/5.xml" />
+			<chapter num="6" title="Notes to Caesar and Cleopatra" location="S/George Bernard Shaw/Caesar and Cleopatra/6.xml" />
+</book>

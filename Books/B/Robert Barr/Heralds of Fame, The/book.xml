@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2647" title="Heralds of Fame, The" author="Barr, Robert" location="B/Robert Barr/Heralds of Fame, The">
+			<chapter num="1" title="Chapter I." location="B/Robert Barr/Heralds of Fame, The/1.xml" />
+			<chapter num="2" title="Chapter II." location="B/Robert Barr/Heralds of Fame, The/2.xml" />
+			<chapter num="3" title="Chapter III." location="B/Robert Barr/Heralds of Fame, The/3.xml" />
+			<chapter num="4" title="Chapter IV." location="B/Robert Barr/Heralds of Fame, The/4.xml" />
+			<chapter num="5" title="Chapter V." location="B/Robert Barr/Heralds of Fame, The/5.xml" />
+			<chapter num="6" title="Chapter VI." location="B/Robert Barr/Heralds of Fame, The/6.xml" />
+</book>

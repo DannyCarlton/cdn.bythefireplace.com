@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40344" title="Helen" author="Edgeworth, Maria" location="E/Maria Edgeworth/Helen">
+
+	<section type="2" name="Volume the First.">
+			<chapter num="1" title="Chapter I." location="E/Maria Edgeworth/Helen/1.xml" />
+			<chapter num="2" title="Chapter II." location="E/Maria Edgeworth/Helen/2.xml" />
+			<chapter num="3" title="Chapter III." location="E/Maria Edgeworth/Helen/3.xml" />
+			<chapter num="4" title="Chapter IV." location="E/Maria Edgeworth/Helen/4.xml" />
+			<chapter num="5" title="Chapter V." location="E/Maria Edgeworth/Helen/5.xml" />
+			<chapter num="6" title="Chapter VII." location="E/Maria Edgeworth/Helen/6.xml" />
+			<chapter num="7" title="Chapter VIII." location="E/Maria Edgeworth/Helen/7.xml" />
+			<chapter num="8" title="Chapter IX." location="E/Maria Edgeworth/Helen/8.xml" />
+			<chapter num="9" title="Chapter X." location="E/Maria Edgeworth/Helen/9.xml" />
+			<chapter num="10" title="Chapter XI." location="E/Maria Edgeworth/Helen/10.xml" />
+			<chapter num="11" title="Chapter XII." location="E/Maria Edgeworth/Helen/11.xml" />
+			<chapter num="12" title="Chapter XIII." location="E/Maria Edgeworth/Helen/12.xml" />
+			<chapter num="13" title="Chapter XIV." location="E/Maria Edgeworth/Helen/13.xml" />
+			<chapter num="14" title="Chapter XV." location="E/Maria Edgeworth/Helen/14.xml" />
+			<chapter num="15" title="Chapter XVI." location="E/Maria Edgeworth/Helen/15.xml" />
+
+	</section>
+	<section type="2" name="Volume the Second.">
+			<chapter num="16" title="Chapter I." location="E/Maria Edgeworth/Helen/16.xml" />
+			<chapter num="17" title="Chapter II." location="E/Maria Edgeworth/Helen/17.xml" />
+			<chapter num="18" title="Chapter III." location="E/Maria Edgeworth/Helen/18.xml" />
+			<chapter num="19" title="Chapter IV." location="E/Maria Edgeworth/Helen/19.xml" />
+			<chapter num="20" title="Chapter V." location="E/Maria Edgeworth/Helen/20.xml" />
+			<chapter num="21" title="Chapter VI." location="E/Maria Edgeworth/Helen/21.xml" />
+			<chapter num="22" title="Chapter VII." location="E/Maria Edgeworth/Helen/22.xml" />
+			<chapter num="23" title="Chapter VIII." location="E/Maria Edgeworth/Helen/23.xml" />
+			<chapter num="24" title="Chapter IX." location="E/Maria Edgeworth/Helen/24.xml" />
+			<chapter num="25" title="Chapter X." location="E/Maria Edgeworth/Helen/25.xml" />
+			<chapter num="26" title="Chapter XI." location="E/Maria Edgeworth/Helen/26.xml" />
+			<chapter num="27" title="Chapter XII." location="E/Maria Edgeworth/Helen/27.xml" />
+			<chapter num="28" title="Chapter XIII." location="E/Maria Edgeworth/Helen/28.xml" />
+			<chapter num="29" title="Chapter XIV." location="E/Maria Edgeworth/Helen/29.xml" />
+			<chapter num="30" title="Chapter XV." location="E/Maria Edgeworth/Helen/30.xml" />
+			<chapter num="31" title="Chapter XVI." location="E/Maria Edgeworth/Helen/31.xml" />
+
+	</section>
+	<section type="2" name="Volume the Third.">
+			<chapter num="32" title="Chapter I." location="E/Maria Edgeworth/Helen/32.xml" />
+			<chapter num="33" title="Chapter II." location="E/Maria Edgeworth/Helen/33.xml" />
+			<chapter num="34" title="Chapter III." location="E/Maria Edgeworth/Helen/34.xml" />
+			<chapter num="35" title="Chapter IV." location="E/Maria Edgeworth/Helen/35.xml" />
+			<chapter num="36" title="Chapter V." location="E/Maria Edgeworth/Helen/36.xml" />
+			<chapter num="37" title="Chapter VI." location="E/Maria Edgeworth/Helen/37.xml" />
+			<chapter num="38" title="Chapter VII." location="E/Maria Edgeworth/Helen/38.xml" />
+			<chapter num="39" title="Chapter VIII." location="E/Maria Edgeworth/Helen/39.xml" />
+			<chapter num="40" title="Chapter IX." location="E/Maria Edgeworth/Helen/40.xml" />
+			<chapter num="41" title="Chapter X." location="E/Maria Edgeworth/Helen/41.xml" />
+			<chapter num="42" title="Chapter XI." location="E/Maria Edgeworth/Helen/42.xml" />
+			<chapter num="43" title="Chapter XII." location="E/Maria Edgeworth/Helen/43.xml" />
+			<chapter num="44" title="Chapter XIII." location="E/Maria Edgeworth/Helen/44.xml" />
+			<chapter num="45" title="Chapter XIV." location="E/Maria Edgeworth/Helen/45.xml" />
+			<chapter num="46" title="Chapter XV." location="E/Maria Edgeworth/Helen/46.xml" />
+	</section>
+</book>

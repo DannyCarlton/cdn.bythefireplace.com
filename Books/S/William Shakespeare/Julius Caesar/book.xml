@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="155" title="Julius Caesar" author="Shakespeare, William" location="S/William Shakespeare/Julius Caesar">
+			<chapter num="1" title="Dramatis Personae" location="S/William Shakespeare/Julius Caesar/1.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="2" title="Scene 1" location="S/William Shakespeare/Julius Caesar/2.xml" />
+			<chapter num="3" title="Scene 2" location="S/William Shakespeare/Julius Caesar/3.xml" />
+			<chapter num="4" title="Scene 3" location="S/William Shakespeare/Julius Caesar/4.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="5" title="Scene 1" location="S/William Shakespeare/Julius Caesar/5.xml" />
+			<chapter num="6" title="Scene 2" location="S/William Shakespeare/Julius Caesar/6.xml" />
+			<chapter num="7" title="Scene 3" location="S/William Shakespeare/Julius Caesar/7.xml" />
+			<chapter num="8" title="Scene 4" location="S/William Shakespeare/Julius Caesar/8.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="9" title="Scene 1" location="S/William Shakespeare/Julius Caesar/9.xml" />
+			<chapter num="10" title="Scene 2" location="S/William Shakespeare/Julius Caesar/10.xml" />
+			<chapter num="11" title="Scene 3" location="S/William Shakespeare/Julius Caesar/11.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="12" title="Scene 1" location="S/William Shakespeare/Julius Caesar/12.xml" />
+			<chapter num="13" title="Scene 2" location="S/William Shakespeare/Julius Caesar/13.xml" />
+			<chapter num="14" title="Scene 3" location="S/William Shakespeare/Julius Caesar/14.xml" />
+		</section>
+		<section type="1" name="ACT V">
+			<chapter num="15" title="Scene 1" location="S/William Shakespeare/Julius Caesar/15.xml" />
+			<chapter num="16" title="Scene 2" location="S/William Shakespeare/Julius Caesar/16.xml" />
+			<chapter num="17" title="Scene 3" location="S/William Shakespeare/Julius Caesar/17.xml" />
+			<chapter num="18" title="Scene 4" location="S/William Shakespeare/Julius Caesar/18.xml" />
+			<chapter num="19" title="Scene 5" location="S/William Shakespeare/Julius Caesar/19.xml" />
+		</section>
+</book>

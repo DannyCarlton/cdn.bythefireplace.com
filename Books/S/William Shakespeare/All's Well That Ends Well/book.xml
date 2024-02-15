@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="149" title="All's Well That Ends Well" author="Shakespeare, William" location="S/William Shakespeare/All's Well That Ends Well">
+			<chapter num="1" title="Dramatis Personae" location="S/William Shakespeare/All's Well That Ends Well/1.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="2" title="Scene 1" location="S/William Shakespeare/All's Well That Ends Well/2.xml" />
+			<chapter num="3" title="Scene 2" location="S/William Shakespeare/All's Well That Ends Well/3.xml" />
+			<chapter num="4" title="Scene 3" location="S/William Shakespeare/All's Well That Ends Well/4.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="5" title="Scene 1" location="S/William Shakespeare/All's Well That Ends Well/5.xml" />
+			<chapter num="6" title="Scene 2" location="S/William Shakespeare/All's Well That Ends Well/6.xml" />
+			<chapter num="7" title="Scene 3" location="S/William Shakespeare/All's Well That Ends Well/7.xml" />
+			<chapter num="8" title="Scene 4" location="S/William Shakespeare/All's Well That Ends Well/8.xml" />
+			<chapter num="9" title="Scene 5" location="S/William Shakespeare/All's Well That Ends Well/9.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="10" title="Scene 1" location="S/William Shakespeare/All's Well That Ends Well/10.xml" />
+			<chapter num="11" title="Scene 2" location="S/William Shakespeare/All's Well That Ends Well/11.xml" />
+			<chapter num="12" title="Scene 3" location="S/William Shakespeare/All's Well That Ends Well/12.xml" />
+			<chapter num="13" title="Scene 4" location="S/William Shakespeare/All's Well That Ends Well/13.xml" />
+			<chapter num="14" title="Scene 5" location="S/William Shakespeare/All's Well That Ends Well/14.xml" />
+			<chapter num="15" title="Scene 6" location="S/William Shakespeare/All's Well That Ends Well/15.xml" />
+			<chapter num="16" title="Scene 7" location="S/William Shakespeare/All's Well That Ends Well/16.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="17" title="Scene 1" location="S/William Shakespeare/All's Well That Ends Well/17.xml" />
+			<chapter num="18" title="Scene 2" location="S/William Shakespeare/All's Well That Ends Well/18.xml" />
+			<chapter num="19" title="Scene 3" location="S/William Shakespeare/All's Well That Ends Well/19.xml" />
+			<chapter num="20" title="Scene 4" location="S/William Shakespeare/All's Well That Ends Well/20.xml" />
+			<chapter num="21" title="Scene 5" location="S/William Shakespeare/All's Well That Ends Well/21.xml" />
+		</section>
+		<section type="1" name="ACT V">
+			<chapter num="22" title="Scene 1" location="S/William Shakespeare/All's Well That Ends Well/22.xml" />
+			<chapter num="23" title="Scene 2" location="S/William Shakespeare/All's Well That Ends Well/23.xml" />
+			<chapter num="24" title="Scene 3" location="S/William Shakespeare/All's Well That Ends Well/24.xml" />
+			<chapter num="25" title="Epilogue" location="S/William Shakespeare/All's Well That Ends Well/25.xml" />
+		</section>
+</book>

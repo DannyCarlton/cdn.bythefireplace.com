@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2700" title="Light in the Clearing, The" author="Bacheller, Irving" location="B/Irving Bacheller/Light in the Clearing, The">
+			<chapter num="1" title="Preface" location="B/Irving Bacheller/Light in the Clearing, The/1.xml" />
+		<section type="1" name="Book One: Which is the Story of the Candle and the Compass">
+			<chapter num="2" title="Chapter I. The Melon Harvest" location="B/Irving Bacheller/Light in the Clearing, The/2.xml" />
+			<chapter num="3" title="Chapter II. I Meet the Silent Woman and Silas Wright, Jr." location="B/Irving Bacheller/Light in the Clearing, The/3.xml" />
+			<chapter num="4" title="Chapter III. We Go to Meeting and See Mr. Wright Again" location="B/Irving Bacheller/Light in the Clearing, The/4.xml" />
+			<chapter num="5" title="Chapter IV. Our Little Strange Companion" location="B/Irving Bacheller/Light in the Clearing, The/5.xml" />
+			<chapter num="6" title="Chapter V. In the Light of the Candles" location="B/Irving Bacheller/Light in the Clearing, The/6.xml" />
+			<chapter num="7" title="Chapter VI. The Great Stranger" location="B/Irving Bacheller/Light in the Clearing, The/7.xml" />
+			<chapter num="8" title="Chapter VII. My Second Peril" location="B/Irving Bacheller/Light in the Clearing, The/8.xml" />
+			<chapter num="9" title="Chapter VIII. My Third Peril" location="B/Irving Bacheller/Light in the Clearing, The/9.xml" />
+		</section>
+		<section type="1" name="Book Two: Which is the Story of the Principal Witness">
+			<chapter num="10" title="Chapter IX. In Which I Meet Other Great Men" location="B/Irving Bacheller/Light in the Clearing, The/10.xml" />
+			<chapter num="11" title="Chapter X. I Meet President van Buren and Am Cross-Examined by Mr. Grimshaw" location="B/Irving Bacheller/Light in the Clearing, The/11.xml" />
+			<chapter num="12" title="Chapter XI. A Party and--My Fourth Peril?" location="B/Irving Bacheller/Light in the Clearing, The/12.xml" />
+			<chapter num="13" title="Chapter XII. The Spirit of Michael Henry and Others" location="B/Irving Bacheller/Light in the Clearing, The/13.xml" />
+			<chapter num="14" title="Chapter XIII. The Thing and Other Things" location="B/Irving Bacheller/Light in the Clearing, The/14.xml" />
+			<chapter num="15" title="Chapter XIV. The Bolt Falls" location="B/Irving Bacheller/Light in the Clearing, The/15.xml" />
+		</section>
+		<section type="1" name="Book Three: Which is the Story of the Chosen Ways">
+			<chapter num="16" title="Chapter XV. Uncle Peabody's Way and Mine" location="B/Irving Bacheller/Light in the Clearing, The/16.xml" />
+			<chapter num="17" title="Chapter XVI. I Use My Own Compass at a Fork in the Road" location="B/Irving Bacheller/Light in the Clearing, The/17.xml" />
+			<chapter num="18" title="Chapter XVII. The Man with the Scythe" location="B/Irving Bacheller/Light in the Clearing, The/18.xml" />
+			<chapter num="19" title="Chapter XVIII. I Start in a Long Way" location="B/Irving Bacheller/Light in the Clearing, The/19.xml" />
+			<chapter num="20" title="Chapter XIX. On the Summit" location="B/Irving Bacheller/Light in the Clearing, The/20.xml" />
+			<chapter num="21" title="Epilogue" location="B/Irving Bacheller/Light in the Clearing, The/21.xml" />
+		</section>
+</book>

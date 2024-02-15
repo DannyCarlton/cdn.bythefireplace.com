@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40058" title="Devil's Ford" author="Harte, Bret" location="H/Bret Harte/Devil's Ford">
+			<chapter num="1" title="Chapter I." location="H/Bret Harte/Devil's Ford/1.xml" />
+			<chapter num="2" title="Chapter II." location="H/Bret Harte/Devil's Ford/2.xml" />
+			<chapter num="3" title="Chapter III." location="H/Bret Harte/Devil's Ford/3.xml" />
+			<chapter num="4" title="Chapter IV." location="H/Bret Harte/Devil's Ford/4.xml" />
+			<chapter num="5" title="Chapter V." location="H/Bret Harte/Devil's Ford/5.xml" />
+			<chapter num="6" title="Chapter VI." location="H/Bret Harte/Devil's Ford/6.xml" />
+			<chapter num="7" title="Chapter VII." location="H/Bret Harte/Devil's Ford/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="H/Bret Harte/Devil's Ford/8.xml" />
+</book>

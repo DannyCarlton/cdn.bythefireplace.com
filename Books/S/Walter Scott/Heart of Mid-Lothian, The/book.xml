@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40276" title="Heart of Mid-Lothian, The" author="Scott, Walter" location="S/Walter Scott/Heart of Mid-Lothian, The">
+
+	<section type="2" name="Vol. I">
+			<chapter num="1" title="Chapter I. " location="S/Walter Scott/Heart of Mid-Lothian, The/1.xml" />
+			<chapter num="2" title="Chapter II. " location="S/Walter Scott/Heart of Mid-Lothian, The/2.xml" />
+			<chapter num="3" title="Chapter III. " location="S/Walter Scott/Heart of Mid-Lothian, The/3.xml" />
+			<chapter num="4" title="Chapter IV. " location="S/Walter Scott/Heart of Mid-Lothian, The/4.xml" />
+			<chapter num="5" title="Chapter V. " location="S/Walter Scott/Heart of Mid-Lothian, The/5.xml" />
+			<chapter num="6" title="Chapter VI. " location="S/Walter Scott/Heart of Mid-Lothian, The/6.xml" />
+			<chapter num="7" title="Chapter VII. " location="S/Walter Scott/Heart of Mid-Lothian, The/7.xml" />
+			<chapter num="8" title="Chapter VIII. " location="S/Walter Scott/Heart of Mid-Lothian, The/8.xml" />
+			<chapter num="9" title="Chapter VIII. " location="S/Walter Scott/Heart of Mid-Lothian, The/9.xml" />
+			<chapter num="10" title="Chapter IX. " location="S/Walter Scott/Heart of Mid-Lothian, The/10.xml" />
+			<chapter num="11" title="Chapter X. " location="S/Walter Scott/Heart of Mid-Lothian, The/11.xml" />
+			<chapter num="12" title="Chapter XI. " location="S/Walter Scott/Heart of Mid-Lothian, The/12.xml" />
+			<chapter num="13" title="Chapter XI. " location="S/Walter Scott/Heart of Mid-Lothian, The/13.xml" />
+			<chapter num="14" title="Chapter XII. " location="S/Walter Scott/Heart of Mid-Lothian, The/14.xml" />
+			<chapter num="15" title="Chapter XIII. " location="S/Walter Scott/Heart of Mid-Lothian, The/15.xml" />
+			<chapter num="16" title="Chapter XIV. " location="S/Walter Scott/Heart of Mid-Lothian, The/16.xml" />
+			<chapter num="17" title="Chapter XV. " location="S/Walter Scott/Heart of Mid-Lothian, The/17.xml" />
+			<chapter num="18" title="Chapter XVI. " location="S/Walter Scott/Heart of Mid-Lothian, The/18.xml" />
+			<chapter num="19" title="Chapter XVIII. " location="S/Walter Scott/Heart of Mid-Lothian, The/19.xml" />
+			<chapter num="20" title="Chapter XIX. " location="S/Walter Scott/Heart of Mid-Lothian, The/20.xml" />
+			<chapter num="21" title="Chapter XX. " location="S/Walter Scott/Heart of Mid-Lothian, The/21.xml" />
+			<chapter num="22" title="Chapter XXI. " location="S/Walter Scott/Heart of Mid-Lothian, The/22.xml" />
+			<chapter num="23" title="Chapter XXII. " location="S/Walter Scott/Heart of Mid-Lothian, The/23.xml" />
+
+	</section>
+	<section type="2" name="Vol. II.">
+			<chapter num="24" title="Chapter I. " location="S/Walter Scott/Heart of Mid-Lothian, The/24.xml" />
+			<chapter num="25" title="Chapter II. " location="S/Walter Scott/Heart of Mid-Lothian, The/25.xml" />
+			<chapter num="26" title="Chapter III. " location="S/Walter Scott/Heart of Mid-Lothian, The/26.xml" />
+			<chapter num="27" title="Chapter IV. " location="S/Walter Scott/Heart of Mid-Lothian, The/27.xml" />
+			<chapter num="28" title="Chapter V. " location="S/Walter Scott/Heart of Mid-Lothian, The/28.xml" />
+			<chapter num="29" title="Chapter VI. " location="S/Walter Scott/Heart of Mid-Lothian, The/29.xml" />
+			<chapter num="30" title="Chapter VII. " location="S/Walter Scott/Heart of Mid-Lothian, The/30.xml" />
+			<chapter num="31" title="Chapter VIII. " location="S/Walter Scott/Heart of Mid-Lothian, The/31.xml" />
+			<chapter num="32" title="Chapter IX. " location="S/Walter Scott/Heart of Mid-Lothian, The/32.xml" />
+			<chapter num="33" title="Chapter X. " location="S/Walter Scott/Heart of Mid-Lothian, The/33.xml" />
+			<chapter num="34" title="Chapter XI. " location="S/Walter Scott/Heart of Mid-Lothian, The/34.xml" />
+			<chapter num="35" title="Chapter XII. " location="S/Walter Scott/Heart of Mid-Lothian, The/35.xml" />
+			<chapter num="36" title="Chapter XIII. " location="S/Walter Scott/Heart of Mid-Lothian, The/36.xml" />
+			<chapter num="37" title="Chapter XIV. " location="S/Walter Scott/Heart of Mid-Lothian, The/37.xml" />
+	</section>
+</book>

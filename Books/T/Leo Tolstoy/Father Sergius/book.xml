@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="328" title="Father Sergius" author="Tolstoy, Leo" location="T/Leo Tolstoy/Father Sergius">
+			<chapter num="1" title="Chapter I" location="T/Leo Tolstoy/Father Sergius/1.xml" />
+			<chapter num="2" title="Chapter II" location="T/Leo Tolstoy/Father Sergius/2.xml" />
+			<chapter num="3" title="Chapter III" location="T/Leo Tolstoy/Father Sergius/3.xml" />
+			<chapter num="4" title="Chapter IV" location="T/Leo Tolstoy/Father Sergius/4.xml" />
+			<chapter num="5" title="Chapter V" location="T/Leo Tolstoy/Father Sergius/5.xml" />
+			<chapter num="6" title="Chapter VI" location="T/Leo Tolstoy/Father Sergius/6.xml" />
+</book>

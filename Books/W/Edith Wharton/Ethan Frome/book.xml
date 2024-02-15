@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1173" title="Ethan Frome" author="Wharton, Edith" location="W/Edith Wharton/Ethan Frome">
+			<chapter num="1" title="Author's Note" location="W/Edith Wharton/Ethan Frome/1.xml" />
+			<chapter num="2" title="Introduction" location="W/Edith Wharton/Ethan Frome/2.xml" />
+			<chapter num="3" title="Chapter I" location="W/Edith Wharton/Ethan Frome/3.xml" />
+			<chapter num="4" title="Chapter II" location="W/Edith Wharton/Ethan Frome/4.xml" />
+			<chapter num="5" title="Chapter III" location="W/Edith Wharton/Ethan Frome/5.xml" />
+			<chapter num="6" title="Chapter IV" location="W/Edith Wharton/Ethan Frome/6.xml" />
+			<chapter num="7" title="Chapter V" location="W/Edith Wharton/Ethan Frome/7.xml" />
+			<chapter num="8" title="Chapter VI" location="W/Edith Wharton/Ethan Frome/8.xml" />
+			<chapter num="9" title="Chapter VII" location="W/Edith Wharton/Ethan Frome/9.xml" />
+			<chapter num="10" title="Chapter VIII" location="W/Edith Wharton/Ethan Frome/10.xml" />
+			<chapter num="11" title="Chapter IX" location="W/Edith Wharton/Ethan Frome/11.xml" />
+</book>

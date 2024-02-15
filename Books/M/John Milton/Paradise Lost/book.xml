@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="246" title="Paradise Lost" author="Milton, John" location="M/John Milton/Paradise Lost">
+			<chapter num="1" title="Book I" location="M/John Milton/Paradise Lost/1.xml" />
+			<chapter num="2" title="Book II" location="M/John Milton/Paradise Lost/2.xml" />
+			<chapter num="3" title="Book III" location="M/John Milton/Paradise Lost/3.xml" />
+			<chapter num="4" title="Book IV" location="M/John Milton/Paradise Lost/4.xml" />
+			<chapter num="5" title="Book V" location="M/John Milton/Paradise Lost/5.xml" />
+			<chapter num="6" title="Book VI" location="M/John Milton/Paradise Lost/6.xml" />
+			<chapter num="7" title="Book VII" location="M/John Milton/Paradise Lost/7.xml" />
+			<chapter num="8" title="Book VIII" location="M/John Milton/Paradise Lost/8.xml" />
+			<chapter num="9" title="Book IX" location="M/John Milton/Paradise Lost/9.xml" />
+			<chapter num="10" title="Book X" location="M/John Milton/Paradise Lost/10.xml" />
+			<chapter num="11" title="Book XI" location="M/John Milton/Paradise Lost/11.xml" />
+			<chapter num="12" title="Book XII" location="M/John Milton/Paradise Lost/12.xml" />
+</book>

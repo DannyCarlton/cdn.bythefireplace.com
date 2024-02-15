@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40341" title="Tragic Comedians, The" author="Meredith, George" location="M/George Meredith/Tragic Comedians, The">
+
+	<section type="2" name="Book 1.">
+			<chapter num="1" title="Chapter I." location="M/George Meredith/Tragic Comedians, The/1.xml" />
+			<chapter num="2" title="Chapter II." location="M/George Meredith/Tragic Comedians, The/2.xml" />
+			<chapter num="3" title="Chapter III." location="M/George Meredith/Tragic Comedians, The/3.xml" />
+			<chapter num="4" title="Chapter IV." location="M/George Meredith/Tragic Comedians, The/4.xml" />
+			<chapter num="5" title="Chapter V." location="M/George Meredith/Tragic Comedians, The/5.xml" />
+			<chapter num="6" title="Chapter VI." location="M/George Meredith/Tragic Comedians, The/6.xml" />
+
+	</section>
+	<section type="2" name="Book 2.">
+			<chapter num="7" title="Chapter VII." location="M/George Meredith/Tragic Comedians, The/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="M/George Meredith/Tragic Comedians, The/8.xml" />
+			<chapter num="9" title="Chapter IX." location="M/George Meredith/Tragic Comedians, The/9.xml" />
+			<chapter num="10" title="Chapter X." location="M/George Meredith/Tragic Comedians, The/10.xml" />
+			<chapter num="11" title="Chapter XI." location="M/George Meredith/Tragic Comedians, The/11.xml" />
+
+	</section>
+	<section type="2" name="Book 3.">
+			<chapter num="12" title="Chapter XII." location="M/George Meredith/Tragic Comedians, The/12.xml" />
+			<chapter num="13" title="Chapter XIII." location="M/George Meredith/Tragic Comedians, The/13.xml" />
+			<chapter num="14" title="Chapter XIV." location="M/George Meredith/Tragic Comedians, The/14.xml" />
+			<chapter num="15" title="Chapter XV." location="M/George Meredith/Tragic Comedians, The/15.xml" />
+			<chapter num="16" title="Chapter XVI." location="M/George Meredith/Tragic Comedians, The/16.xml" />
+			<chapter num="17" title="Chapter XVII." location="M/George Meredith/Tragic Comedians, The/17.xml" />
+			<chapter num="18" title="Chapter XVIII." location="M/George Meredith/Tragic Comedians, The/18.xml" />
+			<chapter num="19" title="Chapter XIX." location="M/George Meredith/Tragic Comedians, The/19.xml" />
+	</section>
+</book>

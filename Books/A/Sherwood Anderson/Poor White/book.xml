@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2881" title="Poor White" author="Anderson, Sherwood" location="A/Sherwood Anderson/Poor White">
+		<section type="1" name="Book One">
+			<chapter num="1" title="Chapter I" location="A/Sherwood Anderson/Poor White/1.xml" />
+			<chapter num="2" title="Chapter II" location="A/Sherwood Anderson/Poor White/2.xml" />
+		</section>
+		<section type="1" name="Book Two">
+			<chapter num="3" title="Chapter III" location="A/Sherwood Anderson/Poor White/3.xml" />
+			<chapter num="4" title="Chapter IV" location="A/Sherwood Anderson/Poor White/4.xml" />
+			<chapter num="5" title="Chapter V" location="A/Sherwood Anderson/Poor White/5.xml" />
+			<chapter num="6" title="Chapter VI" location="A/Sherwood Anderson/Poor White/6.xml" />
+			<chapter num="7" title="Chapter VII" location="A/Sherwood Anderson/Poor White/7.xml" />
+		</section>
+		<section type="1" name="Book Three">
+			<chapter num="8" title="Chapter VIII" location="A/Sherwood Anderson/Poor White/8.xml" />
+			<chapter num="9" title="Chapter IX" location="A/Sherwood Anderson/Poor White/9.xml" />
+			<chapter num="10" title="Chapter X" location="A/Sherwood Anderson/Poor White/10.xml" />
+			<chapter num="11" title="Chapter XI" location="A/Sherwood Anderson/Poor White/11.xml" />
+		</section>
+		<section type="1" name="Book Four">
+			<chapter num="12" title="Chapter XII" location="A/Sherwood Anderson/Poor White/12.xml" />
+			<chapter num="13" title="Chapter XIII" location="A/Sherwood Anderson/Poor White/13.xml" />
+			<chapter num="14" title="Chapter XIV" location="A/Sherwood Anderson/Poor White/14.xml" />
+			<chapter num="15" title="Chapter XV" location="A/Sherwood Anderson/Poor White/15.xml" />
+			<chapter num="16" title="Chapter XVI" location="A/Sherwood Anderson/Poor White/16.xml" />
+			<chapter num="17" title="Chapter XVII" location="A/Sherwood Anderson/Poor White/17.xml" />
+			<chapter num="18" title="Chapter XVIII" location="A/Sherwood Anderson/Poor White/18.xml" />
+			<chapter num="19" title="Chapter XIX" location="A/Sherwood Anderson/Poor White/19.xml" />
+			<chapter num="20" title="Chapter XX" location="A/Sherwood Anderson/Poor White/20.xml" />
+		</section>
+		<section type="1" name="Book Six">
+			<chapter num="21" title="Chapter XXI" location="A/Sherwood Anderson/Poor White/21.xml" />
+			<chapter num="22" title="Chapter XXII" location="A/Sherwood Anderson/Poor White/22.xml" />
+			<chapter num="23" title="Chapter XXIII" location="A/Sherwood Anderson/Poor White/23.xml" />
+		</section>
+</book>

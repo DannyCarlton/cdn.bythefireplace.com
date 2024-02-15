@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="120" name="Jerome, Jerome K." location="J/Jerome K. Jerome" />
+	<author aid="213" name="James, Montague Rhodes" location="J/Montague Rhodes James" />
+	<author aid="25" name="James, Henry" location="J/Henry James" />
+	<author aid="61" name="Jacobs, W.W." location="J/W.W. Jacobs" />
+	<author aid="85" name="Joyce, James" location="J/James Joyce" />
+	<author aid="254" name="Johnston, Annie Fellows" location="J/Annie Fellows Johnston" />
+	<author aid="5011" name="Josephus, Flavius" location="J/Flavius Josephus" />
+</authors>

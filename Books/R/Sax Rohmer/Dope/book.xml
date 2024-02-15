@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1502" title="Dope" author="Rohmer, Sax" location="R/Sax Rohmer/Dope">
+		<section type="1" name="Part First. Kazmah the Dream-Reader">
+			<chapter num="1" title="Chapter I. A Message for Irvin" location="R/Sax Rohmer/Dope/1.xml" />
+			<chapter num="2" title="Chapter II. The Apartments of Kazmah" location="R/Sax Rohmer/Dope/2.xml" />
+			<chapter num="3" title="Chapter III. Kazmah" location="R/Sax Rohmer/Dope/3.xml" />
+			<chapter num="4" title="Chapter IV. The Closed Door" location="R/Sax Rohmer/Dope/4.xml" />
+			<chapter num="5" title="Chapter V. The Door is Opened" location="R/Sax Rohmer/Dope/5.xml" />
+			<chapter num="6" title="Chapter VI. Red Kerry" location="R/Sax Rohmer/Dope/6.xml" />
+			<chapter num="7" title="Chapter VII. Further Evidence" location="R/Sax Rohmer/Dope/7.xml" />
+			<chapter num="8" title="Chapter VIII. Kerry Consults the Oracle" location="R/Sax Rohmer/Dope/8.xml" />
+			<chapter num="9" title="Chapter IX. A Packet of Cigarettes" location="R/Sax Rohmer/Dope/9.xml" />
+			<chapter num="10" title="Chapter X. Sir Lucien's Study Window" location="R/Sax Rohmer/Dope/10.xml" />
+			<chapter num="11" title="Chapter XI. The Drug Syndicate" location="R/Sax Rohmer/Dope/11.xml" />
+		</section>
+		<section type="1" name="Part Second. Mrs. Sin">
+			<chapter num="12" title="Chapter XII. The Maid of the Masque" location="R/Sax Rohmer/Dope/12.xml" />
+			<chapter num="13" title="Chapter XIII. A Chandu Party" location="R/Sax Rohmer/Dope/13.xml" />
+			<chapter num="14" title="Chapter XIV. In the Shade of the Lonely Palm" location="R/Sax Rohmer/Dope/14.xml" />
+			<chapter num="15" title="Chapter XV. Metamorphosis" location="R/Sax Rohmer/Dope/15.xml" />
+			<chapter num="16" title="Chapter XVI. Limehouse" location="R/Sax Rohmer/Dope/16.xml" />
+			<chapter num="17" title="Chapter XVII. The Black Smoke" location="R/Sax Rohmer/Dope/17.xml" />
+			<chapter num="18" title="Chapter XVIII. The Dream of Sin Sin Wa" location="R/Sax Rohmer/Dope/18.xml" />
+			<chapter num="19" title="Chapter XIX. The Traffic" location="R/Sax Rohmer/Dope/19.xml" />
+			<chapter num="20" title="Chapter XX. Kazmah's Methods" location="R/Sax Rohmer/Dope/20.xml" />
+			<chapter num="21" title="Chapter XXI. The Cigarettes from Buenos Ayres" location="R/Sax Rohmer/Dope/21.xml" />
+			<chapter num="22" title="Chapter XXII. The Strangle-Hold" location="R/Sax Rohmer/Dope/22.xml" />
+		</section>
+		<section type="1" name="Part Third. The Man from Whitehall">
+			<chapter num="23" title="Chapter XXIII. Chief Inspector Kerry Resigns" location="R/Sax Rohmer/Dope/23.xml" />
+			<chapter num="24" title="Chapter XXIV. To Introduce 719" location="R/Sax Rohmer/Dope/24.xml" />
+			<chapter num="25" title="Chapter XXV. Night-Life of Soho" location="R/Sax Rohmer/Dope/25.xml" />
+			<chapter num="26" title="Chapter XXVI. The Moods of Mollie" location="R/Sax Rohmer/Dope/26.xml" />
+			<chapter num="27" title="Chapter XXVII. Crown Evidence" location="R/Sax Rohmer/Dope/27.xml" />
+			<chapter num="28" title="Chapter XXVIII. The Gilded Joss" location="R/Sax Rohmer/Dope/28.xml" />
+			<chapter num="29" title="Chapter XXIX. Doubts and Fears" location="R/Sax Rohmer/Dope/29.xml" />
+			<chapter num="30" title="Chapter XXX. The Fight in the Dark" location="R/Sax Rohmer/Dope/30.xml" />
+			<chapter num="31" title="Chapter XXXI. The Story of 719" location="R/Sax Rohmer/Dope/31.xml" />
+			<chapter num="32" title="Chapter XXXII. On the Isle of Dogs" location="R/Sax Rohmer/Dope/32.xml" />
+		</section>
+		<section type="1" name="Part Fourth. The Eye of Sin Sin Wa">
+			<chapter num="33" title="Chapter XXXII. Chinese Magic" location="R/Sax Rohmer/Dope/33.xml" />
+			<chapter num="34" title="Chapter XXXIV. Above and Below" location="R/Sax Rohmer/Dope/34.xml" />
+			<chapter num="35" title="Chapter XXXV. Beyond the Veil" location="R/Sax Rohmer/Dope/35.xml" />
+			<chapter num="36" title="Chapter XXXVI. Sam Tuk Moves" location="R/Sax Rohmer/Dope/36.xml" />
+			<chapter num="37" title="Chapter XXXVII. Seton Pasha Reports" location="R/Sax Rohmer/Dope/37.xml" />
+			<chapter num="38" title="Chapter XXXVIII. The Song of Sin Sin Wa" location="R/Sax Rohmer/Dope/38.xml" />
+			<chapter num="39" title="Chapter XXXIX. The Empty Wharf" location="R/Sax Rohmer/Dope/39.xml" />
+			<chapter num="40" title="Chapter XL. Coil of the Pigtail" location="R/Sax Rohmer/Dope/40.xml" />
+			<chapter num="41" title="Chapter XLI. The Finding of Kazmah" location="R/Sax Rohmer/Dope/41.xml" />
+			<chapter num="42" title="Chapter XLII. A Year Later" location="R/Sax Rohmer/Dope/42.xml" />
+			<chapter num="43" title="Chapter XLIII. The Story of the Crime" location="R/Sax Rohmer/Dope/43.xml" />
+		</section>
+</book>

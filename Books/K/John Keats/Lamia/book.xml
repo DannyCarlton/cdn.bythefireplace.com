@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1076" title="Lamia" author="Keats, John" location="K/John Keats/Lamia">
+			<chapter num="1" title="Part 1" location="K/John Keats/Lamia/1.xml" />
+			<chapter num="2" title="Part 2" location="K/John Keats/Lamia/2.xml" />
+</book>

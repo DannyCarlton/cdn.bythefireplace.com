@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40348" title="Rosanna" author="Edgeworth, Maria" location="E/Maria Edgeworth/Rosanna">
+			<chapter num="1" title="Chapter I" location="E/Maria Edgeworth/Rosanna/1.xml" />
+			<chapter num="2" title="Chapter II" location="E/Maria Edgeworth/Rosanna/2.xml" />
+			<chapter num="3" title="Chapter III" location="E/Maria Edgeworth/Rosanna/3.xml" />
+			<chapter num="4" title="Chapter IV" location="E/Maria Edgeworth/Rosanna/4.xml" />
+			<chapter num="5" title="Chapter V" location="E/Maria Edgeworth/Rosanna/5.xml" />
+</book>

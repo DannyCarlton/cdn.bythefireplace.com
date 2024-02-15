@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40124" title="Princess CasamassimThe a" author="James, Henry" location="J/Henry James/Princess CasamassimThe a">
+
+	<section type="2" name="Book First.">
+			<chapter num="1" title="Chapter I." location="J/Henry James/Princess CasamassimThe a/1.xml" />
+			<chapter num="2" title="Chapter II." location="J/Henry James/Princess CasamassimThe a/2.xml" />
+			<chapter num="3" title="Chapter III." location="J/Henry James/Princess CasamassimThe a/3.xml" />
+			<chapter num="4" title="Chapter IV." location="J/Henry James/Princess CasamassimThe a/4.xml" />
+			<chapter num="5" title="Chapter V." location="J/Henry James/Princess CasamassimThe a/5.xml" />
+			<chapter num="6" title="Chapter VI." location="J/Henry James/Princess CasamassimThe a/6.xml" />
+			<chapter num="7" title="Chapter VII." location="J/Henry James/Princess CasamassimThe a/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="J/Henry James/Princess CasamassimThe a/8.xml" />
+			<chapter num="9" title="Chapter IX." location="J/Henry James/Princess CasamassimThe a/9.xml" />
+			<chapter num="10" title="Chapter X." location="J/Henry James/Princess CasamassimThe a/10.xml" />
+			<chapter num="11" title="Chapter XI." location="J/Henry James/Princess CasamassimThe a/11.xml" />
+
+	</section>
+	<section type="2" name="Book Second.">
+			<chapter num="12" title="Chapter XII." location="J/Henry James/Princess CasamassimThe a/12.xml" />
+			<chapter num="13" title="Chapter XIII." location="J/Henry James/Princess CasamassimThe a/13.xml" />
+			<chapter num="14" title="Chapter XIV." location="J/Henry James/Princess CasamassimThe a/14.xml" />
+			<chapter num="15" title="Chapter XV." location="J/Henry James/Princess CasamassimThe a/15.xml" />
+			<chapter num="16" title="Chapter XVI." location="J/Henry James/Princess CasamassimThe a/16.xml" />
+			<chapter num="17" title="Chapter XVII." location="J/Henry James/Princess CasamassimThe a/17.xml" />
+			<chapter num="18" title="Chapter XVIII." location="J/Henry James/Princess CasamassimThe a/18.xml" />
+			<chapter num="19" title="Chapter XIX." location="J/Henry James/Princess CasamassimThe a/19.xml" />
+			<chapter num="20" title="Chapter XX." location="J/Henry James/Princess CasamassimThe a/20.xml" />
+			<chapter num="21" title="Chapter XXI." location="J/Henry James/Princess CasamassimThe a/21.xml" />
+
+	</section>
+	<section type="2" name="Book Third.">
+			<chapter num="22" title="Chapter XXII." location="J/Henry James/Princess CasamassimThe a/22.xml" />
+			<chapter num="23" title="Chapter XXIII." location="J/Henry James/Princess CasamassimThe a/23.xml" />
+			<chapter num="24" title="Chapter XXIV." location="J/Henry James/Princess CasamassimThe a/24.xml" />
+			<chapter num="25" title="Chapter Xxv" location="J/Henry James/Princess CasamassimThe a/25.xml" />
+			<chapter num="26" title="Chapter XXVI." location="J/Henry James/Princess CasamassimThe a/26.xml" />
+			<chapter num="27" title="Chapter XXVII." location="J/Henry James/Princess CasamassimThe a/27.xml" />
+			<chapter num="28" title="Chapter XXVIII." location="J/Henry James/Princess CasamassimThe a/28.xml" />
+			<chapter num="29" title="Chapter XXIX." location="J/Henry James/Princess CasamassimThe a/29.xml" />
+			<chapter num="30" title="Chapter XXX." location="J/Henry James/Princess CasamassimThe a/30.xml" />
+			<chapter num="31" title="Chapter XXXI." location="J/Henry James/Princess CasamassimThe a/31.xml" />
+			<chapter num="32" title="Chapter XXXII." location="J/Henry James/Princess CasamassimThe a/32.xml" />
+
+	</section>
+	<section type="2" name="Book Fourth.">
+			<chapter num="33" title="Chapter XXXIII." location="J/Henry James/Princess CasamassimThe a/33.xml" />
+			<chapter num="34" title="Chapter XXXIV." location="J/Henry James/Princess CasamassimThe a/34.xml" />
+			<chapter num="35" title="Chapter XXXV." location="J/Henry James/Princess CasamassimThe a/35.xml" />
+			<chapter num="36" title="Chapter XXXVI." location="J/Henry James/Princess CasamassimThe a/36.xml" />
+			<chapter num="37" title="Chapter XXXVII." location="J/Henry James/Princess CasamassimThe a/37.xml" />
+			<chapter num="38" title="Chapter XXXVIII." location="J/Henry James/Princess CasamassimThe a/38.xml" />
+			<chapter num="39" title="Chapter XXXIX." location="J/Henry James/Princess CasamassimThe a/39.xml" />
+			<chapter num="40" title="Chapter XL." location="J/Henry James/Princess CasamassimThe a/40.xml" />
+			<chapter num="41" title="Chapter XLI." location="J/Henry James/Princess CasamassimThe a/41.xml" />
+			<chapter num="42" title="Chapter XLII." location="J/Henry James/Princess CasamassimThe a/42.xml" />
+
+	</section>
+	<section type="2" name="Book Fifth. ">
+			<chapter num="43" title="Chapter XLIII." location="J/Henry James/Princess CasamassimThe a/43.xml" />
+			<chapter num="44" title="Chapter XLIV." location="J/Henry James/Princess CasamassimThe a/44.xml" />
+			<chapter num="45" title="Chapter XLV." location="J/Henry James/Princess CasamassimThe a/45.xml" />
+			<chapter num="46" title="Chapter XLVI." location="J/Henry James/Princess CasamassimThe a/46.xml" />
+			<chapter num="47" title="Chapter XLVII." location="J/Henry James/Princess CasamassimThe a/47.xml" />
+	</section>
+</book>

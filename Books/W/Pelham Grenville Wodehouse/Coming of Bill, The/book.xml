@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40426" title="Coming of Bill, The" author="Wodehouse, Pelham Grenville" location="W/Pelham Grenville Wodehouse/Coming of Bill, The">
+
+	<section type="2" name="Book One">
+			<chapter num="1" title="Chapter I. A Pawn Of Fate" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/1.xml" />
+			<chapter num="2" title="Chapter II. Ruth States Her Intentions" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/2.xml" />
+			<chapter num="3" title="Chapter III. The Mates Meet" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/3.xml" />
+			<chapter num="4" title="Chapter IV. Troubled Waters" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/4.xml" />
+			<chapter num="5" title="Chapter V. Wherein Opposites Agree" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/5.xml" />
+			<chapter num="6" title="Chapter VI. Breaking The News" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/6.xml" />
+			<chapter num="7" title="Chapter VII. Sufficient Unto Themselves" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/7.xml" />
+			<chapter num="8" title="Chapter VIII. Suspense" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/8.xml" />
+			<chapter num="9" title="Chapter IX. The White Hope Is Turned Down" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/9.xml" />
+			<chapter num="10" title="Chapter X. An Interlude Of Peace" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/10.xml" />
+			<chapter num="11" title="Chapter XI. Stung To Action" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/11.xml" />
+			<chapter num="12" title="Chapter XII. A Climax" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/12.xml" />
+
+	</section>
+	<section type="2" name="Book Two">
+			<chapter num="13" title="Chapter I. Empty-handed" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/13.xml" />
+			<chapter num="14" title="Chapter II. An Unknown Path" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/14.xml" />
+			<chapter num="15" title="Chapter III. The Misadventure Of Steve" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/15.xml" />
+			<chapter num="16" title="Chapter IV. The Widening Gap" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/16.xml" />
+			<chapter num="17" title="Chapter V. The Real Thing" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/17.xml" />
+			<chapter num="18" title="Chapter VI. The Outcasts" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/18.xml" />
+			<chapter num="19" title="Chapter VII. Cutting The Tangled Knot" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/19.xml" />
+			<chapter num="20" title="Chapter VIII. Steve To The Rescue" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/20.xml" />
+			<chapter num="21" title="Chapter IX. At One In The Morning" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/21.xml" />
+			<chapter num="22" title="Chapter X. Accepting The Gifts Of The Gods" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/22.xml" />
+			<chapter num="23" title="Chapter XI. Mr. Penway On The Grill" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/23.xml" />
+			<chapter num="24" title="Chapter XII. Dolls With Souls" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/24.xml" />
+			<chapter num="25" title="Chapter XIII. Pastures New" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/25.xml" />
+			<chapter num="26" title="Chapter XIV. The Sixty-first Street Cyclone" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/26.xml" />
+			<chapter num="27" title="Chapter XV. Mrs. Porter's Waterloo" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/27.xml" />
+			<chapter num="28" title="Chapter XVI. The White-hope Link" location="W/Pelham Grenville Wodehouse/Coming of Bill, The/28.xml" />
+	</section>
+</book>

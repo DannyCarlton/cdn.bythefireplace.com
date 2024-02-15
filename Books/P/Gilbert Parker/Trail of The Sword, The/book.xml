@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2018" title="Trail of The Sword, The" author="Parker, Gilbert" location="P/Gilbert Parker/Trail of The Sword, The">
+			<chapter num="1" title="Dedication" location="P/Gilbert Parker/Trail of The Sword, The/1.xml" />
+			<chapter num="2" title="Introduction" location="P/Gilbert Parker/Trail of The Sword, The/2.xml" />
+			<chapter num="3" title="A Note" location="P/Gilbert Parker/Trail of The Sword, The/3.xml" />
+		<section type="1" name="Epoch the First">
+			<chapter num="4" title="Chapter I. An Envoy Extraordinary" location="P/Gilbert Parker/Trail of The Sword, The/4.xml" />
+			<chapter num="5" title="Chapter II. The Threat of a Renegade" location="P/Gilbert Parker/Trail of The Sword, The/5.xml" />
+			<chapter num="6" title="Chapter III. The Face at the Window" location="P/Gilbert Parker/Trail of The Sword, The/6.xml" />
+			<chapter num="7" title="Chapter IV. The Uplifting of the Swords" location="P/Gilbert Parker/Trail of The Sword, The/7.xml" />
+			<chapter num="8" title="Chapter V. The Fruits of the Law" location="P/Gilbert Parker/Trail of The Sword, The/8.xml" />
+			<chapter num="9" title="Chapter VI. The Kidnapping" location="P/Gilbert Parker/Trail of The Sword, The/9.xml" />
+		</section>
+		<section type="1" name="Epoch the Second">
+			<chapter num="10" title="Chapter VII. Friends in Council" location="P/Gilbert Parker/Trail of The Sword, The/10.xml" />
+			<chapter num="11" title="Chapter VIII. As Seen Through a Glass, Darkly" location="P/Gilbert Parker/Trail of The Sword, The/11.xml" />
+			<chapter num="12" title="Chapter IX. To the Porch of the World" location="P/Gilbert Parker/Trail of The Sword, The/12.xml" />
+			<chapter num="13" title="Chapter X. Qui Vive!" location="P/Gilbert Parker/Trail of The Sword, The/13.xml" />
+			<chapter num="14" title="Chapter XI. With the Strange People" location="P/Gilbert Parker/Trail of The Sword, The/14.xml" />
+			<chapter num="15" title="Chapter XII. Out of the Net" location="P/Gilbert Parker/Trail of The Sword, The/15.xml" />
+		</section>
+		<section type="1" name="Epoch the Third">
+			<chapter num="16" title="Chapter XIII. &quot;As Water Unto Wine&quot;" location="P/Gilbert Parker/Trail of The Sword, The/16.xml" />
+			<chapter num="17" title="Chapter XIV. In Which the Hunters are Out" location="P/Gilbert Parker/Trail of The Sword, The/17.xml" />
+			<chapter num="18" title="Chapter XV. In the Matter of Bucklaw" location="P/Gilbert Parker/Trail of The Sword, The/18.xml" />
+			<chapter num="19" title="Chapter XVI. In the Treasure House" location="P/Gilbert Parker/Trail of The Sword, The/19.xml" />
+			<chapter num="20" title="Chapter XVII. The Gift of a Captive" location="P/Gilbert Parker/Trail of The Sword, The/20.xml" />
+			<chapter num="21" title="Chapter XVIII. Maiden no More" location="P/Gilbert Parker/Trail of The Sword, The/21.xml" />
+		</section>
+		<section type="1" name="Epoch the Fourth">
+			<chapter num="22" title="Chapter XIX. Which Tells of a Brother's Blood Crying From the Ground" location="P/Gilbert Parker/Trail of The Sword, The/22.xml" />
+			<chapter num="23" title="Chapter XX. A Trap is Set" location="P/Gilbert Parker/Trail of The Sword, The/23.xml" />
+			<chapter num="24" title="Chapter XXI. An Untoward Messenger" location="P/Gilbert Parker/Trail of The Sword, The/24.xml" />
+			<chapter num="25" title="Chapter XXII. From Tiger's Claw to Lion's Mouth" location="P/Gilbert Parker/Trail of The Sword, The/25.xml" />
+			<chapter num="26" title="Chapter XXIII. At the Gates of Misfortune" location="P/Gilbert Parker/Trail of The Sword, The/26.xml" />
+			<chapter num="27" title="Chapter XXIV. In Which the Sword is Sheathed" location="P/Gilbert Parker/Trail of The Sword, The/27.xml" />
+		</section>
+</book>

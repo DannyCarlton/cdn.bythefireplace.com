@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1766" title="Sorrows of Young Werther, The" author="Goethe, Johann Wolfgang von" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The">
+			<chapter num="1" title="Preface" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The/1.xml" />
+		<section type="1" name="Book I">
+			<chapter num="2" title="May" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The/2.xml" />
+			<chapter num="3" title="June" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The/3.xml" />
+			<chapter num="4" title="July" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The/4.xml" />
+			<chapter num="5" title="August" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The/5.xml" />
+			<chapter num="6" title="September" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The/6.xml" />
+		</section>
+		<section type="1" name="Book II">
+			<chapter num="7" title="October" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The/7.xml" />
+			<chapter num="8" title="November-December" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The/8.xml" />
+			<chapter num="9" title="January-March" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The/9.xml" />
+			<chapter num="10" title="April-September" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The/10.xml" />
+			<chapter num="11" title="October-November" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The/11.xml" />
+			<chapter num="12" title="December" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The/12.xml" />
+		</section>
+</book>

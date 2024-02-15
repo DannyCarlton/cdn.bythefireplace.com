@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="1000000" name="Our Father in Heaven, " location="O/Our Father in Heaven" />
+	<author aid="181" name="Ouida, " location="O/ Ouida" />
+	<author aid="97" name="Oppenheim, E. Phillips" location="O/E. Phillips Oppenheim" />
+	<author aid="98" name="Orczy, Baroness Emmuska" location="O/Baroness Emmuska Orczy" />
+	<author aid="5001" name="Orwell, George" location="O/George Orwell" />
+</authors>

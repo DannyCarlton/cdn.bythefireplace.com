@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40347" title="Patronage" author="Edgeworth, Maria" location="E/Maria Edgeworth/Patronage">
+
+	<section type="2" name="Volume I">
+			<chapter num="1" title="Chapter I" location="E/Maria Edgeworth/Patronage/1.xml" />
+			<chapter num="2" title="Chapter II" location="E/Maria Edgeworth/Patronage/2.xml" />
+			<chapter num="3" title="Chapter III" location="E/Maria Edgeworth/Patronage/3.xml" />
+			<chapter num="4" title="Chapter IV" location="E/Maria Edgeworth/Patronage/4.xml" />
+			<chapter num="5" title="Chapter V" location="E/Maria Edgeworth/Patronage/5.xml" />
+			<chapter num="6" title="Chapter VI" location="E/Maria Edgeworth/Patronage/6.xml" />
+			<chapter num="7" title="Chapter VII" location="E/Maria Edgeworth/Patronage/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="E/Maria Edgeworth/Patronage/8.xml" />
+			<chapter num="9" title="Chapter IX" location="E/Maria Edgeworth/Patronage/9.xml" />
+			<chapter num="10" title="Chapter X" location="E/Maria Edgeworth/Patronage/10.xml" />
+			<chapter num="11" title="Chapter XI" location="E/Maria Edgeworth/Patronage/11.xml" />
+			<chapter num="12" title="Chapter XII" location="E/Maria Edgeworth/Patronage/12.xml" />
+			<chapter num="13" title="Chapter XIII" location="E/Maria Edgeworth/Patronage/13.xml" />
+			<chapter num="14" title="Chapter XIV" location="E/Maria Edgeworth/Patronage/14.xml" />
+
+	</section>
+	<section type="2" name="Volume II">
+			<chapter num="15" title="Chapter XV" location="E/Maria Edgeworth/Patronage/15.xml" />
+			<chapter num="16" title="Chapter XVI" location="E/Maria Edgeworth/Patronage/16.xml" />
+			<chapter num="17" title="Chapter XVII" location="E/Maria Edgeworth/Patronage/17.xml" />
+			<chapter num="18" title="Chapter XVIII" location="E/Maria Edgeworth/Patronage/18.xml" />
+			<chapter num="19" title="Chapter XIX" location="E/Maria Edgeworth/Patronage/19.xml" />
+			<chapter num="20" title="Chapter XX" location="E/Maria Edgeworth/Patronage/20.xml" />
+			<chapter num="21" title="Chapter XXI" location="E/Maria Edgeworth/Patronage/21.xml" />
+			<chapter num="22" title="Chapter XXII" location="E/Maria Edgeworth/Patronage/22.xml" />
+			<chapter num="23" title="Chapter XXIII" location="E/Maria Edgeworth/Patronage/23.xml" />
+			<chapter num="24" title="Chapter XXIV" location="E/Maria Edgeworth/Patronage/24.xml" />
+			<chapter num="25" title="Chapter XXV" location="E/Maria Edgeworth/Patronage/25.xml" />
+
+	</section>
+	<section type="2" name="Volume III">
+			<chapter num="26" title="Chapter XXVI" location="E/Maria Edgeworth/Patronage/26.xml" />
+			<chapter num="27" title="Chapter XXVII" location="E/Maria Edgeworth/Patronage/27.xml" />
+			<chapter num="28" title="Chapter XXVIII" location="E/Maria Edgeworth/Patronage/28.xml" />
+			<chapter num="29" title="Chapter XXIX" location="E/Maria Edgeworth/Patronage/29.xml" />
+			<chapter num="30" title="Chapter XXX" location="E/Maria Edgeworth/Patronage/30.xml" />
+			<chapter num="31" title="Chapter XXXI" location="E/Maria Edgeworth/Patronage/31.xml" />
+			<chapter num="32" title="Chapter XXXII" location="E/Maria Edgeworth/Patronage/32.xml" />
+			<chapter num="33" title="Chapter XXXIII" location="E/Maria Edgeworth/Patronage/33.xml" />
+			<chapter num="34" title="Chapter XXXIV" location="E/Maria Edgeworth/Patronage/34.xml" />
+
+	</section>
+	<section type="2" name="Volume IV">
+			<chapter num="35" title="Chapter XXXV" location="E/Maria Edgeworth/Patronage/35.xml" />
+			<chapter num="36" title="Chapter XXXVI" location="E/Maria Edgeworth/Patronage/36.xml" />
+			<chapter num="37" title="Chapter XXXVII" location="E/Maria Edgeworth/Patronage/37.xml" />
+			<chapter num="38" title="Chapter XXXVIII" location="E/Maria Edgeworth/Patronage/38.xml" />
+			<chapter num="39" title="Chapter XXXIX" location="E/Maria Edgeworth/Patronage/39.xml" />
+			<chapter num="40" title="Chapter XL" location="E/Maria Edgeworth/Patronage/40.xml" />
+			<chapter num="41" title="Chapter XLI" location="E/Maria Edgeworth/Patronage/41.xml" />
+			<chapter num="42" title="Chapter XLII" location="E/Maria Edgeworth/Patronage/42.xml" />
+			<chapter num="43" title="Chapter XLIII" location="E/Maria Edgeworth/Patronage/43.xml" />
+			<chapter num="44" title="Chapter XLIV" location="E/Maria Edgeworth/Patronage/44.xml" />
+	</section>
+</book>

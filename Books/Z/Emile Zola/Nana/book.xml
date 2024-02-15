@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1698" title="Nana" author="Zola, Emile" location="Z/Emile Zola/Nana">
+			<chapter num="1" title="Chapter I" location="Z/Emile Zola/Nana/1.xml" />
+			<chapter num="2" title="Chapter II" location="Z/Emile Zola/Nana/2.xml" />
+			<chapter num="3" title="Chapter III" location="Z/Emile Zola/Nana/3.xml" />
+			<chapter num="4" title="Chapter IV" location="Z/Emile Zola/Nana/4.xml" />
+			<chapter num="5" title="Chapter V" location="Z/Emile Zola/Nana/5.xml" />
+			<chapter num="6" title="Chapter VI" location="Z/Emile Zola/Nana/6.xml" />
+			<chapter num="7" title="Chapter VII" location="Z/Emile Zola/Nana/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="Z/Emile Zola/Nana/8.xml" />
+			<chapter num="9" title="Chapter IX" location="Z/Emile Zola/Nana/9.xml" />
+			<chapter num="10" title="Chapter X" location="Z/Emile Zola/Nana/10.xml" />
+			<chapter num="11" title="Chapter XI" location="Z/Emile Zola/Nana/11.xml" />
+			<chapter num="12" title="Chapter XII" location="Z/Emile Zola/Nana/12.xml" />
+			<chapter num="13" title="Chapter XIII" location="Z/Emile Zola/Nana/13.xml" />
+			<chapter num="14" title="Chapter XIV" location="Z/Emile Zola/Nana/14.xml" />
+</book>

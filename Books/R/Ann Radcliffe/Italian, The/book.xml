@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40465" title="Italian, The" author="Radcliffe, Ann" location="R/Ann Radcliffe/Italian, The">
+
+	<section type="2" name="Volume I">
+			<chapter num="1" title="Chapter I. " location="R/Ann Radcliffe/Italian, The/1.xml" />
+			<chapter num="2" title="Chapter II. " location="R/Ann Radcliffe/Italian, The/2.xml" />
+			<chapter num="3" title="Chapter III. " location="R/Ann Radcliffe/Italian, The/3.xml" />
+			<chapter num="4" title="Chapter IV. " location="R/Ann Radcliffe/Italian, The/4.xml" />
+			<chapter num="5" title="Chapter VI. " location="R/Ann Radcliffe/Italian, The/5.xml" />
+			<chapter num="6" title="Chapter VII. " location="R/Ann Radcliffe/Italian, The/6.xml" />
+			<chapter num="7" title="Chapter VIII. " location="R/Ann Radcliffe/Italian, The/7.xml" />
+			<chapter num="8" title="Chapter IX. " location="R/Ann Radcliffe/Italian, The/8.xml" />
+			<chapter num="9" title="Chapter X. " location="R/Ann Radcliffe/Italian, The/9.xml" />
+			<chapter num="10" title="Chapter XI. " location="R/Ann Radcliffe/Italian, The/10.xml" />
+
+	</section>
+	<section type="2" name="Volume II">
+			<chapter num="11" title="Chapter I. " location="R/Ann Radcliffe/Italian, The/11.xml" />
+			<chapter num="12" title="Chapter II. " location="R/Ann Radcliffe/Italian, The/12.xml" />
+			<chapter num="13" title="Chapter III. " location="R/Ann Radcliffe/Italian, The/13.xml" />
+			<chapter num="14" title="Chapter IV. " location="R/Ann Radcliffe/Italian, The/14.xml" />
+			<chapter num="15" title="Chapter V. " location="R/Ann Radcliffe/Italian, The/15.xml" />
+			<chapter num="16" title="Chapter VI. " location="R/Ann Radcliffe/Italian, The/16.xml" />
+			<chapter num="17" title="Chapter VII. " location="R/Ann Radcliffe/Italian, The/17.xml" />
+			<chapter num="18" title="Chapter VIII. " location="R/Ann Radcliffe/Italian, The/18.xml" />
+			<chapter num="19" title="Chapter IX. " location="R/Ann Radcliffe/Italian, The/19.xml" />
+			<chapter num="20" title="Chapter X. " location="R/Ann Radcliffe/Italian, The/20.xml" />
+
+	</section>
+	<section type="2" name="Volume III">
+			<chapter num="21" title="Chapter I. " location="R/Ann Radcliffe/Italian, The/21.xml" />
+			<chapter num="22" title="Chapter II. " location="R/Ann Radcliffe/Italian, The/22.xml" />
+			<chapter num="23" title="Chapter III. " location="R/Ann Radcliffe/Italian, The/23.xml" />
+			<chapter num="24" title="Chapter IV. " location="R/Ann Radcliffe/Italian, The/24.xml" />
+			<chapter num="25" title="Chapter V. " location="R/Ann Radcliffe/Italian, The/25.xml" />
+			<chapter num="26" title="Chapter VI. " location="R/Ann Radcliffe/Italian, The/26.xml" />
+			<chapter num="27" title="Chapter VII. " location="R/Ann Radcliffe/Italian, The/27.xml" />
+			<chapter num="28" title="Chapter VIII. " location="R/Ann Radcliffe/Italian, The/28.xml" />
+			<chapter num="29" title="Chapter IX. " location="R/Ann Radcliffe/Italian, The/29.xml" />
+			<chapter num="30" title="Chapter X. " location="R/Ann Radcliffe/Italian, The/30.xml" />
+			<chapter num="31" title="Chapter XI. " location="R/Ann Radcliffe/Italian, The/31.xml" />
+			<chapter num="32" title="Chapter XI. " location="R/Ann Radcliffe/Italian, The/32.xml" />
+			<chapter num="33" title="Chapter XII. " location="R/Ann Radcliffe/Italian, The/33.xml" />
+	</section>
+</book>

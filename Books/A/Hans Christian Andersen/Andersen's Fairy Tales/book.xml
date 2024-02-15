@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="109" title="Andersen's Fairy Tales" author="Andersen, Hans Christian" location="A/Hans Christian Andersen/Andersen's Fairy Tales">
+			<chapter num="1" title="The Emperor's New Clothes" location="A/Hans Christian Andersen/Andersen's Fairy Tales/1.xml" />
+			<chapter num="2" title="The Swineherd" location="A/Hans Christian Andersen/Andersen's Fairy Tales/2.xml" />
+			<chapter num="3" title="The Real Princess" location="A/Hans Christian Andersen/Andersen's Fairy Tales/3.xml" />
+			<chapter num="4" title="The Shoes of Fortune" location="A/Hans Christian Andersen/Andersen's Fairy Tales/4.xml" />
+			<chapter num="5" title="The Fir Tree" location="A/Hans Christian Andersen/Andersen's Fairy Tales/5.xml" />
+			<chapter num="6" title="The Snow Queen" location="A/Hans Christian Andersen/Andersen's Fairy Tales/6.xml" />
+			<chapter num="7" title="The Leap-Frog" location="A/Hans Christian Andersen/Andersen's Fairy Tales/7.xml" />
+			<chapter num="8" title="The Elderbush" location="A/Hans Christian Andersen/Andersen's Fairy Tales/8.xml" />
+			<chapter num="9" title="The Bell" location="A/Hans Christian Andersen/Andersen's Fairy Tales/9.xml" />
+			<chapter num="10" title="The Old House" location="A/Hans Christian Andersen/Andersen's Fairy Tales/10.xml" />
+			<chapter num="11" title="The Happy Family" location="A/Hans Christian Andersen/Andersen's Fairy Tales/11.xml" />
+			<chapter num="12" title="The Story of a Mother" location="A/Hans Christian Andersen/Andersen's Fairy Tales/12.xml" />
+			<chapter num="13" title="The False Collar" location="A/Hans Christian Andersen/Andersen's Fairy Tales/13.xml" />
+			<chapter num="14" title="The Shadow" location="A/Hans Christian Andersen/Andersen's Fairy Tales/14.xml" />
+			<chapter num="15" title="The Little Match Girl" location="A/Hans Christian Andersen/Andersen's Fairy Tales/15.xml" />
+			<chapter num="16" title="The Dream of Little Tuk" location="A/Hans Christian Andersen/Andersen's Fairy Tales/16.xml" />
+			<chapter num="17" title="The Naughty Boy" location="A/Hans Christian Andersen/Andersen's Fairy Tales/17.xml" />
+			<chapter num="18" title="The Red Shoes" location="A/Hans Christian Andersen/Andersen's Fairy Tales/18.xml" />
+</book>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="48" title="Robinson Crusoe" author="Defoe, Daniel" location="D/Daniel Defoe/Robinson Crusoe">
+			<chapter num="1" title="Chapter 1: Start in Life" location="D/Daniel Defoe/Robinson Crusoe/1.xml" />
+			<chapter num="2" title="Chapter 2: Slavery and Escape" location="D/Daniel Defoe/Robinson Crusoe/2.xml" />
+			<chapter num="3" title="Chapter 3: Wrecked on a Desert Island" location="D/Daniel Defoe/Robinson Crusoe/3.xml" />
+			<chapter num="4" title="Chapter 4: First Weeks on the Island" location="D/Daniel Defoe/Robinson Crusoe/4.xml" />
+			<chapter num="5" title="Chapter 5: Builds a House - The Journal" location="D/Daniel Defoe/Robinson Crusoe/5.xml" />
+			<chapter num="6" title="Chapter 6: Ill and Conscience-Stricken" location="D/Daniel Defoe/Robinson Crusoe/6.xml" />
+			<chapter num="7" title="Chapter 7: Agricultural Experience" location="D/Daniel Defoe/Robinson Crusoe/7.xml" />
+			<chapter num="8" title="Chapter 8: Surveys His Position" location="D/Daniel Defoe/Robinson Crusoe/8.xml" />
+			<chapter num="9" title="Chapter 9: A Boat" location="D/Daniel Defoe/Robinson Crusoe/9.xml" />
+			<chapter num="10" title="Chapter 10: Tames Goats" location="D/Daniel Defoe/Robinson Crusoe/10.xml" />
+			<chapter num="11" title="Chapter 11: Finds Print of Man's Foot on the Sand" location="D/Daniel Defoe/Robinson Crusoe/11.xml" />
+			<chapter num="12" title="Chapter 12: A Cave Retreat" location="D/Daniel Defoe/Robinson Crusoe/12.xml" />
+			<chapter num="13" title="Chapter 13: Wreck of a Spanish Ship" location="D/Daniel Defoe/Robinson Crusoe/13.xml" />
+			<chapter num="14" title="Chapter 14: A Dream Realised" location="D/Daniel Defoe/Robinson Crusoe/14.xml" />
+			<chapter num="15" title="Chapter 15: Friday's Education" location="D/Daniel Defoe/Robinson Crusoe/15.xml" />
+			<chapter num="16" title="Chapter 16: Rescue of Prisoners from Cannibals" location="D/Daniel Defoe/Robinson Crusoe/16.xml" />
+			<chapter num="17" title="Chapter 17: Visit of Mutineers" location="D/Daniel Defoe/Robinson Crusoe/17.xml" />
+			<chapter num="18" title="Chapter 18: The Ship Recovered" location="D/Daniel Defoe/Robinson Crusoe/18.xml" />
+			<chapter num="19" title="Chapter 19: Return to England" location="D/Daniel Defoe/Robinson Crusoe/19.xml" />
+			<chapter num="20" title="Chapter 20: Fight Between Friday and a Bear" location="D/Daniel Defoe/Robinson Crusoe/20.xml" />
+</book>

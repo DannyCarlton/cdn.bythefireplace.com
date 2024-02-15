@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40466" title="Romance of the Forest, The" author="Radcliffe, Ann" location="R/Ann Radcliffe/Romance of the Forest, The">
+
+	<section type="2" name="Volume I">
+			<chapter num="1" title="Chapter I. " location="R/Ann Radcliffe/Romance of the Forest, The/1.xml" />
+			<chapter num="2" title="Chapter II. " location="R/Ann Radcliffe/Romance of the Forest, The/2.xml" />
+			<chapter num="3" title="Chapter III. " location="R/Ann Radcliffe/Romance of the Forest, The/3.xml" />
+			<chapter num="4" title="Chapter IV. " location="R/Ann Radcliffe/Romance of the Forest, The/4.xml" />
+			<chapter num="5" title="Chapter V. " location="R/Ann Radcliffe/Romance of the Forest, The/5.xml" />
+			<chapter num="6" title="Chapter VI. " location="R/Ann Radcliffe/Romance of the Forest, The/6.xml" />
+			<chapter num="7" title="Chapter VII. " location="R/Ann Radcliffe/Romance of the Forest, The/7.xml" />
+
+	</section>
+	<section type="2" name="Volume II">
+			<chapter num="8" title="Chapter VIII. " location="R/Ann Radcliffe/Romance of the Forest, The/8.xml" />
+			<chapter num="9" title="Chapter IX. " location="R/Ann Radcliffe/Romance of the Forest, The/9.xml" />
+			<chapter num="10" title="Chapter X. " location="R/Ann Radcliffe/Romance of the Forest, The/10.xml" />
+			<chapter num="11" title="Chapter X. " location="R/Ann Radcliffe/Romance of the Forest, The/11.xml" />
+			<chapter num="12" title="Chapter XI. " location="R/Ann Radcliffe/Romance of the Forest, The/12.xml" />
+			<chapter num="13" title="Chapter XII. " location="R/Ann Radcliffe/Romance of the Forest, The/13.xml" />
+			<chapter num="14" title="Chapter XIII. " location="R/Ann Radcliffe/Romance of the Forest, The/14.xml" />
+
+	</section>
+	<section type="2" name="Volume III">
+			<chapter num="15" title="Chapter XIV. " location="R/Ann Radcliffe/Romance of the Forest, The/15.xml" />
+			<chapter num="16" title="Chapter XV. " location="R/Ann Radcliffe/Romance of the Forest, The/16.xml" />
+			<chapter num="17" title="Chapter XVI. " location="R/Ann Radcliffe/Romance of the Forest, The/17.xml" />
+			<chapter num="18" title="Chapter XVII. " location="R/Ann Radcliffe/Romance of the Forest, The/18.xml" />
+			<chapter num="19" title="Chapter XVIII. " location="R/Ann Radcliffe/Romance of the Forest, The/19.xml" />
+			<chapter num="20" title="Chapter XIX. " location="R/Ann Radcliffe/Romance of the Forest, The/20.xml" />
+			<chapter num="21" title="Chapter XX. " location="R/Ann Radcliffe/Romance of the Forest, The/21.xml" />
+			<chapter num="22" title="Chapter XXI. " location="R/Ann Radcliffe/Romance of the Forest, The/22.xml" />
+			<chapter num="23" title="Chapter XXII. " location="R/Ann Radcliffe/Romance of the Forest, The/23.xml" />
+			<chapter num="24" title="Chapter XXIII. " location="R/Ann Radcliffe/Romance of the Forest, The/24.xml" />
+			<chapter num="25" title="Chapter XXIV. " location="R/Ann Radcliffe/Romance of the Forest, The/25.xml" />
+			<chapter num="26" title="Chapter XXV. " location="R/Ann Radcliffe/Romance of the Forest, The/26.xml" />
+	</section>
+</book>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1422" title="Beyond" author="Galsworthy, John" location="G/John Galsworthy/Beyond">
+		<section type="1" name="Part I">
+			<chapter num="1" title="Chapter I" location="G/John Galsworthy/Beyond/1.xml" />
+			<chapter num="2" title="Chapter II" location="G/John Galsworthy/Beyond/2.xml" />
+			<chapter num="3" title="Chapter III" location="G/John Galsworthy/Beyond/3.xml" />
+			<chapter num="4" title="Chapter IV" location="G/John Galsworthy/Beyond/4.xml" />
+			<chapter num="5" title="Chapter V" location="G/John Galsworthy/Beyond/5.xml" />
+			<chapter num="6" title="Chapter VI" location="G/John Galsworthy/Beyond/6.xml" />
+		</section>
+		<section type="1" name="Part II">
+			<chapter num="7" title="Chapter I" location="G/John Galsworthy/Beyond/7.xml" />
+			<chapter num="8" title="Chapter II" location="G/John Galsworthy/Beyond/8.xml" />
+			<chapter num="9" title="Chapter III" location="G/John Galsworthy/Beyond/9.xml" />
+			<chapter num="10" title="Chapter IV" location="G/John Galsworthy/Beyond/10.xml" />
+			<chapter num="11" title="Chapter V" location="G/John Galsworthy/Beyond/11.xml" />
+			<chapter num="12" title="Chapter VI" location="G/John Galsworthy/Beyond/12.xml" />
+			<chapter num="13" title="Chapter VII" location="G/John Galsworthy/Beyond/13.xml" />
+			<chapter num="14" title="Chapter VIII" location="G/John Galsworthy/Beyond/14.xml" />
+			<chapter num="15" title="Chapter IX" location="G/John Galsworthy/Beyond/15.xml" />
+			<chapter num="16" title="Chapter X" location="G/John Galsworthy/Beyond/16.xml" />
+			<chapter num="17" title="Chapter XI" location="G/John Galsworthy/Beyond/17.xml" />
+			<chapter num="18" title="Chapter XII" location="G/John Galsworthy/Beyond/18.xml" />
+			<chapter num="19" title="Chapter XIII" location="G/John Galsworthy/Beyond/19.xml" />
+			<chapter num="20" title="Chapter XIV" location="G/John Galsworthy/Beyond/20.xml" />
+			<chapter num="21" title="Chapter XV" location="G/John Galsworthy/Beyond/21.xml" />
+			<chapter num="22" title="Chapter XVI" location="G/John Galsworthy/Beyond/22.xml" />
+			<chapter num="23" title="Chapter XVII" location="G/John Galsworthy/Beyond/23.xml" />
+			<chapter num="24" title="Chapter XVIII" location="G/John Galsworthy/Beyond/24.xml" />
+			<chapter num="25" title="Chapter XIX" location="G/John Galsworthy/Beyond/25.xml" />
+			<chapter num="26" title="Chapter XX" location="G/John Galsworthy/Beyond/26.xml" />
+			<chapter num="27" title="Chapter XXI" location="G/John Galsworthy/Beyond/27.xml" />
+		</section>
+		<section type="1" name="Part III">
+			<chapter num="28" title="Chapter I" location="G/John Galsworthy/Beyond/28.xml" />
+			<chapter num="29" title="Chapter II" location="G/John Galsworthy/Beyond/29.xml" />
+			<chapter num="30" title="Chapter III" location="G/John Galsworthy/Beyond/30.xml" />
+			<chapter num="31" title="Chapter IV" location="G/John Galsworthy/Beyond/31.xml" />
+			<chapter num="32" title="Chapter V" location="G/John Galsworthy/Beyond/32.xml" />
+			<chapter num="33" title="Chapter VI" location="G/John Galsworthy/Beyond/33.xml" />
+			<chapter num="34" title="Chapter VII" location="G/John Galsworthy/Beyond/34.xml" />
+			<chapter num="35" title="Chapter VIII" location="G/John Galsworthy/Beyond/35.xml" />
+			<chapter num="36" title="Chapter IX" location="G/John Galsworthy/Beyond/36.xml" />
+			<chapter num="37" title="Chapter X" location="G/John Galsworthy/Beyond/37.xml" />
+			<chapter num="38" title="Chapter XI" location="G/John Galsworthy/Beyond/38.xml" />
+			<chapter num="39" title="Chapter XII" location="G/John Galsworthy/Beyond/39.xml" />
+			<chapter num="40" title="Chapter XIII" location="G/John Galsworthy/Beyond/40.xml" />
+			<chapter num="41" title="Chapter XIV" location="G/John Galsworthy/Beyond/41.xml" />
+		</section>
+		<section type="1" name="Part IV">
+			<chapter num="42" title="Chapter I" location="G/John Galsworthy/Beyond/42.xml" />
+			<chapter num="43" title="Chapter II" location="G/John Galsworthy/Beyond/43.xml" />
+			<chapter num="44" title="Chapter III" location="G/John Galsworthy/Beyond/44.xml" />
+			<chapter num="45" title="Chapter IV" location="G/John Galsworthy/Beyond/45.xml" />
+			<chapter num="46" title="Chapter V" location="G/John Galsworthy/Beyond/46.xml" />
+			<chapter num="47" title="Chapter VI" location="G/John Galsworthy/Beyond/47.xml" />
+			<chapter num="48" title="Chapter VII" location="G/John Galsworthy/Beyond/48.xml" />
+			<chapter num="49" title="Chapter VIII" location="G/John Galsworthy/Beyond/49.xml" />
+			<chapter num="50" title="Chapter IX" location="G/John Galsworthy/Beyond/50.xml" />
+			<chapter num="51" title="Chapter X" location="G/John Galsworthy/Beyond/51.xml" />
+			<chapter num="52" title="Chapter XI" location="G/John Galsworthy/Beyond/52.xml" />
+			<chapter num="53" title="Chapter XII" location="G/John Galsworthy/Beyond/53.xml" />
+		</section>
+</book>

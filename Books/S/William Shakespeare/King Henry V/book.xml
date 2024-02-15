@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1147" title="King Henry V" author="Shakespeare, William" location="S/William Shakespeare/King Henry V">
+			<chapter num="1" title="Dramatis Personae" location="S/William Shakespeare/King Henry V/1.xml" />
+			<chapter num="2" title="Prologue" location="S/William Shakespeare/King Henry V/2.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="3" title="Scene I." location="S/William Shakespeare/King Henry V/3.xml" />
+			<chapter num="4" title="Scene II." location="S/William Shakespeare/King Henry V/4.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="5" title="Prologue." location="S/William Shakespeare/King Henry V/5.xml" />
+			<chapter num="6" title="Scene I." location="S/William Shakespeare/King Henry V/6.xml" />
+			<chapter num="7" title="Scene II." location="S/William Shakespeare/King Henry V/7.xml" />
+			<chapter num="8" title="Scene III." location="S/William Shakespeare/King Henry V/8.xml" />
+			<chapter num="9" title="Scene IV." location="S/William Shakespeare/King Henry V/9.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="10" title="Prologue." location="S/William Shakespeare/King Henry V/10.xml" />
+			<chapter num="11" title="Scene I." location="S/William Shakespeare/King Henry V/11.xml" />
+			<chapter num="12" title="Scene II." location="S/William Shakespeare/King Henry V/12.xml" />
+			<chapter num="13" title="Scene III." location="S/William Shakespeare/King Henry V/13.xml" />
+			<chapter num="14" title="Scene IV." location="S/William Shakespeare/King Henry V/14.xml" />
+			<chapter num="15" title="Scene V." location="S/William Shakespeare/King Henry V/15.xml" />
+			<chapter num="16" title="Scene VI." location="S/William Shakespeare/King Henry V/16.xml" />
+			<chapter num="17" title="Scene VII." location="S/William Shakespeare/King Henry V/17.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="18" title="Prologue." location="S/William Shakespeare/King Henry V/18.xml" />
+			<chapter num="19" title="Scene I." location="S/William Shakespeare/King Henry V/19.xml" />
+			<chapter num="20" title="Scene II." location="S/William Shakespeare/King Henry V/20.xml" />
+			<chapter num="21" title="Scene III." location="S/William Shakespeare/King Henry V/21.xml" />
+			<chapter num="22" title="Scene IV." location="S/William Shakespeare/King Henry V/22.xml" />
+			<chapter num="23" title="Scene V." location="S/William Shakespeare/King Henry V/23.xml" />
+			<chapter num="24" title="Scene VI." location="S/William Shakespeare/King Henry V/24.xml" />
+			<chapter num="25" title="Scene VII." location="S/William Shakespeare/King Henry V/25.xml" />
+			<chapter num="26" title="Scene VIII." location="S/William Shakespeare/King Henry V/26.xml" />
+		</section>
+		<section type="1" name="ACT V">
+			<chapter num="27" title="Prologue." location="S/William Shakespeare/King Henry V/27.xml" />
+			<chapter num="28" title="Scene I." location="S/William Shakespeare/King Henry V/28.xml" />
+			<chapter num="29" title="Scene II." location="S/William Shakespeare/King Henry V/29.xml" />
+			<chapter num="30" title="Epilogue" location="S/William Shakespeare/King Henry V/30.xml" />
+		</section>
+</book>

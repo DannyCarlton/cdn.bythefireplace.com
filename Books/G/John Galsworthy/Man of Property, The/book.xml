@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40375" title="Man of Property, The" author="Galsworthy, John" location="G/John Galsworthy/Man of Property, The">
+			<chapter num="1" title="Dedication" location="G/John Galsworthy/Man of Property, The/1.xml" />
+			<chapter num="2" title="Preface" location="G/John Galsworthy/Man of Property, The/2.xml" />
+
+	<section type="2" name="Part I.">
+			<chapter num="3" title="Chapter I. 'At Home' At Old Jolyon's" location="G/John Galsworthy/Man of Property, The/3.xml" />
+			<chapter num="4" title="Chapter II. Old Jolyon Goes to the Opera" location="G/John Galsworthy/Man of Property, The/4.xml" />
+			<chapter num="5" title="Chapter III. Dinner At Swithin's" location="G/John Galsworthy/Man of Property, The/5.xml" />
+			<chapter num="6" title="Chapter IV. Projection of the House" location="G/John Galsworthy/Man of Property, The/6.xml" />
+			<chapter num="7" title="Chapter V. A Forsyte Menage" location="G/John Galsworthy/Man of Property, The/7.xml" />
+			<chapter num="8" title="Chapter VI. James At Large" location="G/John Galsworthy/Man of Property, The/8.xml" />
+			<chapter num="9" title="Chapter VII. Old Jolyon's Peccadillo" location="G/John Galsworthy/Man of Property, The/9.xml" />
+			<chapter num="10" title="Chapter VIII. Plans of the House" location="G/John Galsworthy/Man of Property, The/10.xml" />
+			<chapter num="11" title="Chapter IX. Death of Aunt Ann" location="G/John Galsworthy/Man of Property, The/11.xml" />
+
+	</section>
+	<section type="2" name="Part II.">
+			<chapter num="12" title="Chapter I. Progress of the House" location="G/John Galsworthy/Man of Property, The/12.xml" />
+			<chapter num="13" title="Chapter II. June's Treat" location="G/John Galsworthy/Man of Property, The/13.xml" />
+			<chapter num="14" title="Chapter III. Drive With Swithin" location="G/John Galsworthy/Man of Property, The/14.xml" />
+			<chapter num="15" title="Chapter IV. James Goes to See for Himself" location="G/John Galsworthy/Man of Property, The/15.xml" />
+			<chapter num="16" title="Chapter V. Soames and Bosinney Correspond" location="G/John Galsworthy/Man of Property, The/16.xml" />
+			<chapter num="17" title="Chapter VI. Old Jolyon At the Zoo" location="G/John Galsworthy/Man of Property, The/17.xml" />
+			<chapter num="18" title="Chapter VII. Afternoon At Timothy's" location="G/John Galsworthy/Man of Property, The/18.xml" />
+			<chapter num="19" title="Chapter VIII. Dance At Roger's" location="G/John Galsworthy/Man of Property, The/19.xml" />
+			<chapter num="20" title="Chapter IX. Evening At Richmond" location="G/John Galsworthy/Man of Property, The/20.xml" />
+			<chapter num="21" title="Chapter X. Diagnosis of a Forsyte" location="G/John Galsworthy/Man of Property, The/21.xml" />
+			<chapter num="22" title="Chapter XI. Bosinney on Parole" location="G/John Galsworthy/Man of Property, The/22.xml" />
+			<chapter num="23" title="Chapter XII. June Pays Some Calls" location="G/John Galsworthy/Man of Property, The/23.xml" />
+			<chapter num="24" title="Chapter XIII. Perfection of the House" location="G/John Galsworthy/Man of Property, The/24.xml" />
+			<chapter num="25" title="Chapter XIV. Soames Sits on the Stairs" location="G/John Galsworthy/Man of Property, The/25.xml" />
+
+	</section>
+	<section type="2" name="Part III.">
+			<chapter num="26" title="Chapter I. Mrs. Macander's Evidence" location="G/John Galsworthy/Man of Property, The/26.xml" />
+			<chapter num="27" title="Chapter II. Night in the Park" location="G/John Galsworthy/Man of Property, The/27.xml" />
+			<chapter num="28" title="Chapter III. Meeting At the Botanical" location="G/John Galsworthy/Man of Property, The/28.xml" />
+			<chapter num="29" title="Chapter IV. Voyage Into the Inferno" location="G/John Galsworthy/Man of Property, The/29.xml" />
+			<chapter num="30" title="Chapter V. The Trial" location="G/John Galsworthy/Man of Property, The/30.xml" />
+			<chapter num="31" title="Chapter VI. Soames Breaks the News" location="G/John Galsworthy/Man of Property, The/31.xml" />
+			<chapter num="32" title="Chapter VII. June's Victory" location="G/John Galsworthy/Man of Property, The/32.xml" />
+			<chapter num="33" title="Chapter VIII. Bosinney's Departure" location="G/John Galsworthy/Man of Property, The/33.xml" />
+			<chapter num="34" title="Chapter IX. Irene's Return" location="G/John Galsworthy/Man of Property, The/34.xml" />
+	</section>
+</book>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40330" title="Sandra Belloni" author="Meredith, George" location="M/George Meredith/Sandra Belloni">
+
+	<section type="2" name="Book 1">
+			<chapter num="1" title="Chapter I." location="M/George Meredith/Sandra Belloni/1.xml" />
+			<chapter num="2" title="Chapter II." location="M/George Meredith/Sandra Belloni/2.xml" />
+			<chapter num="3" title="Chapter III." location="M/George Meredith/Sandra Belloni/3.xml" />
+			<chapter num="4" title="Chapter IV." location="M/George Meredith/Sandra Belloni/4.xml" />
+			<chapter num="5" title="Chapter V." location="M/George Meredith/Sandra Belloni/5.xml" />
+			<chapter num="6" title="Chapter VI." location="M/George Meredith/Sandra Belloni/6.xml" />
+			<chapter num="7" title="Chapter VII." location="M/George Meredith/Sandra Belloni/7.xml" />
+			<chapter num="8" title="Chapter VIII." location="M/George Meredith/Sandra Belloni/8.xml" />
+			<chapter num="9" title="Chapter IX." location="M/George Meredith/Sandra Belloni/9.xml" />
+			<chapter num="10" title="Chapter X." location="M/George Meredith/Sandra Belloni/10.xml" />
+
+	</section>
+	<section type="2" name="Book 2">
+			<chapter num="11" title="Chapter XI." location="M/George Meredith/Sandra Belloni/11.xml" />
+			<chapter num="12" title="Chapter XII." location="M/George Meredith/Sandra Belloni/12.xml" />
+			<chapter num="13" title="Chapter XIII." location="M/George Meredith/Sandra Belloni/13.xml" />
+			<chapter num="14" title="Chapter XIV." location="M/George Meredith/Sandra Belloni/14.xml" />
+			<chapter num="15" title="Chapter XV." location="M/George Meredith/Sandra Belloni/15.xml" />
+			<chapter num="16" title="Chapter XVI." location="M/George Meredith/Sandra Belloni/16.xml" />
+			<chapter num="17" title="Chapter XVII." location="M/George Meredith/Sandra Belloni/17.xml" />
+
+	</section>
+	<section type="2" name="Book 3">
+			<chapter num="18" title="Chapter XVIII." location="M/George Meredith/Sandra Belloni/18.xml" />
+			<chapter num="19" title="Chapter XIX." location="M/George Meredith/Sandra Belloni/19.xml" />
+			<chapter num="20" title="Chapter XX." location="M/George Meredith/Sandra Belloni/20.xml" />
+			<chapter num="21" title="Chapter XXI." location="M/George Meredith/Sandra Belloni/21.xml" />
+			<chapter num="22" title="Chapter XXII." location="M/George Meredith/Sandra Belloni/22.xml" />
+			<chapter num="23" title="Chapter XXIII." location="M/George Meredith/Sandra Belloni/23.xml" />
+			<chapter num="24" title="Chapter XXIV." location="M/George Meredith/Sandra Belloni/24.xml" />
+			<chapter num="25" title="Chapter XXV." location="M/George Meredith/Sandra Belloni/25.xml" />
+
+	</section>
+	<section type="2" name="Book 4">
+			<chapter num="26" title="Chapter XXVI." location="M/George Meredith/Sandra Belloni/26.xml" />
+			<chapter num="27" title="Chapter XXVII." location="M/George Meredith/Sandra Belloni/27.xml" />
+			<chapter num="28" title="Chapter XXVIII." location="M/George Meredith/Sandra Belloni/28.xml" />
+			<chapter num="29" title="Chapter XXIX." location="M/George Meredith/Sandra Belloni/29.xml" />
+			<chapter num="30" title="Chapter XXX." location="M/George Meredith/Sandra Belloni/30.xml" />
+			<chapter num="31" title="Chapter XXXI." location="M/George Meredith/Sandra Belloni/31.xml" />
+			<chapter num="32" title="Chapter XXXII." location="M/George Meredith/Sandra Belloni/32.xml" />
+			<chapter num="33" title="Chapter XXXIII." location="M/George Meredith/Sandra Belloni/33.xml" />
+
+	</section>
+	<section type="2" name="Book 5">
+			<chapter num="34" title="Chapter XXXIV." location="M/George Meredith/Sandra Belloni/34.xml" />
+			<chapter num="35" title="Chapter XXXV." location="M/George Meredith/Sandra Belloni/35.xml" />
+			<chapter num="36" title="Chapter XXXVI." location="M/George Meredith/Sandra Belloni/36.xml" />
+			<chapter num="37" title="Chapter XXXVII." location="M/George Meredith/Sandra Belloni/37.xml" />
+			<chapter num="38" title="Chapter XXXVIII." location="M/George Meredith/Sandra Belloni/38.xml" />
+			<chapter num="39" title="Chapter XXXIX." location="M/George Meredith/Sandra Belloni/39.xml" />
+
+	</section>
+	<section type="2" name="Book 6">
+			<chapter num="40" title="Chapter XL." location="M/George Meredith/Sandra Belloni/40.xml" />
+			<chapter num="41" title="Chapter XLI." location="M/George Meredith/Sandra Belloni/41.xml" />
+			<chapter num="42" title="Chapter XLII." location="M/George Meredith/Sandra Belloni/42.xml" />
+			<chapter num="43" title="Chapter XLIII." location="M/George Meredith/Sandra Belloni/43.xml" />
+			<chapter num="44" title="Chapter XLIV." location="M/George Meredith/Sandra Belloni/44.xml" />
+			<chapter num="45" title="Chapter XLV." location="M/George Meredith/Sandra Belloni/45.xml" />
+			<chapter num="46" title="Chapter XLVI." location="M/George Meredith/Sandra Belloni/46.xml" />
+			<chapter num="47" title="Chapter XLVII." location="M/George Meredith/Sandra Belloni/47.xml" />
+			<chapter num="48" title="Chapter XLVIII." location="M/George Meredith/Sandra Belloni/48.xml" />
+			<chapter num="49" title="Chapter XLIX." location="M/George Meredith/Sandra Belloni/49.xml" />
+
+	</section>
+	<section type="2" name="Book 7">
+			<chapter num="50" title="Chapter L." location="M/George Meredith/Sandra Belloni/50.xml" />
+			<chapter num="51" title="Chapter LI." location="M/George Meredith/Sandra Belloni/51.xml" />
+			<chapter num="52" title="Chapter LII." location="M/George Meredith/Sandra Belloni/52.xml" />
+			<chapter num="53" title="Chapter LIII." location="M/George Meredith/Sandra Belloni/53.xml" />
+			<chapter num="54" title="Chapter LIV." location="M/George Meredith/Sandra Belloni/54.xml" />
+			<chapter num="55" title="Chapter LV." location="M/George Meredith/Sandra Belloni/55.xml" />
+			<chapter num="56" title="Chapter LVI." location="M/George Meredith/Sandra Belloni/56.xml" />
+			<chapter num="57" title="Chapter LVII." location="M/George Meredith/Sandra Belloni/57.xml" />
+			<chapter num="58" title="Chapter LVIII." location="M/George Meredith/Sandra Belloni/58.xml" />
+			<chapter num="59" title="Chapter LIX." location="M/George Meredith/Sandra Belloni/59.xml" />
+	</section>
+</book>

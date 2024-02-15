@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="122" name="Norris, Frank" location="N/Frank Norris" />
+	<author aid="197" name="Norris, Kathleen Thompson" location="N/Kathleen Thompson Norris" />
+	<author aid="51" name="Nesbit, Edith" location="N/Edith Nesbit" />
+</authors>

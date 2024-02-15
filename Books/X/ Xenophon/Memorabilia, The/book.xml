@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1792" title="Memorabilia, The" author="Xenophon, " location="X/ Xenophon/Memorabilia, The">
+		<section type="1" name="Book I">
+			<chapter num="1" title="I" location="X/ Xenophon/Memorabilia, The/1.xml" />
+			<chapter num="2" title="II" location="X/ Xenophon/Memorabilia, The/2.xml" />
+			<chapter num="3" title="III" location="X/ Xenophon/Memorabilia, The/3.xml" />
+			<chapter num="4" title="IV" location="X/ Xenophon/Memorabilia, The/4.xml" />
+			<chapter num="5" title="V" location="X/ Xenophon/Memorabilia, The/5.xml" />
+			<chapter num="6" title="VI" location="X/ Xenophon/Memorabilia, The/6.xml" />
+			<chapter num="7" title="VII" location="X/ Xenophon/Memorabilia, The/7.xml" />
+		</section>
+		<section type="1" name="Book II">
+			<chapter num="8" title="I" location="X/ Xenophon/Memorabilia, The/8.xml" />
+			<chapter num="9" title="II" location="X/ Xenophon/Memorabilia, The/9.xml" />
+			<chapter num="10" title="III" location="X/ Xenophon/Memorabilia, The/10.xml" />
+			<chapter num="11" title="IV" location="X/ Xenophon/Memorabilia, The/11.xml" />
+			<chapter num="12" title="V" location="X/ Xenophon/Memorabilia, The/12.xml" />
+			<chapter num="13" title="VI" location="X/ Xenophon/Memorabilia, The/13.xml" />
+			<chapter num="14" title="VII" location="X/ Xenophon/Memorabilia, The/14.xml" />
+			<chapter num="15" title="VIII" location="X/ Xenophon/Memorabilia, The/15.xml" />
+			<chapter num="16" title="IX" location="X/ Xenophon/Memorabilia, The/16.xml" />
+			<chapter num="17" title="X" location="X/ Xenophon/Memorabilia, The/17.xml" />
+		</section>
+		<section type="1" name="Book III">
+			<chapter num="18" title="I" location="X/ Xenophon/Memorabilia, The/18.xml" />
+			<chapter num="19" title="II" location="X/ Xenophon/Memorabilia, The/19.xml" />
+			<chapter num="20" title="III" location="X/ Xenophon/Memorabilia, The/20.xml" />
+			<chapter num="21" title="IV" location="X/ Xenophon/Memorabilia, The/21.xml" />
+			<chapter num="22" title="V" location="X/ Xenophon/Memorabilia, The/22.xml" />
+			<chapter num="23" title="VI" location="X/ Xenophon/Memorabilia, The/23.xml" />
+			<chapter num="24" title="VII" location="X/ Xenophon/Memorabilia, The/24.xml" />
+			<chapter num="25" title="VIII" location="X/ Xenophon/Memorabilia, The/25.xml" />
+			<chapter num="26" title="IX" location="X/ Xenophon/Memorabilia, The/26.xml" />
+			<chapter num="27" title="X" location="X/ Xenophon/Memorabilia, The/27.xml" />
+			<chapter num="28" title="XI" location="X/ Xenophon/Memorabilia, The/28.xml" />
+			<chapter num="29" title="XII" location="X/ Xenophon/Memorabilia, The/29.xml" />
+			<chapter num="30" title="XIII" location="X/ Xenophon/Memorabilia, The/30.xml" />
+			<chapter num="31" title="XIV" location="X/ Xenophon/Memorabilia, The/31.xml" />
+		</section>
+		<section type="1" name="Book IV">
+			<chapter num="32" title="I" location="X/ Xenophon/Memorabilia, The/32.xml" />
+			<chapter num="33" title="II" location="X/ Xenophon/Memorabilia, The/33.xml" />
+			<chapter num="34" title="III" location="X/ Xenophon/Memorabilia, The/34.xml" />
+			<chapter num="35" title="IV" location="X/ Xenophon/Memorabilia, The/35.xml" />
+			<chapter num="36" title="V" location="X/ Xenophon/Memorabilia, The/36.xml" />
+			<chapter num="37" title="VI" location="X/ Xenophon/Memorabilia, The/37.xml" />
+			<chapter num="38" title="VII" location="X/ Xenophon/Memorabilia, The/38.xml" />
+			<chapter num="39" title="VIII" location="X/ Xenophon/Memorabilia, The/39.xml" />
+		</section>
+</book>

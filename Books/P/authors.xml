@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../authors.xsd"?>
+<authors>
+	<author aid="143" name="Post, Melville Davisson" location="P/Melville Davisson Post" />
+	<author aid="175" name="Page, Thomas Nelson" location="P/Thomas Nelson Page" />
+	<author aid="176" name="Paterson, Andrew Barton" location="P/Andrew Barton Paterson" />
+	<author aid="180" name="Porter, Eleanor H." location="P/Eleanor H. Porter" />
+	<author aid="198" name="Phillips, David Graham" location="P/David Graham Phillips" />
+	<author aid="207" name="Plato, " location="P/ Plato" />
+	<author aid="211" name="Perkins, Lucy Fitch" location="P/Lucy Fitch Perkins" />
+	<author aid="212" name="Parker, Gilbert" location="P/Gilbert Parker" />
+	<author aid="52" name="Potter, Beatrix" location="P/Beatrix Potter" />
+	<author aid="70" name="Pyle, Howard" location="P/Howard Pyle" />
+	<author aid="8" name="Poe, Edgar Allan" location="P/Edgar Allan Poe" />
+	<author aid="82" name="Peattie, Elia W." location="P/Elia W. Peattie" />
+	<author aid="99" name="Pedler, Margaret" location="P/Margaret Pedler" />
+	<author aid="237" name="Packard, Frank L." location="P/Frank L. Packard" />
+	<author aid="240" name="Patchin, Frank Gee" location="P/Frank Gee Patchin" />
+	<author aid="311" name="Parrish, Randall" location="P/Randall Parrish" />
+	<author aid="320" name="Peacock, Thomas Love" location="P/Thomas Love Peacock" />
+	<author aid="324" name="Penrose, Margaret" location="P/Margaret Penrose" />
+</authors>

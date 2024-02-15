@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="2106" title="George Silverman's Explanation" author="Dickens, Charles" location="D/Charles Dickens/George Silverman's Explanation">
+			<chapter num="1" title="First Chapter" location="D/Charles Dickens/George Silverman's Explanation/1.xml" />
+			<chapter num="2" title="Second Chapter" location="D/Charles Dickens/George Silverman's Explanation/2.xml" />
+			<chapter num="3" title="Third Chapter" location="D/Charles Dickens/George Silverman's Explanation/3.xml" />
+			<chapter num="4" title="Fourth Chapter" location="D/Charles Dickens/George Silverman's Explanation/4.xml" />
+			<chapter num="5" title="Fifth Chapter" location="D/Charles Dickens/George Silverman's Explanation/5.xml" />
+			<chapter num="6" title="Sixth Chapter" location="D/Charles Dickens/George Silverman's Explanation/6.xml" />
+			<chapter num="7" title="Seventh Chapter" location="D/Charles Dickens/George Silverman's Explanation/7.xml" />
+			<chapter num="8" title="Eighth Chapter" location="D/Charles Dickens/George Silverman's Explanation/8.xml" />
+			<chapter num="9" title="Ninth Chapter" location="D/Charles Dickens/George Silverman's Explanation/9.xml" />
+</book>

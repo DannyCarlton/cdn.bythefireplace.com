@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40224" title="Texas Ranger, A" author="Raine, William MacLeod" location="R/William MacLeod Raine/Texas Ranger, A">
+			<chapter num="1" title="Foreword to Ye Gentle Reader." location="R/William MacLeod Raine/Texas Ranger, A/1.xml" />
+
+	<section type="2" name="Part I. The Man from the Panhandle">
+			<chapter num="2" title="Chapter I. A Desert Meeting" location="R/William MacLeod Raine/Texas Ranger, A/2.xml" />
+			<chapter num="3" title="Chapter II. Lieutenant Fraser Interferes." location="R/William MacLeod Raine/Texas Ranger, A/3.xml" />
+			<chapter num="4" title="Chapter III. A Discovery" location="R/William MacLeod Raine/Texas Ranger, A/4.xml" />
+			<chapter num="5" title="Chapter IV. Lost!" location="R/William MacLeod Raine/Texas Ranger, A/5.xml" />
+			<chapter num="6" title="Chapter V. Larry Neill to the Rescue" location="R/William MacLeod Raine/Texas Ranger, A/6.xml" />
+			<chapter num="7" title="Chapter VI. Somebody's Acting Mighty Foolish." location="R/William MacLeod Raine/Texas Ranger, A/7.xml" />
+			<chapter num="8" title="Chapter VII. Enter Mr. Dunke" location="R/William MacLeod Raine/Texas Ranger, A/8.xml" />
+			<chapter num="9" title="Chapter VIII. Would You Worry About Me?" location="R/William MacLeod Raine/Texas Ranger, A/9.xml" />
+			<chapter num="10" title="Chapter IX. Down the Jackrabbit Shaft." location="R/William MacLeod Raine/Texas Ranger, A/10.xml" />
+			<chapter num="11" title="Chapter X. In a Tunnel of the Mal Pais" location="R/William MacLeod Raine/Texas Ranger, A/11.xml" />
+			<chapter num="12" title="Chapter XI. The Southerner Takes a Risk" location="R/William MacLeod Raine/Texas Ranger, A/12.xml" />
+			<chapter num="13" title="Chapter XII. Exit Dunke" location="R/William MacLeod Raine/Texas Ranger, A/13.xml" />
+			<chapter num="14" title="Chapter XIII. Steve Offers Congratulations" location="R/William MacLeod Raine/Texas Ranger, A/14.xml" />
+
+	</section>
+	<section type="2" name="Part II. The Girl of Lost Valley">
+			<chapter num="15" title="Chapter I. In the Fire Zone" location="R/William MacLeod Raine/Texas Ranger, A/15.xml" />
+			<chapter num="16" title="Chapter II. A Compact" location="R/William MacLeod Raine/Texas Ranger, A/16.xml" />
+			<chapter num="17" title="Chapter III. Into Lost Valley" location="R/William MacLeod Raine/Texas Ranger, A/17.xml" />
+			<chapter num="18" title="Chapter IV. The Warning of Mantrap Gulch" location="R/William MacLeod Raine/Texas Ranger, A/18.xml" />
+			<chapter num="19" title="Chapter V. Jed Briscoe Takes a Hand" location="R/William MacLeod Raine/Texas Ranger, A/19.xml" />
+			<chapter num="20" title="Chapter VI. A Sure Enough Wolf" location="R/William MacLeod Raine/Texas Ranger, A/20.xml" />
+			<chapter num="21" title="Chapter VII. The Round-up" location="R/William MacLeod Raine/Texas Ranger, A/21.xml" />
+			<chapter num="22" title="Chapter VIII. The Broncho Busters" location="R/William MacLeod Raine/Texas Ranger, A/22.xml" />
+			<chapter num="23" title="Chapter IX. A Shot From Bald Knob" location="R/William MacLeod Raine/Texas Ranger, A/23.xml" />
+			<chapter num="24" title="Chapter X. Doc Lee" location="R/William MacLeod Raine/Texas Ranger, A/24.xml" />
+			<chapter num="25" title="Chapter XI. The Fat in the Fire" location="R/William MacLeod Raine/Texas Ranger, A/25.xml" />
+			<chapter num="26" title="Chapter XII. The Dance" location="R/William MacLeod Raine/Texas Ranger, A/26.xml" />
+			<chapter num="27" title="Chapter XIII. The Wolf Howls" location="R/William MacLeod Raine/Texas Ranger, A/27.xml" />
+			<chapter num="28" title="Chapter XIV. Howard Explains" location="R/William MacLeod Raine/Texas Ranger, A/28.xml" />
+			<chapter num="29" title="Chapter XV. The Texan Pays a Visit" location="R/William MacLeod Raine/Texas Ranger, A/29.xml" />
+			<chapter num="30" title="Chapter XVI. The Wolf Bites" location="R/William MacLeod Raine/Texas Ranger, A/30.xml" />
+			<chapter num="31" title="Chapter XVII. On the Road to Gimlet Butte" location="R/William MacLeod Raine/Texas Ranger, A/31.xml" />
+			<chapter num="32" title="Chapter XVIII. A Witness in Rebuttal" location="R/William MacLeod Raine/Texas Ranger, A/32.xml" />
+	</section>
+</book>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1292" title="One of Ours" author="Cather, Willa" location="C/Willa Cather/One of Ours">
+		<section type="1" name="Book One: On Lovely Creek.">
+			<chapter num="1" title="Chapter I." location="C/Willa Cather/One of Ours/1.xml" />
+			<chapter num="2" title="Chapter II" location="C/Willa Cather/One of Ours/2.xml" />
+			<chapter num="3" title="Chapter III" location="C/Willa Cather/One of Ours/3.xml" />
+			<chapter num="4" title="Chapter IV" location="C/Willa Cather/One of Ours/4.xml" />
+			<chapter num="5" title="Chapter V" location="C/Willa Cather/One of Ours/5.xml" />
+			<chapter num="6" title="Chapter VI" location="C/Willa Cather/One of Ours/6.xml" />
+			<chapter num="7" title="Chapter VII" location="C/Willa Cather/One of Ours/7.xml" />
+			<chapter num="8" title="Chapter VIII" location="C/Willa Cather/One of Ours/8.xml" />
+			<chapter num="9" title="Chapter IX" location="C/Willa Cather/One of Ours/9.xml" />
+			<chapter num="10" title="Chapter X" location="C/Willa Cather/One of Ours/10.xml" />
+			<chapter num="11" title="Chapter XI" location="C/Willa Cather/One of Ours/11.xml" />
+			<chapter num="12" title="Chapter XII" location="C/Willa Cather/One of Ours/12.xml" />
+			<chapter num="13" title="Chapter XIII" location="C/Willa Cather/One of Ours/13.xml" />
+			<chapter num="14" title="Chapter XIV" location="C/Willa Cather/One of Ours/14.xml" />
+			<chapter num="15" title="Chapter XV" location="C/Willa Cather/One of Ours/15.xml" />
+			<chapter num="16" title="Chapter XVI" location="C/Willa Cather/One of Ours/16.xml" />
+			<chapter num="17" title="Chapter XVII" location="C/Willa Cather/One of Ours/17.xml" />
+			<chapter num="18" title="Chapter XVIII" location="C/Willa Cather/One of Ours/18.xml" />
+			<chapter num="19" title="Chapter XIX" location="C/Willa Cather/One of Ours/19.xml" />
+		</section>
+		<section type="1" name="Book Two: Enid.">
+			<chapter num="20" title="Chapter I" location="C/Willa Cather/One of Ours/20.xml" />
+			<chapter num="21" title="Chapter II" location="C/Willa Cather/One of Ours/21.xml" />
+			<chapter num="22" title="Chapter III" location="C/Willa Cather/One of Ours/22.xml" />
+			<chapter num="23" title="Chapter IV" location="C/Willa Cather/One of Ours/23.xml" />
+			<chapter num="24" title="Chapter V" location="C/Willa Cather/One of Ours/24.xml" />
+			<chapter num="25" title="Chapter VI" location="C/Willa Cather/One of Ours/25.xml" />
+			<chapter num="26" title="Chapter VII" location="C/Willa Cather/One of Ours/26.xml" />
+			<chapter num="27" title="Chapter VIII" location="C/Willa Cather/One of Ours/27.xml" />
+			<chapter num="28" title="Chapter IX" location="C/Willa Cather/One of Ours/28.xml" />
+			<chapter num="29" title="Chapter X" location="C/Willa Cather/One of Ours/29.xml" />
+			<chapter num="30" title="Chapter XI" location="C/Willa Cather/One of Ours/30.xml" />
+			<chapter num="31" title="Chapter XII" location="C/Willa Cather/One of Ours/31.xml" />
+		</section>
+		<section type="1" name="Book Three: Sunrise on the Prairie.">
+			<chapter num="32" title="Chapter I" location="C/Willa Cather/One of Ours/32.xml" />
+			<chapter num="33" title="Chapter II" location="C/Willa Cather/One of Ours/33.xml" />
+			<chapter num="34" title="Chapter III" location="C/Willa Cather/One of Ours/34.xml" />
+			<chapter num="35" title="Chapter IV" location="C/Willa Cather/One of Ours/35.xml" />
+			<chapter num="36" title="Chapter V" location="C/Willa Cather/One of Ours/36.xml" />
+			<chapter num="37" title="Chapter VI" location="C/Willa Cather/One of Ours/37.xml" />
+			<chapter num="38" title="Chapter VII" location="C/Willa Cather/One of Ours/38.xml" />
+			<chapter num="39" title="Chapter VIII" location="C/Willa Cather/One of Ours/39.xml" />
+			<chapter num="40" title="Chapter IX" location="C/Willa Cather/One of Ours/40.xml" />
+			<chapter num="41" title="Chapter X" location="C/Willa Cather/One of Ours/41.xml" />
+			<chapter num="42" title="Chapter XI" location="C/Willa Cather/One of Ours/42.xml" />
+			<chapter num="43" title="Chapter XII" location="C/Willa Cather/One of Ours/43.xml" />
+			<chapter num="44" title="Chapter XIII" location="C/Willa Cather/One of Ours/44.xml" />
+		</section>
+		<section type="1" name="Book Four: The Voyage of the Anchises.">
+			<chapter num="45" title="Chapter I" location="C/Willa Cather/One of Ours/45.xml" />
+			<chapter num="46" title="Chapter II" location="C/Willa Cather/One of Ours/46.xml" />
+			<chapter num="47" title="Chapter III" location="C/Willa Cather/One of Ours/47.xml" />
+			<chapter num="48" title="Chapter IV" location="C/Willa Cather/One of Ours/48.xml" />
+			<chapter num="49" title="Chapter V" location="C/Willa Cather/One of Ours/49.xml" />
+			<chapter num="50" title="Chapter VI" location="C/Willa Cather/One of Ours/50.xml" />
+			<chapter num="51" title="Chapter VII" location="C/Willa Cather/One of Ours/51.xml" />
+			<chapter num="52" title="Chapter VIII" location="C/Willa Cather/One of Ours/52.xml" />
+			<chapter num="53" title="Chapter IX" location="C/Willa Cather/One of Ours/53.xml" />
+		</section>
+		<section type="1" name="Book Five: \"Bidding the Eagles of the West Fly On\".">
+			<chapter num="54" title="Chapter I" location="C/Willa Cather/One of Ours/54.xml" />
+			<chapter num="55" title="Chapter II" location="C/Willa Cather/One of Ours/55.xml" />
+			<chapter num="56" title="Chapter III" location="C/Willa Cather/One of Ours/56.xml" />
+			<chapter num="57" title="Chapter IV" location="C/Willa Cather/One of Ours/57.xml" />
+			<chapter num="58" title="Chapter V" location="C/Willa Cather/One of Ours/58.xml" />
+			<chapter num="59" title="Chapter VI" location="C/Willa Cather/One of Ours/59.xml" />
+			<chapter num="60" title="Chapter VII" location="C/Willa Cather/One of Ours/60.xml" />
+			<chapter num="61" title="Chapter VIII" location="C/Willa Cather/One of Ours/61.xml" />
+			<chapter num="62" title="Chapter IX" location="C/Willa Cather/One of Ours/62.xml" />
+			<chapter num="63" title="Chapter X" location="C/Willa Cather/One of Ours/63.xml" />
+			<chapter num="64" title="Chapter XI" location="C/Willa Cather/One of Ours/64.xml" />
+			<chapter num="65" title="Chapter XII" location="C/Willa Cather/One of Ours/65.xml" />
+			<chapter num="66" title="Chapter XIII" location="C/Willa Cather/One of Ours/66.xml" />
+			<chapter num="67" title="Chapter XIV" location="C/Willa Cather/One of Ours/67.xml" />
+			<chapter num="68" title="Chapter XV" location="C/Willa Cather/One of Ours/68.xml" />
+			<chapter num="69" title="Chapter XVI" location="C/Willa Cather/One of Ours/69.xml" />
+			<chapter num="70" title="Chapter XVII" location="C/Willa Cather/One of Ours/70.xml" />
+			<chapter num="71" title="Chapter XVIII" location="C/Willa Cather/One of Ours/71.xml" />
+			<chapter num="72" title="Chapter XIX" location="C/Willa Cather/One of Ours/72.xml" />
+		</section>
+</book>

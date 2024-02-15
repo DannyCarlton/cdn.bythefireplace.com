@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1364" title="Twelfth Night" author="Shakespeare, William" location="S/William Shakespeare/Twelfth Night">
+			<chapter num="1" title="Persons Represented" location="S/William Shakespeare/Twelfth Night/1.xml" />
+		<section type="1" name="ACT I">
+			<chapter num="2" title="Scene I. An Apartment in the DUKE'S Palace." location="S/William Shakespeare/Twelfth Night/2.xml" />
+			<chapter num="3" title="Scene II. The sea-coast." location="S/William Shakespeare/Twelfth Night/3.xml" />
+			<chapter num="4" title="Scene III. A Room in OLIVIA'S House." location="S/William Shakespeare/Twelfth Night/4.xml" />
+			<chapter num="5" title="Scene IV. A Room in the DUKE'S Palace." location="S/William Shakespeare/Twelfth Night/5.xml" />
+			<chapter num="6" title="Scene V. A Room in OLIVIA'S House." location="S/William Shakespeare/Twelfth Night/6.xml" />
+		</section>
+		<section type="1" name="ACT II">
+			<chapter num="7" title="Scene I. The sea-coast." location="S/William Shakespeare/Twelfth Night/7.xml" />
+			<chapter num="8" title="Scene II. A street." location="S/William Shakespeare/Twelfth Night/8.xml" />
+			<chapter num="9" title="Scene III. A Room in OLIVIA'S House." location="S/William Shakespeare/Twelfth Night/9.xml" />
+			<chapter num="10" title="Scene IV. A Room in the DUKE'S Palace." location="S/William Shakespeare/Twelfth Night/10.xml" />
+			<chapter num="11" title="Scene V. OLIVIA'S garden." location="S/William Shakespeare/Twelfth Night/11.xml" />
+		</section>
+		<section type="1" name="ACT III">
+			<chapter num="12" title="Scene I. OLIVIA'S garden." location="S/William Shakespeare/Twelfth Night/12.xml" />
+			<chapter num="13" title="Scene II. A Room in OLIVIA'S House." location="S/William Shakespeare/Twelfth Night/13.xml" />
+			<chapter num="14" title="Scene III. A street." location="S/William Shakespeare/Twelfth Night/14.xml" />
+			<chapter num="15" title="Scene IV. OLIVIA'S garden." location="S/William Shakespeare/Twelfth Night/15.xml" />
+		</section>
+		<section type="1" name="ACT IV">
+			<chapter num="16" title="Scene I. The Street before OLIVIA'S House." location="S/William Shakespeare/Twelfth Night/16.xml" />
+			<chapter num="17" title="Scene II. A Room in OLIVIA'S House." location="S/William Shakespeare/Twelfth Night/17.xml" />
+			<chapter num="18" title="Scene III. OLIVIA'S Garden." location="S/William Shakespeare/Twelfth Night/18.xml" />
+		</section>
+		<section type="1" name="ACT V">
+			<chapter num="19" title="Scene I. The Street before OLIVIA's House." location="S/William Shakespeare/Twelfth Night/19.xml" />
+		</section>
+</book>

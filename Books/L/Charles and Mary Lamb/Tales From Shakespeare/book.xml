@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="1213" title="Tales From Shakespeare" author="Lamb, Charles and Mary" location="L/Charles and Mary Lamb/Tales From Shakespeare">
+			<chapter num="1" title="Preface" location="L/Charles and Mary Lamb/Tales From Shakespeare/1.xml" />
+			<chapter num="2" title="The Tempest" location="L/Charles and Mary Lamb/Tales From Shakespeare/2.xml" />
+			<chapter num="3" title="A Midsummer Night's Dream" location="L/Charles and Mary Lamb/Tales From Shakespeare/3.xml" />
+			<chapter num="4" title="Winter's Tale" location="L/Charles and Mary Lamb/Tales From Shakespeare/4.xml" />
+			<chapter num="5" title="Much Ado About Nothing" location="L/Charles and Mary Lamb/Tales From Shakespeare/5.xml" />
+			<chapter num="6" title="As You Like It" location="L/Charles and Mary Lamb/Tales From Shakespeare/6.xml" />
+			<chapter num="7" title="Two Gentlemen of Verona" location="L/Charles and Mary Lamb/Tales From Shakespeare/7.xml" />
+			<chapter num="8" title="Merchant of Venice" location="L/Charles and Mary Lamb/Tales From Shakespeare/8.xml" />
+			<chapter num="9" title="Cymbeline" location="L/Charles and Mary Lamb/Tales From Shakespeare/9.xml" />
+			<chapter num="10" title="King Lear" location="L/Charles and Mary Lamb/Tales From Shakespeare/10.xml" />
+			<chapter num="11" title="Macbeth" location="L/Charles and Mary Lamb/Tales From Shakespeare/11.xml" />
+			<chapter num="12" title="All's Well that Ends Well" location="L/Charles and Mary Lamb/Tales From Shakespeare/12.xml" />
+			<chapter num="13" title="Taming of the Shrew" location="L/Charles and Mary Lamb/Tales From Shakespeare/13.xml" />
+			<chapter num="14" title="The Comedy of Errors" location="L/Charles and Mary Lamb/Tales From Shakespeare/14.xml" />
+			<chapter num="15" title="Measure for Measure" location="L/Charles and Mary Lamb/Tales From Shakespeare/15.xml" />
+			<chapter num="16" title="Twelfth Night; or, What You Will" location="L/Charles and Mary Lamb/Tales From Shakespeare/16.xml" />
+			<chapter num="17" title="Timon of Athens" location="L/Charles and Mary Lamb/Tales From Shakespeare/17.xml" />
+			<chapter num="18" title="Romeo and Juliet" location="L/Charles and Mary Lamb/Tales From Shakespeare/18.xml" />
+			<chapter num="19" title="Hamlet, Prince of Denmark" location="L/Charles and Mary Lamb/Tales From Shakespeare/19.xml" />
+			<chapter num="20" title="Othello" location="L/Charles and Mary Lamb/Tales From Shakespeare/20.xml" />
+			<chapter num="21" title="Pericles, Prince of Tyre" location="L/Charles and Mary Lamb/Tales From Shakespeare/21.xml" />
+</book>

@@ -1,0 +1,1231 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="titles.xsd"?>
+<books>
+	<book bid="1" title="At the Earth's Core" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/At the Earth's Core/" section="Fiction/Science-Fiction" />
+	<book bid="2" title="Dickory Cronke" author="Daniel Defoe" location="D/Daniel Defoe/Dickory Cronke/" section="Fiction/General" />
+	<book bid="3" title="Flower Fables" author="Louisa May Alcott" location="A/Louisa May Alcott/Flower Fables/" section="Fiction/Young-Adults" />
+	<book bid="5" title="On the Art of War" author=" Sun Tzu" location="S/ Sun Tzu/On the Art of War/" section="Non-Fiction/General" />
+	<book bid="6" title="95 Theses" author="Martin Luther" location="L/Martin Luther/95 Theses/" section="Non-Fiction/Christian" />
+	<book bid="7" title="Dorothy and the Wizard in Oz" author="L. Frank Baum" location="B/L. Frank Baum/Dorothy and the Wizard in Oz/" section="Fiction/Children" />
+	<book bid="13" title="Midsummer Night's Dream, A" author="William Shakespeare" location="S/William Shakespeare/Midsummer Night's Dream, A/" section="Plays/Drama" />
+	<book bid="23" title="Little Women" author="Louisa May Alcott" location="A/Louisa May Alcott/Little Women/" section="Fiction/Young-Adults" />
+	<book bid="24" title="Emma" author="Jane Austen" location="A/Jane Austen/Emma/" section="Fiction/General" />
+	<book bid="25" title="Lady Susan" author="Jane Austen" location="A/Jane Austen/Lady Susan/" section="Fiction/General" />
+	<book bid="26" title="Mansfield Park" author="Jane Austen" location="A/Jane Austen/Mansfield Park/" section="Fiction/General" />
+	<book bid="27" title="Northanger Abbey" author="Jane Austen" location="A/Jane Austen/Northanger Abbey/" section="Fiction/General" />
+	<book bid="28" title="Pride and Prejudice" author="Jane Austen" location="A/Jane Austen/Pride and Prejudice/" section="Fiction/General" />
+	<book bid="29" title="Persuasion" author="Jane Austen" location="A/Jane Austen/Persuasion/" section="Fiction/General" />
+	<book bid="30" title="Sense and Sensibility" author="Jane Austen" location="A/Jane Austen/Sense and Sensibility/" section="Fiction/General" />
+	<book bid="31" title="Jane Eyre" author="Charlotte Bronte" location="B/Charlotte Bronte/Jane Eyre/" section="Fiction/General" />
+	<book bid="32" title="Wuthering Heights" author="Emily Bronte" location="B/Emily Bronte/Wuthering Heights/" section="Fiction/General" />
+	<book bid="33" title="Little Lord Fauntleroy" author="Frances Hodgson Burnett" location="B/Frances Hodgson Burnett/Little Lord Fauntleroy/" section="Fiction/Children" />
+	<book bid="34" title="Lost Prince, The" author="Frances Hodgson Burnett" location="B/Frances Hodgson Burnett/Lost Prince, The/" section="Fiction/Children" />
+	<book bid="35" title="Little Princess, A" author="Frances Hodgson Burnett" location="B/Frances Hodgson Burnett/Little Princess, A/" section="Fiction/Children" />
+	<book bid="36" title="Secret Garden, The" author="Frances Hodgson Burnett" location="B/Frances Hodgson Burnett/Secret Garden, The/" section="Fiction/Children" />
+	<book bid="37" title="Lost Continent, The" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Lost Continent, The/" section="Fiction/Science-Fiction" />
+	<book bid="38" title="Return of Tarzan, The" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Return of Tarzan, The/" section="Fiction/Adventure-Action" />
+	<book bid="39" title="Beasts of Tarzan, The" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Beasts of Tarzan, The/" section="Fiction/Adventure-Action" />
+	<book bid="40" title="Tarzan and the Jewels of Opar" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Tarzan and the Jewels of Opar/" section="Fiction/Adventure-Action" />
+	<book bid="41" title="Jungle Tales of Tarzan, The" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Jungle Tales of Tarzan, The/" section="Fiction/Adventure-Action" />
+	<book bid="42" title="Land That Time Forgot, The" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Land That Time Forgot, The/" section="Fiction/Science-Fiction" />
+	<book bid="43" title="Son of Tarzan, The" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Son of Tarzan, The/" section="Fiction/Adventure-Action" />
+	<book bid="44" title="Tarzan the Untamed" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Tarzan the Untamed/" section="Fiction/Adventure-Action" />
+	<book bid="45" title="Tarzan of the Apes" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Tarzan of the Apes/" section="Fiction/Adventure-Action" />
+	<book bid="46" title="Tarzan the Terrible" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Tarzan the Terrible/" section="Fiction/Adventure-Action" />
+	<book bid="47" title="Heart of Darkness" author="Joseph Conrad" location="C/Joseph Conrad/Heart of Darkness/" section="Fiction/Adventure-Action" />
+	<book bid="48" title="Robinson Crusoe" author="Daniel Defoe" location="D/Daniel Defoe/Robinson Crusoe/" section="Fiction/General" />
+	<book bid="49" title="Rogue's Life, A" author="Wilkie Collins" location="C/Wilkie Collins/Rogue's Life, A/" section="Fiction/General" />
+	<book bid="50" title="Christmas Carol, A" author="Charles Dickens" location="D/Charles Dickens/Christmas Carol, A/" section="Fiction/Young-Adults" />
+	<book bid="51" title="David Copperfield" author="Charles Dickens" location="D/Charles Dickens/David Copperfield/" section="Fiction/Young-Adults" />
+	<book bid="52" title="Great Expectations" author="Charles Dickens" location="D/Charles Dickens/Great Expectations/" section="Fiction/Young-Adults" />
+	<book bid="53" title="Oliver Twist" author="Charles Dickens" location="D/Charles Dickens/Oliver Twist/" section="Fiction/Young-Adults" />
+	<book bid="54" title="Tale of Two Cities, A" author="Charles Dickens" location="D/Charles Dickens/Tale of Two Cities, A/" section="Fiction/Young-Adults" />
+	<book bid="55" title="Crime and Punishment" author="Fyodor Dostoevsky" location="D/Fyodor Dostoevsky/Crime and Punishment/" section="Fiction/General" />
+	<book bid="56" title="Adventures of Sherlock Holmes, The" author="Arthur Conan Doyle" location="D/Arthur Conan Doyle/Adventures of Sherlock Holmes, The/" section="Fiction/Mystery" />
+	<book bid="57" title="Lost World, The" author="Arthur Conan Doyle" location="D/Arthur Conan Doyle/Lost World, The/" section="Fiction/Mystery" />
+	<book bid="58" title="Three Musketeers, The" author="Alexandre Dumas" location="D/Alexandre Dumas/Three Musketeers, The/" section="Fiction/Adventure-Action" />
+	<book bid="59" title="Ten Years Later" author="Alexandre Dumas" location="D/Alexandre Dumas/Ten Years Later/" section="Fiction/Adventure-Action" />
+	<book bid="60" title="Black Tulip, The" author="Alexandre Dumas" location="D/Alexandre Dumas/Black Tulip, The/" section="Fiction/Adventure-Action" />
+	<book bid="61" title="Twenty Years After" author="Alexandre Dumas" location="D/Alexandre Dumas/Twenty Years After/" section="Fiction/Adventure-Action" />
+	<book bid="62" title="Madame Bovary" author="Gustave Flaubert" location="F/Gustave Flaubert/Madame Bovary/" section="Fiction/General" />
+	<book bid="63" title="King Solomon's Mines" author="H. Rider Haggard" location="H/H. Rider Haggard/King Solomon's Mines/" section="Fiction/Adventure-Action" />
+	<book bid="64" title="Far From The Madding Crowd" author="Thomas Hardy" location="H/Thomas Hardy/Far From The Madding Crowd/" section="Fiction/General" />
+	<book bid="65" title="Jude the Obscure" author="Thomas Hardy" location="H/Thomas Hardy/Jude the Obscure/" section="Fiction/General" />
+	<book bid="66" title="Mayor of Casterbridge, The" author="Thomas Hardy" location="H/Thomas Hardy/Mayor of Casterbridge, The/" section="Fiction/General" />
+	<book bid="67" title="Pair of Blue Eyes, A" author="Thomas Hardy" location="H/Thomas Hardy/Pair of Blue Eyes, A/" section="Fiction/General" />
+	<book bid="70" title="Pandora" author="Henry James" location="J/Henry James/Pandora/" section="Fiction/General" />
+	<book bid="71" title="Turn of the Screw, The" author="Henry James" location="J/Henry James/Turn of the Screw, The/" section="Fiction/General" />
+	<book bid="72" title="Phantom of the Opera, The" author="Gaston Leroux" location="L/Gaston Leroux/Phantom of the Opera, The/" section="Fiction/General" />
+	<book bid="73" title="Call of the Wild, The" author="Jack London" location="L/Jack London/Call of the Wild, The/" section="Fiction/Adventure-Action" />
+	<book bid="74" title="John Barleycorn" author="Jack London" location="L/Jack London/John Barleycorn/" section="Non-Fiction/General" />
+	<book bid="75" title="Martin Eden" author="Jack London" location="L/Jack London/Martin Eden/" section="Fiction/Adventure-Action" />
+	<book bid="76" title="Sea Wolf, The" author="Jack London" location="L/Jack London/Sea Wolf, The/" section="Fiction/Adventure-Action" />
+	<book bid="77" title="White Fang" author="Jack London" location="L/Jack London/White Fang/" section="Fiction/Adventure-Action" />
+	<book bid="78" title="Anne of Green Gables" author="Lucy Maud Montgomery" location="M/Lucy Maud Montgomery/Anne of Green Gables/" section="Fiction/Children" />
+	<book bid="79" title="Anne's House of Dreams" author="Lucy Maud Montgomery" location="M/Lucy Maud Montgomery/Anne's House of Dreams/" section="Fiction/Children" />
+	<book bid="80" title="Anne of Avonlea" author="Lucy Maud Montgomery" location="M/Lucy Maud Montgomery/Anne of Avonlea/" section="Fiction/Children" />
+	<book bid="81" title="Anne of The Island" author="Lucy Maud Montgomery" location="M/Lucy Maud Montgomery/Anne of The Island/" section="Fiction/Children" />
+	<book bid="82" title="Chronicles of Avonlea" author="Lucy Maud Montgomery" location="M/Lucy Maud Montgomery/Chronicles of Avonlea/" section="Fiction/Children" />
+	<book bid="83" title="Golden Road, The" author="Lucy Maud Montgomery" location="M/Lucy Maud Montgomery/Golden Road, The/" section="Fiction/Children" />
+	<book bid="84" title="Black Beauty" author="Anna Sewell" location="S/Anna Sewell/Black Beauty/" section="Fiction/Young-Adults" />
+	<book bid="85" title="Dr Jekyll and Mr Hyde" author="Robert Louis Stevenson" location="S/Robert Louis Stevenson/Dr Jekyll and Mr Hyde/" section="Fiction/Young-Adults" />
+	<book bid="86" title="Treasure Island" author="Robert Louis Stevenson" location="S/Robert Louis Stevenson/Treasure Island/" section="Fiction/Young-Adults" />
+	<book bid="87" title="Lair of the White Worm, The" author="Bram Stoker" location="S/Bram Stoker/Lair of the White Worm, The/" section="Fiction/Young-Adults" />
+	<book bid="88" title="Frankenstein" author="Mary Wollstonecraft Shelley" location="S/Mary Wollstonecraft Shelley/Frankenstein/" section="Fiction/Young-Adults" />
+	<book bid="89" title="Gulliver's Travels" author="Jonathan Swift" location="S/Jonathan Swift/Gulliver's Travels/" section="Fiction/Young-Adults" />
+	<book bid="90" title="Beauty and The Beast - and Tales of Home" author="Bayard Taylor" location="T/Bayard Taylor/Beauty and The Beast - and Tales of Home/" section="Fiction/General" />
+	<book bid="91" title="Vanity Fair" author="William Makepeace Thackary" location="T/William Makepeace Thackary/Vanity Fair/" section="Fiction/Historical" />
+	<book bid="92" title="War and Peace" author="Leo Tolstoy" location="T/Leo Tolstoy/War and Peace/" section="Fiction/General" />
+	<book bid="93" title="Tom Sawyer, The Adventures of" author="Mark Twain" location="T/Mark Twain/Tom Sawyer, The Adventures of/" section="Fiction/Young-Adults" />
+	<book bid="94" title="Connecticut Yankee in King Arthur's Court, A" author="Mark Twain" location="T/Mark Twain/Connecticut Yankee in King Arthur's Court, A/" section="Fiction/Young-Adults" />
+	<book bid="95" title="20,000 Leagues Under the Sea" author="Jules Verne" location="V/Jules Verne/20,000 Leagues Under the Sea/" section="Fiction/Young-Adults" />
+	<book bid="96" title="Around the World in 80 Days" author="Jules Verne" location="V/Jules Verne/Around the World in 80 Days/" section="Fiction/Young-Adults" />
+	<book bid="97" title="Island of Doctor Moreau, The" author="H.G. Wells" location="W/H.G. Wells/Island of Doctor Moreau, The/" section="Fiction/Science-Fiction" />
+	<book bid="98" title="First Men In The Moon, The" author="H.G. Wells" location="W/H.G. Wells/First Men In The Moon, The/" section="Fiction/Science-Fiction" />
+	<book bid="99" title="Secret Places of the Heart, The" author="H.G. Wells" location="W/H.G. Wells/Secret Places of the Heart, The/" section="Fiction/Science-Fiction" />
+	<book bid="100" title="Time Machine, The" author="H.G. Wells" location="W/H.G. Wells/Time Machine, The/" section="Fiction/Science-Fiction" />
+	<book bid="101" title="War of the Worlds, The" author="H.G. Wells" location="W/H.G. Wells/War of the Worlds, The/" section="Fiction/Science-Fiction" />
+	<book bid="102" title="World Set Free, The" author="H.G. Wells" location="W/H.G. Wells/World Set Free, The/" section="Fiction/Science-Fiction" />
+	<book bid="103" title="When the Sleeper Wakes" author="H.G. Wells" location="W/H.G. Wells/When the Sleeper Wakes/" section="Fiction/Science-Fiction" />
+	<book bid="104" title="Age of Innocence, The" author="Edith Wharton" location="W/Edith Wharton/Age of Innocence, The/" section="Fiction/General" />
+	<book bid="105" title="Night and Day" author="Virginia Woolf" location="W/Virginia Woolf/Night and Day/" section="Fiction/General" />
+	<book bid="106" title="French Revolution, The" author="Thomas Carlyle" location="C/Thomas Carlyle/French Revolution, The/" section="Non-Fiction/General" />
+	<book bid="107" title="Origin of Species, The" author="Charles Darwin" location="D/Charles Darwin/Origin of Species, The/" section="Fiction/Science-Fiction" />
+	<book bid="108" title="Walden" author="Henry David Thoreau" location="T/Henry David Thoreau/Walden/" section="Non-Fiction/General" />
+	<book bid="109" title="Andersen's Fairy Tales" author="Hans Christian Andersen" location="A/Hans Christian Andersen/Andersen's Fairy Tales/" section="Fiction/Children" />
+	<book bid="110" title="Lost Princess of Oz, The" author="L. Frank Baum" location="B/L. Frank Baum/Lost Princess of Oz, The/" section="Fiction/Children" />
+	<book bid="111" title="Glinda of Oz" author="L. Frank Baum" location="B/L. Frank Baum/Glinda of Oz/" section="Fiction/Children" />
+	<book bid="112" title="Emerald City of Oz, The" author="L. Frank Baum" location="B/L. Frank Baum/Emerald City of Oz, The/" section="Fiction/Children" />
+	<book bid="113" title="Enchanted Island of Yew, The" author="L. Frank Baum" location="B/L. Frank Baum/Enchanted Island of Yew, The/" section="Fiction/Children" />
+	<book bid="114" title="Patchwork Girl of Oz, The" author="L. Frank Baum" location="B/L. Frank Baum/Patchwork Girl of Oz, The/" section="Fiction/Children" />
+	<book bid="115" title="Rinkitink In Oz" author="L. Frank Baum" location="B/L. Frank Baum/Rinkitink In Oz/" section="Fiction/Children" />
+	<book bid="116" title="Magic of Oz, The" author="L. Frank Baum" location="B/L. Frank Baum/Magic of Oz, The/" section="Fiction/Children" />
+	<book bid="117" title="Land of Oz, The" author="L. Frank Baum" location="B/L. Frank Baum/Land of Oz, The/" section="Fiction/Children" />
+	<book bid="118" title="Ozma of Oz" author="L. Frank Baum" location="B/L. Frank Baum/Ozma of Oz/" section="Fiction/Children" />
+	<book bid="119" title="Tik-Tok of Oz" author="L. Frank Baum" location="B/L. Frank Baum/Tik-Tok of Oz/" section="Fiction/Children" />
+	<book bid="120" title="Scarecrow of Oz, The" author="L. Frank Baum" location="B/L. Frank Baum/Scarecrow of Oz, The/" section="Fiction/Children" />
+	<book bid="121" title="Tin Woodman of Oz, The" author="L. Frank Baum" location="B/L. Frank Baum/Tin Woodman of Oz, The/" section="Fiction/Children" />
+	<book bid="122" title="Road to Oz, The" author="L. Frank Baum" location="B/L. Frank Baum/Road to Oz, The/" section="Fiction/Children" />
+	<book bid="123" title="Wizard of Oz, The" author="L. Frank Baum" location="B/L. Frank Baum/Wizard of Oz, The/" section="Fiction/Children" />
+	<book bid="124" title="Paddy the Beaver, The Adventures of" author="Thornton W. Burgess" location="B/Thornton W. Burgess/Paddy the Beaver, The Adventures of/" section="Fiction/Children" />
+	<book bid="125" title="Reddy Fox, The Adventures of" author="Thornton W. Burgess" location="B/Thornton W. Burgess/Reddy Fox, The Adventures of/" section="Fiction/Children" />
+	<book bid="126" title="Alice in Wonderland" author="Lewis Carroll" location="C/Lewis Carroll/Alice in Wonderland/" section="Fiction/Children" />
+	<book bid="127" title="Through the Looking-Glass" author="Lewis Carroll" location="C/Lewis Carroll/Through the Looking-Glass/" section="Fiction/Children" />
+	<book bid="128" title="Hunting of the Snark, The" author="Lewis Carroll" location="C/Lewis Carroll/Hunting of the Snark, The/" section="Fiction/Children" />
+	<book bid="129" title="Pinocchio, The Adventures of" author="Carlo Collodi (Lorenzini)" location="C/Carlo Collodi (Lorenzini)/Pinocchio, The Adventures of/" section="Fiction/Children" />
+	<book bid="130" title="Dream Days" author="Kenneth Grahame" location="G/Kenneth Grahame/Dream Days/" section="Fiction/Children" />
+	<book bid="131" title="Golden Age, The" author="Kenneth Grahame" location="G/Kenneth Grahame/Golden Age, The/" section="Fiction/Children" />
+	<book bid="132" title="Wind in the Willows, The" author="Kenneth Grahame" location="G/Kenneth Grahame/Wind in the Willows, The/" section="Fiction/Children" />
+	<book bid="133" title="Jungle Book, The" author="Rudyard Kipling" location="K/Rudyard Kipling/Jungle Book, The/" section="Fiction/Children" />
+	<book bid="134" title="Bobbsey Twins at School, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Bobbsey Twins at School, The/" section="Fiction/Children" />
+	<book bid="135" title="Bobbsey Twins in the Country, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Bobbsey Twins in the Country, The/" section="Fiction/Children" />
+	<book bid="136" title="Five Children and It" author="Edith Nesbit" location="N/Edith Nesbit/Five Children and It/" section="Fiction/Children" />
+	<book bid="137" title="Great Big Treasury of Beatrix Potter, The" author="Beatrix Potter" location="P/Beatrix Potter/Great Big Treasury of Beatrix Potter, The/" section="Fiction/Children" />
+	<book bid="138" title="Story of the Treasure Seekers, The" author="Edith Nesbit" location="N/Edith Nesbit/Story of the Treasure Seekers, The/" section="Fiction/Children" />
+	<book bid="139" title="Heidi" author="Johanna Spyri" location="S/Johanna Spyri/Heidi/" section="Fiction/Children" />
+	<book bid="140" title="Rebecca Of Sunnybrook Farm" author="Kate Douglas Wiggin" location="W/Kate Douglas Wiggin/Rebecca Of Sunnybrook Farm/" section="Fiction/Children" />
+	<book bid="141" title="New Chronicles of Rebecca" author="Kate Douglas Wiggin" location="W/Kate Douglas Wiggin/New Chronicles of Rebecca/" section="Fiction/Children" />
+	<book bid="142" title="Divine Comedy, The" author="Alighieri Dante" location="D/Alighieri Dante/Divine Comedy, The/" section="other/Poetry" />
+	<book bid="143" title="Rime of the Ancient Mariner, The" author="Samuel Taylor Coleridge" location="C/Samuel Taylor Coleridge/Rime of the Ancient Mariner, The/" section="other/Poetry" />
+	<book bid="144" title="Odyssey (prose), The" author=" Homer" location="H/ Homer/Odyssey (prose), The/" section="other/Poetry" />
+	<book bid="145" title="Iliad (prose), The" author=" Homer" location="H/ Homer/Iliad (prose), The/" section="other/Poetry" />
+	<book bid="146" title="Evangeline" author="Henry Wadsworth Longfellow" location="L/Henry Wadsworth Longfellow/Evangeline/" section="other/Poetry" />
+	<book bid="147" title="Song of Hiawatha, The" author="Henry Wadsworth Longfellow" location="L/Henry Wadsworth Longfellow/Song of Hiawatha, The/" section="other/Poetry" />
+	<book bid="148" title="Aeneid" author=" Virgil" location="V/ Virgil/Aeneid/" section="other/Poetry" />
+	<book bid="149" title="All's Well That Ends Well" author="William Shakespeare" location="S/William Shakespeare/All's Well That Ends Well/" section="Plays/Drama" />
+	<book bid="150" title="Antony and Cleopatra" author="William Shakespeare" location="S/William Shakespeare/Antony and Cleopatra/" section="Plays/Drama" />
+	<book bid="151" title="As You Like It" author="William Shakespeare" location="S/William Shakespeare/As You Like It/" section="Plays/Drama" />
+	<book bid="152" title="Comedy of Errors" author="William Shakespeare" location="S/William Shakespeare/Comedy of Errors/" section="Plays/Drama" />
+	<book bid="153" title="Coriolanus" author="William Shakespeare" location="S/William Shakespeare/Coriolanus/" section="Plays/Drama" />
+	<book bid="154" title="Hamlet" author="William Shakespeare" location="S/William Shakespeare/Hamlet/" section="Plays/Drama" />
+	<book bid="155" title="Julius Caesar" author="William Shakespeare" location="S/William Shakespeare/Julius Caesar/" section="Plays/Drama" />
+	<book bid="156" title="MacBeth" author="William Shakespeare" location="S/William Shakespeare/MacBeth/" section="Plays/Drama" />
+	<book bid="157" title="Merchant of Venice, The" author="William Shakespeare" location="S/William Shakespeare/Merchant of Venice, The/" section="Plays/Drama" />
+	<book bid="158" title="Merry Wives of Windsor, The" author="William Shakespeare" location="S/William Shakespeare/Merry Wives of Windsor, The/" section="Plays/Drama" />
+	<book bid="159" title="Much Ado About Nothing" author="William Shakespeare" location="S/William Shakespeare/Much Ado About Nothing/" section="Plays/Drama" />
+	<book bid="160" title="Othello" author="William Shakespeare" location="S/William Shakespeare/Othello/" section="Plays/Drama" />
+	<book bid="161" title="Romeo and Juliet" author="William Shakespeare" location="S/William Shakespeare/Romeo and Juliet/" section="Plays/Drama" />
+	<book bid="162" title="Taming of the Shrew, The" author="William Shakespeare" location="S/William Shakespeare/Taming of the Shrew, The/" section="Plays/Drama" />
+	<book bid="163" title="Tempest, The" author="William Shakespeare" location="S/William Shakespeare/Tempest, The/" section="Plays/Drama" />
+	<book bid="164" title="Winter's Tale, The" author="William Shakespeare" location="S/William Shakespeare/Winter's Tale, The/" section="Plays/Drama" />
+	<book bid="217" title="Daisy Miller" author="Henry James" location="J/Henry James/Daisy Miller/" section="Fiction/General" />
+	<book bid="219" title="Old Mother West Wind" author="Thornton W. Burgess" location="B/Thornton W. Burgess/Old Mother West Wind/" section="Fiction/Children" />
+	<book bid="220" title="Out of Time's Abyss" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Out of Time's Abyss/" section="Fiction/Science-Fiction" />
+	<book bid="221" title="Bleak House" author="Charles Dickens" location="D/Charles Dickens/Bleak House/" section="Fiction/Young-Adults" />
+	<book bid="222" title="Songs of Innocence and Experience" author="William Blake" location="B/William Blake/Songs of Innocence and Experience/" section="other/Poetry" />
+	<book bid="244" title="Further Chronicles Of Avonlea" author="Lucy Maud Montgomery" location="M/Lucy Maud Montgomery/Further Chronicles Of Avonlea/" section="Fiction/Children" />
+	<book bid="245" title="Professor, The" author="Charlotte Bronte" location="B/Charlotte Bronte/Professor, The/" section="Fiction/General" />
+	<book bid="246" title="Paradise Lost" author="John Milton" location="M/John Milton/Paradise Lost/" section="other/Poetry" />
+	<book bid="265" title="Way of All Flesh, The" author="Samuel Butler" location="B/Samuel Butler/Way of All Flesh, The/" section="Fiction/General" />
+	<book bid="266" title="Anna Karenina" author="Leo Tolstoy" location="T/Leo Tolstoy/Anna Karenina/" section="Fiction/General" />
+	<book bid="267" title="Silas Marner" author="George Eliot" location="E/George Eliot/Silas Marner/" section="Fiction/General" />
+	<book bid="268" title="Les Miserables" author="Victor Hugo" location="H/Victor Hugo/Les Miserables/" section="Fiction/General" />
+	<book bid="269" title="Spell of the Yukon, The" author="Robert Service" location="S/Robert Service/Spell of the Yukon, The/" section="other/Poetry" />
+	<book bid="270" title="Brother Jacob" author="George Eliot" location="E/George Eliot/Brother Jacob/" section="Fiction/General" />
+	<book bid="271" title="Beast in the Jungle, The" author="Henry James" location="J/Henry James/Beast in the Jungle, The/" section="Fiction/General" />
+	<book bid="272" title="People Out of Time" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/People Out of Time/" section="Fiction/Science-Fiction" />
+	<book bid="273" title="Warlord of Mars, The" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Warlord of Mars, The/" section="Fiction/Science-Fiction" />
+	<book bid="274" title="Allan Quatermain" author="H. Rider Haggard" location="H/H. Rider Haggard/Allan Quatermain/" section="Fiction/Adventure-Action" />
+	<book bid="275" title="Confidence" author="Henry James" location="J/Henry James/Confidence/" section="Fiction/General" />
+	<book bid="276" title="Brothers Karamazov, The" author="Fyodor Dostoevsky" location="D/Fyodor Dostoevsky/Brothers Karamazov, The/" section="Fiction/General" />
+	<book bid="277" title="Robin Hood, The Merry Adventures of" author="Howard Pyle" location="P/Howard Pyle/Robin Hood, The Merry Adventures of/" section="Fiction/Young-Adults" />
+	<book bid="278" title="Agnes Grey" author="Anne Bronte" location="B/Anne Bronte/Agnes Grey/" section="Fiction/General" />
+	<book bid="279" title="Gambler, The" author="Fyodor Dostoevsky" location="D/Fyodor Dostoevsky/Gambler, The/" section="Fiction/General" />
+	<book bid="280" title="Gods of Mars, The" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Gods of Mars, The/" section="Fiction/Science-Fiction" />
+	<book bid="281" title="Mainwaring Affair, That" author="Maynard Barbour" location="B/Maynard Barbour/Mainwaring Affair, That/" section="Fiction/General" />
+	<book bid="287" title="Jack and Jill" author="Louisa May Alcott" location="A/Louisa May Alcott/Jack and Jill/" section="Fiction/Young-Adults" />
+	<book bid="288" title="Further Adventures of Robinson Crusoe, The" author="Daniel Defoe" location="D/Daniel Defoe/Further Adventures of Robinson Crusoe, The/" section="Fiction/General" />
+	<book bid="289" title="Dawn of A To-morrow, The" author="Frances Hodgson Burnett" location="B/Frances Hodgson Burnett/Dawn of A To-morrow, The/" section="Fiction/Children" />
+	<book bid="290" title="Last of the Mohicans, The" author="James Fenimore Cooper" location="C/James Fenimore Cooper/Last of the Mohicans, The/" section="Fiction/Historical" />
+	<book bid="291" title="Lorna Doone - A Romance of Exmoor" author="R. D. Blackmore" location="B/R. D. Blackmore/Lorna Doone - A Romance of Exmoor/" section="Fiction/General" />
+	<book bid="292" title="Vicomte de Bragelonne, The" author="Alexandre Dumas" location="D/Alexandre Dumas/Vicomte de Bragelonne, The/" section="Fiction/Adventure-Action" />
+	<book bid="293" title="Thuvia, Maid of Mars" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Thuvia, Maid of Mars/" section="Fiction/Science-Fiction" />
+	<book bid="294" title="Pellucidar" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Pellucidar/" section="Fiction/Science-Fiction" />
+	<book bid="295" title="Death of Ivan Ilych, The" author="Leo Tolstoy" location="T/Leo Tolstoy/Death of Ivan Ilych, The/" section="Fiction/General" />
+	<book bid="297" title="Damsel in Distress, A" author="Pelham Grenville Wodehouse" location="W/Pelham Grenville Wodehouse/Damsel in Distress, A/" section="Fiction/General" />
+	<book bid="298" title="Summer" author="Edith Wharton" location="W/Edith Wharton/Summer/" section="Fiction/General" />
+	<book bid="299" title="Ivanhoe" author="Walter Scott" location="S/Walter Scott/Ivanhoe/" section="Fiction/Young-Adults" />
+	<book bid="300" title="King Henry VI Part I" author="William Shakespeare" location="S/William Shakespeare/King Henry VI Part I/" section="Plays/Drama" />
+	<book bid="301" title="King Henry VI Part II" author="William Shakespeare" location="S/William Shakespeare/King Henry VI Part II/" section="Plays/Drama" />
+	<book bid="302" title="King Henry VI Part III" author="William Shakespeare" location="S/William Shakespeare/King Henry VI Part III/" section="Plays/Drama" />
+	<book bid="303" title="Nicholas Nickleby" author="Charles Dickens" location="D/Charles Dickens/Nicholas Nickleby/" section="Fiction/Young-Adults" />
+	<book bid="309" title="Moby Dick" author="Herman Melville" location="M/Herman Melville/Moby Dick/" section="Fiction/Adventure-Action" />
+	<book bid="310" title="Aesop's Fables" author=" Aesop" location="A/ Aesop/Aesop's Fables/" section="Fiction/Children" />
+	<book bid="311" title="Outlaw of Torn, The" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Outlaw of Torn, The/" section="Fiction/Science-Fiction" />
+	<book bid="312" title="Monster Men, The" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Monster Men, The/" section="Fiction/Science-Fiction" />
+	<book bid="313" title="Tenant of Wildfell Hall, The" author="Anne Bronte" location="B/Anne Bronte/Tenant of Wildfell Hall, The/" section="Fiction/General" />
+	<book bid="327" title="Howards End" author="E. M. Forster" location="F/E. M. Forster/Howards End/" section="Fiction/General" />
+	<book bid="328" title="Father Sergius" author="Leo Tolstoy" location="T/Leo Tolstoy/Father Sergius/" section="Fiction/General" />
+	<book bid="329" title="His Own People" author="Booth Tarkington" location="T/Booth Tarkington/His Own People/" section="Fiction/General" />
+	<book bid="330" title="Hunchback of Notre Dame, The" author="Victor Hugo" location="H/Victor Hugo/Hunchback of Notre Dame, The/" section="Fiction/General" />
+	<book bid="331" title="Little Duke, The" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Little Duke, The/" section="Fiction/General" />
+	<book bid="332" title="Memoirs of Sherlock Holmes" author="Arthur Conan Doyle" location="D/Arthur Conan Doyle/Memoirs of Sherlock Holmes/" section="Fiction/Mystery" />
+	<book bid="333" title="On the Duty of Civil Disobedience" author="Henry David Thoreau" location="T/Henry David Thoreau/On the Duty of Civil Disobedience/" section="Non-Fiction/General" />
+	<book bid="334" title="Wouldbegoods, The" author="Edith Nesbit" location="N/Edith Nesbit/Wouldbegoods, The/" section="Fiction/Children" />
+	<book bid="335" title="Walking" author="Henry David Thoreau" location="T/Henry David Thoreau/Walking/" section="Non-Fiction/General" />
+	<book bid="336" title="Caged Lion, The" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Caged Lion, The/" section="Fiction/General" />
+	<book bid="337" title="Tom Swift And His Motor-Boat" author="Victor Appleton" location="A/Victor Appleton/Tom Swift And His Motor-Boat/" section="Fiction/Children" />
+	<book bid="338" title="Tom Swift and His Airship" author="Victor Appleton" location="A/Victor Appleton/Tom Swift and His Airship/" section="Fiction/Children" />
+	<book bid="339" title="Prisoner of Zenda, The" author="Anthony Hope" location="H/Anthony Hope/Prisoner of Zenda, The/" section="Fiction/General" />
+	<book bid="340" title="Tom Swift And His Submarine Boat" author="Victor Appleton" location="A/Victor Appleton/Tom Swift And His Submarine Boat/" section="Fiction/Children" />
+	<book bid="341" title="Tom Swift And His Electric Runabout" author="Victor Appleton" location="A/Victor Appleton/Tom Swift And His Electric Runabout/" section="Fiction/Children" />
+	<book bid="357" title="Ivory Child, The" author="H. Rider Haggard" location="H/H. Rider Haggard/Ivory Child, The/" section="Fiction/Adventure-Action" />
+	<book bid="358" title="Lavender and Old Lace" author="Myrtle Reed" location="R/Myrtle Reed/Lavender and Old Lace/" section="Fiction/General" />
+	<book bid="359" title="Where There's A Will" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Where There's A Will/" section="Fiction/Young-Adults" />
+	<book bid="360" title="Tom Swift And His Sky Racer" author="Victor Appleton" location="A/Victor Appleton/Tom Swift And His Sky Racer/" section="Fiction/Children" />
+	<book bid="361" title="Tom Swift And His Air Glider" author="Victor Appleton" location="A/Victor Appleton/Tom Swift And His Air Glider/" section="Fiction/Children" />
+	<book bid="362" title="Insidious Dr Fu Manchu, The" author="Sax Rohmer" location="R/Sax Rohmer/Insidious Dr Fu Manchu, The/" section="Fiction/General" />
+	<book bid="363" title="Return of Dr Fu-Manchu, The" author="Sax Rohmer" location="R/Sax Rohmer/Return of Dr Fu-Manchu, The/" section="Fiction/General" />
+	<book bid="364" title="Huckleberry Finn, The Adventures of" author="Mark Twain" location="T/Mark Twain/Huckleberry Finn, The Adventures of/" section="Fiction/Young-Adults" />
+	<book bid="365" title="Tom Swift And His Wizard Camera" author="Victor Appleton" location="A/Victor Appleton/Tom Swift And His Wizard Camera/" section="Fiction/Children" />
+	<book bid="366" title="Guardian Angel, The" author="Oliver Wendell Holmes" location="H/Oliver Wendell Holmes/Guardian Angel, The/" section="Fiction/General" />
+	<book bid="367" title="Brethren, The" author="H. Rider Haggard" location="H/H. Rider Haggard/Brethren, The/" section="Fiction/Adventure-Action" />
+	<book bid="368" title="Dead Men Tell No Tales" author="E.W. Hornung" location="H/E.W. Hornung/Dead Men Tell No Tales/" section="Fiction/Mystery" />
+	<book bid="369" title="Golden Fleece, The" author="Julian Hawthorne" location="H/Julian Hawthorne/Golden Fleece, The/" section="Fiction/General" />
+	<book bid="370" title="Green Mummy, The" author="Fergus Hume" location="H/Fergus Hume/Green Mummy, The/" section="Fiction/Mystery" />
+	<book bid="396" title="Tom Swift And His Giant Cannon" author="Victor Appleton" location="A/Victor Appleton/Tom Swift And His Giant Cannon/" section="Fiction/Children" />
+	<book bid="397" title="Return of Sherlock Holmes, The" author="Arthur Conan Doyle" location="D/Arthur Conan Doyle/Return of Sherlock Holmes, The/" section="Fiction/Mystery" />
+	<book bid="398" title="Silent Bullet, The" author="Arthur B. Reeve" location="R/Arthur B. Reeve/Silent Bullet, The/" section="Fiction/Mystery" />
+	<book bid="399" title="Warden, The" author="Anthony Trollope" location="T/Anthony Trollope/Warden, The/" section="Fiction/General" />
+	<book bid="400" title="Old Curiosity Shop, The" author="Charles Dickens" location="D/Charles Dickens/Old Curiosity Shop, The/" section="Fiction/Young-Adults" />
+	<book bid="401" title="Dracula" author="Bram Stoker" location="S/Bram Stoker/Dracula/" section="Fiction/Young-Adults" />
+	<book bid="402" title="Bobbsey Twins, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Bobbsey Twins, The/" section="Fiction/Children" />
+	<book bid="403" title="Tom Swift And His Aerial Warship" author="Victor Appleton" location="A/Victor Appleton/Tom Swift And His Aerial Warship/" section="Fiction/Children" />
+	<book bid="404" title="Ann Veronica" author="H.G. Wells" location="W/H.G. Wells/Ann Veronica/" section="Fiction/General" />
+	<book bid="405" title="Tess of the d'Urbervilles" author="Thomas Hardy" location="H/Thomas Hardy/Tess of the d'Urbervilles/" section="Fiction/General" />
+	<book bid="406" title="Resurrection" author="Leo Tolstoy" location="T/Leo Tolstoy/Resurrection/" section="Fiction/General" />
+	<book bid="407" title="Typee- A Romance of the South Sea" author="Herman Melville" location="M/Herman Melville/Typee- A Romance of the South Sea/" section="Fiction/Adventure-Action" />
+	<book bid="408" title="Tom Swift And His Big Tunnel" author="Victor Appleton" location="A/Victor Appleton/Tom Swift And His Big Tunnel/" section="Fiction/Children" />
+	<book bid="409" title="Story of the Amulet, The" author="Edith Nesbit" location="N/Edith Nesbit/Story of the Amulet, The/" section="Fiction/Children" />
+	<book bid="410" title="Man in the Iron Mask, The" author="Alexandre Dumas" location="D/Alexandre Dumas/Man in the Iron Mask, The/" section="Fiction/Adventure-Action" />
+	<book bid="411" title="Sight Unseen" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Sight Unseen/" section="Fiction/Young-Adults" />
+	<book bid="412" title="Idiot, The" author="Fyodor Dostoevsky" location="D/Fyodor Dostoevsky/Idiot, The/" section="Fiction/General" />
+	<book bid="413" title="Other People's Money" author="Emile Gaboriau" location="G/Emile Gaboriau/Other People's Money/" section="Fiction/General" />
+	<book bid="414" title="Notes from the Underground" author="Fyodor Dostoevsky" location="D/Fyodor Dostoevsky/Notes from the Underground/" section="Fiction/General" />
+	<book bid="415" title="Tom Swift And His War Tank" author="Victor Appleton" location="A/Victor Appleton/Tom Swift And His War Tank/" section="Fiction/Children" />
+	<book bid="416" title="Tom Swift and His Air Scout" author="Victor Appleton" location="A/Victor Appleton/Tom Swift and His Air Scout/" section="Fiction/Children" />
+	<book bid="417" title="Cabin Fever" author="B.M. Bower" location="B/B.M. Bower/Cabin Fever/" section="Fiction/Westerns" />
+	<book bid="418" title="Child of Storm" author="H. Rider Haggard" location="H/H. Rider Haggard/Child of Storm/" section="Fiction/Adventure-Action" />
+	<book bid="419" title="Frivolous Cupid" author="Anthony Hope" location="H/Anthony Hope/Frivolous Cupid/" section="Fiction/General" />
+	<book bid="420" title="Kingdom of the Blind, The" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Kingdom of the Blind, The/" section="Fiction/General" />
+	<book bid="421" title="Scarlet Pimpernel, The" author="Baroness Emmuska Orczy" location="O/Baroness Emmuska Orczy/Scarlet Pimpernel, The/" section="Fiction/General" />
+	<book bid="422" title="Phoenix and the Carpet, The" author="Edith Nesbit" location="N/Edith Nesbit/Phoenix and the Carpet, The/" section="Fiction/Children" />
+	<book bid="423" title="Hermit of Far End, The" author="Margaret Pedler" location="P/Margaret Pedler/Hermit of Far End, The/" section="Fiction/General" />
+	<book bid="424" title="Railway Children, The" author="Edith Nesbit" location="N/Edith Nesbit/Railway Children, The/" section="Fiction/Children" />
+	<book bid="425" title="Jungle, The" author="Upton Sinclair" location="S/Upton Sinclair/Jungle, The/" section="Fiction/General" />
+	<book bid="426" title="Boyhood" author="Leo Tolstoy" location="T/Leo Tolstoy/Boyhood/" section="Fiction/General" />
+	<book bid="427" title="Breaking Point, The" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Breaking Point, The/" section="Fiction/Young-Adults" />
+	<book bid="428" title="Barchester Towers" author="Anthony Trollope" location="T/Anthony Trollope/Barchester Towers/" section="Fiction/General" />
+	<book bid="429" title="Childhood" author="Leo Tolstoy" location="T/Leo Tolstoy/Childhood/" section="Fiction/General" />
+	<book bid="430" title="Clue of the Twisted Candle, The" author="Edgar Wallace" location="W/Edgar Wallace/Clue of the Twisted Candle, The/" section="Fiction/General" />
+	<book bid="431" title="Confession, The" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Confession, The/" section="Fiction/Young-Adults" />
+	<book bid="432" title="Cumberland Vendetta, A" author="John Fox Jr." location="F/John Fox Jr./Cumberland Vendetta, A/" section="Fiction/Westerns" />
+	<book bid="433" title="Castle of Otranto, The" author="Horace Walpole" location="W/Horace Walpole/Castle of Otranto, The/" section="Fiction/General" />
+	<book bid="434" title="Dr Thorne" author="Anthony Trollope" location="T/Anthony Trollope/Dr Thorne/" section="Fiction/General" />
+	<book bid="435" title="Dove in the Eagle's Nest, The" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Dove in the Eagle's Nest, The/" section="Fiction/General" />
+	<book bid="436" title="Men of Iron" author="Howard Pyle" location="P/Howard Pyle/Men of Iron/" section="Fiction/Young-Adults" />
+	<book bid="437" title="Quest of the Sacred Slipper, The" author="Sax Rohmer" location="R/Sax Rohmer/Quest of the Sacred Slipper, The/" section="Fiction/General" />
+	<book bid="438" title="Voyage Out, The" author="Virginia Woolf" location="W/Virginia Woolf/Voyage Out, The/" section="Fiction/General" />
+	<book bid="439" title="Yellow Claw, The" author="Sax Rohmer" location="R/Sax Rohmer/Yellow Claw, The/" section="Fiction/General" />
+	<book bid="440" title="Tom Swift And His Undersea Search" author="Victor Appleton" location="A/Victor Appleton/Tom Swift And His Undersea Search/" section="Fiction/Children" />
+	<book bid="441" title="Old Peabody Pew, The" author="Kate Douglas Wiggin" location="W/Kate Douglas Wiggin/Old Peabody Pew, The/" section="Fiction/Children" />
+	<book bid="442" title="Innocence of Father Brown, The" author="Gilbert K. Chesterton" location="C/Gilbert K. Chesterton/Innocence of Father Brown, The/" section="Fiction/Christian" />
+	<book bid="443" title="Kidnapped" author="Robert Louis Stevenson" location="S/Robert Louis Stevenson/Kidnapped/" section="Fiction/Young-Adults" />
+	<book bid="444" title="Lifted Veil, The" author="George Eliot" location="E/George Eliot/Lifted Veil, The/" section="Fiction/General" />
+	<book bid="484" title="After House, The" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/After House, The/" section="Fiction/Young-Adults" />
+	<book bid="485" title="Man Who Knew Too Much, The" author="Gilbert K. Chesterton" location="C/Gilbert K. Chesterton/Man Who Knew Too Much, The/" section="Fiction/Christian" />
+	<book bid="486" title="Piccadilly Jim" author="Pelham Grenville Wodehouse" location="W/Pelham Grenville Wodehouse/Piccadilly Jim/" section="Fiction/General" />
+	<book bid="487" title="Up From Slavery- An Autobiography" author="Booker T. Washington" location="W/Booker T. Washington/Up From Slavery- An Autobiography/" section="Non-Fiction/General" />
+	<book bid="488" title="Martin Chuzzlewit" author="Charles Dickens" location="D/Charles Dickens/Martin Chuzzlewit/" section="Fiction/Young-Adults" />
+	<book bid="489" title="Tom Swift in the Land of Wonders" author="Victor Appleton" location="A/Victor Appleton/Tom Swift in the Land of Wonders/" section="Fiction/Children" />
+	<book bid="490" title="Dombey and Son" author="Charles Dickens" location="D/Charles Dickens/Dombey and Son/" section="Fiction/Young-Adults" />
+	<book bid="491" title="Communist Manifesto, The" author="Karl Marx" location="M/Karl Marx/Communist Manifesto, The/" section="Non-Fiction/General" />
+	<book bid="492" title="An Old-fashioned Girl" author="Louisa May Alcott" location="A/Louisa May Alcott/An Old-fashioned Girl/" section="Fiction/Young-Adults" />
+	<book bid="493" title="Prime Minister, The" author="Anthony Trollope" location="T/Anthony Trollope/Prime Minister, The/" section="Fiction/General" />
+	<book bid="494" title="Paradise Regained" author="John Milton" location="M/John Milton/Paradise Regained/" section="other/Poetry" />
+	<book bid="495" title="Cricket on the Hearth, The" author="Charles Dickens" location="D/Charles Dickens/Cricket on the Hearth, The/" section="Fiction/Young-Adults" />
+	<book bid="509" title="Amazing Interlude, The" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Amazing Interlude, The/" section="Fiction/Young-Adults" />
+	<book bid="510" title="Puppet Crown, The" author="Harold MacGrath" location="M/Harold MacGrath/Puppet Crown, The/" section="Fiction/General" />
+	<book bid="511" title="Red Acorn, The" author="John McElroy" location="M/John McElroy/Red Acorn, The/" section="Fiction/General" />
+	<book bid="524" title="Malefactor, The" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Malefactor, The/" section="Fiction/General" />
+	<book bid="525" title="Love Songs" author="Sara Teasdale" location="T/Sara Teasdale/Love Songs/" section="other/Poetry" />
+	<book bid="538" title="Room With A View, A" author="E. M. Forster" location="F/E. M. Forster/Room With A View, A/" section="Fiction/General" />
+	<book bid="539" title="Tom Swift Among The Fire Fighters" author="Victor Appleton" location="A/Victor Appleton/Tom Swift Among The Fire Fighters/" section="Fiction/Children" />
+	<book bid="540" title="Education of Henry Adams, The" author="Henry Adams" location="A/Henry Adams/Education of Henry Adams, The/" section="Non-Fiction/General" />
+	<book bid="551" title="Tom Swift And His Electric Locomotive" author="Victor Appleton" location="A/Victor Appleton/Tom Swift And His Electric Locomotive/" section="Fiction/Children" />
+	<book bid="552" title="Little Dorrit" author="Charles Dickens" location="D/Charles Dickens/Little Dorrit/" section="Fiction/Young-Adults" />
+	<book bid="553" title="Rose in Bloom" author="Louisa May Alcott" location="A/Louisa May Alcott/Rose in Bloom/" section="Fiction/Young-Adults" />
+	<book bid="563" title="King Richard III" author="William Shakespeare" location="S/William Shakespeare/King Richard III/" section="Plays/Drama" />
+	<book bid="564" title="Love's Labour's Lost" author="William Shakespeare" location="S/William Shakespeare/Love's Labour's Lost/" section="Plays/Drama" />
+	<book bid="565" title="Blue Lagoon- A Romance, The" author="Henry De Vere Stacpoole" location="S/Henry De Vere Stacpoole/Blue Lagoon- A Romance, The/" section="Fiction/General" />
+	<book bid="574" title="Idylls of the King" author="Lord Alfred Tennyson" location="T/Lord Alfred Tennyson/Idylls of the King/" section="other/Poetry" />
+	<book bid="575" title="Marm Lisa" author="Kate Douglas Wiggin" location="W/Kate Douglas Wiggin/Marm Lisa/" section="Fiction/Children" />
+	<book bid="576" title="Woman in the Alcove, The" author="Anna Katharine Green" location="G/Anna Katharine Green/Woman in the Alcove, The/" section="Fiction/Mystery" />
+	<book bid="585" title="Adam Bede" author="George Eliot" location="E/George Eliot/Adam Bede/" section="Fiction/General" />
+	<book bid="586" title="Absentee, The" author="Maria Edgeworth" location="E/Maria Edgeworth/Absentee, The/" section="Fiction/General" />
+	<book bid="587" title="Caught In The Net" author="Emile Gaboriau" location="G/Emile Gaboriau/Caught In The Net/" section="Fiction/General" />
+	<book bid="597" title="Last of the Plainsmen, The" author="Zane Grey" location="G/Zane Grey/Last of the Plainsmen, The/" section="Fiction/Westerns" />
+	<book bid="598" title="All Roads Lead to Calvary" author="Jerome K. Jerome" location="J/Jerome K. Jerome/All Roads Lead to Calvary/" section="Fiction/General" />
+	<book bid="599" title="Spirit of the Border, The" author="Zane Grey" location="G/Zane Grey/Spirit of the Border, The/" section="Fiction/Westerns" />
+	<book bid="615" title="Social Contract or Principles of Political Right, The" author="Jean Jacques Rousseau" location="R/Jean Jacques Rousseau/Social Contract or Principles of Political Right, The/" section="Non-Fiction/General" />
+	<book bid="616" title="Heritage of the Desert, The" author="Zane Grey" location="G/Zane Grey/Heritage of the Desert, The/" section="Fiction/Westerns" />
+	<book bid="629" title="McTeague" author="Frank Norris" location="N/Frank Norris/McTeague/" section="Fiction/General" />
+	<book bid="630" title="Mystery of Orcival, The" author="Emile Gaboriau" location="G/Emile Gaboriau/Mystery of Orcival, The/" section="Fiction/General" />
+	<book bid="631" title="Salammbo" author="Gustave Flaubert" location="F/Gustave Flaubert/Salammbo/" section="Fiction/General" />
+	<book bid="642" title="Of Human Bondage" author="Somerset Maugham" location="M/Somerset Maugham/Of Human Bondage/" section="Fiction/General" />
+	<book bid="643" title="Hard Times" author="Charles Dickens" location="D/Charles Dickens/Hard Times/" section="Fiction/Young-Adults" />
+	<book bid="644" title="Little Men" author="Louisa May Alcott" location="A/Louisa May Alcott/Little Men/" section="Fiction/Young-Adults" />
+	<book bid="654" title="Desert Gold" author="Zane Grey" location="G/Zane Grey/Desert Gold/" section="Fiction/Westerns" />
+	<book bid="655" title="Call of the Canyon, The" author="Zane Grey" location="G/Zane Grey/Call of the Canyon, The/" section="Fiction/Westerns" />
+	<book bid="656" title="Reef, The" author="Edith Wharton" location="W/Edith Wharton/Reef, The/" section="Fiction/General" />
+	<book bid="666" title="Three Taverns, The" author="Edwin Arlington Robinson" location="R/Edwin Arlington Robinson/Three Taverns, The/" section="other/Poetry" />
+	<book bid="667" title="Champdoce Mystery, The" author="Emile Gaboriau" location="G/Emile Gaboriau/Champdoce Mystery, The/" section="Fiction/General" />
+	<book bid="668" title="Man against the Sky, The" author="Edwin Arlington Robinson" location="R/Edwin Arlington Robinson/Man against the Sky, The/" section="other/Poetry" />
+	<book bid="679" title="Circular Staircase, The" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Circular Staircase, The/" section="Fiction/Young-Adults" />
+	<book bid="680" title="Knight of the Cumberland, A" author="John Fox Jr." location="F/John Fox Jr./Knight of the Cumberland, A/" section="Fiction/Westerns" />
+	<book bid="681" title="Fire-Tongue" author="Sax Rohmer" location="R/Sax Rohmer/Fire-Tongue/" section="Fiction/General" />
+	<book bid="691" title="King's Jackal, The" author="Richard Harding Davis" location="D/Richard Harding Davis/King's Jackal, The/" section="Fiction/General" />
+	<book bid="692" title="My Lady Caprice" author="Jeffrey Farnol" location="F/Jeffrey Farnol/My Lady Caprice/" section="Fiction/Historical" />
+	<book bid="693" title="Light of Western Stars, The" author="Zane Grey" location="G/Zane Grey/Light of Western Stars, The/" section="Fiction/Westerns" />
+	<book bid="694" title="Strange Disappearance, A" author="Anna Katharine Green" location="G/Anna Katharine Green/Strange Disappearance, A/" section="Fiction/Mystery" />
+	<book bid="695" title="Street of Seven Stars, The" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Street of Seven Stars, The/" section="Fiction/Young-Adults" />
+	<book bid="703" title="Adventure" author="Jack London" location="L/Jack London/Adventure/" section="Fiction/Adventure-Action" />
+	<book bid="704" title="Game, The" author="Jack London" location="L/Jack London/Game, The/" section="Fiction/Adventure-Action" />
+	<book bid="712" title="Rainbow Valley" author="Lucy Maud Montgomery" location="M/Lucy Maud Montgomery/Rainbow Valley/" section="Fiction/Children" />
+	<book bid="713" title="Story Girl, The" author="Lucy Maud Montgomery" location="M/Lucy Maud Montgomery/Story Girl, The/" section="Fiction/Children" />
+	<book bid="723" title="King John" author="William Shakespeare" location="S/William Shakespeare/King John/" section="Plays/Drama" />
+	<book bid="724" title="Man in Lower Ten, The" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Man in Lower Ten, The/" section="Fiction/Young-Adults" />
+	<book bid="731" title="Mysteries of Udolpho, The" author="Ann Radcliffe" location="R/Ann Radcliffe/Mysteries of Udolpho, The/" section="Fiction/General" />
+	<book bid="732" title="King Richard II" author="William Shakespeare" location="S/William Shakespeare/King Richard II/" section="Plays/Drama" />
+	<book bid="733" title="You Know Me Al" author="Ring Lardner" location="L/Ring Lardner/You Know Me Al/" section="Fiction/General" />
+	<book bid="742" title="Ways of Men, The" author="Eliot Gregory" location="G/Eliot Gregory/Ways of Men, The/" section="Fiction/General" />
+	<book bid="743" title="Sword Blades and Poppy Seed" author="Amy Lowell" location="L/Amy Lowell/Sword Blades and Poppy Seed/" section="other/Poetry" />
+	<book bid="752" title="Just Folks" author="Edgar A. Guest" location="G/Edgar A. Guest/Just Folks/" section="other/Poetry" />
+	<book bid="753" title="Big Town, The" author="Ring Lardner" location="L/Ring Lardner/Big Town, The/" section="Fiction/General" />
+	<book bid="762" title="Gullible's Travels, Etc" author="Ring Lardner" location="L/Ring Lardner/Gullible's Travels, Etc/" section="Fiction/General" />
+	<book bid="763" title="Life of Timon of Athens, The" author="William Shakespeare" location="S/William Shakespeare/Life of Timon of Athens, The/" section="Plays/Drama" />
+	<book bid="770" title="Wealth of Nations" author="Adam Smith" location="S/Adam Smith/Wealth of Nations/" section="Non-Fiction/General" />
+	<book bid="771" title="Mutiny of the Elsinore, The" author="Jack London" location="L/Jack London/Mutiny of the Elsinore, The/" section="Fiction/Adventure-Action" />
+	<book bid="782" title="Tartuffe or the Hypocrite" author="Jean Baptiste Poquelin Moliere" location="M/Jean Baptiste Poquelin Moliere/Tartuffe or the Hypocrite/" section="Plays/Drama" />
+	<book bid="783" title="Ivanoff" author="Anton Chekhov" location="C/Anton Chekhov/Ivanoff/" section="Plays/Drama" />
+	<book bid="784" title="Amphitryon" author="Jean Baptiste Poquelin Moliere" location="M/Jean Baptiste Poquelin Moliere/Amphitryon/" section="Plays/Drama" />
+	<book bid="797" title="An Ideal Husband" author="Oscar Wilde" location="W/Oscar Wilde/An Ideal Husband/" section="Plays/Drama" />
+	<book bid="798" title="Importance of Being Earnest, The" author="Oscar Wilde" location="W/Oscar Wilde/Importance of Being Earnest, The/" section="Plays/Drama" />
+	<book bid="807" title="King Henry IV Part I" author="William Shakespeare" location="S/William Shakespeare/King Henry IV Part I/" section="Plays/Drama" />
+	<book bid="808" title="King Henry IV Part II" author="William Shakespeare" location="S/William Shakespeare/King Henry IV Part II/" section="Plays/Drama" />
+	<book bid="815" title="Count's Millions, The" author="Emile Gaboriau" location="G/Emile Gaboriau/Count's Millions, The/" section="Fiction/General" />
+	<book bid="816" title="Baron Trigault's Vengeance" author="Emile Gaboriau" location="G/Emile Gaboriau/Baron Trigault's Vengeance/" section="Fiction/General" />
+	<book bid="825" title="King Lear" author="William Shakespeare" location="S/William Shakespeare/King Lear/" section="Plays/Drama" />
+	<book bid="826" title="Before Adam" author="Jack London" location="L/Jack London/Before Adam/" section="Fiction/Science-Fiction" />
+	<book bid="827" title="International Episode, An" author="Henry James" location="J/Henry James/International Episode, An/" section="Fiction/General" />
+	<book bid="828" title="Mystery of the Yellow Room, The" author="Gaston Leroux" location="L/Gaston Leroux/Mystery of the Yellow Room, The/" section="Fiction/General" />
+	<book bid="829" title="Initials Only" author="Anna Katharine Green" location="G/Anna Katharine Green/Initials Only/" section="Fiction/Mystery" />
+	<book bid="830" title="Iron Heel, The" author="Jack London" location="L/Jack London/Iron Heel, The/" section="Fiction/Science-Fiction" />
+	<book bid="840" title="Ambassadors, The" author="Henry James" location="J/Henry James/Ambassadors, The/" section="Fiction/General" />
+	<book bid="841" title="Massacre at Paris" author="Christopher Marlowe" location="M/Christopher Marlowe/Massacre at Paris/" section="Plays/Drama" />
+	<book bid="850" title="Wives And Daughters" author="Elizabeth Gaskell" location="G/Elizabeth Gaskell/Wives And Daughters/" section="Fiction/General" />
+	<book bid="851" title="Middle Class Gentleman, The" author="Jean Baptiste Poquelin Moliere" location="M/Jean Baptiste Poquelin Moliere/Middle Class Gentleman, The/" section="Plays/Drama" />
+	<book bid="852" title="Troilus and Cressida" author="William Shakespeare" location="S/William Shakespeare/Troilus and Cressida/" section="Plays/Drama" />
+	<book bid="853" title="Measure for Measure" author="William Shakespeare" location="S/William Shakespeare/Measure for Measure/" section="Plays/Drama" />
+	<book bid="861" title="Mary Barton" author="Elizabeth Gaskell" location="G/Elizabeth Gaskell/Mary Barton/" section="Fiction/General" />
+	<book bid="862" title="Poor Clare, The" author="Elizabeth Gaskell" location="G/Elizabeth Gaskell/Poor Clare, The/" section="Fiction/General" />
+	<book bid="871" title="All For Love" author="John Dryden" location="D/John Dryden/All For Love/" section="Plays/Drama" />
+	<book bid="872" title="At the Back of the North Wind" author="George MacDonald" location="M/George MacDonald/At the Back of the North Wind/" section="Fiction/Children" />
+	<book bid="873" title="Prince, The" author="Nicolo Machiavelli" location="M/Nicolo Machiavelli/Prince, The/" section="Non-Fiction/General" />
+	<book bid="874" title="Lizzie Leigh" author="Elizabeth Gaskell" location="G/Elizabeth Gaskell/Lizzie Leigh/" section="Fiction/General" />
+	<book bid="875" title="Doom of the Griffiths, The" author="Elizabeth Gaskell" location="G/Elizabeth Gaskell/Doom of the Griffiths, The/" section="Fiction/General" />
+	<book bid="882" title="Eugene Pickering" author="Henry James" location="J/Henry James/Eugene Pickering/" section="Fiction/General" />
+	<book bid="883" title="Second April" author="Edna St. Vincent Millay" location="M/Edna St. Vincent Millay/Second April/" section="other/Poetry" />
+	<book bid="887" title="Children of the Night, The" author="Edwin Arlington Robinson" location="R/Edwin Arlington Robinson/Children of the Night, The/" section="other/Poetry" />
+	<book bid="888" title="Cymbeline" author="William Shakespeare" location="S/William Shakespeare/Cymbeline/" section="Plays/Drama" />
+	<book bid="889" title="Black Bartlemy's Treasure" author="Jeffrey Farnol" location="F/Jeffrey Farnol/Black Bartlemy's Treasure/" section="Fiction/Historical" />
+	<book bid="890" title="Dark Night's Work, A" author="Elizabeth Gaskell" location="G/Elizabeth Gaskell/Dark Night's Work, A/" section="Fiction/General" />
+	<book bid="891" title="Jerry of the Islands" author="Jack London" location="L/Jack London/Jerry of the Islands/" section="Fiction/Adventure-Action" />
+	<book bid="892" title="My Lady Ludlow" author="Elizabeth Gaskell" location="G/Elizabeth Gaskell/My Lady Ludlow/" section="Fiction/General" />
+	<book bid="893" title="Haunted Bookshop, The" author="Christopher Morley" location="M/Christopher Morley/Haunted Bookshop, The/" section="Fiction/General" />
+	<book bid="894" title="Where the Blue Begins" author="Christopher Morley" location="M/Christopher Morley/Where the Blue Begins/" section="Fiction/General" />
+	<book bid="901" title="Beowulf" author=" Anonymous" location="A/ Anonymous/Beowulf/" section="other/Poetry" />
+	<book bid="902" title="Poor Wise Man, A" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Poor Wise Man, A/" section="Fiction/Young-Adults" />
+	<book bid="903" title="Sons and Lovers" author="D. H. Lawrence" location="L/D. H. Lawrence/Sons and Lovers/" section="Fiction/General" />
+	<book bid="905" title="Chessmen of Mars, The" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Chessmen of Mars, The/" section="Fiction/Science-Fiction" />
+	<book bid="906" title="Cranford" author="Elizabeth Gaskell" location="G/Elizabeth Gaskell/Cranford/" section="Fiction/General" />
+	<book bid="913" title="Flying U Ranch" author="B.M. Bower" location="B/B.M. Bower/Flying U Ranch/" section="Fiction/Westerns" />
+	<book bid="914" title="Dangerous Days" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Dangerous Days/" section="Fiction/Young-Adults" />
+	<book bid="915" title="Wisdom of Father Brown, The" author="Gilbert K. Chesterton" location="C/Gilbert K. Chesterton/Wisdom of Father Brown, The/" section="Fiction/Christian" />
+	<book bid="916" title="T Tembarom" author="Frances Hodgson Burnett" location="B/Frances Hodgson Burnett/T Tembarom/" section="Fiction/Children" />
+	<book bid="923" title="Yellow Fairy Book, The" author="Andrew Lang" location="L/Andrew Lang/Yellow Fairy Book, The/" section="Fiction/Children" />
+	<book bid="924" title="Red Fairy Book, The" author="Andrew Lang" location="L/Andrew Lang/Red Fairy Book, The/" section="Fiction/Children" />
+	<book bid="931" title="Half a Life-Time Ago" author="Elizabeth Gaskell" location="G/Elizabeth Gaskell/Half a Life-Time Ago/" section="Fiction/General" />
+	<book bid="932" title="Heritage of the Sioux, The" author="B.M. Bower" location="B/B.M. Bower/Heritage of the Sioux, The/" section="Fiction/Westerns" />
+	<book bid="939" title="Longest Journey, The" author="E. M. Forster" location="F/E. M. Forster/Longest Journey, The/" section="Fiction/General" />
+	<book bid="940" title="Green Mansions" author="W. H. Hudson" location="H/W. H. Hudson/Green Mansions/" section="Fiction/General" />
+	<book bid="947" title="Mysterious Affair at Styles, The" author="Agatha Christie" location="C/Agatha Christie/Mysterious Affair at Styles, The/" section="Fiction/Mystery" />
+	<book bid="948" title="Blue Fairy Book, The" author="Andrew Lang" location="L/Andrew Lang/Blue Fairy Book, The/" section="Fiction/Children" />
+	<book bid="955" title="Caesar and Cleopatra" author="George Bernard Shaw" location="S/George Bernard Shaw/Caesar and Cleopatra/" section="Plays/Drama" />
+	<book bid="956" title="Sea-Gull, The" author="Anton Chekhov" location="C/Anton Chekhov/Sea-Gull, The/" section="Plays/Drama" />
+	<book bid="963" title="Law and the Lady, The" author="Wilkie Collins" location="C/Wilkie Collins/Law and the Lady, The/" section="Fiction/General" />
+	<book bid="964" title="Brown Fairy Book, The" author="Andrew Lang" location="L/Andrew Lang/Brown Fairy Book, The/" section="Fiction/Children" />
+	<book bid="971" title="Crimson Fairy Book, The" author="Andrew Lang" location="L/Andrew Lang/Crimson Fairy Book, The/" section="Fiction/Children" />
+	<book bid="972" title="Chimes, The" author="Charles Dickens" location="D/Charles Dickens/Chimes, The/" section="Fiction/Young-Adults" />
+	<book bid="979" title="Women In Love" author="D. H. Lawrence" location="L/D. H. Lawrence/Women In Love/" section="Fiction/General" />
+	<book bid="980" title="Woodlanders, The" author="Thomas Hardy" location="H/Thomas Hardy/Woodlanders, The/" section="Fiction/General" />
+	<book bid="981" title="Trees of Pride, The" author="Gilbert K. Chesterton" location="C/Gilbert K. Chesterton/Trees of Pride, The/" section="Fiction/Christian" />
+	<book bid="982" title="Lady of Quality, A" author="Frances Hodgson Burnett" location="B/Frances Hodgson Burnett/Lady of Quality, A/" section="Fiction/Children" />
+	<book bid="987" title="How the Two Ivans Quarrelled" author="Nikolai Vasilievich Gogol" location="G/Nikolai Vasilievich Gogol/How the Two Ivans Quarrelled/" section="Fiction/General" />
+	<book bid="988" title="Lure Of The Dim Trails, The" author="B.M. Bower" location="B/B.M. Bower/Lure Of The Dim Trails, The/" section="Fiction/Westerns" />
+	<book bid="995" title="Violet Fairy Book, The" author="Andrew Lang" location="L/Andrew Lang/Violet Fairy Book, The/" section="Fiction/Children" />
+	<book bid="996" title="Princess and Curdie, The" author="George MacDonald" location="M/George MacDonald/Princess and Curdie, The/" section="Fiction/Children" />
+	<book bid="1003" title="Princess of Mars, A" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Princess of Mars, A/" section="Fiction/Science-Fiction" />
+	<book bid="1004" title="Shuttle, The" author="Frances Hodgson Burnett" location="B/Frances Hodgson Burnett/Shuttle, The/" section="Fiction/Children" />
+	<book bid="1011" title="Trail of the White Mule, The" author="B.M. Bower" location="B/B.M. Bower/Trail of the White Mule, The/" section="Fiction/Westerns" />
+	<book bid="1012" title="Mysterious Portrait, The" author="Nikolai Vasilievich Gogol" location="G/Nikolai Vasilievich Gogol/Mysterious Portrait, The/" section="Fiction/General" />
+	<book bid="1019" title="Taras Bulba" author="Nikolai Vasilievich Gogol" location="G/Nikolai Vasilievich Gogol/Taras Bulba/" section="Fiction/General" />
+	<book bid="1020" title="Uncle Vanya" author="Anton Chekhov" location="C/Anton Chekhov/Uncle Vanya/" section="Plays/Drama" />
+	<book bid="1027" title="Light Princess, The" author="George MacDonald" location="M/George MacDonald/Light Princess, The/" section="Fiction/Children" />
+	<book bid="1028" title="Princess and the Goblin, The" author="George MacDonald" location="M/George MacDonald/Princess and the Goblin, The/" section="Fiction/Children" />
+	<book bid="1035" title="People of the Abyss, The" author="Jack London" location="L/Jack London/People of the Abyss, The/" section="Non-Fiction/General" />
+	<book bid="1036" title="Secret of the Night, The" author="Gaston Leroux" location="L/Gaston Leroux/Secret of the Night, The/" section="Fiction/General" />
+	<book bid="1043" title="Alexander's Bridge" author="Willa Cather" location="C/Willa Cather/Alexander's Bridge/" section="Fiction/Westerns" />
+	<book bid="1044" title="Orange Fairy Book, The" author="Andrew Lang" location="L/Andrew Lang/Orange Fairy Book, The/" section="Fiction/Children" />
+	<book bid="1045" title="Secret Adversary, The" author="Agatha Christie" location="C/Agatha Christie/Secret Adversary, The/" section="Fiction/Mystery" />
+	<book bid="1046" title="Doctor, The" author="Ralph Connor" location="C/Ralph Connor/Doctor, The/" section="Fiction/Historical" />
+	<book bid="1047" title="New Machiavelli, The" author="H.G. Wells" location="W/H.G. Wells/New Machiavelli, The/" section="Fiction/General" />
+	<book bid="1048" title="Lilith" author="George MacDonald" location="M/George MacDonald/Lilith/" section="Fiction/Christian" />
+	<book bid="1049" title="O Pioneers!" author="Willa Cather" location="C/Willa Cather/O Pioneers!/" section="Fiction/Westerns" />
+	<book bid="1050" title="My Antonia" author="Willa Cather" location="C/Willa Cather/My Antonia/" section="Fiction/Westerns" />
+	<book bid="1058" title="Lion and the Unicorn, The" author="Richard Harding Davis" location="D/Richard Harding Davis/Lion and the Unicorn, The/" section="Fiction/General" />
+	<book bid="1059" title="Thirty-Nine Steps, The" author="John Buchan" location="B/John Buchan/Thirty-Nine Steps, The/" section="Fiction/General" />
+	<book bid="1060" title="Errand Boy, The" author="Horatio Alger Jr." location="A/Horatio Alger Jr./Errand Boy, The/" section="Fiction/Children" />
+	<book bid="1061" title="Old Christmas" author="Washington Irving" location="I/Washington Irving/Old Christmas/" section="Fiction/General" />
+	<book bid="1062" title="Sonnets" author="William Shakespeare" location="S/William Shakespeare/Sonnets/" section="Plays/Drama" />
+	<book bid="1073" title="King Henry VIII" author="William Shakespeare" location="S/William Shakespeare/King Henry VIII/" section="Plays/Drama" />
+	<book bid="1074" title="Mucker, The" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Mucker, The/" section="Fiction/Adventure-Action" />
+	<book bid="1075" title="Titus Andronicus" author="William Shakespeare" location="S/William Shakespeare/Titus Andronicus/" section="Plays/Drama" />
+	<book bid="1076" title="Lamia" author="John Keats" location="K/John Keats/Lamia/" section="other/Poetry" />
+	<book bid="1077" title="Return of the Native, The" author="Thomas Hardy" location="H/Thomas Hardy/Return of the Native, The/" section="Fiction/General" />
+	<book bid="1078" title="Tamburlaine the Great, Part I" author="Christopher Marlowe" location="M/Christopher Marlowe/Tamburlaine the Great, Part I/" section="Plays/Drama" />
+	<book bid="1086" title="Tamburlaine the Great, Part II" author="Christopher Marlowe" location="M/Christopher Marlowe/Tamburlaine the Great, Part II/" section="Plays/Drama" />
+	<book bid="1087" title="Poems, Series 1" author="Emily Dickinson" location="D/Emily Dickinson/Poems, Series 1/" section="other/Poetry" />
+	<book bid="1088" title="Lilac Fairy Book, The" author="Andrew Lang" location="L/Andrew Lang/Lilac Fairy Book, The/" section="Fiction/Children" />
+	<book bid="1089" title="White People, The" author="Frances Hodgson Burnett" location="B/Frances Hodgson Burnett/White People, The/" section="Fiction/Children" />
+	<book bid="1090" title="Parasite, The" author="Arthur Conan Doyle" location="D/Arthur Conan Doyle/Parasite, The/" section="Fiction/Mystery" />
+	<book bid="1091" title="Nona Vincent" author="Henry James" location="J/Henry James/Nona Vincent/" section="Fiction/General" />
+	<book bid="1092" title="American, The" author="Henry James" location="J/Henry James/American, The/" section="Fiction/General" />
+	<book bid="1093" title="Flying U's Last Stand, The" author="B.M. Bower" location="B/B.M. Bower/Flying U's Last Stand, The/" section="Fiction/Westerns" />
+	<book bid="1107" title="Rowdy of the Cross L" author="B.M. Bower" location="B/B.M. Bower/Rowdy of the Cross L/" section="Fiction/Westerns" />
+	<book bid="1108" title="Cast Upon the Breakers" author="Horatio Alger Jr." location="A/Horatio Alger Jr./Cast Upon the Breakers/" section="Fiction/Children" />
+	<book bid="1115" title="Aurora Leigh" author="Elizabeth Barrett Browning" location="B/Elizabeth Barrett Browning/Aurora Leigh/" section="other/Poetry" />
+	<book bid="1116" title="Black Heart and White Heart" author="H. Rider Haggard" location="H/H. Rider Haggard/Black Heart and White Heart/" section="Fiction/Adventure-Action" />
+	<book bid="1117" title="Altar of the Dead, The" author="Henry James" location="J/Henry James/Altar of the Dead, The/" section="Fiction/General" />
+	<book bid="1124" title="Poems, Series 2" author="Emily Dickinson" location="D/Emily Dickinson/Poems, Series 2/" section="other/Poetry" />
+	<book bid="1125" title="Patagonia, The" author="Henry James" location="J/Henry James/Patagonia, The/" section="Fiction/General" />
+	<book bid="1126" title="Pygmalion" author="George Bernard Shaw" location="S/George Bernard Shaw/Pygmalion/" section="Plays/Drama" />
+	<book bid="1127" title="Poems, Series 3" author="Emily Dickinson" location="D/Emily Dickinson/Poems, Series 3/" section="other/Poetry" />
+	<book bid="1128" title="Sonnets from the Portuguese" author="Elizabeth Barrett Browning" location="B/Elizabeth Barrett Browning/Sonnets from the Portuguese/" section="other/Poetry" />
+	<book bid="1129" title="Pericles, Prince of Tyre" author="William Shakespeare" location="S/William Shakespeare/Pericles, Prince of Tyre/" section="Plays/Drama" />
+	<book bid="1130" title="Ward of the Golden Gate, A" author="Bret Harte" location="H/Bret Harte/Ward of the Golden Gate, A/" section="Fiction/Westerns" />
+	<book bid="1147" title="King Henry V" author="William Shakespeare" location="S/William Shakespeare/King Henry V/" section="Plays/Drama" />
+	<book bid="1148" title="Don Quixote" author="Miguel de Cervantes" location="C/Miguel de Cervantes/Don Quixote/" section="Fiction/General" />
+	<book bid="1149" title="Lesson of the Master, The" author="Henry James" location="J/Henry James/Lesson of the Master, The/" section="Fiction/General" />
+	<book bid="1150" title="Maiwa's Revenge" author="H. Rider Haggard" location="H/H. Rider Haggard/Maiwa's Revenge/" section="Fiction/Adventure-Action" />
+	<book bid="1151" title="Her Prairie Knight" author="B.M. Bower" location="B/B.M. Bower/Her Prairie Knight/" section="Fiction/Westerns" />
+	<book bid="1152" title="Jean of the Lazy A" author="B.M. Bower" location="B/B.M. Bower/Jean of the Lazy A/" section="Fiction/Westerns" />
+	<book bid="1170" title="Elissa" author="H. Rider Haggard" location="H/H. Rider Haggard/Elissa/" section="Fiction/Adventure-Action" />
+	<book bid="1171" title="Robert Falconer" author="George MacDonald" location="M/George MacDonald/Robert Falconer/" section="Fiction/Christian" />
+	<book bid="1172" title="Two Gentlemen of Verona" author="William Shakespeare" location="S/William Shakespeare/Two Gentlemen of Verona/" section="Plays/Drama" />
+	<book bid="1173" title="Ethan Frome" author="Edith Wharton" location="W/Edith Wharton/Ethan Frome/" section="Fiction/General" />
+	<book bid="1174" title="Eight Cousins" author="Louisa May Alcott" location="A/Louisa May Alcott/Eight Cousins/" section="Fiction/Young-Adults" />
+	<book bid="1187" title="Sir Gibbie" author="George MacDonald" location="M/George MacDonald/Sir Gibbie/" section="Fiction/Christian" />
+	<book bid="1188" title="Monsieur Beaucaire" author="Booth Tarkington" location="T/Booth Tarkington/Monsieur Beaucaire/" section="Fiction/General" />
+	<book bid="1198" title="Robbery Under Arms" author="Rolf Boldrewood" location="B/Rolf Boldrewood/Robbery Under Arms/" section="Fiction/Historical" />
+	<book bid="1201" title="Rupert of Hentzau" author="Anthony Hope" location="H/Anthony Hope/Rupert of Hentzau/" section="Fiction/General" />
+	<book bid="1202" title="Path of the King, The" author="John Buchan" location="B/John Buchan/Path of the King, The/" section="Fiction/General" />
+	<book bid="1203" title="House Behind The Cedars, The" author="Charles W. Chesnutt" location="C/Charles W. Chesnutt/House Behind The Cedars, The/" section="Fiction/General" />
+	<book bid="1204" title="Alice Adams" author="Booth Tarkington" location="T/Booth Tarkington/Alice Adams/" section="Fiction/General" />
+	<book bid="1205" title="Benita, An African Romance" author="H. Rider Haggard" location="H/H. Rider Haggard/Benita, An African Romance/" section="Fiction/Adventure-Action" />
+	<book bid="1206" title="Donal Grant" author="George MacDonald" location="M/George MacDonald/Donal Grant/" section="Fiction/Christian" />
+	<book bid="1207" title="Penrod" author="Booth Tarkington" location="T/Booth Tarkington/Penrod/" section="Fiction/General" />
+	<book bid="1208" title="Cash Boy, The" author="Horatio Alger Jr." location="A/Horatio Alger Jr./Cash Boy, The/" section="Fiction/Children" />
+	<book bid="1209" title="Dolly Dialogues" author="Anthony Hope" location="H/Anthony Hope/Dolly Dialogues/" section="Fiction/General" />
+	<book bid="1210" title="Summer in a Canyon, A" author="Kate Douglas Wiggin" location="W/Kate Douglas Wiggin/Summer in a Canyon, A/" section="Fiction/Children" />
+	<book bid="1211" title="Marie" author="H. Rider Haggard" location="H/H. Rider Haggard/Marie/" section="Fiction/Adventure-Action" />
+	<book bid="1212" title="Middlemarch" author="George Eliot" location="E/George Eliot/Middlemarch/" section="Fiction/General" />
+	<book bid="1213" title="Tales From Shakespeare" author="Charles and Mary Lamb" location="L/Charles and Mary Lamb/Tales From Shakespeare/" section="Fiction/Children" />
+	<book bid="1220" title="Bat, The" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Bat, The/" section="Fiction/Young-Adults" />
+	<book bid="1221" title="Three Partners, The" author="Bret Harte" location="H/Bret Harte/Three Partners, The/" section="Fiction/Westerns" />
+	<book bid="1222" title="Pioneers, The" author="James Fenimore Cooper" location="C/James Fenimore Cooper/Pioneers, The/" section="Fiction/Historical" />
+	<book bid="1223" title="Two on a Tower" author="Thomas Hardy" location="H/Thomas Hardy/Two on a Tower/" section="Fiction/General" />
+	<book bid="1224" title="House-Boat on the Styx, A" author="John Kendrick Bangs" location="B/John Kendrick Bangs/House-Boat on the Styx, A/" section="Fiction/General" />
+	<book bid="1225" title="Enchanted Typewriter, The" author="John Kendrick Bangs" location="B/John Kendrick Bangs/Enchanted Typewriter, The/" section="Fiction/General" />
+	<book bid="1226" title="Pursuit of the House-Boat, The" author="John Kendrick Bangs" location="B/John Kendrick Bangs/Pursuit of the House-Boat, The/" section="Fiction/General" />
+	<book bid="1227" title="Simple Soul, A" author="Gustave Flaubert" location="F/Gustave Flaubert/Simple Soul, A/" section="Fiction/General" />
+	<book bid="1228" title="Riders of the Purple Sage" author="Zane Grey" location="G/Zane Grey/Riders of the Purple Sage/" section="Fiction/Westerns" />
+	<book bid="1229" title="Cow-Country" author="B.M. Bower" location="B/B.M. Bower/Cow-Country/" section="Fiction/Westerns" />
+	<book bid="1230" title="Europeans, The" author="Henry James" location="J/Henry James/Europeans, The/" section="Fiction/General" />
+	<book bid="1231" title="Typhoon" author="Joseph Conrad" location="C/Joseph Conrad/Typhoon/" section="Fiction/Adventure-Action" />
+	<book bid="1246" title="Flame and Shadow" author="Sara Teasdale" location="T/Sara Teasdale/Flame and Shadow/" section="other/Poetry" />
+	<book bid="1247" title="Wildfire" author="Zane Grey" location="G/Zane Grey/Wildfire/" section="Fiction/Westerns" />
+	<book bid="1248" title="Greenmantle" author="John Buchan" location="B/John Buchan/Greenmantle/" section="Fiction/General" />
+	<book bid="1249" title="To The Last Man" author="Zane Grey" location="G/Zane Grey/To The Last Man/" section="Fiction/Westerns" />
+	<book bid="1250" title="Well of the Saints, The" author="J. M. Synge" location="S/J. M. Synge/Well of the Saints, The/" section="Plays/Drama" />
+	<book bid="1251" title="Circus Boys on the Flying Rings, The" author="Edgar B. P. Darlington" location="D/Edgar B. P. Darlington/Circus Boys on the Flying Rings, The/" section="Fiction/Children" />
+	<book bid="1258" title="Man of the Forest, The" author="Zane Grey" location="G/Zane Grey/Man of the Forest, The/" section="Fiction/Westerns" />
+	<book bid="1259" title="Young Forester, The" author="Zane Grey" location="G/Zane Grey/Young Forester, The/" section="Fiction/Westerns" />
+	<book bid="1260" title="Prester John" author="John Buchan" location="B/John Buchan/Prester John/" section="Fiction/General" />
+	<book bid="1261" title="Little Dream, The" author="John Galsworthy" location="G/John Galsworthy/Little Dream, The/" section="Plays/Drama" />
+	<book bid="1268" title="Montezuma's Daughter" author="H. Rider Haggard" location="H/H. Rider Haggard/Montezuma's Daughter/" section="Fiction/Adventure-Action" />
+	<book bid="1269" title="Story of a Bad Boy, The" author="Thomas Bailey Aldrich" location="A/Thomas Bailey Aldrich/Story of a Bad Boy, The/" section="Fiction/Children" />
+	<book bid="1270" title="Swan Song" author="Anton Chekhov" location="C/Anton Chekhov/Swan Song/" section="Plays/Drama" />
+	<book bid="1271" title="Circus Boys Across The Continent, The" author="Edgar B. P. Darlington" location="D/Edgar B. P. Darlington/Circus Boys Across The Continent, The/" section="Fiction/Children" />
+	<book bid="1278" title="First and Last, The" author="John Galsworthy" location="G/John Galsworthy/First and Last, The/" section="Plays/Drama" />
+	<book bid="1279" title="Brave New World" author="Aldous Huxley" location="H/Aldous Huxley/Brave New World/" section="Fiction/General" />
+	<book bid="1280" title="Burning Daylight" author="Jack London" location="L/Jack London/Burning Daylight/" section="Fiction/Adventure-Action" />
+	<book bid="1281" title="Life's Little Ironies" author="Thomas Hardy" location="H/Thomas Hardy/Life's Little Ironies/" section="Fiction/General" />
+	<book bid="1282" title="Desperate Remedies" author="Thomas Hardy" location="H/Thomas Hardy/Desperate Remedies/" section="Fiction/General" />
+	<book bid="1283" title="Virgin Soil" author="Ivan S. Turgenev" location="T/Ivan S. Turgenev/Virgin Soil/" section="Fiction/General" />
+	<book bid="1284" title="Vicar of Wakefield, The" author="Oliver Goldsmith" location="G/Oliver Goldsmith/Vicar of Wakefield, The/" section="Fiction/General" />
+	<book bid="1286" title="Christian Science" author="Mark Twain" location="T/Mark Twain/Christian Science/" section="Non-Fiction/General" />
+	<book bid="1287" title="Within an Inch of His Life" author="Emile Gaboriau" location="G/Emile Gaboriau/Within an Inch of His Life/" section="Fiction/General" />
+	<book bid="1291" title="Pickwick Papers, The" author="Charles Dickens" location="D/Charles Dickens/Pickwick Papers, The/" section="Fiction/Young-Adults" />
+	<book bid="1292" title="One of Ours" author="Willa Cather" location="C/Willa Cather/One of Ours/" section="Fiction/Westerns" />
+	<book bid="1293" title="Life of Christopher Columbus, The" author="Edward Everett Hale" location="H/Edward Everett Hale/Life of Christopher Columbus, The/" section="Non-Fiction/General" />
+	<book bid="1294" title="Talisman, The" author="Walter Scott" location="S/Walter Scott/Talisman, The/" section="Fiction/Young-Adults" />
+	<book bid="1303" title="Betty Zane" author="Zane Grey" location="G/Zane Grey/Betty Zane/" section="Fiction/Westerns" />
+	<book bid="1304" title="Country House, The" author="John Galsworthy" location="G/John Galsworthy/Country House, The/" section="Fiction/General" />
+	<book bid="1313" title="She" author="H. Rider Haggard" location="H/H. Rider Haggard/She/" section="Fiction/Adventure-Action" />
+	<book bid="1314" title="Drums Of Jeopardy, The" author="Harold MacGrath" location="M/Harold MacGrath/Drums Of Jeopardy, The/" section="Fiction/General" />
+	<book bid="1322" title="Aspern Papers, The" author="Henry James" location="J/Henry James/Aspern Papers, The/" section="Fiction/General" />
+	<book bid="1323" title="Allan's Wife" author="H. Rider Haggard" location="H/H. Rider Haggard/Allan's Wife/" section="Fiction/Adventure-Action" />
+	<book bid="1330" title="Five Little Peppers And How They Grew" author="Margaret Sidney" location="S/Margaret Sidney/Five Little Peppers And How They Grew/" section="Fiction/Children" />
+	<book bid="1331" title="Various Poetry" author="William Shakespeare" location="S/William Shakespeare/Various Poetry/" section="Plays/Drama" />
+	<book bid="1338" title="Men, Women and Ghosts" author="Amy Lowell" location="L/Amy Lowell/Men, Women and Ghosts/" section="other/Poetry" />
+	<book bid="1339" title="Hound of the Baskervilles, The" author="Arthur Conan Doyle" location="D/Arthur Conan Doyle/Hound of the Baskervilles, The/" section="Fiction/Mystery" />
+	<book bid="1346" title="Riders to the Sea" author="J. M. Synge" location="S/J. M. Synge/Riders to the Sea/" section="Plays/Drama" />
+	<book bid="1347" title="In the Shadow of the Glen" author="J. M. Synge" location="S/J. M. Synge/In the Shadow of the Glen/" section="Plays/Drama" />
+	<book bid="1354" title="David Elginbrod" author="George MacDonald" location="M/George MacDonald/David Elginbrod/" section="Fiction/Christian" />
+	<book bid="1355" title="Mr Standfast" author="John Buchan" location="B/John Buchan/Mr Standfast/" section="Fiction/General" />
+	<book bid="1356" title="Beldonald Holbein, The" author="Henry James" location="J/Henry James/Beldonald Holbein, The/" section="Fiction/General" />
+	<book bid="1357" title="Chaperon, The" author="Henry James" location="J/Henry James/Chaperon, The/" section="Fiction/General" />
+	<book bid="1362" title="Grayson's Baby" author="John Fox Jr." location="F/John Fox Jr./Grayson's Baby/" section="Fiction/Westerns" />
+	<book bid="1364" title="Twelfth Night" author="William Shakespeare" location="S/William Shakespeare/Twelfth Night/" section="Plays/Drama" />
+	<book bid="1365" title="Rebellious Heroine, A" author="John Kendrick Bangs" location="B/John Kendrick Bangs/Rebellious Heroine, A/" section="Fiction/General" />
+	<book bid="1366" title="Dark Flower, The" author="John Galsworthy" location="G/John Galsworthy/Dark Flower, The/" section="Fiction/General" />
+	<book bid="1367" title="Uncle Tom's Cabin" author="Harriet Beecher Stowe" location="S/Harriet Beecher Stowe/Uncle Tom's Cabin/" section="Fiction/Young-Adults" />
+	<book bid="1368" title="Pollyanna" author="Eleanor H. Porter" location="P/Eleanor H. Porter/Pollyanna/" section="Fiction/Children" />
+	<book bid="1369" title="Kim" author="Rudyard Kipling" location="K/Rudyard Kipling/Kim/" section="Fiction/Children" />
+	<book bid="1370" title="Mysterious Stranger, The" author="Mark Twain" location="T/Mark Twain/Mysterious Stranger, The/" section="Fiction/Young-Adults" />
+	<book bid="1381" title="Prince and the Pauper, The" author="Mark Twain" location="T/Mark Twain/Prince and the Pauper, The/" section="Fiction/Young-Adults" />
+	<book bid="1382" title="Dragon and the Raven, The" author="George Alfred Henty" location="H/George Alfred Henty/Dragon and the Raven, The/" section="Fiction/Historical" />
+	<book bid="1383" title="Life Is A Dream" author="Pedro Calderon de la Barca" location="C/Pedro Calderon de la Barca/Life Is A Dream/" section="Plays/Drama" />
+	<book bid="1384" title="Man Who Was Thursday, The" author="Gilbert K. Chesterton" location="C/Gilbert K. Chesterton/Man Who Was Thursday, The/" section="Fiction/Christian" />
+	<book bid="1385" title="Life and Adventures of Santa Claus, The" author="L. Frank Baum" location="B/L. Frank Baum/Life and Adventures of Santa Claus, The/" section="Fiction/Children" />
+	<book bid="1386" title="Beatrice" author="H. Rider Haggard" location="H/H. Rider Haggard/Beatrice/" section="Fiction/Adventure-Action" />
+	<book bid="1387" title="Arrow of Gold, The" author="Joseph Conrad" location="C/Joseph Conrad/Arrow of Gold, The/" section="Fiction/Adventure-Action" />
+	<book bid="1388" title="Paul Prescott's Charge" author="Horatio Alger Jr." location="A/Horatio Alger Jr./Paul Prescott's Charge/" section="Fiction/Children" />
+	<book bid="1389" title="Legacy of Cain, The" author="Wilkie Collins" location="C/Wilkie Collins/Legacy of Cain, The/" section="Fiction/General" />
+	<book bid="1398" title="Mysterious Island, The" author="Jules Verne" location="V/Jules Verne/Mysterious Island, The/" section="Fiction/Young-Adults" />
+	<book bid="1399" title="Daisy Chain, or Aspirations, The" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Daisy Chain, or Aspirations, The/" section="Fiction/General" />
+	<book bid="1407" title="Roughing It" author="Mark Twain" location="T/Mark Twain/Roughing It/" section="Non-Fiction/General" />
+	<book bid="1408" title="Group of Noble Dames, A" author="Thomas Hardy" location="H/Thomas Hardy/Group of Noble Dames, A/" section="Fiction/General" />
+	<book bid="1414" title="Valley of the Moon, The" author="Jack London" location="L/Jack London/Valley of the Moon, The/" section="Fiction/Adventure-Action" />
+	<book bid="1415" title="In the Cage" author="Henry James" location="J/Henry James/In the Cage/" section="Fiction/General" />
+	<book bid="1421" title="Ramsey Milholland" author="Booth Tarkington" location="T/Booth Tarkington/Ramsey Milholland/" section="Fiction/General" />
+	<book bid="1422" title="Beyond" author="John Galsworthy" location="G/John Galsworthy/Beyond/" section="Fiction/General" />
+	<book bid="1430" title="Well-Beloved, The" author="Thomas Hardy" location="H/Thomas Hardy/Well-Beloved, The/" section="Fiction/General" />
+	<book bid="1431" title="Penrod and Sam" author="Booth Tarkington" location="T/Booth Tarkington/Penrod and Sam/" section="Fiction/General" />
+	<book bid="1436" title="Penelope's Experiences in Scotland" author="Kate Douglas Wiggin" location="W/Kate Douglas Wiggin/Penelope's Experiences in Scotland/" section="Fiction/Children" />
+	<book bid="1441" title="Conquest of Canaan, The" author="Booth Tarkington" location="T/Booth Tarkington/Conquest of Canaan, The/" section="Fiction/General" />
+	<book bid="1446" title="In The Reign Of Terror" author="George Alfred Henty" location="H/George Alfred Henty/In The Reign Of Terror/" section="Fiction/Historical" />
+	<book bid="1451" title="Toilers of the Sea" author="Victor Hugo" location="H/Victor Hugo/Toilers of the Sea/" section="Fiction/General" />
+	<book bid="1452" title="Circus Boys In Dixie Land, The" author="Edgar B. P. Darlington" location="D/Edgar B. P. Darlington/Circus Boys In Dixie Land, The/" section="Fiction/Children" />
+	<book bid="1453" title="Mystery of Edwin Drood, The" author="Charles Dickens" location="D/Charles Dickens/Mystery of Edwin Drood, The/" section="Fiction/Young-Adults" />
+	<book bid="1454" title="Herodias" author="Gustave Flaubert" location="F/Gustave Flaubert/Herodias/" section="Fiction/General" />
+	<book bid="1467" title="Otto of the Silver Hand" author="Howard Pyle" location="P/Howard Pyle/Otto of the Silver Hand/" section="Fiction/Young-Adults" />
+	<book bid="1468" title="Circus Boys On the Mississippi, The" author="Edgar B. P. Darlington" location="D/Edgar B. P. Darlington/Circus Boys On the Mississippi, The/" section="Fiction/Children" />
+	<book bid="1469" title="Under the Lilacs" author="Louisa May Alcott" location="A/Louisa May Alcott/Under the Lilacs/" section="Fiction/Young-Adults" />
+	<book bid="1470" title="Valley of Fear, The" author="Arthur Conan Doyle" location="D/Arthur Conan Doyle/Valley of Fear, The/" section="Fiction/Mystery" />
+	<book bid="1471" title="Blazed Trail, The" author="Stewart Edward White" location="W/Stewart Edward White/Blazed Trail, The/" section="Fiction/Westerns" />
+	<book bid="1472" title="Jo's Boys" author="Louisa May Alcott" location="A/Louisa May Alcott/Jo's Boys/" section="Fiction/Young-Adults" />
+	<book bid="1473" title="Rose O' the River" author="Kate Douglas Wiggin" location="W/Kate Douglas Wiggin/Rose O' the River/" section="Fiction/Children" />
+	<book bid="1474" title="Circus Boys on the Plains, The" author="Edgar B. P. Darlington" location="D/Edgar B. P. Darlington/Circus Boys on the Plains, The/" section="Fiction/Children" />
+	<book bid="1475" title="Touchstone, The" author="Edith Wharton" location="W/Edith Wharton/Touchstone, The/" section="Fiction/General" />
+	<book bid="1476" title="Gentleman of France, A" author="Stanley J. Weyman" location="W/Stanley J. Weyman/Gentleman of France, A/" section="Fiction/General" />
+	<book bid="1477" title="Tom Swift Among the Diamond Makers" author="Victor Appleton" location="A/Victor Appleton/Tom Swift Among the Diamond Makers/" section="Fiction/Children" />
+	<book bid="1478" title="Last Chronicle of Barset, The" author="Anthony Trollope" location="T/Anthony Trollope/Last Chronicle of Barset, The/" section="Fiction/General" />
+	<book bid="1479" title="Washington Square" author="Henry James" location="J/Henry James/Washington Square/" section="Fiction/General" />
+	<book bid="1480" title="Tom Swift in the Caves of Ice" author="Victor Appleton" location="A/Victor Appleton/Tom Swift in the Caves of Ice/" section="Fiction/Children" />
+	<book bid="1481" title="With Lee in Virginia" author="George Alfred Henty" location="H/George Alfred Henty/With Lee in Virginia/" section="Fiction/Historical" />
+	<book bid="1482" title="Bunner Sisters" author="Edith Wharton" location="W/Edith Wharton/Bunner Sisters/" section="Fiction/General" />
+	<book bid="1495" title="Witch of Prague, The" author="F. Marion Crawford" location="C/F. Marion Crawford/Witch of Prague, The/" section="Fiction/General" />
+	<book bid="1496" title="Mugby Junction" author="Charles Dickens" location="D/Charles Dickens/Mugby Junction/" section="Fiction/Young-Adults" />
+	<book bid="1497" title="Tom Swift and His Electric Rifle" author="Victor Appleton" location="A/Victor Appleton/Tom Swift and His Electric Rifle/" section="Fiction/Children" />
+	<book bid="1498" title="Democracy An American Novel" author="Henry Adams" location="A/Henry Adams/Democracy An American Novel/" section="Fiction/Historical" />
+	<book bid="1499" title="Rescue, The" author="Joseph Conrad" location="C/Joseph Conrad/Rescue, The/" section="Fiction/Adventure-Action" />
+	<book bid="1500" title="Honor of the Name, The" author="Emile Gaboriau" location="G/Emile Gaboriau/Honor of the Name, The/" section="Fiction/General" />
+	<book bid="1501" title="Indiscretions of Archie" author="Pelham Grenville Wodehouse" location="W/Pelham Grenville Wodehouse/Indiscretions of Archie/" section="Fiction/General" />
+	<book bid="1502" title="Dope" author="Sax Rohmer" location="R/Sax Rohmer/Dope/" section="Fiction/General" />
+	<book bid="1503" title="Penelope's Irish Experiences" author="Kate Douglas Wiggin" location="W/Kate Douglas Wiggin/Penelope's Irish Experiences/" section="Fiction/Children" />
+	<book bid="1504" title="Widow Lerouge, The" author="Emile Gaboriau" location="G/Emile Gaboriau/Widow Lerouge, The/" section="Fiction/General" />
+	<book bid="1505" title="Saint George for England" author="George Alfred Henty" location="H/George Alfred Henty/Saint George for England/" section="Fiction/Historical" />
+	<book bid="1506" title="Penelope's English Experiences" author="Kate Douglas Wiggin" location="W/Kate Douglas Wiggin/Penelope's English Experiences/" section="Fiction/Children" />
+	<book bid="1519" title="Finished" author="H. Rider Haggard" location="H/H. Rider Haggard/Finished/" section="Fiction/Adventure-Action" />
+	<book bid="1520" title="Olive Fairy Book, The" author="Andrew Lang" location="L/Andrew Lang/Olive Fairy Book, The/" section="Fiction/Children" />
+	<book bid="1521" title="Lone Star Ranger, The" author="Zane Grey" location="G/Zane Grey/Lone Star Ranger, The/" section="Fiction/Westerns" />
+	<book bid="1522" title="Lamp of Fate, The" author="Margaret Pedler" location="P/Margaret Pedler/Lamp of Fate, The/" section="Fiction/General" />
+	<book bid="1523" title="Omoo" author="Herman Melville" location="M/Herman Melville/Omoo/" section="Fiction/Adventure-Action" />
+	<book bid="1524" title="Freckles" author="Gene Stratton-Porter" location="S/Gene Stratton-Porter/Freckles/" section="Fiction/Children" />
+	<book bid="1525" title="Bel Ami" author="Guy de Maupassant" location="M/Guy de Maupassant/Bel Ami/" section="Fiction/General" />
+	<book bid="1526" title="Man, The" author="Bram Stoker" location="S/Bram Stoker/Man, The/" section="Fiction/Young-Adults" />
+	<book bid="1527" title="Penelope's Postscripts" author="Kate Douglas Wiggin" location="W/Kate Douglas Wiggin/Penelope's Postscripts/" section="Fiction/Children" />
+	<book bid="1528" title="Man from Snowy River and Other Verses, The" author="Andrew Barton Paterson" location="P/Andrew Barton Paterson/Man from Snowy River and Other Verses, The/" section="other/Poetry" />
+	<book bid="1529" title="Lady Of Blossholme, The" author="H. Rider Haggard" location="H/H. Rider Haggard/Lady Of Blossholme, The/" section="Fiction/Adventure-Action" />
+	<book bid="1530" title="Sunshine Sketches of a Little Town" author="Stephen Leacock" location="L/Stephen Leacock/Sunshine Sketches of a Little Town/" section="Fiction/General" />
+	<book bid="1531" title="My Discovery of England" author="Stephen Leacock" location="L/Stephen Leacock/My Discovery of England/" section="Non-Fiction/General" />
+	<book bid="1532" title="Yvette" author="Guy de Maupassant" location="M/Guy de Maupassant/Yvette/" section="Fiction/General" />
+	<book bid="1533" title="Ruby of Kishmoor, The" author="Howard Pyle" location="P/Howard Pyle/Ruby of Kishmoor, The/" section="Fiction/Young-Adults" />
+	<book bid="1534" title="Arcadian Adventures With the Idle Rich" author="Stephen Leacock" location="L/Stephen Leacock/Arcadian Adventures With the Idle Rich/" section="Fiction/General" />
+	<book bid="1535" title="Enemy of the People, An" author="Henrik Ibsen" location="I/Henrik Ibsen/Enemy of the People, An/" section="Plays/Drama" />
+	<book bid="1536" title="Battle of Life, The" author="Charles Dickens" location="D/Charles Dickens/Battle of Life, The/" section="Fiction/Young-Adults" />
+	<book bid="1537" title="Song of the Cardinal, The" author="Gene Stratton-Porter" location="S/Gene Stratton-Porter/Song of the Cardinal, The/" section="Fiction/Children" />
+	<book bid="1538" title="Mr Bonaparte of Corsica" author="John Kendrick Bangs" location="B/John Kendrick Bangs/Mr Bonaparte of Corsica/" section="Fiction/General" />
+	<book bid="1539" title="Soul of a Bishop" author="H.G. Wells" location="W/H.G. Wells/Soul of a Bishop/" section="Fiction/General" />
+	<book bid="1540" title="Pierre And Jean" author="Guy de Maupassant" location="M/Guy de Maupassant/Pierre And Jean/" section="Fiction/General" />
+	<book bid="1541" title="Just David" author="Eleanor H. Porter" location="P/Eleanor H. Porter/Just David/" section="Fiction/Children" />
+	<book bid="1542" title="Arizona Nights" author="Stewart Edward White" location="W/Stewart Edward White/Arizona Nights/" section="Fiction/Westerns" />
+	<book bid="1543" title="Morning Star" author="H. Rider Haggard" location="H/H. Rider Haggard/Morning Star/" section="Fiction/Adventure-Action" />
+	<book bid="1544" title="Moon of Israel" author="H. Rider Haggard" location="H/H. Rider Haggard/Moon of Israel/" section="Fiction/Adventure-Action" />
+	<book bid="1545" title="Holly-Tree, The" author="Charles Dickens" location="D/Charles Dickens/Holly-Tree, The/" section="Fiction/Young-Adults" />
+	<book bid="1546" title="Evil Genius, The" author="Wilkie Collins" location="C/Wilkie Collins/Evil Genius, The/" section="Fiction/General" />
+	<book bid="1547" title="Crome Yellow" author="Aldous Huxley" location="H/Aldous Huxley/Crome Yellow/" section="Fiction/General" />
+	<book bid="1548" title="Miss Billy" author="Eleanor H. Porter" location="P/Eleanor H. Porter/Miss Billy/" section="Fiction/Children" />
+	<book bid="1549" title="Doctor Dolittle" author="Hugh Lofting" location="L/Hugh Lofting/Doctor Dolittle/" section="Fiction/Children" />
+	<book bid="1550" title="Mystery of a Hansom Cab, The" author="Fergus Hume" location="H/Fergus Hume/Mystery of a Hansom Cab, The/" section="Fiction/Mystery" />
+	<book bid="1551" title="Twilight Land" author="Howard Pyle" location="P/Howard Pyle/Twilight Land/" section="Fiction/Young-Adults" />
+	<book bid="1552" title="Hand of Ethelberta, The" author="Thomas Hardy" location="H/Thomas Hardy/Hand of Ethelberta, The/" section="Fiction/General" />
+	<book bid="1553" title="Scouts of the Valley, The" author="Joseph A. Altsheler" location="A/Joseph A. Altsheler/Scouts of the Valley, The/" section="Fiction/Historical" />
+	<book bid="1554" title="Free Rangers, The" author="Joseph A. Altsheler" location="A/Joseph A. Altsheler/Free Rangers, The/" section="Fiction/Historical" />
+	<book bid="1555" title="Star of Gettysburg, The" author="Joseph A. Altsheler" location="A/Joseph A. Altsheler/Star of Gettysburg, The/" section="Fiction/Historical" />
+	<book bid="1556" title="Guns of Bull Run, The" author="Joseph A. Altsheler" location="A/Joseph A. Altsheler/Guns of Bull Run, The/" section="Fiction/Historical" />
+	<book bid="1558" title="Chance" author="Joseph Conrad" location="C/Joseph Conrad/Chance/" section="Fiction/Adventure-Action" />
+	<book bid="1559" title="Miss Billy's Decision" author="Eleanor H. Porter" location="P/Eleanor H. Porter/Miss Billy's Decision/" section="Fiction/Children" />
+	<book bid="1560" title="Miss Billy Married" author="Eleanor H. Porter" location="P/Eleanor H. Porter/Miss Billy Married/" section="Fiction/Children" />
+	<book bid="1562" title="Tom Swift and his Great Searchlight" author="Victor Appleton" location="A/Victor Appleton/Tom Swift and his Great Searchlight/" section="Fiction/Children" />
+	<book bid="1563" title="Oak Openings" author="James Fenimore Cooper" location="C/James Fenimore Cooper/Oak Openings/" section="Fiction/Historical" />
+	<book bid="1565" title="Rodney Stone" author="Arthur Conan Doyle" location="D/Arthur Conan Doyle/Rodney Stone/" section="Fiction/Mystery" />
+	<book bid="1566" title="Way of the World, The" author="William Congreve" location="C/William Congreve/Way of the World, The/" section="Plays/Drama" />
+	<book bid="1567" title="Love for Love" author="William Congreve" location="C/William Congreve/Love for Love/" section="Plays/Drama" />
+	<book bid="1568" title="Family Man, A" author="John Galsworthy" location="G/John Galsworthy/Family Man, A/" section="Plays/Drama" />
+	<book bid="1569" title="Bit O' Love, A" author="John Galsworthy" location="G/John Galsworthy/Bit O' Love, A/" section="Plays/Drama" />
+	<book bid="1570" title="Philanderer, The" author="George Bernard Shaw" location="S/George Bernard Shaw/Philanderer, The/" section="Plays/Drama" />
+	<book bid="1571" title="Justice" author="John Galsworthy" location="G/John Galsworthy/Justice/" section="Plays/Drama" />
+	<book bid="1572" title="Harvester, The" author="Gene Stratton-Porter" location="S/Gene Stratton-Porter/Harvester, The/" section="Fiction/Children" />
+	<book bid="1573" title="Efficiency Expert, The" author="Edgar Rice Burroughs" location="B/Edgar Rice Burroughs/Efficiency Expert, The/" section="Fiction/Adventure-Action" />
+	<book bid="1574" title="Moonbeams From the Larger Lunacy" author="Stephen Leacock" location="L/Stephen Leacock/Moonbeams From the Larger Lunacy/" section="Fiction/General" />
+	<book bid="1575" title="Sisters' Tragedy, The" author="Thomas Bailey Aldrich" location="A/Thomas Bailey Aldrich/Sisters' Tragedy, The/" section="other/Poetry" />
+	<book bid="1576" title="Saturday's Child" author="Kathleen Thompson Norris" location="N/Kathleen Thompson Norris/Saturday's Child/" section="Fiction/General" />
+	<book bid="1577" title="Heart of Rachael, The" author="Kathleen Thompson Norris" location="N/Kathleen Thompson Norris/Heart of Rachael, The/" section="Fiction/General" />
+	<book bid="1578" title="Undertow" author="Kathleen Thompson Norris" location="N/Kathleen Thompson Norris/Undertow/" section="Fiction/General" />
+	<book bid="1579" title="Harriet and the Piper" author="Kathleen Thompson Norris" location="N/Kathleen Thompson Norris/Harriet and the Piper/" section="Fiction/General" />
+	<book bid="1580" title="Rich Mrs Burgoyne, The" author="Kathleen Thompson Norris" location="N/Kathleen Thompson Norris/Rich Mrs Burgoyne, The/" section="Fiction/General" />
+	<book bid="1581" title="Candida" author="George Bernard Shaw" location="S/George Bernard Shaw/Candida/" section="Plays/Drama" />
+	<book bid="1582" title="Martie The Unconquered" author="Kathleen Thompson Norris" location="N/Kathleen Thompson Norris/Martie The Unconquered/" section="Fiction/General" />
+	<book bid="1583" title="Devil's Disciple, The" author="George Bernard Shaw" location="S/George Bernard Shaw/Devil's Disciple, The/" section="Plays/Drama" />
+	<book bid="1584" title="Outcast of the Islands, An" author="Joseph Conrad" location="C/Joseph Conrad/Outcast of the Islands, An/" section="Fiction/Adventure-Action" />
+	<book bid="1585" title="Nada the Lily" author="H. Rider Haggard" location="H/H. Rider Haggard/Nada the Lily/" section="Fiction/Adventure-Action" />
+	<book bid="1586" title="Eric Brighteyes" author="H. Rider Haggard" location="H/H. Rider Haggard/Eric Brighteyes/" section="Fiction/Adventure-Action" />
+	<book bid="1587" title="Mirror of the Sea, The" author="Joseph Conrad" location="C/Joseph Conrad/Mirror of the Sea, The/" section="Fiction/Adventure-Action" />
+	<book bid="1588" title="Cost, The" author="David Graham Phillips" location="P/David Graham Phillips/Cost, The/" section="Fiction/General" />
+	<book bid="1590" title="Flirt, The" author="Booth Tarkington" location="T/Booth Tarkington/Flirt, The/" section="Fiction/General" />
+	<book bid="1591" title="Mother" author="Kathleen Thompson Norris" location="N/Kathleen Thompson Norris/Mother/" section="Fiction/General" />
+	<book bid="1592" title="Metamorphosis, The" author="Franz Kafka" location="K/Franz Kafka/Metamorphosis, The/" section="Fiction/General" />
+	<book bid="1593" title="Fortune Hunter, The" author="David Graham Phillips" location="P/David Graham Phillips/Fortune Hunter, The/" section="Fiction/General" />
+	<book bid="1594" title="Wife, The" author="Anton Chekhov" location="C/Anton Chekhov/Wife, The/" section="Fiction/General" />
+	<book bid="1595" title="Dreary Story, A" author="Anton Chekhov" location="C/Anton Chekhov/Dreary Story, A/" section="Fiction/General" />
+	<book bid="1603" title="Treasure, The" author="Kathleen Thompson Norris" location="N/Kathleen Thompson Norris/Treasure, The/" section="Fiction/General" />
+	<book bid="1604" title="Voyages of Doctor Dolittle, The" author="Hugh Lofting" location="L/Hugh Lofting/Voyages of Doctor Dolittle, The/" section="Fiction/Children" />
+	<book bid="1622" title="Amateur Cracksman, The" author="E.W. Hornung" location="H/E.W. Hornung/Amateur Cracksman, The/" section="Fiction/Mystery" />
+	<book bid="1674" title="Jewel of Seven Stars, The" author="Bram Stoker" location="S/Bram Stoker/Jewel of Seven Stars, The/" section="Fiction/Young-Adults" />
+	<book bid="1675" title="Augustus Does His Bit" author="George Bernard Shaw" location="S/George Bernard Shaw/Augustus Does His Bit/" section="Plays/Drama" />
+	<book bid="1676" title="Unbearable Bassington, The" author="H. H. (Saki) Munro" location="M/H. H. (Saki) Munro/Unbearable Bassington, The/" section="Fiction/General" />
+	<book bid="1677" title="Broad Highway, The" author="Jeffrey Farnol" location="F/Jeffrey Farnol/Broad Highway, The/" section="Fiction/Historical" />
+	<book bid="1693" title="Westward Ho!" author="Charles Kingsley" location="K/Charles Kingsley/Westward Ho!/" section="Fiction/General" />
+	<book bid="1694" title="Tom Swift and his Wireless Message" author="Victor Appleton" location="A/Victor Appleton/Tom Swift and his Wireless Message/" section="Fiction/Children" />
+	<book bid="1695" title="Tom Swift And His Photo Telephone" author="Victor Appleton" location="A/Victor Appleton/Tom Swift And His Photo Telephone/" section="Fiction/Children" />
+	<book bid="1696" title="Tom Swift in the City of Gold" author="Victor Appleton" location="A/Victor Appleton/Tom Swift in the City of Gold/" section="Fiction/Children" />
+	<book bid="1697" title="Tom Swift in Captivity" author="Victor Appleton" location="A/Victor Appleton/Tom Swift in Captivity/" section="Fiction/Children" />
+	<book bid="1698" title="Nana" author="Emile Zola" location="Z/Emile Zola/Nana/" section="Fiction/General" />
+	<book bid="1699" title="Miller's Daughter, The" author="Emile Zola" location="Z/Emile Zola/Miller's Daughter, The/" section="Fiction/General" />
+	<book bid="1701" title="Foreigner, The" author="Ralph Connor" location="C/Ralph Connor/Foreigner, The/" section="Fiction/Historical" />
+	<book bid="1702" title="Devil's Paw, The" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Devil's Paw, The/" section="Fiction/General" />
+	<book bid="1703" title="Death of Olivier Becaille, The" author="Emile Zola" location="Z/Emile Zola/Death of Olivier Becaille, The/" section="Fiction/General" />
+	<book bid="1704" title="Captain Burle" author="Emile Zola" location="Z/Emile Zola/Captain Burle/" section="Fiction/General" />
+	<book bid="1705" title="Under the Red Robe" author="Stanley J. Weyman" location="W/Stanley J. Weyman/Under the Red Robe/" section="Fiction/General" />
+	<book bid="1706" title="Whitefoot the Wood Mouse" author="Thornton W. Burgess" location="B/Thornton W. Burgess/Whitefoot the Wood Mouse/" section="Fiction/Children" />
+	<book bid="1707" title="Bobbsey Twins in the Great West, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Bobbsey Twins in the Great West, The/" section="Fiction/Children" />
+	<book bid="1708" title="Guy Garrick" author="Arthur B. Reeve" location="R/Arthur B. Reeve/Guy Garrick/" section="Fiction/Mystery" />
+	<book bid="1709" title="Great Impersonation, The" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Great Impersonation, The/" section="Fiction/General" />
+	<book bid="1710" title="Bobbsey Twins at Snow Lodge, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Bobbsey Twins at Snow Lodge, The/" section="Fiction/Children" />
+	<book bid="1718" title="Manalive" author="Gilbert K. Chesterton" location="C/Gilbert K. Chesterton/Manalive/" section="Fiction/Christian" />
+	<book bid="1728" title="Sky Pilot, The" author="Ralph Connor" location="C/Ralph Connor/Sky Pilot, The/" section="Fiction/Historical" />
+	<book bid="1729" title="Guns of Shiloh, The" author="Joseph A. Altsheler" location="A/Joseph A. Altsheler/Guns of Shiloh, The/" section="Fiction/Historical" />
+	<book bid="1730" title="Young Carthaginian, The" author="George Alfred Henty" location="H/George Alfred Henty/Young Carthaginian, The/" section="Fiction/Historical" />
+	<book bid="1731" title="Lightfoot the Deer" author="Thornton W. Burgess" location="B/Thornton W. Burgess/Lightfoot the Deer/" section="Fiction/Children" />
+	<book bid="1732" title="Two Penniless Princesses" author="J. M. Synge" location="S/J. M. Synge/Two Penniless Princesses/" section="Fiction/General" />
+	<book bid="1733" title="Black Rock" author="Ralph Connor" location="C/Ralph Connor/Black Rock/" section="Fiction/Historical" />
+	<book bid="1734" title="Villette" author="Charlotte Bronte" location="B/Charlotte Bronte/Villette/" section="Fiction/General" />
+	<book bid="1735" title="Shirley" author="Charlotte Bronte" location="B/Charlotte Bronte/Shirley/" section="Fiction/General" />
+	<book bid="1737" title="Beechcroft at Rockstone" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Beechcroft at Rockstone/" section="Fiction/General" />
+	<book bid="1738" title="Confessions of Saint Augustine, The" author="Saint Augustine" location="A/Saint Augustine/Confessions of Saint Augustine, The/" section="Non-Fiction/Christian" />
+	<book bid="1739" title="Zeppelin's Passenger, The" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Zeppelin's Passenger, The/" section="Fiction/General" />
+	<book bid="1740" title="House of the Wolf, The" author="Stanley J. Weyman" location="W/Stanley J. Weyman/House of the Wolf, The/" section="Fiction/General" />
+	<book bid="1765" title="Elusive Pimpernel, The" author="Baroness Emmuska Orczy" location="O/Baroness Emmuska Orczy/Elusive Pimpernel, The/" section="Fiction/General" />
+	<book bid="1766" title="Sorrows of Young Werther, The" author="Johann Wolfgang von Goethe" location="G/Johann Wolfgang von Goethe/Sorrows of Young Werther, The/" section="Fiction/General" />
+	<book bid="1767" title="Poor Mrs Quack" author="Thornton W. Burgess" location="B/Thornton W. Burgess/Poor Mrs Quack/" section="Fiction/Children" />
+	<book bid="1768" title="Old Granny Fox" author="Thornton W. Burgess" location="B/Thornton W. Burgess/Old Granny Fox/" section="Fiction/Children" />
+	<book bid="1769" title="Mrs Peter Rabbit" author="Thornton W. Burgess" location="B/Thornton W. Burgess/Mrs Peter Rabbit/" section="Fiction/Children" />
+	<book bid="1770" title="Johnny Chuck, The Adventures of" author="Thornton W. Burgess" location="B/Thornton W. Burgess/Johnny Chuck, The Adventures of/" section="Fiction/Children" />
+	<book bid="1771" title="Jerry Muskrat, The Adventures of" author="Thornton W. Burgess" location="B/Thornton W. Burgess/Jerry Muskrat, The Adventures of/" section="Fiction/Children" />
+	<book bid="1772" title="Faust Part 1" author="Johann Wolfgang von Goethe" location="G/Johann Wolfgang von Goethe/Faust Part 1/" section="Plays/Drama" />
+	<book bid="1773" title="Blacky the Crow" author="Thornton W. Burgess" location="B/Thornton W. Burgess/Blacky the Crow/" section="Fiction/Children" />
+	<book bid="1774" title="Story of Calico Clown, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Story of Calico Clown, The/" section="Fiction/Children" />
+	<book bid="1775" title="Havoc" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Havoc/" section="Fiction/General" />
+	<book bid="1776" title="Ear in the Wall, The" author="Arthur B. Reeve" location="R/Arthur B. Reeve/Ear in the Wall, The/" section="Fiction/Mystery" />
+	<book bid="1777" title="Octopus, The" author="Frank Norris" location="N/Frank Norris/Octopus, The/" section="Fiction/General" />
+	<book bid="1778" title="From the Memoirs of a Minister of France" author="Stanley J. Weyman" location="W/Stanley J. Weyman/From the Memoirs of a Minister of France/" section="Fiction/General" />
+	<book bid="1779" title="Lion of the North, The" author="George Alfred Henty" location="H/George Alfred Henty/Lion of the North, The/" section="Fiction/Historical" />
+	<book bid="1780" title="Knight of the White Cross, A" author="George Alfred Henty" location="H/George Alfred Henty/Knight of the White Cross, A/" section="Fiction/Historical" />
+	<book bid="1781" title="Exploits of Elaine, The" author="Arthur B. Reeve" location="R/Arthur B. Reeve/Exploits of Elaine, The/" section="Fiction/Mystery" />
+	<book bid="1782" title="Erewhon" author="Samuel Butler" location="B/Samuel Butler/Erewhon/" section="Fiction/General" />
+	<book bid="1783" title="Slavery in Massachusetts" author="Henry David Thoreau" location="T/Henry David Thoreau/Slavery in Massachusetts/" section="Non-Fiction/General" />
+	<book bid="1784" title="Erewhon Revisited" author="Samuel Butler" location="B/Samuel Butler/Erewhon Revisited/" section="Fiction/General" />
+	<book bid="1785" title="Story of Julia Page, The" author="Kathleen Thompson Norris" location="N/Kathleen Thompson Norris/Story of Julia Page, The/" section="Fiction/General" />
+	<book bid="1786" title="Moon and Sixpence" author="Somerset Maugham" location="M/Somerset Maugham/Moon and Sixpence/" section="Fiction/General" />
+	<book bid="1787" title="House of Gentlefolk, A" author="Ivan S. Turgenev" location="T/Ivan S. Turgenev/House of Gentlefolk, A/" section="Fiction/General" />
+	<book bid="1788" title="Republic, The" author=" Plato" location="P/ Plato/Republic, The/" section="Plays/Classical" />
+	<book bid="1789" title="Phaedo" author=" Plato" location="P/ Plato/Phaedo/" section="Plays/Classical" />
+	<book bid="1790" title="Meno" author=" Plato" location="P/ Plato/Meno/" section="Plays/Classical" />
+	<book bid="1791" title="Menexenus" author=" Plato" location="P/ Plato/Menexenus/" section="Plays/Classical" />
+	<book bid="1792" title="Memorabilia, The" author=" Xenophon" location="X/ Xenophon/Memorabilia, The/" section="Plays/Classical" />
+	<book bid="1793" title="Lysis" author=" Plato" location="P/ Plato/Lysis/" section="Plays/Classical" />
+	<book bid="1794" title="Lesser Hippias" author=" Plato" location="P/ Plato/Lesser Hippias/" section="Plays/Classical" />
+	<book bid="1795" title="Ion" author=" Plato" location="P/ Plato/Ion/" section="Plays/Classical" />
+	<book bid="1796" title="Euthyphro" author=" Plato" location="P/ Plato/Euthyphro/" section="Plays/Classical" />
+	<book bid="1797" title="Euthydemus" author=" Plato" location="P/ Plato/Euthydemus/" section="Plays/Classical" />
+	<book bid="1798" title="Critias" author=" Plato" location="P/ Plato/Critias/" section="Plays/Classical" />
+	<book bid="1799" title="Clouds, The" author=" Aristophanes" location="A/ Aristophanes/Clouds, The/" section="Plays/Classical" />
+	<book bid="1800" title="Cavalry General, The" author=" Xenophon" location="X/ Xenophon/Cavalry General, The/" section="Plays/Classical" />
+	<book bid="1801" title="Birds, The" author=" Aristophanes" location="A/ Aristophanes/Birds, The/" section="Plays/Classical" />
+	<book bid="1802" title="Apology, The" author=" Xenophon" location="X/ Xenophon/Apology, The/" section="Plays/Classical" />
+	<book bid="1803" title="Anabasis" author=" Xenophon" location="X/ Xenophon/Anabasis/" section="Plays/Classical" />
+	<book bid="1804" title="Alcibiades I" author=" Plato" location="P/ Plato/Alcibiades I/" section="Plays/Classical" />
+	<book bid="1805" title="Agesilaus" author=" Xenophon" location="X/ Xenophon/Agesilaus/" section="Plays/Classical" />
+	<book bid="1806" title="Acharnians, The" author=" Aristophanes" location="A/ Aristophanes/Acharnians, The/" section="Plays/Classical" />
+	<book bid="1807" title="On Horsemanship" author=" Xenophon" location="X/ Xenophon/On Horsemanship/" section="Plays/Classical" />
+	<book bid="1808" title="Film Mystery, The" author="Arthur B. Reeve" location="R/Arthur B. Reeve/Film Mystery, The/" section="Fiction/Mystery" />
+	<book bid="1809" title="El Dorado" author="Baroness Emmuska Orczy" location="O/Baroness Emmuska Orczy/El Dorado/" section="Fiction/General" />
+	<book bid="1810" title="Bunny Brown and his Sister Sue" author="Laura Lee Hope" location="H/Laura Lee Hope/Bunny Brown and his Sister Sue/" section="Fiction/Children" />
+	<book bid="1811" title="Driven From Home" author="Horatio Alger Jr." location="A/Horatio Alger Jr./Driven From Home/" section="Fiction/Children" />
+	<book bid="1812" title="Bobbsey Twins on a Houseboat, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Bobbsey Twins on a Houseboat, The/" section="Fiction/Children" />
+	<book bid="1813" title="Swiss Twins, The" author="Lucy Fitch Perkins" location="P/Lucy Fitch Perkins/Swiss Twins, The/" section="Fiction/Children" />
+	<book bid="1814" title="Scotch Twins, The" author="Lucy Fitch Perkins" location="P/Lucy Fitch Perkins/Scotch Twins, The/" section="Fiction/Children" />
+	<book bid="1815" title="Japanese Twins, The" author="Lucy Fitch Perkins" location="P/Lucy Fitch Perkins/Japanese Twins, The/" section="Fiction/Children" />
+	<book bid="1816" title="French Twins, The" author="Lucy Fitch Perkins" location="P/Lucy Fitch Perkins/French Twins, The/" section="Fiction/Children" />
+	<book bid="1817" title="Eskimo Twins, The" author="Lucy Fitch Perkins" location="P/Lucy Fitch Perkins/Eskimo Twins, The/" section="Fiction/Children" />
+	<book bid="1818" title="Belgian Twins, The" author="Lucy Fitch Perkins" location="P/Lucy Fitch Perkins/Belgian Twins, The/" section="Fiction/Children" />
+	<book bid="1819" title="In Freedom's Cause" author="George Alfred Henty" location="H/George Alfred Henty/In Freedom's Cause/" section="Fiction/Historical" />
+	<book bid="1820" title="Peace" author=" Aristophanes" location="A/ Aristophanes/Peace/" section="Plays/Classical" />
+	<book bid="1821" title="Story of a Lamb on Wheels, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Story of a Lamb on Wheels, The/" section="Fiction/Children" />
+	<book bid="1822" title="Dutch Twins, The" author="Lucy Fitch Perkins" location="P/Lucy Fitch Perkins/Dutch Twins, The/" section="Fiction/Children" />
+	<book bid="1823" title="All's For the Best" author="T.S. Arthur" location="A/T.S. Arthur/All's For the Best/" section="Fiction/General" />
+	<book bid="1824" title="Romany Of The Snows" author="Gilbert Parker" location="P/Gilbert Parker/Romany Of The Snows/" section="Fiction/General" />
+	<book bid="1825" title="Pierre And His People" author="Gilbert Parker" location="P/Gilbert Parker/Pierre And His People/" section="Fiction/General" />
+	<book bid="1826" title="Illustrious Prince, The" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Illustrious Prince, The/" section="Fiction/General" />
+	<book bid="1827" title="Huntingtower" author="John Buchan" location="B/John Buchan/Huntingtower/" section="Fiction/General" />
+	<book bid="1828" title="Dream Doctor, The" author="Arthur B. Reeve" location="R/Arthur B. Reeve/Dream Doctor, The/" section="Fiction/Mystery" />
+	<book bid="1830" title="Secret Passage, The" author="Fergus Hume" location="H/Fergus Hume/Secret Passage, The/" section="Fiction/Mystery" />
+	<book bid="1831" title="Romance of Elaine, The" author="Arthur B. Reeve" location="R/Arthur B. Reeve/Romance of Elaine, The/" section="Fiction/Mystery" />
+	<book bid="1832" title="Glengarry Schooldays" author="Ralph Connor" location="C/Ralph Connor/Glengarry Schooldays/" section="Fiction/Historical" />
+	<book bid="1835" title="Tempting of Tavernake, The" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Tempting of Tavernake, The/" section="Fiction/General" />
+	<book bid="1836" title="Underground City, The" author="Jules Verne" location="V/Jules Verne/Underground City, The/" section="Fiction/Young-Adults" />
+	<book bid="1837" title="In the Days of the Comet" author="H.G. Wells" location="W/H.G. Wells/In the Days of the Comet/" section="Fiction/Science-Fiction" />
+	<book bid="1838" title="Five Weeks in a Balloon" author="Jules Verne" location="V/Jules Verne/Five Weeks in a Balloon/" section="Fiction/Young-Adults" />
+	<book bid="1839" title="Forsyte Saga, The" author="John Galsworthy" location="G/John Galsworthy/Forsyte Saga, The/" section="Fiction/General" />
+	<book bid="1840" title="Eight Hundred Leagues on the Amazon" author="Jules Verne" location="V/Jules Verne/Eight Hundred Leagues on the Amazon/" section="Fiction/Young-Adults" />
+	<book bid="1841" title="Robur the Conqueror" author="Jules Verne" location="V/Jules Verne/Robur the Conqueror/" section="Fiction/Young-Adults" />
+	<book bid="1842" title="Gold of the Gods, The" author="Arthur B. Reeve" location="R/Arthur B. Reeve/Gold of the Gods, The/" section="Fiction/Mystery" />
+	<book bid="1843" title="Peter Ruff and the Double Four" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Peter Ruff and the Double Four/" section="Fiction/General" />
+	<book bid="1844" title="Northern Lights" author="Gilbert Parker" location="P/Gilbert Parker/Northern Lights/" section="Fiction/General" />
+	<book bid="1845" title="March on London, A" author="George Alfred Henty" location="H/George Alfred Henty/March on London, A/" section="Fiction/Historical" />
+	<book bid="1846" title="By Pike and Dyke" author="George Alfred Henty" location="H/George Alfred Henty/By Pike and Dyke/" section="Fiction/Historical" />
+	<book bid="1847" title="By England's Aid" author="George Alfred Henty" location="H/George Alfred Henty/By England's Aid/" section="Fiction/Historical" />
+	<book bid="1909" title="Poisoned Pen, The" author="Arthur B. Reeve" location="R/Arthur B. Reeve/Poisoned Pen, The/" section="Fiction/Mystery" />
+	<book bid="1910" title="Millionaire of Yesterday, A" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Millionaire of Yesterday, A/" section="Fiction/General" />
+	<book bid="1911" title="Master of the World" author="Jules Verne" location="V/Jules Verne/Master of the World/" section="Fiction/Young-Adults" />
+	<book bid="1912" title="In Times of Peril" author="George Alfred Henty" location="H/George Alfred Henty/In Times of Peril/" section="Fiction/Historical" />
+	<book bid="1913" title="At Agincourt" author="George Alfred Henty" location="H/George Alfred Henty/At Agincourt/" section="Fiction/Historical" />
+	<book bid="1914" title="Picture of Dorian Gray, The" author="Oscar Wilde" location="W/Oscar Wilde/Picture of Dorian Gray, The/" section="Fiction/General" />
+	<book bid="1915" title="Bonnie Prince Charlie" author="George Alfred Henty" location="H/George Alfred Henty/Bonnie Prince Charlie/" section="Fiction/Historical" />
+	<book bid="1916" title="Among Malay Pirates" author="George Alfred Henty" location="H/George Alfred Henty/Among Malay Pirates/" section="Fiction/Historical" />
+	<book bid="1918" title="Raffles" author="E.W. Hornung" location="H/E.W. Hornung/Raffles/" section="Fiction/General" />
+	<book bid="1920" title="Judgment House, The" author="Gilbert Parker" location="P/Gilbert Parker/Judgment House, The/" section="Fiction/General" />
+	<book bid="1921" title="Young Trailers, The" author="Joseph A. Altsheler" location="A/Joseph A. Altsheler/Young Trailers, The/" section="Fiction/Historical" />
+	<book bid="1923" title="Fortune of the Rougons, The" author="Emile Zola" location="Z/Emile Zola/Fortune of the Rougons, The/" section="Fiction/General" />
+	<book bid="1924" title="Bravest of the Brave, The" author="George Alfred Henty" location="H/George Alfred Henty/Bravest of the Brave, The/" section="Fiction/Historical" />
+	<book bid="1927" title="Garland for Girls, A" author="Louisa May Alcott" location="A/Louisa May Alcott/Garland for Girls, A/" section="Fiction/Young-Adults" />
+	<book bid="1929" title="Beric the Briton" author="George Alfred Henty" location="H/George Alfred Henty/Beric the Briton/" section="Fiction/Historical" />
+	<book bid="1930" title="Letters From The Earth" author="Mark Twain" location="T/Mark Twain/Letters From The Earth/" section="Fiction/Young-Adults" />
+	<book bid="1931" title="Love Among the Chickens" author="Pelham Grenville Wodehouse" location="W/Pelham Grenville Wodehouse/Love Among the Chickens/" section="Fiction/General" />
+	<book bid="1932" title="Constance Dunlap" author="Arthur B. Reeve" location="R/Arthur B. Reeve/Constance Dunlap/" section="Fiction/General" />
+	<book bid="1937" title="Second Jungle Book, The" author="Rudyard Kipling" location="K/Rudyard Kipling/Second Jungle Book, The/" section="Fiction/Children" />
+	<book bid="1957" title="Rosmersholm" author="Henrik Ibsen" location="I/Henrik Ibsen/Rosmersholm/" section="Plays/Drama" />
+	<book bid="1958" title="When We Dead Awaken" author="Henrik Ibsen" location="I/Henrik Ibsen/When We Dead Awaken/" section="Plays/Drama" />
+	<book bid="1959" title="Pillars of Society" author="Henrik Ibsen" location="I/Henrik Ibsen/Pillars of Society/" section="Plays/Drama" />
+	<book bid="1960" title="Tom Swift and His Motor-Cycle" author="Victor Appleton" location="A/Victor Appleton/Tom Swift and His Motor-Cycle/" section="Fiction/Children" />
+	<book bid="1961" title="After the Storm" author="T.S. Arthur" location="A/T.S. Arthur/After the Storm/" section="Fiction/General" />
+	<book bid="1962" title="Rubaiyat" author="Omar Khayyam" location="K/Omar Khayyam/Rubaiyat/" section="other/Poetry" />
+	<book bid="2005" title="Elect Lady, The" author="George MacDonald" location="M/George MacDonald/Elect Lady, The/" section="Fiction/Christian" />
+	<book bid="2008" title="Two Sides of the Shield, The" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Two Sides of the Shield, The/" section="Fiction/General" />
+	<book bid="2009" title="Long Vacation, The" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Long Vacation, The/" section="Fiction/General" />
+	<book bid="2010" title="Jacob's Room" author="Virginia Woolf" location="W/Virginia Woolf/Jacob's Room/" section="Fiction/General" />
+	<book bid="2011" title="Doll's House, A" author="Henrik Ibsen" location="I/Henrik Ibsen/Doll's House, A/" section="Plays/Drama" />
+	<book bid="2012" title="Bobbsey Twins at Meadow Brook, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Bobbsey Twins at Meadow Brook, The/" section="Fiction/Children" />
+	<book bid="2013" title="Mother Carey's Chickens" author="Kate Douglas Wiggin" location="W/Kate Douglas Wiggin/Mother Carey's Chickens/" section="Fiction/Children" />
+	<book bid="2014" title="Lord Jim" author="Joseph Conrad" location="C/Joseph Conrad/Lord Jim/" section="Fiction/Adventure-Action" />
+	<book bid="2018" title="Trail of The Sword, The" author="Gilbert Parker" location="P/Gilbert Parker/Trail of The Sword, The/" section="Fiction/General" />
+	<book bid="2020" title="Stokesley Secret, The" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Stokesley Secret, The/" section="Fiction/General" />
+	<book bid="2022" title="Something New" author="Pelham Grenville Wodehouse" location="W/Pelham Grenville Wodehouse/Something New/" section="Fiction/General" />
+	<book bid="2025" title="Sant' Ilario" author="F. Marion Crawford" location="C/F. Marion Crawford/Sant' Ilario/" section="Fiction/General" />
+	<book bid="2027" title="Our Mutual Friend" author="Charles Dickens" location="D/Charles Dickens/Our Mutual Friend/" section="Fiction/Young-Adults" />
+	<book bid="2028" title="Nonsense Novels" author="Stephen Leacock" location="L/Stephen Leacock/Nonsense Novels/" section="Fiction/General" />
+	<book bid="2048" title="Bobbsey Twins in Washington, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Bobbsey Twins in Washington, The/" section="Fiction/Children" />
+	<book bid="2054" title="Erlking, The" author="Johann Wolfgang von Goethe" location="G/Johann Wolfgang von Goethe/Erlking, The/" section="other/Poetry" />
+	<book bid="2059" title="Child's History of England, A" author="Charles Dickens" location="D/Charles Dickens/Child's History of England, A/" section="Fiction/Young-Adults" />
+	<book bid="2060" title="Story of a Bold Tin Soldier, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Story of a Bold Tin Soldier, The/" section="Fiction/Children" />
+	<book bid="2061" title="Blix" author="Frank Norris" location="N/Frank Norris/Blix/" section="Fiction/General" />
+	<book bid="2071" title="Last Trail, The" author="Zane Grey" location="G/Zane Grey/Last Trail, The/" section="Fiction/Westerns" />
+	<book bid="2073" title="Greifenstein" author="F. Marion Crawford" location="C/F. Marion Crawford/Greifenstein/" section="Fiction/General" />
+	<book bid="2079" title="Translation of A Savage, The" author="Gilbert Parker" location="P/Gilbert Parker/Translation of A Savage, The/" section="Fiction/General" />
+	<book bid="2080" title="Mrs Lirriper's Lodgings" author="Charles Dickens" location="D/Charles Dickens/Mrs Lirriper's Lodgings/" section="Fiction/Young-Adults" />
+	<book bid="2081" title="Somebody's Luggage" author="Charles Dickens" location="D/Charles Dickens/Somebody's Luggage/" section="Fiction/Young-Adults" />
+	<book bid="2082" title="Crito" author=" Plato" location="P/ Plato/Crito/" section="Plays/Classical" />
+	<book bid="2083" title="Apology" author=" Plato" location="P/ Plato/Apology/" section="Plays/Classical" />
+	<book bid="2084" title="Laches" author=" Plato" location="P/ Plato/Laches/" section="Plays/Classical" />
+	<book bid="2085" title="Girl Of The Limberlost, A" author="Gene Stratton-Porter" location="S/Gene Stratton-Porter/Girl Of The Limberlost, A/" section="Fiction/Children" />
+	<book bid="2086" title="Story of a White Rocking Horse, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Story of a White Rocking Horse, The/" section="Fiction/Children" />
+	<book bid="2087" title="War Terror, The" author="Arthur B. Reeve" location="R/Arthur B. Reeve/War Terror, The/" section="Fiction/General" />
+	<book bid="2088" title="Mrs Lirriper's Legacy" author="Charles Dickens" location="D/Charles Dickens/Mrs Lirriper's Legacy/" section="Fiction/Young-Adults" />
+	<book bid="2089" title="Madame Midas" author="Fergus Hume" location="H/Fergus Hume/Madame Midas/" section="Fiction/Mystery" />
+	<book bid="2090" title="Pomp of the Lavilettes, The" author="Gilbert Parker" location="P/Gilbert Parker/Pomp of the Lavilettes, The/" section="Fiction/General" />
+	<book bid="2091" title="To Him That Hath" author="Ralph Connor" location="C/Ralph Connor/To Him That Hath/" section="Fiction/Historical" />
+	<book bid="2092" title="Heart of Rome, The" author="F. Marion Crawford" location="C/F. Marion Crawford/Heart of Rome, The/" section="Fiction/General" />
+	<book bid="2093" title="Intrusion of Jimmy, The" author="Pelham Grenville Wodehouse" location="W/Pelham Grenville Wodehouse/Intrusion of Jimmy, The/" section="Fiction/General" />
+	<book bid="2094" title="Outdoor Girls at Wild Rose Lodge, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Outdoor Girls at Wild Rose Lodge, The/" section="Fiction/Children" />
+	<book bid="2095" title="Where Angels Fear to Tread" author="E. M. Forster" location="F/E. M. Forster/Where Angels Fear to Tread/" section="Fiction/General" />
+	<book bid="2096" title="Trespasser, The" author="Gilbert Parker" location="P/Gilbert Parker/Trespasser, The/" section="Fiction/General" />
+	<book bid="2097" title="Countess Kate" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Countess Kate/" section="Fiction/General" />
+	<book bid="2098" title="Psmith, Journalist" author="Pelham Grenville Wodehouse" location="W/Pelham Grenville Wodehouse/Psmith, Journalist/" section="Fiction/General" />
+	<book bid="2099" title="Prospector, The" author="Ralph Connor" location="C/Ralph Connor/Prospector, The/" section="Fiction/Historical" />
+	<book bid="2100" title="Patrol of the Sun Dance Trail, The" author="Ralph Connor" location="C/Ralph Connor/Patrol of the Sun Dance Trail, The/" section="Fiction/Historical" />
+	<book bid="2101" title="Moran of the Lady Letty" author="Frank Norris" location="N/Frank Norris/Moran of the Lady Letty/" section="Fiction/General" />
+	<book bid="2102" title="March of The White Guard, The" author="Gilbert Parker" location="P/Gilbert Parker/March of The White Guard, The/" section="Fiction/General" />
+	<book bid="2104" title="Outdoor Girls at Rainbow Lake, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Outdoor Girls at Rainbow Lake, The/" section="Fiction/Children" />
+	<book bid="2105" title="Jeanne Of The Marshes" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Jeanne Of The Marshes/" section="Fiction/General" />
+	<book bid="2106" title="George Silverman's Explanation" author="Charles Dickens" location="D/Charles Dickens/George Silverman's Explanation/" section="Fiction/Young-Adults" />
+	<book bid="2107" title="Master Builder, The" author="Henrik Ibsen" location="I/Henrik Ibsen/Master Builder, The/" section="Plays/Drama" />
+	<book bid="2115" title="Danger" author="T.S. Arthur" location="A/T.S. Arthur/Danger/" section="Fiction/General" />
+	<book bid="2116" title="Charmides" author=" Plato" location="P/ Plato/Charmides/" section="Plays/Classical" />
+	<book bid="2117" title="Outdoor Girls in Army Service, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Outdoor Girls in Army Service, The/" section="Fiction/Children" />
+	<book bid="2118" title="Outdoor Girls of Deepdale, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Outdoor Girls of Deepdale, The/" section="Fiction/Children" />
+	<book bid="2119" title="Bobbsey Twins at the Seashore, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Bobbsey Twins at the Seashore, The/" section="Fiction/Children" />
+	<book bid="2121" title="Unspeakable Perk, The" author="Samuel Hopkins Adams" location="A/Samuel Hopkins Adams/Unspeakable Perk, The/" section="Fiction/General" />
+	<book bid="2130" title="Keeping up with Lizzie" author="Irving Bacheller" location="B/Irving Bacheller/Keeping up with Lizzie/" section="Fiction/General" />
+	<book bid="2134" title="Doomswoman, The" author="Gertrude Franklin Horn Atherton" location="A/Gertrude Franklin Horn Atherton/Doomswoman, The/" section="Fiction/Historical" />
+	<book bid="2140" title="Texas Matchmaker, A" author="Andy Adams" location="A/Andy Adams/Texas Matchmaker, A/" section="Fiction/Westerns" />
+	<book bid="2141" title="White Morning, The" author="Gertrude Franklin Horn Atherton" location="A/Gertrude Franklin Horn Atherton/White Morning, The/" section="Fiction/Historical" />
+	<book bid="2142" title="Tale of Tommy Fox, The" author="Arthur Scott Bailey" location="B/Arthur Scott Bailey/Tale of Tommy Fox, The/" section="Fiction/Children" />
+	<book bid="2143" title="Tale of Sandy Chipmunk, The" author="Arthur Scott Bailey" location="B/Arthur Scott Bailey/Tale of Sandy Chipmunk, The/" section="Fiction/Children" />
+	<book bid="2144" title="Tale of Brownie Beaver, The" author="Arthur Scott Bailey" location="B/Arthur Scott Bailey/Tale of Brownie Beaver, The/" section="Fiction/Children" />
+	<book bid="2145" title="Princess Priscilla's Fortnight, The" author="Elizabeth von Arnim" location="v/Elizabeth von Arnim/Princess Priscilla's Fortnight, The/" section="Fiction/General" />
+	<book bid="2146" title="Log of a Cowboy, The" author="Andy Adams" location="A/Andy Adams/Log of a Cowboy, The/" section="Fiction/Westerns" />
+	<book bid="2149" title="Sleeping Fires" author="Gertrude Franklin Horn Atherton" location="A/Gertrude Franklin Horn Atherton/Sleeping Fires/" section="Fiction/Historical" />
+	<book bid="2157" title="Master of Silence, The" author="Irving Bacheller" location="B/Irving Bacheller/Master of Silence, The/" section="Fiction/General" />
+	<book bid="2166" title="Facing the World" author="Horatio Alger Jr." location="A/Horatio Alger Jr./Facing the World/" section="Fiction/Children" />
+	<book bid="2181" title="Man From Glengarry, The" author="Ralph Connor" location="C/Ralph Connor/Man From Glengarry, The/" section="Fiction/Historical" />
+	<book bid="2182" title="Sunday Under Three Heads" author="Charles Dickens" location="D/Charles Dickens/Sunday Under Three Heads/" section="Fiction/General" />
+	<book bid="2183" title="Solitary Summer, The" author="Elizabeth von Arnim" location="v/Elizabeth von Arnim/Solitary Summer, The/" section="Fiction/General" />
+	<book bid="2185" title="Tale of Fatty Coon, The" author="Arthur Scott Bailey" location="B/Arthur Scott Bailey/Tale of Fatty Coon, The/" section="Fiction/Children" />
+	<book bid="2186" title="Reed Anthony, Cowman" author="Andy Adams" location="A/Andy Adams/Reed Anthony, Cowman/" section="Fiction/Westerns" />
+	<book bid="2187" title="Avalanche, The" author="Gertrude Franklin Horn Atherton" location="A/Gertrude Franklin Horn Atherton/Avalanche, The/" section="Fiction/Historical" />
+	<book bid="2188" title="Pollyanna Grows Up" author="Eleanor H. Porter" location="P/Eleanor H. Porter/Pollyanna Grows Up/" section="Fiction/Children" />
+	<book bid="2189" title="Heir of Redclyffe, The" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Heir of Redclyffe, The/" section="Fiction/General" />
+	<book bid="2190" title="Grey Fairy Book, The" author="Andrew Lang" location="L/Andrew Lang/Grey Fairy Book, The/" section="Fiction/Children" />
+	<book bid="2191" title="Green Fairy Book, The" author="Andrew Lang" location="L/Andrew Lang/Green Fairy Book, The/" section="Fiction/Children" />
+	<book bid="2192" title="Fashionable Adventures of Joshua Craig, The" author="David Graham Phillips" location="P/David Graham Phillips/Fashionable Adventures of Joshua Craig, The/" section="Fiction/General" />
+	<book bid="2193" title="Dawn" author="Eleanor H. Porter" location="P/Eleanor H. Porter/Dawn/" section="Fiction/Children" />
+	<book bid="2195" title="Seats Of The Mighty" author="Gilbert Parker" location="P/Gilbert Parker/Seats Of The Mighty/" section="Fiction/General" />
+	<book bid="2199" title="Aaron's Rod" author="D. H. Lawrence" location="L/D. H. Lawrence/Aaron's Rod/" section="Fiction/General" />
+	<book bid="2200" title="Trespasser, The" author="D. H. Lawrence" location="L/D. H. Lawrence/Trespasser, The/" section="Fiction/General" />
+	<book bid="2201" title="Tale of Freddie Firefly, The" author=" Misc. Authors" location="M/ Misc. Authors/Tale of Freddie Firefly, The/" section="Fiction/Children" />
+	<book bid="2204" title="Price She Paid, The" author="David Graham Phillips" location="P/David Graham Phillips/Price She Paid, The/" section="Fiction/General" />
+	<book bid="2205" title="Pink Fairy Book, The" author="Andrew Lang" location="L/Andrew Lang/Pink Fairy Book, The/" section="Fiction/Children" />
+	<book bid="2215" title="Timothy Crump's Ward- A Story of American Life" author="Horatio Alger Jr." location="A/Horatio Alger Jr./Timothy Crump's Ward- A Story of American Life/" section="Fiction/Children" />
+	<book bid="2217" title="Second Generation, The" author="David Graham Phillips" location="P/David Graham Phillips/Second Generation, The/" section="Fiction/General" />
+	<book bid="2223" title="Darrel of the Blessed Isles" author="Irving Bacheller" location="B/Irving Bacheller/Darrel of the Blessed Isles/" section="Fiction/General" />
+	<book bid="2231" title="Major, The" author="Ralph Connor" location="C/Ralph Connor/Major, The/" section="Fiction/General" />
+	<book bid="2232" title="Helping Himself" author="Horatio Alger Jr." location="A/Horatio Alger Jr./Helping Himself/" section="Fiction/Children" />
+	<book bid="2233" title="Wells Brothers" author="Andy Adams" location="A/Andy Adams/Wells Brothers/" section="Fiction/Westerns" />
+	<book bid="2239" title="Red Masquerade" author="Louis Joseph Vance" location="V/Louis Joseph Vance/Red Masquerade/" section="Fiction/General" />
+	<book bid="2240" title="Lone Wolf, The" author="Louis Joseph Vance" location="V/Louis Joseph Vance/Lone Wolf, The/" section="Fiction/General" />
+	<book bid="2241" title="Ball and The Cross, The" author="Gilbert K. Chesterton" location="C/Gilbert K. Chesterton/Ball and The Cross, The/" section="Fiction/Christian" />
+	<book bid="2243" title="Store Boy, The" author="Horatio Alger Jr." location="A/Horatio Alger Jr./Store Boy, The/" section="Fiction/Children" />
+	<book bid="2244" title="Mary Marie" author="Eleanor H. Porter" location="P/Eleanor H. Porter/Mary Marie/" section="Fiction/Children" />
+	<book bid="2245" title="Jack's Ward" author="Horatio Alger Jr." location="A/Horatio Alger Jr./Jack's Ward/" section="Fiction/Children" />
+	<book bid="2246" title="D'Ri and I" author="Irving Bacheller" location="B/Irving Bacheller/D'Ri and I/" section="Fiction/General" />
+	<book bid="2247" title="Cast Adrift" author="T.S. Arthur" location="A/T.S. Arthur/Cast Adrift/" section="Fiction/General" />
+	<book bid="2248" title="Across the Years" author="Eleanor H. Porter" location="P/Eleanor H. Porter/Across the Years/" section="Fiction/Children" />
+	<book bid="2249" title="Yellow Crayon, The" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Yellow Crayon, The/" section="Fiction/General" />
+	<book bid="2250" title="White Moll, The" author="Frank L. Packard" location="P/Frank L. Packard/White Moll, The/" section="Fiction/General" />
+	<book bid="2251" title="Nuttie's Father" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Nuttie's Father/" section="Fiction/General" />
+	<book bid="2252" title="Fortune Hunter, The" author="Louis Joseph Vance" location="V/Louis Joseph Vance/Fortune Hunter, The/" section="Fiction/General" />
+	<book bid="2253" title="False Faces, The" author="Louis Joseph Vance" location="V/Louis Joseph Vance/False Faces, The/" section="Fiction/General" />
+	<book bid="2254" title="Bronze Bell, The" author="Louis Joseph Vance" location="V/Louis Joseph Vance/Bronze Bell, The/" section="Fiction/General" />
+	<book bid="2255" title="Brass Bowl, The" author="Louis Joseph Vance" location="V/Louis Joseph Vance/Brass Bowl, The/" section="Fiction/General" />
+	<book bid="2256" title="Black Bag, The" author="Louis Joseph Vance" location="V/Louis Joseph Vance/Black Bag, The/" section="Fiction/General" />
+	<book bid="2257" title="Vanished Messenger, The" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Vanished Messenger, The/" section="Fiction/General" />
+	<book bid="2258" title="Valley of the Giants, The" author="Peter B. Kyne" location="K/Peter B. Kyne/Valley of the Giants, The/" section="Fiction/General" />
+	<book bid="2259" title="Valiant Runaways, The" author="Gertrude Franklin Horn Atherton" location="A/Gertrude Franklin Horn Atherton/Valiant Runaways, The/" section="Fiction/Historical" />
+	<book bid="2261" title="Treasure-Train, The" author="Arthur B. Reeve" location="R/Arthur B. Reeve/Treasure-Train, The/" section="Fiction/General" />
+	<book bid="2262" title="Evil Shepherd, The" author="E. Phillips Oppenheim" location="O/E. Phillips Oppenheim/Evil Shepherd, The/" section="Fiction/General" />
+	<book bid="2263" title="Average Jones" author="Samuel Hopkins Adams" location="A/Samuel Hopkins Adams/Average Jones/" section="Fiction/General" />
+	<book bid="2264" title="Allen House, The" author="T.S. Arthur" location="A/T.S. Arthur/Allen House, The/" section="Fiction/General" />
+	<book bid="2266" title="Outlet, The" author="Andy Adams" location="A/Andy Adams/Outlet, The/" section="Fiction/Westerns" />
+	<book bid="2267" title="Long Chance, The" author="Peter B. Kyne" location="K/Peter B. Kyne/Long Chance, The/" section="Fiction/General" />
+	<book bid="2268" title="Land of Footprints, The" author="Stewart Edward White" location="W/Stewart Edward White/Land of Footprints, The/" section="Fiction/Westerns" />
+	<book bid="2269" title="Kindred of the Dust" author="Peter B. Kyne" location="K/Peter B. Kyne/Kindred of the Dust/" section="Fiction/General" />
+	<book bid="2271" title="Further Adventures of Jimmie Dale, The" author="Frank L. Packard" location="P/Frank L. Packard/Further Adventures of Jimmie Dale, The/" section="Fiction/General" />
+	<book bid="2272" title="Chaplet of Pearls, The" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Chaplet of Pearls, The/" section="Fiction/General" />
+	<book bid="2273" title="Adventures of Jimmie Dale, The" author="Frank L. Packard" location="P/Frank L. Packard/Adventures of Jimmie Dale, The/" section="Fiction/General" />
+	<book bid="2274" title="Pony Rider Boys with the Texas Rangers, The" author="Frank Gee Patchin" location="P/Frank Gee Patchin/Pony Rider Boys with the Texas Rangers, The/" section="Fiction/Children" />
+	<book bid="2275" title="Pony Rider Boys in the Rockies, The" author="Frank Gee Patchin" location="P/Frank Gee Patchin/Pony Rider Boys in the Rockies, The/" section="Fiction/Children" />
+	<book bid="2276" title="Pony Rider Boys in the Ozarks, The" author="Frank Gee Patchin" location="P/Frank Gee Patchin/Pony Rider Boys in the Ozarks, The/" section="Fiction/Children" />
+	<book bid="2277" title="Pony Rider Boys in New Mexico, The" author="Frank Gee Patchin" location="P/Frank Gee Patchin/Pony Rider Boys in New Mexico, The/" section="Fiction/Children" />
+	<book bid="2278" title="Pony Rider Boys in Montana, The" author="Frank Gee Patchin" location="P/Frank Gee Patchin/Pony Rider Boys in Montana, The/" section="Fiction/Children" />
+	<book bid="2279" title="Pony Rider Boys in the Grand Canyon, The" author="Frank Gee Patchin" location="P/Frank Gee Patchin/Pony Rider Boys in the Grand Canyon, The/" section="Fiction/Children" />
+	<book bid="2280" title="Mary Louise" author="L. Frank Baum" location="B/L. Frank Baum/Mary Louise/" section="Fiction/Children" />
+	<book bid="2281" title="All Things Considered" author="Gilbert K. Chesterton" location="C/Gilbert K. Chesterton/All Things Considered/" section="Non-Fiction/Christian" />
+	<book bid="2293" title="Go-Getter, The" author="Peter B. Kyne" location="K/Peter B. Kyne/Go-Getter, The/" section="Fiction/General" />
+	<book bid="2299" title="Abbeychurch" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Abbeychurch/" section="Fiction/General" />
+	<book bid="2308" title="Right of Way, The" author="Gilbert Parker" location="P/Gilbert Parker/Right of Way, The/" section="Fiction/General" />
+	<book bid="2309" title="Oh, Money! Money!" author="Eleanor H. Porter" location="P/Eleanor H. Porter/Oh, Money! Money!/" section="Fiction/Children" />
+	<book bid="2311" title="Friarswood Post Office" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Friarswood Post Office/" section="Fiction/General" />
+	<book bid="2312" title="Do and Dare" author="Horatio Alger Jr." location="A/Horatio Alger Jr./Do and Dare/" section="Fiction/Children" />
+	<book bid="2315" title="Deluge, The" author="David Graham Phillips" location="P/David Graham Phillips/Deluge, The/" section="Fiction/General" />
+	<book bid="2317" title="Corporal Cameron" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Corporal Cameron/" section="Fiction/General" />
+	<book bid="2318" title="Cappy Ricks Retires" author="Peter B. Kyne" location="K/Peter B. Kyne/Cappy Ricks Retires/" section="Fiction/General" />
+	<book bid="2319" title="Cappy Ricks" author="Peter B. Kyne" location="K/Peter B. Kyne/Cappy Ricks/" section="Fiction/General" />
+	<book bid="2320" title="Ridgway of Montana" author="William MacLeod Raine" location="R/William MacLeod Raine/Ridgway of Montana/" section="Fiction/Westerns" />
+	<book bid="2323" title="Sicilian Romance, A" author="Ann Radcliffe" location="R/Ann Radcliffe/Sicilian Romance, A/" section="Fiction/General" />
+	<book bid="2326" title="Man Size" author="William MacLeod Raine" location="R/William MacLeod Raine/Man Size/" section="Fiction/Westerns" />
+	<book bid="2328" title="Desert of Wheat, The" author="Zane Grey" location="G/Zane Grey/Desert of Wheat, The/" section="Fiction/Westerns" />
+	<book bid="2329" title="Armourer's Prentices, The" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Armourer's Prentices, The/" section="Fiction/General" />
+	<book bid="2330" title="Tales of Lonely Trails" author="Zane Grey" location="G/Zane Grey/Tales of Lonely Trails/" section="Fiction/Westerns" />
+	<book bid="2331" title="Spinner in the Sun, A" author="Myrtle Reed" location="R/Myrtle Reed/Spinner in the Sun, A/" section="Fiction/General" />
+	<book bid="2332" title="Rainbow Trail, The" author="Zane Grey" location="G/Zane Grey/Rainbow Trail, The/" section="Fiction/Westerns" />
+	<book bid="2333" title="Perilous Secret, A" author="Charles Reade" location="R/Charles Reade/Perilous Secret, A/" section="Fiction/General" />
+	<book bid="2335" title="Mayor's Wife, The" author="Anna Katharine Green" location="G/Anna Katharine Green/Mayor's Wife, The/" section="Fiction/Mystery" />
+	<book bid="2336" title="Man Four-Square, A" author="William MacLeod Raine" location="R/William MacLeod Raine/Man Four-Square, A/" section="Fiction/Westerns" />
+	<book bid="2337" title="Golden Slipper, The" author="Anna Katharine Green" location="G/Anna Katharine Green/Golden Slipper, The/" section="Fiction/Mystery" />
+	<book bid="2339" title="Ticket No “9672”" author="Jules Verne" location="V/Jules Verne/Ticket No “9672”/" section="Fiction/Young-Adults" />
+	<book bid="2342" title="Mysterious Rider, The" author="Zane Grey" location="G/Zane Grey/Mysterious Rider, The/" section="Fiction/Westerns" />
+	<book bid="2343" title="The Moon-Voyage" author="Jules Verne" location="V/Jules Verne/The Moon-Voyage/" section="Fiction/Science-Fiction" />
+	<book bid="2344" title="Love Me Little, Love Me Long" author="Charles Reade" location="R/Charles Reade/Love Me Little, Love Me Long/" section="Fiction/General" />
+	<book bid="2345" title="Hard Cash" author="Charles Reade" location="R/Charles Reade/Hard Cash/" section="Fiction/General" />
+	<book bid="2347" title="Dark Hollow" author="Anna Katharine Green" location="G/Anna Katharine Green/Dark Hollow/" section="Fiction/Mystery" />
+	<book bid="2348" title="Bucky O'Connor" author="William MacLeod Raine" location="R/William MacLeod Raine/Bucky O'Connor/" section="Fiction/Westerns" />
+	<book bid="2365" title="House of the Whispering Pines, The" author="Anna Katharine Green" location="G/Anna Katharine Green/House of the Whispering Pines, The/" section="Fiction/Mystery" />
+	<book bid="2366" title="Sunwich Port, At" author="W.W. Jacobs" location="J/W.W. Jacobs/Sunwich Port, At/" section="Fiction/General" />
+	<book bid="2367" title="Dialstone Lane" author="W.W. Jacobs" location="J/W.W. Jacobs/Dialstone Lane/" section="Fiction/General" />
+	<book bid="2410" title="Agatha Webb" author="Anna Katharine Green" location="G/Anna Katharine Green/Agatha Webb/" section="Fiction/Mystery" />
+	<book bid="2412" title="Boy Scouts in a Submarine" author="G. Harvey Ralphson" location="R/G. Harvey Ralphson/Boy Scouts in a Submarine/" section="Fiction/Children" />
+	<book bid="2413" title="Boy Scouts in Southern Waters" author="G. Harvey Ralphson" location="R/G. Harvey Ralphson/Boy Scouts in Southern Waters/" section="Fiction/Children" />
+	<book bid="2414" title="Boy Scouts on Motorcycles" author="G. Harvey Ralphson" location="R/G. Harvey Ralphson/Boy Scouts on Motorcycles/" section="Fiction/Children" />
+	<book bid="2415" title="Boy Scouts in Mexico" author="G. Harvey Ralphson" location="R/G. Harvey Ralphson/Boy Scouts in Mexico/" section="Fiction/Children" />
+	<book bid="2416" title="Boy Scout Camera Club, The" author="G. Harvey Ralphson" location="R/G. Harvey Ralphson/Boy Scout Camera Club, The/" section="Fiction/Children" />
+	<book bid="2417" title="Boy Scouts in an Airship" author="G. Harvey Ralphson" location="R/G. Harvey Ralphson/Boy Scouts in an Airship/" section="Fiction/Children" />
+	<book bid="2420" title="Westcotes, The" author="Arthur Quiller-Couch" location="Q/Arthur Quiller-Couch/Westcotes, The/" section="Fiction/General" />
+	<book bid="2421" title="Uttermost Farthing, The" author="R. Austin Freeman" location="F/R. Austin Freeman/Uttermost Farthing, The/" section="Fiction/Mystery" />
+	<book bid="2422" title="Red Lily, The" author="Anatole Franc" location="F/Anatole Franc/Red Lily, The/" section="Fiction/General" />
+	<book bid="2423" title="Rayner-Slade Amalgamation, The" author="J. S. Fletcher" location="F/J. S. Fletcher/Rayner-Slade Amalgamation, The/" section="Fiction/Mystery" />
+	<book bid="2424" title="Middle Temple Murder, The" author="J. S. Fletcher" location="F/J. S. Fletcher/Middle Temple Murder, The/" section="Fiction/Mystery" />
+	<book bid="2425" title="Dead Men's Money" author="J. S. Fletcher" location="F/J. S. Fletcher/Dead Men's Money/" section="Fiction/Mystery" />
+	<book bid="2426" title="Campfire Girls Go Motoring, The" author="Hildegard G. Frey" location="F/Hildegard G. Frey/Campfire Girls Go Motoring, The/" section="Fiction/Children" />
+	<book bid="2427" title="Campfire Girls at Camp Keewaydin, The" author="Hildegard G. Frey" location="F/Hildegard G. Frey/Campfire Girls at Camp Keewaydin, The/" section="Fiction/Children" />
+	<book bid="2428" title="Brown Study, The" author="Grace S. Richmond" location="R/Grace S. Richmond/Brown Study, The/" section="Fiction/General" />
+	<book bid="2429" title="Alias The Lone Wolf" author="Louis Joseph Vance" location="V/Louis Joseph Vance/Alias The Lone Wolf/" section="Fiction/General" />
+	<book bid="2433" title="Talleyrand Maxim, The" author="J. S. Fletcher" location="F/J. S. Fletcher/Talleyrand Maxim, The/" section="Fiction/Mystery" />
+	<book bid="2434" title="Second Violin, The" author="Grace S. Richmond" location="R/Grace S. Richmond/Second Violin, The/" section="Fiction/General" />
+	<book bid="2435" title="Scarhaven Keep" author="J. S. Fletcher" location="F/J. S. Fletcher/Scarhaven Keep/" section="Fiction/Mystery" />
+	<book bid="2436" title="Orange-Yellow Diamond, The" author="J. S. Fletcher" location="F/J. S. Fletcher/Orange-Yellow Diamond, The/" section="Fiction/Mystery" />
+	<book bid="2437" title="Mystery of 31 New Inn, The" author="R. Austin Freeman" location="F/R. Austin Freeman/Mystery of 31 New Inn, The/" section="Fiction/Mystery" />
+	<book bid="2440" title="John Thorndyke's Cases" author="R. Austin Freeman" location="F/R. Austin Freeman/John Thorndyke's Cases/" section="Fiction/Mystery" />
+	<book bid="2443" title="Delectable Duchy, The" author="Arthur Quiller-Couch" location="Q/Arthur Quiller-Couch/Delectable Duchy, The/" section="Fiction/General" />
+	<book bid="2445" title="Conqueror, The" author="Gertrude Franklin Horn Atherton" location="A/Gertrude Franklin Horn Atherton/Conqueror, The/" section="Fiction/Historical" />
+	<book bid="2447" title="Calvary Alley" author="Alice Hegan Rice" location="R/Alice Hegan Rice/Calvary Alley/" section="Fiction/General" />
+	<book bid="2450" title="Cabbage Patch, The" author="Alice Hegan Rice" location="R/Alice Hegan Rice/Cabbage Patch, The/" section="Fiction/General" />
+	<book bid="2451" title="Elsie's Kith and Kin" author="Martha Finley" location="F/Martha Finley/Elsie's Kith and Kin/" section="Fiction/Young-Adults" />
+	<book bid="2452" title="Elsie at Nantucket" author="Martha Finley" location="F/Martha Finley/Elsie at Nantucket/" section="Fiction/Young-Adults" />
+	<book bid="2453" title="Holidays at Roselands" author="Martha Finley" location="F/Martha Finley/Holidays at Roselands/" section="Fiction/Young-Adults" />
+	<book bid="2454" title="Two Elsies, The" author="Martha Finley" location="F/Martha Finley/Two Elsies, The/" section="Fiction/Young-Adults" />
+	<book bid="2455" title="Elsie Dinsmore" author="Martha Finley" location="F/Martha Finley/Elsie Dinsmore/" section="Fiction/Young-Adults" />
+	<book bid="2456" title="Elsie's Girlhood" author="Martha Finley" location="F/Martha Finley/Elsie's Girlhood/" section="Fiction/Young-Adults" />
+	<book bid="2457" title="Lovey Mary" author="Alice Hegan Rice" location="R/Alice Hegan Rice/Lovey Mary/" section="Fiction/General" />
+	<book bid="2458" title="Little Knights of Kentucky, The" author="Annie Fellows Johnston" location="J/Annie Fellows Johnston/Little Knights of Kentucky, The/" section="Fiction/Children" />
+	<book bid="2459" title="Gate of the Giant Scissors, The" author="Annie Fellows Johnston" location="J/Annie Fellows Johnston/Gate of the Giant Scissors, The/" section="Fiction/Children" />
+	<book bid="2461" title="Vanishing Man, The" author="R. Austin Freeman" location="F/R. Austin Freeman/Vanishing Man, The/" section="Fiction/Mystery" />
+	<book bid="2462" title="Strawberry Acres" author="Grace S. Richmond" location="R/Grace S. Richmond/Strawberry Acres/" section="Fiction/General" />
+	<book bid="2463" title="Red Thumb Mark, The" author="R. Austin Freeman" location="F/R. Austin Freeman/Red Thumb Mark, The/" section="Fiction/Mystery" />
+	<book bid="2465" title="Case of Jennie Brice, The" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Case of Jennie Brice, The/" section="Fiction/Young-Adults" />
+	<book bid="2466" title="Camp Fire Girls Do Their Bit, The" author="Hildegard G. Frey" location="F/Hildegard G. Frey/Camp Fire Girls Do Their Bit, The/" section="Fiction/Children" />
+	<book bid="2467" title="Camp Fire Girls at School, The" author="Hildegard G. Frey" location="F/Hildegard G. Frey/Camp Fire Girls at School, The/" section="Fiction/Children" />
+	<book bid="2470" title="Leavenworth Case, The" author="Anna Katharine Green" location="G/Anna Katharine Green/Leavenworth Case, The/" section="Fiction/Mystery" />
+	<book bid="2473" title="Hildegarde's Neighbors" author="Laura E. Richards" location="R/Laura E. Richards/Hildegarde's Neighbors/" section="Fiction/Children" />
+	<book bid="2479" title="Sandy" author="Alice Hegan Rice" location="R/Alice Hegan Rice/Sandy/" section="Fiction/General" />
+	<book bid="2480" title="Romance of Billy-Goat Hill, A" author="Alice Hegan Rice" location="R/Alice Hegan Rice/Romance of Billy-Goat Hill, A/" section="Fiction/General" />
+	<book bid="2482" title="Long Live the King" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Long Live the King/" section="Fiction/Young-Adults" />
+	<book bid="2485" title="He Fell In Love With His Wife" author="Edward Payson Roe" location="R/Edward Payson Roe/He Fell In Love With His Wife/" section="Fiction/Young-Adults" />
+	<book bid="2486" title="Heart Of The Hills, The" author="John Fox Jr." location="F/John Fox Jr./Heart Of The Hills, The/" section="Fiction/Westerns" />
+	<book bid="2492" title="Peg Woffington" author="Charles Reade" location="R/Charles Reade/Peg Woffington/" section="Fiction/General" />
+	<book bid="2493" title="Mill Mystery, The" author="Anna Katharine Green" location="G/Anna Katharine Green/Mill Mystery, The/" section="Fiction/Mystery" />
+	<book bid="2494" title="It Is Never Too Late to Mend" author="Charles Reade" location="R/Charles Reade/It Is Never Too Late to Mend/" section="Fiction/General" />
+	<book bid="2499" title="Story Of My Life From Childhood To Manhood, The" author="Georg Ebers" location="E/Georg Ebers/Story Of My Life From Childhood To Manhood, The/" section="Non-Fiction/General" />
+	<book bid="2500" title="Sisters" author="Kathleen Thompson Norris" location="N/Kathleen Thompson Norris/Sisters/" section="Fiction/General" />
+	<book bid="2501" title="Senator North" author="Gertrude Franklin Horn Atherton" location="A/Gertrude Franklin Horn Atherton/Senator North/" section="Fiction/Historical" />
+	<book bid="2502" title="Pit, The" author="Frank Norris" location="N/Frank Norris/Pit, The/" section="Fiction/General" />
+	<book bid="2503" title="Paradise Mystery, The" author="J. S. Fletcher" location="F/J. S. Fletcher/Paradise Mystery, The/" section="Fiction/Mystery" />
+	<book bid="2504" title="Little Colonel, The" author="Annie Fellows Johnston" location="J/Annie Fellows Johnston/Little Colonel, The/" section="Fiction/Children" />
+	<book bid="2505" title="Kings, Queens And Pawns" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Kings, Queens And Pawns/" section="Fiction/Young-Adults" />
+	<book bid="2506" title="Home Acre, The" author="Edward Payson Roe" location="R/Edward Payson Roe/Home Acre, The/" section="Non-Fiction/General" />
+	<book bid="2507" title="Burgomaster's Wife, The" author="Georg Ebers" location="E/Georg Ebers/Burgomaster's Wife, The/" section="Fiction/Historical" />
+	<book bid="2508" title="With the Procession" author="Henry Blake Fuller" location="F/Henry Blake Fuller/With the Procession/" section="Fiction/Historical" />
+	<book bid="2509" title="Trail of the Lonesome Pine, The" author="John Fox Jr." location="F/John Fox Jr./Trail of the Lonesome Pine, The/" section="Fiction/Westerns" />
+	<book bid="2511" title="Sisters-In-Law, The" author="Gertrude Franklin Horn Atherton" location="A/Gertrude Franklin Horn Atherton/Sisters-In-Law, The/" section="Fiction/Historical" />
+	<book bid="2514" title="Martin Conisby's Vengeance" author="Jeffrey Farnol" location="F/Jeffrey Farnol/Martin Conisby's Vengeance/" section="Fiction/Historical" />
+	<book bid="2517" title="Bertram Cope's Year" author="Henry Blake Fuller" location="F/Henry Blake Fuller/Bertram Cope's Year/" section="Fiction/Historical" />
+	<book bid="2518" title="Amateur Gentleman, The" author="Jeffrey Farnol" location="F/Jeffrey Farnol/Amateur Gentleman, The/" section="Fiction/Historical" />
+	<book bid="2528" title="When William Came" author="H. H. (Saki) Munro" location="M/H. H. (Saki) Munro/When William Came/" section="Fiction/General" />
+	<book bid="2533" title="Lonesome Trail, The" author="B.M. Bower" location="B/B.M. Bower/Lonesome Trail, The/" section="Fiction/Westerns" />
+	<book bid="2536" title="Daughter Of The Land, A" author="Gene Stratton-Porter" location="S/Gene Stratton-Porter/Daughter Of The Land, A/" section="Fiction/Children" />
+	<book bid="2537" title="Michael O'Halloran" author="Gene Stratton-Porter" location="S/Gene Stratton-Porter/Michael O'Halloran/" section="Fiction/Children" />
+	<book bid="2539" title="Six Little Bunkers at Grandma Bell's" author="Laura Lee Hope" location="H/Laura Lee Hope/Six Little Bunkers at Grandma Bell's/" section="Fiction/Children" />
+	<book bid="2540" title="Goose Girl, The" author="Harold MacGrath" location="M/Harold MacGrath/Goose Girl, The/" section="Fiction/General" />
+	<book bid="2541" title="Elsie's Motherhood" author="Martha Finley" location="F/Martha Finley/Elsie's Motherhood/" section="Fiction/Young-Adults" />
+	<book bid="2542" title="Maezli" author="Johanna Spyri" location="S/Johanna Spyri/Maezli/" section="Fiction/Children" />
+	<book bid="2543" title="Carmilla" author="Joseph Sheridan LeFanu" location="L/Joseph Sheridan LeFanu/Carmilla/" section="Fiction/Historical" />
+	<book bid="2544" title="Ultor De Lacy- A Legend of Cappercullen" author="Joseph Sheridan LeFanu" location="L/Joseph Sheridan LeFanu/Ultor De Lacy- A Legend of Cappercullen/" section="Fiction/Historical" />
+	<book bid="2546" title="Room in the Dragon Volant, The" author="Joseph Sheridan LeFanu" location="L/Joseph Sheridan LeFanu/Room in the Dragon Volant, The/" section="Fiction/Historical" />
+	<book bid="2547" title="Mysterious Lodger, The" author="Joseph Sheridan LeFanu" location="L/Joseph Sheridan LeFanu/Mysterious Lodger, The/" section="Fiction/Historical" />
+	<book bid="2548" title="Mr Justice Harbottle" author="Joseph Sheridan LeFanu" location="L/Joseph Sheridan LeFanu/Mr Justice Harbottle/" section="Fiction/Historical" />
+	<book bid="2549" title="Madam Crowl's Ghost" author="Joseph Sheridan LeFanu" location="L/Joseph Sheridan LeFanu/Madam Crowl's Ghost/" section="Fiction/Historical" />
+	<book bid="2550" title="Haunted Baronet, The" author="Joseph Sheridan LeFanu" location="L/Joseph Sheridan LeFanu/Haunted Baronet, The/" section="Fiction/Historical" />
+	<book bid="2551" title="Green Tea" author="Joseph Sheridan LeFanu" location="L/Joseph Sheridan LeFanu/Green Tea/" section="Fiction/Historical" />
+	<book bid="2554" title="Erick and Sally" author="Johanna Spyri" location="S/Johanna Spyri/Erick and Sally/" section="Fiction/Children" />
+	<book bid="2559" title="Over Strand and Field" author="Gustave Flaubert" location="F/Gustave Flaubert/Over Strand and Field/" section="Fiction/General" />
+	<book bid="2567" title="Willis the Pilot" author="Johanna Spyri" location="S/Johanna Spyri/Willis the Pilot/" section="Fiction/Children" />
+	<book bid="2568" title="Toni, the Little Woodcarver" author="Johanna Spyri" location="S/Johanna Spyri/Toni, the Little Woodcarver/" section="Fiction/Children" />
+	<book bid="2570" title="Silver Horde, The" author="Rex Ellingwood Beach" location="B/Rex Ellingwood Beach/Silver Horde, The/" section="Fiction/Historical" />
+	<book bid="2574" title="Midst of Alarms, In the" author="Robert Barr" location="B/Robert Barr/Midst of Alarms, In the/" section="Fiction/Historical" />
+	<book bid="2576" title="Lords of the Wild, The" author="Joseph A. Altsheler" location="A/Joseph A. Altsheler/Lords of the Wild, The/" section="Fiction/Historical" />
+	<book bid="2578" title="From Whose Bourne" author="Robert Barr" location="B/Robert Barr/From Whose Bourne/" section="Fiction/Historical" />
+	<book bid="2579" title="Face And The Mask, The" author="Robert Barr" location="B/Robert Barr/Face And The Mask, The/" section="Fiction/Historical" />
+	<book bid="2585" title="Tale of Old Mr Crow, The" author="Arthur Scott Bailey" location="B/Arthur Scott Bailey/Tale of Old Mr Crow, The/" section="Fiction/Children" />
+	<book bid="2586" title="Sword Maker, The" author="Robert Barr" location="B/Robert Barr/Sword Maker, The/" section="Fiction/Historical" />
+	<book bid="2587" title="Strong Arm, The" author="Robert Barr" location="B/Robert Barr/Strong Arm, The/" section="Fiction/Historical" />
+	<book bid="2588" title="Street Called Straight, The" author="Basil King" location="K/Basil King/Street Called Straight, The/" section="Fiction/Historical" />
+	<book bid="2593" title="Inner Shrine, The" author="Basil King" location="K/Basil King/Inner Shrine, The/" section="Fiction/Historical" />
+	<book bid="2601" title="Poetics, The" author=" Aristotle" location="A/ Aristotle/Poetics, The/" section="Plays/Classical" />
+	<book bid="2602" title="Categories, The" author=" Aristotle" location="A/ Aristotle/Categories, The/" section="Plays/Classical" />
+	<book bid="2603" title="Knight of the Nets, A" author="Amelia E. Barr" location="B/Amelia E. Barr/Knight of the Nets, A/" section="Fiction/Historical" />
+	<book bid="2604" title="Middle of Things, The" author="J. S. Fletcher" location="F/J. S. Fletcher/Middle of Things, The/" section="Fiction/Mystery" />
+	<book bid="2605" title="Melody" author="Laura E. Richards" location="R/Laura E. Richards/Melody/" section="Fiction/Children" />
+	<book bid="2606" title="Moni the Goat-Boy" author="Johanna Spyri" location="S/Johanna Spyri/Moni the Goat-Boy/" section="Fiction/Children" />
+	<book bid="2609" title="Out of Nowhere into Nothing" author="Sherwood Anderson" location="A/Sherwood Anderson/Out of Nowhere into Nothing/" section="Fiction/Historical" />
+	<book bid="2623" title="What's Bred In the Bone" author="Grant Allen" location="A/Grant Allen/What's Bred In the Bone/" section="Fiction/Historical" />
+	<book bid="2624" title="Woman Intervenes, A" author="Robert Barr" location="B/Robert Barr/Woman Intervenes, A/" section="Fiction/Historical" />
+	<book bid="2625" title="Wild Olive, The" author="Basil King" location="K/Basil King/Wild Olive, The/" section="Fiction/Historical" />
+	<book bid="2626" title="Behind the Line" author="Ralph Henry Barbour" location="B/Ralph Henry Barbour/Behind the Line/" section="Fiction/Historical" />
+	<book bid="2642" title="Great Taboo, The" author="Grant Allen" location="A/Grant Allen/Great Taboo, The/" section="Fiction/Historical" />
+	<book bid="2643" title="Adventure Club Afloat, The" author="Ralph Henry Barbour" location="B/Ralph Henry Barbour/Adventure Club Afloat, The/" section="Fiction/Historical" />
+	<book bid="2644" title="Left Tackle Thayer" author="Ralph Henry Barbour" location="B/Ralph Henry Barbour/Left Tackle Thayer/" section="Fiction/Historical" />
+	<book bid="2645" title="Philistia" author="Grant Allen" location="A/Grant Allen/Philistia/" section="Fiction/Historical" />
+	<book bid="2646" title="One Day's Courtship" author="Robert Barr" location="B/Robert Barr/One Day's Courtship/" section="Fiction/Historical" />
+	<book bid="2647" title="Heralds of Fame, The" author="Robert Barr" location="B/Robert Barr/Heralds of Fame, The/" section="Fiction/Historical" />
+	<book bid="2649" title="Desert and The Sown, The" author="Mary Hallock Foote" location="F/Mary Hallock Foote/Desert and The Sown, The/" section="Fiction/Historical" />
+	<book bid="2650" title="Daughter of Fife, A" author="Amelia E. Barr" location="B/Amelia E. Barr/Daughter of Fife, A/" section="Fiction/Historical" />
+	<book bid="2651" title="African Millionaire, An" author="Grant Allen" location="A/Grant Allen/African Millionaire, An/" section="Fiction/Historical" />
+	<book bid="2664" title="Captain January" author="Laura E. Richards" location="R/Laura E. Richards/Captain January/" section="Fiction/Children" />
+	<book bid="2665" title="Elsie's Womanhood" author="Martha Finley" location="F/Martha Finley/Elsie's Womanhood/" section="Fiction/Young-Adults" />
+	<book bid="2666" title="What Sami Sings with the Birds" author="Johanna Spyri" location="S/Johanna Spyri/What Sami Sings with the Birds/" section="Fiction/Children" />
+	<book bid="2667" title="Simpleton, A" author="Charles Reade" location="R/Charles Reade/Simpleton, A/" section="Fiction/General" />
+	<book bid="2668" title="Conflict, The" author="David Graham Phillips" location="P/David Graham Phillips/Conflict, The/" section="Fiction/General" />
+	<book bid="2669" title="British Barbarians, The" author="Grant Allen" location="A/Grant Allen/British Barbarians, The/" section="Fiction/Historical" />
+	<book bid="2670" title="Barrier, The" author="Rex Ellingwood Beach" location="B/Rex Ellingwood Beach/Barrier, The/" section="Fiction/Historical" />
+	<book bid="2674" title="Money Moon, The" author="Jeffrey Farnol" location="F/Jeffrey Farnol/Money Moon, The/" section="Fiction/Historical" />
+	<book bid="2676" title="From a Bench in Our Square" author="Samuel Hopkins Adams" location="A/Samuel Hopkins Adams/From a Bench in Our Square/" section="Fiction/General" />
+	<book bid="2678" title="Beltane The Smith" author="Jeffrey Farnol" location="F/Jeffrey Farnol/Beltane The Smith/" section="Fiction/Historical" />
+	<book bid="2679" title="Baron's Gloves" author="Louisa May Alcott" location="A/Louisa May Alcott/Baron's Gloves/" section="Fiction/Young-Adults" />
+	<book bid="2684" title="Weird Tales from Northern Seas" author="Jonas Lie" location="L/Jonas Lie/Weird Tales from Northern Seas/" section="Fiction/Adventure-Action" />
+	<book bid="2685" title="True Tilda" author="Arthur Quiller-Couch" location="Q/Arthur Quiller-Couch/True Tilda/" section="Fiction/General" />
+	<book bid="2686" title="Tommy and Grizel" author="James M. Barrie" location="B/James M. Barrie/Tommy and Grizel/" section="Fiction/Children" />
+	<book bid="2699" title="Lilac Girl, The" author="Ralph Henry Barbour" location="B/Ralph Henry Barbour/Lilac Girl, The/" section="Fiction/Historical" />
+	<book bid="2700" title="Light in the Clearing, The" author="Irving Bacheller" location="B/Irving Bacheller/Light in the Clearing, The/" section="Fiction/General" />
+	<book bid="2704" title="Elizabeth Visits America" author="Elinor Glyn" location="G/Elinor Glyn/Elizabeth Visits America/" section="Fiction/Young-Adults" />
+	<book bid="2747" title="Paste Jewels" author="John Kendrick Bangs" location="B/John Kendrick Bangs/Paste Jewels/" section="Fiction/General" />
+	<book bid="2751" title="I Saw Three Ships" author="Arthur Quiller-Couch" location="Q/Arthur Quiller-Couch/I Saw Three Ships/" section="Fiction/General" />
+	<book bid="2754" title="Ears of Twenty Americans, The" author="Gertrude Franklin Horn Atherton" location="A/Gertrude Franklin Horn Atherton/Ears of Twenty Americans, The/" section="Fiction/Historical" />
+	<book bid="2759" title="Alkahest, The" author="Honore de Balzac" location="B/Honore de Balzac/Alkahest, The/" section="Fiction/Historical" />
+	<book bid="2760" title="Adieu" author="Honore de Balzac" location="B/Honore de Balzac/Adieu/" section="Fiction/Historical" />
+	<book bid="2763" title="Rico And Wiseli" author="Johanna Spyri" location="S/Johanna Spyri/Rico And Wiseli/" section="Fiction/Children" />
+	<book bid="2767" title="Jennie Baxter, Journalist" author="Robert Barr" location="B/Robert Barr/Jennie Baxter, Journalist/" section="Fiction/Historical" />
+	<book bid="2768" title="Incomplete Amorist, The" author="Edith Nesbit" location="N/Edith Nesbit/Incomplete Amorist, The/" section="Fiction/Young-Adults" />
+	<book bid="2769" title="Half-Back, The" author="Ralph Henry Barbour" location="B/Ralph Henry Barbour/Half-Back, The/" section="Fiction/Historical" />
+	<book bid="2771" title="Ghosts I have Met and Some Others" author="John Kendrick Bangs" location="B/John Kendrick Bangs/Ghosts I have Met and Some Others/" section="Fiction/General" />
+	<book bid="2772" title="England, My England" author="D. H. Lawrence" location="L/D. H. Lawrence/England, My England/" section="Fiction/General" />
+	<book bid="2774" title="Conquest of Fear, The" author="Basil King" location="K/Basil King/Conquest of Fear, The/" section="Non-Fiction/General" />
+	<book bid="2776" title="Auld Licht Idyls" author="James M. Barrie" location="B/James M. Barrie/Auld Licht Idyls/" section="Fiction/Children" />
+	<book bid="2777" title="Wylder's Hand" author="Joseph Sheridan LeFanu" location="L/Joseph Sheridan LeFanu/Wylder's Hand/" section="Fiction/Historical" />
+	<book bid="2782" title="Twilight in Italy" author="D. H. Lawrence" location="L/D. H. Lawrence/Twilight in Italy/" section="Fiction/General" />
+	<book bid="2800" title="In a Steamer Chair" author="Robert Barr" location="B/Robert Barr/In a Steamer Chair/" section="Fiction/Historical" />
+	<book bid="2812" title="Face Illumined, A" author="Edward Payson Roe" location="R/Edward Payson Roe/Face Illumined, A/" section="Fiction/Young-Adults" />
+	<book bid="2813" title="Silent Places, The" author="Stewart Edward White" location="W/Stewart Edward White/Silent Places, The/" section="Fiction/Westerns" />
+	<book bid="2814" title="Rulers of the Lakes, The" author="Joseph A. Altsheler" location="A/Joseph A. Altsheler/Rulers of the Lakes, The/" section="Fiction/Historical" />
+	<book bid="2815" title="Mother West Wind 'Why' Stories" author="Thornton W. Burgess" location="B/Thornton W. Burgess/Mother West Wind 'Why' Stories/" section="Fiction/Children" />
+	<book bid="2816" title="Hunters of the Hills, The" author="Joseph A. Altsheler" location="A/Joseph A. Altsheler/Hunters of the Hills, The/" section="Fiction/Historical" />
+	<book bid="2817" title="Grandmother Elsie" author="Martha Finley" location="F/Martha Finley/Grandmother Elsie/" section="Fiction/Children" />
+	<book bid="2818" title="Forest Runners, The" author="Joseph A. Altsheler" location="A/Joseph A. Altsheler/Forest Runners, The/" section="Fiction/Historical" />
+	<book bid="2819" title="Elsie at the World's Fair" author="Martha Finley" location="F/Martha Finley/Elsie at the World's Fair/" section="Fiction/Children" />
+	<book bid="2820" title="Elsie's New Relations" author="Martha Finley" location="F/Martha Finley/Elsie's New Relations/" section="Fiction/Children" />
+	<book bid="2821" title="Elsie's Children" author="Martha Finley" location="F/Martha Finley/Elsie's Children/" section="Fiction/Children" />
+	<book bid="2822" title="Eben Holden" author="Irving Bacheller" location="B/Irving Bacheller/Eben Holden/" section="Fiction/General" />
+	<book bid="2823" title="Bulfinch's Mythology" author="Thomas Bulfinch" location="B/Thomas Bulfinch/Bulfinch's Mythology/" section="Non-Fiction/General" />
+	<book bid="2824" title="Biographies of Working Men" author="Grant Allen" location="A/Grant Allen/Biographies of Working Men/" section="Fiction/Historical" />
+	<book bid="2825" title="Bab- A Sub-Deb" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/Bab- A Sub-Deb/" section="Fiction/Young-Adults" />
+	<book bid="2826" title="Remember the Alamo" author="Amelia E. Barr" location="B/Amelia E. Barr/Remember the Alamo/" section="Fiction/Historical" />
+	<book bid="2829" title="Chantry House" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Chantry House/" section="Fiction/General" />
+	<book bid="2830" title="By Shore and Sedge" author="Bret Harte" location="H/Bret Harte/By Shore and Sedge/" section="Fiction/Westerns" />
+	<book bid="2831" title="Two Brothers, The" author="Honore de Balzac" location="B/Honore de Balzac/Two Brothers, The/" section="Fiction/Historical" />
+	<book bid="2832" title="Woman Who Did, The" author="Grant Allen" location="A/Grant Allen/Woman Who Did, The/" section="Fiction/Historical" />
+	<book bid="2833" title="Winesburg, Ohio" author="Sherwood Anderson" location="A/Sherwood Anderson/Winesburg, Ohio/" section="Fiction/Historical" />
+	<book bid="2835" title="Under the Skylights" author="Henry Blake Fuller" location="F/Henry Blake Fuller/Under the Skylights/" section="Fiction/Historical" />
+	<book bid="2836" title="Two Scouts, The" author="Arthur Quiller-Couch" location="Q/Arthur Quiller-Couch/Two Scouts, The/" section="Fiction/General" />
+	<book bid="2838" title="Rock in the Baltic, A" author="Robert Barr" location="B/Robert Barr/Rock in the Baltic, A/" section="Fiction/Historical" />
+	<book bid="2844" title="Marching Men" author="Sherwood Anderson" location="A/Sherwood Anderson/Marching Men/" section="Fiction/Historical" />
+	<book bid="2848" title="Mountain Europa, A" author="John Fox Jr." location="F/John Fox Jr./Mountain Europa, A/" section="Fiction/Westerns" />
+	<book bid="2850" title="Driven Back to Eden" author="Edward Payson Roe" location="R/Edward Payson Roe/Driven Back to Eden/" section="Fiction/Young-Adults" />
+	<book bid="2851" title="Hohenzollerns in America, The" author="Stephen Leacock" location="L/Stephen Leacock/Hohenzollerns in America, The/" section="Fiction/General" />
+	<book bid="2853" title="Christie Johnstone" author="Charles Reade" location="R/Charles Reade/Christie Johnstone/" section="Fiction/General" />
+	<book bid="2854" title="Auction Block, The" author="Rex Ellingwood Beach" location="B/Rex Ellingwood Beach/Auction Block, The/" section="Fiction/Historical" />
+	<book bid="2855" title="At the Foot of the Rainbow" author="Gene Stratton-Porter" location="S/Gene Stratton-Porter/At the Foot of the Rainbow/" section="Fiction/Children" />
+	<book bid="2856" title="Magic Skin, The" author="Honore de Balzac" location="B/Honore de Balzac/Magic Skin, The/" section="Fiction/Historical" />
+	<book bid="2857" title="Seven Poor Travellers, The" author="Charles Dickens" location="D/Charles Dickens/Seven Poor Travellers, The/" section="Fiction/Young-Adults" />
+	<book bid="2858" title="Cressy" author="Bret Harte" location="H/Bret Harte/Cressy/" section="Fiction/Westerns" />
+	<book bid="2859" title="Michael's Crag" author="Grant Allen" location="A/Grant Allen/Michael's Crag/" section="Fiction/Historical" />
+	<book bid="2860" title="Little White Bird, The" author="James M. Barrie" location="B/James M. Barrie/Little White Bird, The/" section="Fiction/Children" />
+	<book bid="2861" title="Flowing Gold" author="Rex Ellingwood Beach" location="B/Rex Ellingwood Beach/Flowing Gold/" section="Fiction/Historical" />
+	<book bid="2862" title="Filigree Ball, The" author="Anna Katharine Green" location="G/Anna Katharine Green/Filigree Ball, The/" section="Fiction/Mystery" />
+	<book bid="2864" title="Her Father's Daughter" author="Gene Stratton-Porter" location="S/Gene Stratton-Porter/Her Father's Daughter/" section="Fiction/Children" />
+	<book bid="2865" title="Weavers, The" author="Gilbert Parker" location="P/Gilbert Parker/Weavers, The/" section="Fiction/General" />
+	<book bid="2866" title="Donovan Pasha" author="Gilbert Parker" location="P/Gilbert Parker/Donovan Pasha/" section="Fiction/General" />
+	<book bid="2867" title="Lane Parables Of A Province" author="Gilbert Parker" location="P/Gilbert Parker/Lane Parables Of A Province/" section="Fiction/General" />
+	<book bid="2868" title="Going Some" author="Rex Ellingwood Beach" location="B/Rex Ellingwood Beach/Going Some/" section="Fiction/Historical" />
+	<book bid="2869" title="Fat and the Thin, The" author="Emile Zola" location="Z/Emile Zola/Fat and the Thin, The/" section="Fiction/General" />
+	<book bid="2871" title="Geoffrey Strong" author="Laura E. Richards" location="R/Laura E. Richards/Geoffrey Strong/" section="Fiction/Young-Adults" />
+	<book bid="2872" title="Herd Boy and His Hermit, The" author="Charlotte M. Yonge" location="Y/Charlotte M. Yonge/Herd Boy and His Hermit, The/" section="Fiction/General" />
+	<book bid="2873" title="Seven O'Clock Stories" author="Robert Gordon Anderson" location="A/Robert Gordon Anderson/Seven O'Clock Stories/" section="Fiction/Children" />
+	<book bid="2874" title="Hilda Wade" author="Grant Allen" location="A/Grant Allen/Hilda Wade/" section="Fiction/Historical" />
+	<book bid="2875" title="Hallam Succession, The" author="Amelia E. Barr" location="B/Amelia E. Barr/Hallam Succession, The/" section="Fiction/Historical" />
+	<book bid="2876" title="Laddie, A True Blue Story" author="Gene Stratton-Porter" location="S/Gene Stratton-Porter/Laddie, A True Blue Story/" section="Fiction/Children" />
+	<book bid="2877" title="K" author="Mary Roberts Rinehart" location="R/Mary Roberts Rinehart/K/" section="Fiction/Young-Adults" />
+	<book bid="2879" title="Heart of the Sunset" author="Rex Ellingwood Beach" location="B/Rex Ellingwood Beach/Heart of the Sunset/" section="Fiction/Historical" />
+	<book bid="2880" title="Net, The" author="Rex Ellingwood Beach" location="B/Rex Ellingwood Beach/Net, The/" section="Fiction/Historical" />
+	<book bid="2881" title="Poor White" author="Sherwood Anderson" location="A/Sherwood Anderson/Poor White/" section="Fiction/Historical" />
+	<book bid="2882" title="Recalled to Life" author="Grant Allen" location="A/Grant Allen/Recalled to Life/" section="Fiction/Historical" />
+	<book bid="2883" title="Susan Lenox- Her Rise and Fall" author="David Graham Phillips" location="P/David Graham Phillips/Susan Lenox- Her Rise and Fall/" section="Fiction/General" />
+	<book bid="2884" title="Old Town By The Sea, An" author="Thomas Bailey Aldrich" location="A/Thomas Bailey Aldrich/Old Town By The Sea, An/" section="Non-Fiction/General" />
+	<book bid="2885" title="Little Minister, The" author="James M. Barrie" location="B/James M. Barrie/Little Minister, The/" section="Fiction/Children" />
+	<book bid="2899" title="Maid of Maiden Lane, The" author="Amelia E. Barr" location="B/Amelia E. Barr/Maid of Maiden Lane, The/" section="Fiction/Historical" />
+	<book bid="2900" title="Little Shepherd of Kingdom Come, The" author="John Fox Jr." location="F/John Fox Jr./Little Shepherd of Kingdom Come, The/" section="Fiction/Westerns" />
+	<book bid="2915" title="Bowser The Hound" author="Thornton W. Burgess" location="B/Thornton W. Burgess/Bowser The Hound/" section="Fiction/Children" />
+	<book bid="2916" title="Bobbsey Twins in a Great City, The" author="Laura Lee Hope" location="H/Laura Lee Hope/Bobbsey Twins in a Great City, The/" section="Fiction/Children" />
+	<book bid="2935" title="Ne'er-Do-Well, The" author="Rex Ellingwood Beach" location="B/Rex Ellingwood Beach/Ne'er-Do-Well, The/" section="Fiction/Historical" />
+	<book bid="2936" title="Nature's Serial Story" author="Edward Payson Roe" location="R/Edward Payson Roe/Nature's Serial Story/" section="Fiction/Young-Adults" />
+	<book bid="2988" title="Keith of the Border" author="Randall Parrish" location="P/Randall Parrish/Keith of the Border/" section="Fiction/Young-Adults" />
+	<book bid="2989" title="Case and The Girl, The" author="Randall Parrish" location="P/Randall Parrish/Case and The Girl, The/" section="Fiction/Young-Adults" />
+	<book bid="2990" title="Love Under Fire" author="Randall Parrish" location="P/Randall Parrish/Love Under Fire/" section="Fiction/Young-Adults" />
+	<book bid="2991" title="Wolves of the Sea" author="Randall Parrish" location="P/Randall Parrish/Wolves of the Sea/" section="Fiction/Young-Adults" />
+	<book bid="2992" title="Magician, The" author="Somerset Maugham" location="M/Somerset Maugham/Magician, The/" section="Fiction/General" />
+	<book bid="3000" title="Autobiography of Benjamin Franklin, The" author=" Misc. Authors" location="M/ Misc. Authors/Autobiography of Benjamin Franklin, The/" section="Non-Fiction/General" />
+	<book bid="3015" title="Awakening, The" author="Katherine Chopin" location="C/Katherine Chopin/Awakening, The/" section="Fiction/General" />
+	<book bid="3016" title="Hosts of the Air, The" author="Joseph A. Altsheler" location="A/Joseph A. Altsheler/Hosts of the Air, The/" section="Fiction/Historical" />
+	<book bid="3017" title="Headlong Hall" author="Thomas Love Peacock" location="P/Thomas Love Peacock/Headlong Hall/" section="Fiction/General" />
+	<book bid="3018" title="Happy Boy, A" author="Bjoernstjerne Bjoernson" location="B/Bjoernstjerne Bjoernson/Happy Boy, A/" section="Fiction/General" />
+	<book bid="3019" title="Willows, The" author="Algernon Blackwood" location="B/Algernon Blackwood/Willows, The/" section="Fiction/General" />
+	<book bid="3020" title="Three More John Silence Stories" author="Algernon Blackwood" location="B/Algernon Blackwood/Three More John Silence Stories/" section="Fiction/General" />
+	<book bid="3021" title="Three John Silence Stories" author="Algernon Blackwood" location="B/Algernon Blackwood/Three John Silence Stories/" section="Fiction/General" />
+	<book bid="3037" title="Green Eyes of Bast, The" author="Sax Rohmer" location="R/Sax Rohmer/Green Eyes of Bast, The/" section="Fiction/General" />
+	<book bid="3040" title="Mary Anerley" author="R. D. Blackmore" location="B/R. D. Blackmore/Mary Anerley/" section="Fiction/General" />
+	<book bid="3041" title="Erema" author="R. D. Blackmore" location="B/R. D. Blackmore/Erema/" section="Fiction/General" />
+	<book bid="3042" title="Winds of Chance, The" author="Rex Ellingwood Beach" location="B/Rex Ellingwood Beach/Winds of Chance, The/" section="Fiction/Historical" />
+	<book bid="3043" title="Village Rector, The" author="Honore de Balzac" location="B/Honore de Balzac/Village Rector, The/" section="Fiction/Historical" />
+	<book bid="3044" title="Poison Belt, The" author="Arthur Conan Doyle" location="D/Arthur Conan Doyle/Poison Belt, The/" section="Fiction/Mystery" />
+	<book bid="3045" title="My Lady of the North" author="Randall Parrish" location="P/Randall Parrish/My Lady of the North/" section="Fiction/Young-Adults" />
+	<book bid="3046" title="Motor Girls on Waters Blue, The" author="Margaret Penrose" location="P/Margaret Penrose/Motor Girls on Waters Blue, The/" section="Fiction/Children" />
+	<book bid="3047" title="Motor Girls on a Tour, The" author="Margaret Penrose" location="P/Margaret Penrose/Motor Girls on a Tour, The/" section="Fiction/Children" />
+	<book bid="3048" title="Motor Girls On Cedar Lake, The" author="Margaret Penrose" location="P/Margaret Penrose/Motor Girls On Cedar Lake, The/" section="Fiction/Children" />
+	<book bid="3049" title="Motor Girls, The" author="Margaret Penrose" location="P/Margaret Penrose/Motor Girls, The/" section="Fiction/Children" />
+	<book bid="3057" title="Red Pepper Burns" author="Grace S. Richmond" location="R/Grace S. Richmond/Red Pepper Burns/" section="Fiction/General" />
+	<book bid="3058" title="Rainbow's End" author="Rex Ellingwood Beach" location="B/Rex Ellingwood Beach/Rainbow's End/" section="Fiction/Historical" />
+	<book bid="3059" title="Sea Fairies, The" author="L. Frank Baum" location="B/L. Frank Baum/Sea Fairies, The/" section="Fiction/Children" />
+	<book bid="3060" title="Three Men and a Maid" author="Pelham Grenville Wodehouse" location="W/Pelham Grenville Wodehouse/Three Men and a Maid/" section="Fiction/General" />
+	<book bid="3748" title="Journey to the Interior of the Earth, A" author="Jules Verne" location="V/Jules Verne/Journey to the Interior of the Earth, A/" section="Fiction/Young-Adults" />
+	<book bid="3796" title="Rilla of Ingleside" author="Lucy Maud Montgomery" location="M/Lucy Maud Montgomery/Rilla of Ingleside/" section="Fiction/Children" />
+</books>

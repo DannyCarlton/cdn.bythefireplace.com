@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40339" title="Shaving of Shagpat, The" author="Meredith, George" location="M/George Meredith/Shaving of Shagpat, The">
+
+	<section type="2" name="Book I.">
+			<chapter num="1" title="Chapter I. The Thwackings" location="M/George Meredith/Shaving of Shagpat, The/1.xml" />
+			<chapter num="2" title="Chapter II. And This Is the Story of Bhanavar the Beautiful" location="M/George Meredith/Shaving of Shagpat, The/2.xml" />
+
+	</section>
+	<section type="2" name="Book 2.">
+			<chapter num="3" title="Chapter III. The Betrothal" location="M/George Meredith/Shaving of Shagpat, The/3.xml" />
+			<chapter num="4" title="Chapter IV. And This Is the Punishment of Shahpesh, the Persian, on Khipil, the Builder" location="M/George Meredith/Shaving of Shagpat, The/4.xml" />
+			<chapter num="5" title="Chapter V. The Genie Karaz" location="M/George Meredith/Shaving of Shagpat, The/5.xml" />
+			<chapter num="6" title="Chapter VI. The Well of Paravid" location="M/George Meredith/Shaving of Shagpat, The/6.xml" />
+			<chapter num="7" title="Chapter VII. The Horse Garraveen" location="M/George Meredith/Shaving of Shagpat, The/7.xml" />
+			<chapter num="8" title="Chapter VIII. The Talking Hawk" location="M/George Meredith/Shaving of Shagpat, The/8.xml" />
+			<chapter num="9" title="Chapter IX. Goorelka of Oolb" location="M/George Meredith/Shaving of Shagpat, The/9.xml" />
+
+	</section>
+	<section type="2" name="Book 3.">
+			<chapter num="10" title="Chapter X. The Lily of the Enchanted Sea" location="M/George Meredith/Shaving of Shagpat, The/10.xml" />
+			<chapter num="11" title="Chapter XI. And This Is the Story of Noorna Bin Noorka, the Genie Karaz, and the Princess of Oolb" location="M/George Meredith/Shaving of Shagpat, The/11.xml" />
+			<chapter num="12" title="Chapter XII. The Wiles of Rabesqurat" location="M/George Meredith/Shaving of Shagpat, The/12.xml" />
+			<chapter num="13" title="Chapter XIII. The Palace of Aklis" location="M/George Meredith/Shaving of Shagpat, The/13.xml" />
+			<chapter num="14" title="Chapter XIV. The Sons of Aklis" location="M/George Meredith/Shaving of Shagpat, The/14.xml" />
+			<chapter num="15" title="Chapter XV. The Sword of Aklis" location="M/George Meredith/Shaving of Shagpat, The/15.xml" />
+
+	</section>
+	<section type="2" name="Book 4.">
+			<chapter num="16" title="Chapter XVI. Koorookh" location="M/George Meredith/Shaving of Shagpat, The/16.xml" />
+			<chapter num="17" title="Chapter XVII. The Veiled Figure" location="M/George Meredith/Shaving of Shagpat, The/17.xml" />
+			<chapter num="18" title="Chapter XVIII. The Bosom of Noorna" location="M/George Meredith/Shaving of Shagpat, The/18.xml" />
+			<chapter num="19" title="Chapter XIX. The Revival" location="M/George Meredith/Shaving of Shagpat, The/19.xml" />
+			<chapter num="20" title="Chapter XX. The Plot" location="M/George Meredith/Shaving of Shagpat, The/20.xml" />
+			<chapter num="21" title="Chapter XXI. The Dish of Pomegranate Grain" location="M/George Meredith/Shaving of Shagpat, The/21.xml" />
+			<chapter num="22" title="Chapter XXII. The Burning of the Identical" location="M/George Meredith/Shaving of Shagpat, The/22.xml" />
+			<chapter num="23" title="Chapter XXIII. The Flashes of the Blade" location="M/George Meredith/Shaving of Shagpat, The/23.xml" />
+			<chapter num="24" title="Chapter XXIV. Conclusion" location="M/George Meredith/Shaving of Shagpat, The/24.xml" />
+	</section>
+</book>

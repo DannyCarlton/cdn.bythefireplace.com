@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<book bid="40364" title="Beautiful and the Damned, The" author="Fitzgerald, F. Scott" location="F/F. Scott Fitzgerald/Beautiful and the Damned, The">
+
+	<section type="2" name="Book One">
+			<chapter num="1" title="Chapter I. Anthony Patch" location="F/F. Scott Fitzgerald/Beautiful and the Damned, The/1.xml" />
+			<chapter num="2" title="Chapter II. Portrait of a Siren" location="F/F. Scott Fitzgerald/Beautiful and the Damned, The/2.xml" />
+			<chapter num="3" title="Chapter III. The Connoisseur of Kisses" location="F/F. Scott Fitzgerald/Beautiful and the Damned, The/3.xml" />
+
+	</section>
+	<section type="2" name="Book Two">
+			<chapter num="4" title="Chapter I. The Radiant Hour" location="F/F. Scott Fitzgerald/Beautiful and the Damned, The/4.xml" />
+			<chapter num="5" title="Chapter II. Symposium" location="F/F. Scott Fitzgerald/Beautiful and the Damned, The/5.xml" />
+			<chapter num="6" title="Chapter III. The Broken Lute" location="F/F. Scott Fitzgerald/Beautiful and the Damned, The/6.xml" />
+
+	</section>
+	<section type="2" name="Book Three">
+			<chapter num="7" title="Chapter I. A Matter of Civilization" location="F/F. Scott Fitzgerald/Beautiful and the Damned, The/7.xml" />
+			<chapter num="8" title="Chapter II. A Matter of Aesthetics" location="F/F. Scott Fitzgerald/Beautiful and the Damned, The/8.xml" />
+			<chapter num="9" title="Chapter III. No Matter!" location="F/F. Scott Fitzgerald/Beautiful and the Damned, The/9.xml" />
+	</section>
+</book>
